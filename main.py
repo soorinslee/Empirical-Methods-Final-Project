@@ -1,10 +1,17 @@
 from sample_post import sample_yt_vid, sample_reddit_post
+from googleapiclient.discovery import build
+from google_auth_oauthlib.flow import InstalledAppFlow
+from google.auth.transport.requests import Request
 from time import sleep
+import os
 from os import path
+import pickle
+import requests
 
-NUM_VIDEOS = 60
-OUTPUT_DIR = "./data"
-SUBREDDITS = []
+NUM_VIDEOS = 50
+NUM_SUBREDDITS = 100
+OUTPUT_DIR = './data'
+SUBREDDITS = ['Music', 'gaming', 'politics', 'LifeProTips']
 YT_CATEGORIES = ['music', 'gaming', 'news', 'howto']
 YT_CATEGORY_ID = {'music': 10, 'gaming': 20, 'news': 25, 'howto': 26}
 SCOPES = ['https://www.googleapis.com/auth/youtube.readonly']
@@ -31,7 +38,20 @@ def youtube_authenticate():
 
 
 def most_recent_reddit_posts(subreddit):
-    return []
+    limit = NUM_SUBREDDITS
+    timeframe = 'all'
+    listing = 'new'
+    try:
+        base_url = f'https://www.reddit.com/r/{subreddit}/{listing}.json?limit={limit}&t={timeframe}'
+        response = requests.get(base_url, headers={'User-agent': 'bot'})
+    except:
+        print('An Error Occured')
+    posts = response.json()['data']['children']
+    urls = []
+    for post in posts:
+        urls.append('https://www.reddit.com' + post['data']['permalink'])
+
+    return urls
 
 
 def most_recent_youtube_vids(category):
@@ -62,13 +82,13 @@ def main():
     i = 0
     while True:
         for post in reddit_urls:
-            output_filename = path.join(OUTPUT_DIR, f"{hash(post)}_{i}")
+            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}')
             try:
                 sample_reddit_post(post, output_filename)
             except Exception as e:
                 print(e)
         for post in youtube_video_ids:
-            output_filename = path.join(OUTPUT_DIR, f"{hash(post)}_{i}")
+            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}')
             try:
                 sample_yt_vid(post, output_filename)
             except Exception as e:
