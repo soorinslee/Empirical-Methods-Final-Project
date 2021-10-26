@@ -1,12 +1,10 @@
 from sample_post import sample_yt_vid, sample_reddit_post
-from googleapiclient.discovery import build
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
 from time import sleep
-import os
 from os import path
-import pickle
 import requests
+from utils import youtube_authenticate
+import os
+import shutil
 
 NUM_VIDEOS = 50
 NUM_SUBREDDITS = 100
@@ -15,26 +13,6 @@ SUBREDDITS = ['Music', 'gaming', 'politics', 'LifeProTips']
 YT_CATEGORIES = ['music', 'gaming', 'news', 'howto']
 YT_CATEGORY_ID = {'music': 10, 'gaming': 20, 'news': 25, 'howto': 26}
 SCOPES = ['https://www.googleapis.com/auth/youtube.readonly']
-
-def youtube_authenticate():
-    os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
-    api_service_name = 'youtube'
-    api_version = 'v3'
-    client_secrets_file = 'credentials.json'
-    creds = None
-    if os.path.exists('token.pickle'):
-        with open('token.pickle', 'rb') as token:
-            creds = pickle.load(token)
-    if not creds or not creds.valid:
-        if creds and creds.expired and creds.refresh_token:
-            creds.refresh(Request())
-        else:
-            flow = InstalledAppFlow.from_client_secrets_file(client_secrets_file, SCOPES)
-            creds = flow.run_local_server(port=0)
-        with open('token.pickle', 'wb') as token:
-            pickle.dump(creds, token)
-
-    return build(api_service_name, api_version, credentials=creds)
 
 
 def most_recent_reddit_posts(subreddit):
@@ -81,16 +59,16 @@ def main():
         youtube_video_ids.extend(most_recent_youtube_vids(cat))
     i = 0
     while True:
-        for post in reddit_urls:
-            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}')
-            try:
-                sample_reddit_post(post, output_filename)
-            except Exception as e:
-                print(e)
         for post in youtube_video_ids:
             output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}')
             try:
                 sample_yt_vid(post, output_filename)
+            except Exception as e:
+                print(e)
+        for post in reddit_urls:
+            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}')
+            try:
+                sample_reddit_post(post, output_filename)
             except Exception as e:
                 print(e)
         i += 1
@@ -98,4 +76,8 @@ def main():
 
 
 if __name__ == '__main__':
+    if os.path.exists(OUTPUT_DIR):
+        shutil.rmtree(OUTPUT_DIR)
+    os.mkdir(OUTPUT_DIR)
+
     main()
