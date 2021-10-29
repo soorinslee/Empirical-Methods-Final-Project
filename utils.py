@@ -4,6 +4,8 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 import pickle
 
+SCOPES = ['https://www.googleapis.com/auth/youtube.readonly']
+
 
 def youtube_authenticate():
     os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'

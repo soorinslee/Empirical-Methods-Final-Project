@@ -12,7 +12,6 @@ OUTPUT_DIR = './data'
 SUBREDDITS = ['Music', 'gaming', 'politics', 'LifeProTips']
 YT_CATEGORIES = ['music', 'gaming', 'news', 'howto']
 YT_CATEGORY_ID = {'music': 10, 'gaming': 20, 'news': 25, 'howto': 26}
-SCOPES = ['https://www.googleapis.com/auth/youtube.readonly']
 
 
 def most_recent_reddit_posts(subreddit):
@@ -60,13 +59,16 @@ def main():
     i = 0
     while True:
         for post in youtube_video_ids:
-            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}')
+            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}.json')
+            last_output_filename = None
+            if i > 0:
+                last_output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}.json')
             try:
-                sample_yt_vid(post, output_filename)
+                sample_yt_vid(post, output_filename, last_output_filename)
             except Exception as e:
                 print(e)
         for post in reddit_urls:
-            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}')
+            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}.json')
             try:
                 sample_reddit_post(post, output_filename)
             except Exception as e:
