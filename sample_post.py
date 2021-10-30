@@ -114,6 +114,7 @@ def sample_yt_vid(video_id, output_file, last_output_filename):
     k = min(len(comments), 5)
     if k > 0:
         top_k_indices = np.argsort(n_likes)[-k:]
+        top_k_indices.reverse()
         top_comments = []
         for index in top_k_indices:
             if n_likes[index] > 0:

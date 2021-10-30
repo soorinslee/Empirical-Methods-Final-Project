@@ -53,10 +53,15 @@ def most_recent_youtube_vids(category):
 
 def main():
     reddit_urls, youtube_video_ids = [], []
-    for sr in SUBREDDITS:
-        reddit_urls.extend(most_recent_reddit_posts(sr))
-    for cat in YT_CATEGORIES:
-        youtube_video_ids.extend(most_recent_youtube_vids(cat))
+    with open(os.path.join(OUTPUT_DIR, "subsets.txt"), "w") as subset_file:
+        for sr in SUBREDDITS:
+            most_recent = most_recent_reddit_posts(sr)
+            reddit_urls.extend(most_recent)
+            subset_file.write(f"Reddit - {sr}: {most_recent}\n")
+        for cat in YT_CATEGORIES:
+            most_recent = most_recent_youtube_vids(cat)
+            youtube_video_ids.extend(most_recent)
+            subset_file.write(f"YouTube - {cat}: {most_recent}\n")
     i = 0
     while True:
         for post in youtube_video_ids:
