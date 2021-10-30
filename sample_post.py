@@ -6,18 +6,61 @@ import json
 import numpy as np
 
 DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
+HEURISTICS = ["top", "best", "hot"]
 
 
-def sample_reddit_post(url, output_file):
+def sample_reddit_post(url, output_file, last_output_filename):
     """
     Collects the relevant info and dumps it into output_file (JSON format)
     """
-    heuristics = ["top", "best", "hot"]
-    for heur in heuristics:
-        updated_url = url+'.json?sort='+heur
+
+    def reformat_datetime(dt):
+        return datetime.datetime.fromtimestamp(dt).strftime(DATETIME_FORMAT)
+
+    sample_data = {}
+    updated_url = url+'/.json?sort=new&limit=1000'
+    response = requests.get(updated_url, headers={'User-agent': 'bot'})
+    response = response.json()
+    sample_data['post_url'] = url
+    post_info = response[0]['data']['children'][0]['data']
+
+    sample_data['time_posted'] = reformat_datetime(post_info['created_utc'])
+    sample_data['time_now'] = datetime.datetime.utcnow().strftime(DATETIME_FORMAT)
+    sample_data['ups'] = post_info['ups']
+    sample_data['downs'] = post_info['downs']
+
+    # Get the time at which the last sample was taken for this post (if applicable)
+    last_sample_time = None
+    if last_output_filename is not None:
+        with open(last_output_filename, "r") as f:
+            last_sample_time = datetime.datetime.strptime(
+                json.load(f)['time_now'],
+                DATETIME_FORMAT
+            )
+
+    new_comments=[]
+    for comment in response[1]['data']['children']:
+        if 'created_utc' not in comment['data']: # last object would contain IDs of other comments, we skip it for now
+            continue
+        comment_time = reformat_datetime(comment['data']['created_utc'])
+        if last_sample_time is None or comment_time > last_sample_time:
+            new_comments.append(
+                {'comment_id': comment['data']['id'], 'body': comment['data']['body']}
+            )
+    sample_data['comments_since_last_sample']=new_comments
+    for heur in HEURISTICS:
+        heur_comments=[]
+        updated_url = url+'/.json?sort='+heur
         response = requests.get(updated_url, headers={'User-agent': 'bot'})
+        response = response.json()
+        for comment in response[1]['data']['children']:
+            if len(heur_comments)<5:
+                heur_comments.append(
+                    {'comment_id': comment['data']['id'], 'body': comment['data']['body'], 'ups': comment['data']['ups'], 'downs': comment['data']['downs']}
+                )
+        sample_data['top_3_comments_'+heur]=heur_comments
     with open(output_file, "w") as f:
-        f.write("JSON goes here")
+        json.dump(sample_data, f, indent=4)
 
 
 def sample_yt_vid(video_id, output_file, last_output_filename):

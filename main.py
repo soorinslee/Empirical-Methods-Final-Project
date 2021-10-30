@@ -5,6 +5,7 @@ import requests
 from utils import youtube_authenticate
 import os
 import shutil
+import traceback
 
 NUM_VIDEOS = 50
 NUM_SUBREDDITS = 100
@@ -69,10 +70,14 @@ def main():
                 print(e)
         for post in reddit_urls:
             output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}.json')
+            last_output_filename = None
+            if i > 0:
+                last_output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i-1}.json')
             try:
-                sample_reddit_post(post, output_filename)
+                sample_reddit_post(post, output_filename, last_output_filename)
             except Exception as e:
                 print(e)
+                traceback.print_exc()
         i += 1
         sleep(60*60*4)
 
