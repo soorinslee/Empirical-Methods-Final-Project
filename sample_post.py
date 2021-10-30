@@ -58,7 +58,7 @@ def sample_reddit_post(url, output_file, last_output_filename):
                 heur_comments.append(
                     {'comment_id': comment['data']['id'], 'body': comment['data']['body'], 'ups': comment['data']['ups'], 'downs': comment['data']['downs']}
                 )
-        sample_data['top_3_comments_'+heur]=heur_comments
+        sample_data['top_comments_'+heur]=heur_comments
     with open(output_file, "w") as f:
         json.dump(sample_data, f, indent=4)
 
