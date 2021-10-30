@@ -7,8 +7,10 @@ import os
 import shutil
 import traceback
 
-NUM_VIDEOS = 50
-NUM_SUBREDDITS = 100
+VIDS_PER_CAT = 50
+#VIDS_PER_CAT = 3  # dev
+POSTS_PER_SUBRED = 100
+#POSTS_PER_SUBRED = 5  # dev
 OUTPUT_DIR = './data'
 SUBREDDITS = ['Music', 'gaming', 'politics', 'LifeProTips']
 YT_CATEGORIES = ['music', 'gaming', 'news', 'howto']
@@ -16,14 +18,11 @@ YT_CATEGORY_ID = {'music': 10, 'gaming': 20, 'news': 25, 'howto': 26}
 
 
 def most_recent_reddit_posts(subreddit):
-    limit = NUM_SUBREDDITS
+    limit = POSTS_PER_SUBRED
     timeframe = 'all'
     listing = 'new'
-    try:
-        base_url = f'https://www.reddit.com/r/{subreddit}/{listing}.json?limit={limit}&t={timeframe}'
-        response = requests.get(base_url, headers={'User-agent': 'bot'})
-    except:
-        print('An Error Occured')
+    base_url = f'https://www.reddit.com/r/{subreddit}/{listing}.json?limit={limit}&t={timeframe}'
+    response = requests.get(base_url, headers={'User-agent': 'bot'})
     posts = response.json()['data']['children']
     urls = []
     for post in posts:
@@ -41,7 +40,7 @@ def most_recent_youtube_vids(category):
         videoCategoryId=YT_CATEGORY_ID[category],
         relevanceLanguage='en',
         regionCode='US',
-        maxResults=NUM_VIDEOS
+        maxResults=VIDS_PER_CAT
     )
     response = request.execute()
     video_ids = []
@@ -65,14 +64,15 @@ def main():
     i = 0
     while True:
         for post in youtube_video_ids:
-            output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}.json')
+            output_filename = path.join(OUTPUT_DIR, f'{post}_{i}.json')
             last_output_filename = None
             if i > 0:
-                last_output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}.json')
+                last_output_filename = path.join(OUTPUT_DIR, f'{post}_{i-1}.json')
             try:
                 sample_yt_vid(post, output_filename, last_output_filename)
             except Exception as e:
                 print(e)
+                traceback.print_exc()
         for post in reddit_urls:
             output_filename = path.join(OUTPUT_DIR, f'{hash(post)}_{i}.json')
             last_output_filename = None
@@ -85,6 +85,7 @@ def main():
                 traceback.print_exc()
         i += 1
         sleep(60*60*4)
+        #sleep(30)  # dev
 
 
 if __name__ == '__main__':
