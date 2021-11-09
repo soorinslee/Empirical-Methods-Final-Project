@@ -16,28 +16,25 @@ def get_time_since_posted(time_posted, time_now):
 
 
 # get average polarity and subjectivity of all comments
-def get_all_avgs(comments):
-    num_polarity = 0
-    num_subjectivity = 0
+def get_all_avgs(comments, prev_avg_polarity, prev_avg_subjectivity, prev_num_comments):
     sum_polarity = 0.0
     sum_subjectivity = 0.0
-    num_comments = 0
+    curr_num_comments = 0
     for comment in comments:
-        if comment['polarity'] != 0.0:
-            num_polarity += 1
+        if comment['polarity'] != 0.0 and comment['subjectivity'] != 0.0:
+            curr_num_comments += 1
             sum_polarity += comment['polarity']
-        if comment['subjectivity'] != 0.0:
-            num_subjectivity += 1
             sum_subjectivity += comment['subjectivity']
-    if num_polarity != 0:
-        all_avg_polarity = sum_polarity / num_polarity
-        num_comments = num_polarity
+    if curr_num_comments != 0:
+        all_avg_polarity = (prev_avg_polarity * prev_num_comments + sum_polarity) / (prev_num_comments +
+                                                                                     curr_num_comments)
+        all_avg_subjectivity = (prev_avg_subjectivity * prev_num_comments + sum_subjectivity) / (prev_num_comments +
+                                                                                                 curr_num_comments)
+        num_comments = prev_num_comments + curr_num_comments
     else:
-        all_avg_polarity = ''
-    if num_subjectivity != 0:
-        all_avg_subjectivity = sum_subjectivity / num_subjectivity
-    else:
-        all_avg_subjectivity = ''
+        all_avg_polarity = prev_avg_polarity
+        all_avg_subjectivity = prev_avg_subjectivity
+        num_comments = prev_num_comments
     return all_avg_polarity, all_avg_subjectivity, num_comments
 
 
@@ -120,6 +117,9 @@ with open('samples.csv', 'w', newline='') as csvfile:
 
     # iterate through JSON files in folder
     path = 'data-with-sentiment'
+    prev_avg_polarity = 1.0
+    prev_avg_subjectivity = 1.0
+    prev_num_comments = 0
     for filename in glob.glob(os.path.join(path, '*.json')):
         with open(filename, 'r') as json_file:
             data = json_file.read().replace('\n', '')
@@ -130,11 +130,16 @@ with open('samples.csv', 'w', newline='') as csvfile:
             time_now = data_dict['time_now']
             time_since_posted = get_time_since_posted(time_posted, time_now)
             if 'comments_since_last_sample' in data_dict:
-                all_avg_polarity, all_avg_subjectivity, num_comments = get_all_avgs(data_dict['comments_since_last_sample'])
+                all_avg_polarity, all_avg_subjectivity, num_comments = get_all_avgs(
+                    data_dict['comments_since_last_sample'], prev_avg_polarity, prev_avg_subjectivity,
+                    prev_num_comments)
+                prev_avg_polarity = all_avg_polarity
+                prev_avg_subjectivity = all_avg_subjectivity
+                prev_num_comments = num_comments
             else:
-                all_avg_polarity = ''
-                all_avg_subjectivity = ''
-                num_comments = 0
+                all_avg_polarity = prev_avg_polarity
+                all_avg_subjectivity = prev_avg_subjectivity
+                num_comments = prev_num_comments
 
             # sample is from Reddit
             if 'post_url' in data:
