@@ -8,9 +8,7 @@ import shutil
 import traceback
 
 VIDS_PER_CAT = 50
-#VIDS_PER_CAT = 3  # dev
 POSTS_PER_SUBRED = 100
-#POSTS_PER_SUBRED = 5  # dev
 OUTPUT_DIR = './data'
 SUBREDDITS = ['Music', 'gaming', 'politics', 'LifeProTips']
 YT_CATEGORIES = ['music', 'gaming', 'news', 'howto']
@@ -85,7 +83,6 @@ def main():
                 traceback.print_exc()
         i += 1
         sleep(60*60*4)
-        #sleep(30)  # dev
 
 
 if __name__ == '__main__':
