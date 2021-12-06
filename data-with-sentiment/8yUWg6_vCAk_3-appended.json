@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=8yUWg6_vCAk",
+    "time_now": "2021-10-31 05:04:34",
+    "ups": "2454",
+    "downs": "256",
+    "views": "47847",
+    "top_comments": [
+        {
+            "comment": "\"Discarded maps\" lol Discarded is the *name* of the map... next time pick a better organized title lol.",
+            "likes": 9,
+            "number_of_replies": 1,
+            "polarity": 0.525,
+            "subjectivity": 0.475
+        },
+        {
+            "comment": "I'll buy it when it's heavily discounted on steam. Just like how I bought BFV.",
+            "likes": 7,
+            "number_of_replies": 3,
+            "polarity": -0.2,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Different biomes, but same-y maps. Weird.",
+            "likes": 4,
+            "number_of_replies": 2,
+            "polarity": -0.25,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Woah can't wait to NOT BE ABLE to do all of these and just running around the map getting headshoted from every player out there!......",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.625,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "This is going to be satisfying to play \ud83d\ude0d",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This game looks the same as visual near future asthetic as Black ops 4, that doesn't confort me. Ain't gonna buy it till these specialists are gone",
+            "polarity": -0.07777777777777778,
+            "subjectivity": 0.24722222222222223
+        },
+        {
+            "body": "This game had a such great marking till portal, after they went quiet and the beta came it was just a mess of dissapointing things. Specialist feels like they don't belong to this game, I would buy this game when it gets cheaper, I'm not gonna buy this game only for portal so that says something.",
+            "polarity": -0.10833333333333334,
+            "subjectivity": 0.48425925925925917
+        },
+        {
+            "body": "No single player no full price tag.\nTry harder EA\u261d\ud83c\udffb",
+            "polarity": -0.07976190476190477,
+            "subjectivity": 0.2547619047619048
+        },
+        {
+            "body": "can i have a free PS5 ??",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Pre-ordered \ud83d\ude0e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

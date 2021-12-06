@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-11-01 22:16:27",
+    "ups": "2453",
+    "downs": "26",
+    "views": "36173",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 152,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Weird to see me in a video of yours! Granted it was from several years ago! (Adepticon shot)",
+            "polarity": -0.3125,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "What zips on the screen at 2:36?  Nj miniac!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The right sort of competitions are a lot of fun and worth anyone playing, the wrong sort give you much the same feeling as self-circumcision, best avoided!  I love the look of this game though, if I had opponents in the Scottish Borders i'd be all over it!  As it is i'll be a slavering spectator as any purchases would just sit in my lead/plastic pile of shame. :(",
+            "polarity": 0.08357142857142855,
+            "subjectivity": 0.43607142857142855
+        },
+        {
+            "body": "Did you see the archvillian october release? its all vamps XD tho i guess its nov now...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You showed Conquest! At 7:58 , The knights in blue. The best game ever! \ud83d\ude00\ud83d\udc4d\ud83c\udffb",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.26666666666666666
+        }
+    ]
+}

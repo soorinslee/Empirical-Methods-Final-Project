@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-03 11:20:38",
+    "ups": "18242",
+    "downs": "173",
+    "views": "229557",
+    "top_comments": [
+        {
+            "comment": "Omg I ain't gonna lie this was better than the original!\nSorry not sorry Billie",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.1796875,
+            "subjectivity": 0.8125
+        },
+        {
+            "comment": "Lisa over here killing it again!!!\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Go Amy!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "woowwww\ud83d\ude2e",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "holy shit i got goosebumps all over oh my GOD this is beautiful",
+            "polarity": 0.32499999999999996,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I love you for making the covers a safe place for especially young people by not having those bad lyrics in them\ud83d\udcaf\u2764\ufe0f",
+            "polarity": 0.12500000000000003,
+            "subjectivity": 0.6416666666666667
+        },
+        {
+            "body": "Omg I ain't gonna lie this was better than the original!\nSorry not sorry Billie",
+            "polarity": 0.1796875,
+            "subjectivity": 0.8125
+        },
+        {
+            "body": "woowwww\ud83d\ude2e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

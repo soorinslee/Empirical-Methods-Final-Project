@@ -1,0 +1,59 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-01 22:15:41",
+    "ups": "7243",
+    "downs": "64",
+    "views": "60525",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 960,
+            "number_of_replies": 25,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "this is so much fun! Thank you from brightening my day! Stayin Alive is a covid must have song!",
+            "polarity": 0.296875,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "\ud83e\udd2f\ud83e\udd2f\ud83e\udd2fOH MY GOD THIS IS FUCKING AMAZING!!!!!!!!\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
+            "polarity": -0.6,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Uma das minhas m\u00fasicas favoritas. Perfeito",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That was good ! \ud83e\udd18",
+            "polarity": 0.875,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I've never heard a metal version of this song, and I love it. \ud83d\ude04",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Great cover! Also, the dialogue on the walkie-talkie, is it a Resident Evil throwback?",
+            "polarity": 0.0,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "awesome!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The instrumentals in this are outstanding. Epic job I hope yall make more videos together",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.5916666666666667
+        }
+    ]
+}

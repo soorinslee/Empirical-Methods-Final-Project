@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-03 11:21:28",
+    "ups": "13674",
+    "downs": "175",
+    "views": "222376",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 36,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "bit late but have a look at a kitchen working triangle",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I think you should get a gas cook top",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I would've done two islands with the sink on one and the stove on the other, both facing out. I also would've added a pot filler.\r\nPush to open with soft close sounds great.",
+            "polarity": 0.19375,
+            "subjectivity": 0.49375
+        },
+        {
+            "body": "14:42 I used to use push opening blum adaptors for drawers in my projects. They are very well made with good performance and long lifespan. Use them.",
+            "polarity": 0.28333333333333327,
+            "subjectivity": 0.4333333333333334
+        }
+    ]
+}

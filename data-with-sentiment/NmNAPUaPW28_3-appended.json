@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-10-31 05:05:08",
+    "ups": "2219",
+    "downs": "16",
+    "views": "23674",
+    "top_comments": [
+        {
+            "comment": "Oh wow your cooking it so yummy thank you\ud83d\udc4d\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I'm so proud to say I'm a new subscriber, I'm a grandma raising my grandchild, I loved to bake. But you make it fun to relearn, your family is lucky to have you.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4539393939393939,
+            "subjectivity": 0.6575757575757577
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I would love it if you had cookbooks. I realize I can print your recipes, but I would definitely buy a book if you had one.",
+            "polarity": 0.25,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "They look amazing! \ud83e\udd29 I\u2019m going to recreate them with oatmeal flour and some low-carb sweetener, I think it should work. I\u2019ll keep you guys posted if anyone is interested \ud83d\ude09",
+            "polarity": 0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "You\u2019re amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Would it be possible to omit some of the butter (ever so little) and put in a couple tablespoons of Maple syrup?",
+            "polarity": -0.09375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Love this! Can you freeze the cookies after baking them?",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I'm so proud to say I'm a new subscriber, I'm a grandma raising my grandchild, I loved to bake. But you make it fun to relearn, your family is lucky to have you.",
+            "polarity": 0.4539393939393939,
+            "subjectivity": 0.6575757575757577
+        }
+    ]
+}

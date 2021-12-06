@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 11:30:01",
+    "url": "https://www.youtube.com/watch?v=2PfAWQejpIY",
+    "time_now": "2021-11-04 03:50:14",
+    "ups": "10957",
+    "downs": "68",
+    "views": "243888",
+    "top_comments": [
+        {
+            "comment": "SD college \ud83d\ude0d\ud83d\udc96\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "SD college \ud83d\ude0d\ud83d\udc96\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0d24\u0d41\u0d1f\u0d15\u0d4d\u0d15\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d41\u0d02 \u0d05\u0d35\u0d38\u0d3e\u0d28\u0d24\u0d4d\u0d24\u0d3f\u0d32\u0d41\u0d2e\u0d41\u0d33\u0d4d\u0d33 violin \u0d35\u0d47\u0d31\u0d46 \u0d32\u0d46\u0d35\u0d7d feeling , \ud83d\udc9e\ud83d\udc9e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Feel good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

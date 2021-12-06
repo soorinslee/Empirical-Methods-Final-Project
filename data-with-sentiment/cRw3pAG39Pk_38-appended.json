@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:59:49",
+    "url": "https://www.youtube.com/watch?v=cRw3pAG39Pk",
+    "time_now": "2021-11-06 05:16:43",
+    "ups": "13845",
+    "downs": "104",
+    "views": "203179",
+    "top_comments": [
+        {
+            "comment": "LINK TO ALL MUSIC STREAMING SERVICES https://ffm.to/squidgames\nSHARE THIS EVERYWHERE YOU KNOW!!!!",
+            "likes": 374,
+            "number_of_replies": 16,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This man never fails to make a fiery banger",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Gi-hun:*HAPPY HE HAS THE CARD*\nBullies:Yeah were gonna destroy your hapiness :)",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.15,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "As someone who's struggled with self destructive tendencies. This is a perfect reflection of that. A perfect showing of the voice that lurks in the shadows and drives us to ruin.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4666666666666666,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "comment": "Animation video vibe if so but badass flow dps,respect man",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Animation video vibe if so but badass flow dps,respect man",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is a good song man keep it up your doing good.",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I just binged this show and came back to listen to this and I can definitely tell this is such a different take from anything anyone could come up for this character",
+            "polarity": 0.0,
+            "subjectivity": 0.4
+        }
+    ]
+}

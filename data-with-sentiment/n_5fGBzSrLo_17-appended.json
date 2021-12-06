@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-02 14:44:40",
+    "ups": "29771",
+    "downs": "419",
+    "views": "563981",
+    "top_comments": [
+        {
+            "comment": "Scare\ud83e\udd2c\u2620\ufe0f\ud83d\udc80\ud83d\ude40\ud83d\ude39",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Scare",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "A masterpiece",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Scare\ud83e\udd2c\u2620\ufe0f\ud83d\udc80\ud83d\ude40\ud83d\ude39",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Scare",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

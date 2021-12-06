@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-11-02 02:24:07",
+    "ups": "477",
+    "downs": "5",
+    "views": "8966",
+    "top_comments": [
+        {
+            "comment": "Powerful job. Your attention to detail means the end result is top class.",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Another excellent video Charlie. A real masterclass. Anyone with cast iron rainwater good should watch this video. Btw, loving the Discord chatter!",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.6625,
+            "subjectivity": 0.7125
+        },
+        {
+            "comment": "Simply listing the products required already convinced me ripping off and replacing with PVC is better.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.4285714285714286
+        },
+        {
+            "comment": "Awesome video Charlie. This will be me next year on our gutters. What are your thoughts on linseed paint? Would that not work really well too",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "comment": "Cast iron refund?! \nYour perceived expertise at a wide range of jobs might be enhanced by taking account of YouTube's habit of hiding the bottom right portion of literally every single thumbnail.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.03809523809523809,
+            "subjectivity": 0.3833333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Well mate. Not sure how I can complain considering how many tasks you've helped me with. But the downfall of this channel will be if it becomes QVC, selling products with affiliate links, and paid access to a community which obviously want to help each other without paying you a load of cash.\nDon't get me wrong, you have seriously helped me with a lot of tasks, but paid access to forum is only going to alienate community, and while I'm sure you truly believe in the products in your videos, it's worrying if it becomes a focus of the videos.\nI'd give you a fiver through patron as a thanks, but preventing access to a discord community by paywall? I can't imagine the community in that discord are going to be good company. \nI genuinely hope you make the discord free, and accept support elsewhere. The discord community will grow massively without a paywall. Or perhaps a subreddit?\nSummary: I owe you beer money, but I won't give it to get access to the community that watch your videos; and I don't want your channel to gradually move into product placement.",
+            "polarity": 0.11474358974358975,
+            "subjectivity": 0.6784188034188036
+        }
+    ]
+}

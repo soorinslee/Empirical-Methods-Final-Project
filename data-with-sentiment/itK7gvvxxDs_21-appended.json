@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:00:32",
+    "url": "https://www.youtube.com/watch?v=itK7gvvxxDs",
+    "time_now": "2021-11-03 07:13:54",
+    "ups": "85899",
+    "downs": "831",
+    "views": "1483876",
+    "top_comments": [
+        {
+            "comment": "it is like for an other champion i think,it is not the same theme with cait :/ so i'm not an artist but this is orchestral and heroic. Not for a sheriff or piltover theme . \r\n\r\nLeona or pantheon maybe..\r\nit s my oppinion:D",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.08124999999999999,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "leave caitlyn as she currently is, it's ugly, caitlyn doesn't need any rework, don't spoil her please\n\ndeixa a caitlyn como ela \u00e9 atualmente, ta tudo feio, a caitlyn n\u00e3o precisa de nenhum rework, n\u00e3o estraguem ela por favor",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": -0.7,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Fantastic start to the ASU era, well done Riot, we can't wait to see more!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5125,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Am i missing it or there is no Battle Academia art rework?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.05
+        },
+        {
+            "comment": "I'm looking at information on Caitlyn's A&S update and it just hit me. Does it come with a new voice over?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Officer Caitlyn lost her Ops, Its sad",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud384\uc2a4\uac74 \ucf00\ud2c0\uc740 \uc65c \uc548\ubcf4\uc5ec\uc8fc\ub0d0",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

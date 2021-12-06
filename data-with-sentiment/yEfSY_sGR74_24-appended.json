@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-03 19:35:32",
+    "ups": "7047",
+    "downs": "77",
+    "views": "96056",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 349,
+            "number_of_replies": 44,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "Probably the best Male cover so far. You never fail to nail songs\u2764",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3375,
+            "subjectivity": 0.42499999999999993
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow it\u2019s very Good.\ud83c\udfa4\ud83c\udfbc",
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Aqu\u00ed el comentario en espa\u00f1ol que buscabas \ud83d\udd74\u2728",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love your voice .",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:17:59",
+    "url": "https://www.youtube.com/watch?v=nS2QkPbR17U",
+    "time_now": "2021-11-01 22:16:37",
+    "ups": "4002",
+    "downs": "69",
+    "views": "56328",
+    "top_comments": [
+        {
+            "comment": "Public Rec Limited Time Discount Code 'ALPHAFALL' use special links:\nWeekend Jogger: https://bit.ly/3uYeDYH Weekend Crew: https://bit.ly/3AoS7tc \nWeekend Half Zip: https://bit.ly/3BoIWdG Weekend Full Zip: https://bit.ly/2WUQHZP",
+            "likes": 20,
+            "number_of_replies": 5,
+            "polarity": 0.09380952380952381,
+            "subjectivity": 0.2995238095238095
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "man.. not just Alpha.. but the self plugs of your own product is the downfall of these videos anymore.",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Thank you!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

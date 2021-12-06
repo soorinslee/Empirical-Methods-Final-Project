@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj4vd5/so_i_spend_an_hour_making_this/",
+    "time_posted": "2021-10-30 12:21:34",
+    "time_now": "2021-10-30 20:52:51",
+    "ups": 664,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinr5ti",
+            "body": "Lightyearstein",
+            "ups": 39,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinufh2",
+            "body": "He looks like buzlighter",
+            "ups": 18,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinq1o2",
+            "body": "Worth it",
+            "ups": 10,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "comment_id": "hintivx",
+            "body": "Ah yes wolfenstein new order 2009",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment_id": "hinrub3",
+            "body": "thought it was soldier 76",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinr5ti",
+            "body": "Lightyearstein",
+            "ups": 38,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinufh2",
+            "body": "He looks like buzlighter",
+            "ups": 18,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hintivx",
+            "body": "Ah yes wolfenstein new order 2009",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment_id": "hinq1o2",
+            "body": "Worth it",
+            "ups": 10,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "comment_id": "hiod02k",
+            "body": "Turn your sampling up!",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinr5ti",
+            "body": "Lightyearstein",
+            "ups": 36,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinufh2",
+            "body": "He looks like buzlighter",
+            "ups": 18,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hintivx",
+            "body": "Ah yes wolfenstein new order 2009",
+            "ups": 10,
+            "downs": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment_id": "hinq1o2",
+            "body": "Worth it",
+            "ups": 10,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "comment_id": "hiod02k",
+            "body": "Turn your sampling up!",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

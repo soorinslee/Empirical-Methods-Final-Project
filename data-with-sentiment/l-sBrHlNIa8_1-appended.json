@@ -1,0 +1,100 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-10-30 20:51:12",
+    "ups": "1302",
+    "downs": "8",
+    "views": "16122",
+    "top_comments": [
+        {
+            "comment": "How I love to see you guys na magperform na sa mga concert arena! galing galing!!!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "So Great! Let's make this trend!  \ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83c\udfb6\ud83c\udfb5\ud83c\udfb9\ud83c\udfb8\ud83d\udc96\ud83d\udc96\ud83d\udc96",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Palike ng comment ko.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is how I describe Gigi, amazing \nSoulful \nbrilliant\nSo beautiful \nsuch an angel\nso perfect \nthere\u2019s no others like her \nso very talented \nvery sweet personality \nlovable perfect human being \nher voice is like a camellias rose flower   \nshe\u2019s one of the best of the best Ph. Princess singer artist period.. \nthe world just love her !!!!\u2b50\ufe0f\ud83d\udc4c\ud83e\udd70\ud83d\udc78\ud83c\udffb\ud83c\udf37\ud83c\udf1e\u2764\ufe0f\u200d\ud83d\udd25\ud83d\udc96\ud83c\uddf5\ud83c\udded",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7010714285714286,
+            "subjectivity": 0.7139285714285715
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ang galing mo Idol",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "KABOG",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Holy moly guacamole! Give this girl a Grammy already!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow! I love your powerful and amazing performance\u2764\ufe0f\ud83d\ude0d",
+            "polarity": 0.38125000000000003,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "Beautiful \ud83e\udd17\ud83d\udc4d",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Naka upo yan. Galing! Romeo & Sirjun",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is how I describe Gigi, amazing \nSoulful \nbrilliant\nSo beautiful \nsuch an angel\nso perfect \nthere\u2019s no others like her \nso very talented \nvery sweet personality \nlovable perfect human being \nher voice is like a camellias rose flower   \nshe\u2019s one of the best of the best Ph. Princess singer artist period.. \nthe world just love her !!!!\u2b50\ufe0f\ud83d\udc4c\ud83e\udd70\ud83d\udc78\ud83c\udffb\ud83c\udf37\ud83c\udf1e\u2764\ufe0f\u200d\ud83d\udd25\ud83d\udc96\ud83c\uddf5\ud83c\udded",
+            "polarity": 0.7010714285714286,
+            "subjectivity": 0.7139285714285715
+        },
+        {
+            "body": "Wow lupit talaga ng voice ng idol ko",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Bravissimma , beautiful talented God gifted . More power to you Gigi de Lana .",
+            "polarity": 0.6375,
+            "subjectivity": 0.85
+        },
+        {
+            "body": "Good morning Miss Gigi de lana! Very nice",
+            "polarity": 0.8275,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "brava gg \ud83d\udc4d\ud83d\udc4d\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wowww \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-05 00:25:50",
+    "ups": "33414",
+    "downs": "5542",
+    "views": "7492240",
+    "top_comments": [
+        {
+            "comment": "Before 2022 Let's See how many legends still listening to this masterpiece,. This track is so addictive !!",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Nah koi tha nah koi heh Divya bharti one and only fans of millions hearts \u2764\ufe0f",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "our childhood memories \ud83d\ude1f\ud83e\udd7a\ud83e\udd7a",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I'm Bangladeshi .divya varti is the best actor of India.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Mind blowing song",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "How cute old indian actresses were, talented af",
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.7000000000000001
+        }
+    ]
+}

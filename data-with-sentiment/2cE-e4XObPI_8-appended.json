@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 13:10:35",
+    "url": "https://www.youtube.com/watch?v=2cE-e4XObPI",
+    "time_now": "2021-11-01 01:40:26",
+    "ups": "2817",
+    "downs": "68",
+    "views": "100811",
+    "top_comments": [
+        {
+            "comment": "Every Mother's Battle Scar! I used to  be annoyed when I was a kid seeing my mother's stretch marks all over her tummy. Sorry but no one enlightened me how those scars should be look at. How and why those scars where there. After I had my girl I have this massive battlescars all over my tummy. I used to cry at night looking back how I see myself, how horrible I look and feel. But everytime I look at my child, I understand why I have this, why it shouldn't be ashamed of, why it should be normalised. Let us be the one to educate our children that this won't make her/him less beautiful. In the first place your genetics is a big factor. Even those Super Models have their own stretch marks. \ud83d\udc9a",
+            "likes": 86,
+            "number_of_replies": 4,
+            "polarity": -0.0030303030303030095,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "Dami nagsasabi kay Ms Anna ng kesyo mag maternity leave, ang employees naman kasi kahit naka-leave may income. Syempre kapag business pag di kayo gumalaw nganga kayo.\nTsaka syempre as a new mom, adjustment din talaga yan, syempre keeping a part of your routine from your previous life helps din sa mental health, like bilang magasawa magdate pa din, magself care pa din. Hindi naman pagiging masamang magulang kung may gawin din para sa sarili.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.043434343434343436,
+            "subjectivity": 0.2737373737373738
+        },
+        {
+            "comment": "Take a break muna sa work ms.anna. kaya nga may maternity leave. Mabilis lang ang panahon. Mamimiss mo rin na ganyang phase ng baby. And swerte nga kayo dami nyo pwedeng mahingian ng tulong pagdating sa mag aalaga. Karamihan dito walang helper na kasama. Tapos nakakalabas p kayo ng wala si baby. Tiis tiis lang.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Iwasan niyo na po muna mglabas2 kasi mabibinat kayo & may covid weak lungs oa c baby.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.375,
+            "subjectivity": 0.625
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "miss anna, warm up palang yan hehe fight lang. napaka blessed mo kase may Yaya kayo \u2665\ufe0f nahiya tuloy kaming mga hampas lupa sayo, kami lahat laba luto alaga.. hahaha.",
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Slowdown, focus and enjoy motherhood..take the recommended 2-3 months to fully recuperate and nourish your baby \ud83d\ude42",
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Focus on your baby muna. Wag madaliin ang lahat hehe. Baka matulad po kayo kay zeinab nabinat kasi panay alis. Take your time.  Makakapgadjust din po kayo good thing mag mga kasma po kayo maglaga kay baby \ud83d\ude0a",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

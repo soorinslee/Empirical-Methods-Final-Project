@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-04 03:50:12",
+    "ups": "6974",
+    "downs": "378",
+    "views": "595009",
+    "top_comments": [
+        {
+            "comment": "Wale made this episode waaaaay to hard and awkward. Is he always this unlikeable?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4458333333333333,
+            "subjectivity": 0.7708333333333333
+        },
+        {
+            "comment": "Biggie passed in March 1997, NORE. Not sure yet if there was a correction made on the show.\n\nTupac passed in 1996.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.8888888888888888
+        },
+        {
+            "comment": "Wale didn\u2019t answer one question DJ EFN asked him lmao",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Let\u2019s get Jerry on Drink Champs",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Boosie Bad Azz  Verzus Wale  Stamp !!!\ud83d\ude02\ud83d\ude02\ud83d\ude07",
+            "polarity": -1.0,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Wale doin wale shit over thinkin an talkin nigga jus sip that liq an smoke that lace nore blunt an he gotta relax",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "DAMN NORE I NEVER THOUGHT I'D SEE THE DAY \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02 \ud83c\udf73 \ud83c\udf73\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This interview is trash.... I can't finish this junt",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

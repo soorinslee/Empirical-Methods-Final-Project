@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 11:30:06",
+    "url": "https://www.youtube.com/watch?v=gWYcQ_pHemU",
+    "time_now": "2021-11-03 15:28:45",
+    "ups": "4876",
+    "downs": "75",
+    "views": "121378",
+    "top_comments": [
+        {
+            "comment": "If Younkin wins I will move to VA instead of MD.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "McAuliffe is a Communist!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Prayers for the people of Virginia   and victory for Youngkin",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "*\"The Foundational Black American Grass Roots Movement \"Has Spoken.\" Gone Are The Days The Dixie-Crats Take Our Vote 4 Granted & We \"GET NOTHING\" in Return!!! No Tangibles / Reparations, \"NO FBA VOTE.\"*",
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.21666666666666667
+        }
+    ]
+}

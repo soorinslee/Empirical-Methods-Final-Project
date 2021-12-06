@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 12:29:34",
+    "url": "https://www.youtube.com/watch?v=RG0MncK8kcw",
+    "time_now": "2021-11-04 12:04:40",
+    "ups": "358",
+    "downs": "50",
+    "views": "23036",
+    "top_comments": [
+        {
+            "comment": "We ..TLP wants ..alag country ..\nWe wants separate country..",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Tlp support koo Jannat milegii",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Subscribe to our channel so you never miss any news updates http://bit.ly/3e0SwKP",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Stay happy and healthy.     .\ud83c\uddf5\ud83c\uddf0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Blackmailers ... They are like Altaf Hussains men....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "YE JO DEHSHAT GARDI HAE--ISKE PECHEE GERNALI WARDI HAE-- These FEW GENERALS are destroying Pakistan & all its Institutions --Lanat on PTI Govt & more LANAT on BAJWA MAFIA who bring them in Power & Using PTL like they did with MQM-- These Generals never Learned from their Mistakes either it was BLUNDER in East Pakistan , Baluchistan or Kargil  , Creating MQM & then destroying MQM & now making PTL Powerful & then will do the operation against them like MQM & LAL MASJID -- MQM was just in ONE Province & Few cities while this MONSTER  when get more Powerful will beat MQM , TALIBAN /ISIS because they are INSIDE ARMY & IN ALL FIELD OF LIFE , Including Politicians ,Judges , Police ,Guards etc etc -- WAKE UP PAKISTANIO  & make ARMY GENERALS this Plan fail --NO ONE CAN SAVE PAKISTAN",
+            "polarity": 0.033333333333333326,
+            "subjectivity": 0.3888888888888889
+        }
+    ]
+}

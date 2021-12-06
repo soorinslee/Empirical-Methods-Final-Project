@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-03 23:43:44",
+    "ups": "7151",
+    "downs": "390",
+    "views": "107357",
+    "top_comments": [
+        {
+            "comment": "You are spot on with a lot of these trends. Guys, he's talking about how to stay on trend. Chelsea boots and tight jeans were on trend but not anymore. They still look good though but aren't going to look as fashion conscious as that puffer and some relaxed denim with laced boots. I actually was thinking my bomber jacket from All Saints is not as wavy as it once was. I have been rocking my leather biker which one could argue peaked a year or two ago. But I'm also experimenting and just cooped my first pair of Rick Owens pants and shoes. Keep up the good content.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.26190476190476186,
+            "subjectivity": 0.40317460317460324
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Way off the mark, bar ripped jeans which are truely shit.",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "This video hurts but im still wearing these items\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jose dressed like he's gonna rap battle everyone who disagrees with him",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:00:33",
+    "url": "https://www.youtube.com/watch?v=gqiVuzh5VIQ",
+    "time_now": "2021-10-31 21:32:24",
+    "ups": "9549",
+    "downs": "152",
+    "views": "171655",
+    "top_comments": [
+        {
+            "comment": "What should I react to next...?",
+            "likes": 162,
+            "number_of_replies": 58,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Me laughing so hard bc of bfords reactions",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "I never normaly laugh at vids but this one got me every time\ud83d\ude02\ud83d\ude02need more of these",
+            "polarity": 0.4,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "The one for tactics against year 7's for me when we did year 7 vs 8 at school some of my friends went back home crying\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qiz6oq/bf_from_america_im_from_asia_what_can_we_play/",
+    "time_posted": "2021-10-30 07:01:14",
+    "time_now": "2021-11-06 01:12:25",
+    "ups": 5,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himotet",
+            "body": "Turn based games",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himq4hw",
+            "body": "Most games allow you to change region freely (except LoL).\n\nAs long as one of you have a fairly good connection there shouldn't be too much of a problem. Just set the region to whoever has the weakest connection.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.42500000000000004,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "comment_id": "himpq08",
+            "body": "I think games with online coop would be fine. Have you tried Civ 6?",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "himpyfv",
+            "body": "The new Mario party for Switch has online multiplayer. Just have a discord call running on your phones to yell and make fun of each other. Good times!",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.29659090909090907,
+            "subjectivity": 0.40738636363636366
+        },
+        {
+            "comment_id": "himq1dd",
+            "body": "Also, get a VPN\n\nLike Nord VPN or Private Internet Access.\n\nYou can set your region to that of you BF and you can play everything together. \n\nPing might be a problem tho",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.375
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himotet",
+            "body": "Turn based games",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himq4hw",
+            "body": "Most games allow you to change region freely (except LoL).\n\nAs long as one of you have a fairly good connection there shouldn't be too much of a problem. Just set the region to whoever has the weakest connection.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.42500000000000004,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "comment_id": "himpq08",
+            "body": "I think games with online coop would be fine. Have you tried Civ 6?",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "himpyfv",
+            "body": "The new Mario party for Switch has online multiplayer. Just have a discord call running on your phones to yell and make fun of each other. Good times!",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.29659090909090907,
+            "subjectivity": 0.40738636363636366
+        },
+        {
+            "comment_id": "himq1dd",
+            "body": "Also, get a VPN\n\nLike Nord VPN or Private Internet Access.\n\nYou can set your region to that of you BF and you can play everything together. \n\nPing might be a problem tho",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.375
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himotet",
+            "body": "Turn based games",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himq4hw",
+            "body": "Most games allow you to change region freely (except LoL).\n\nAs long as one of you have a fairly good connection there shouldn't be too much of a problem. Just set the region to whoever has the weakest connection.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.42500000000000004,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "comment_id": "himpq08",
+            "body": "I think games with online coop would be fine. Have you tried Civ 6?",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "himpyfv",
+            "body": "The new Mario party for Switch has online multiplayer. Just have a discord call running on your phones to yell and make fun of each other. Good times!",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.29659090909090907,
+            "subjectivity": 0.40738636363636366
+        },
+        {
+            "comment_id": "himq1dd",
+            "body": "Also, get a VPN\n\nLike Nord VPN or Private Internet Access.\n\nYou can set your region to that of you BF and you can play everything together. \n\nPing might be a problem tho",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.375
+        }
+    ]
+}

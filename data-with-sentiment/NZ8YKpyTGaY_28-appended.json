@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-04 12:04:53",
+    "ups": "10811",
+    "downs": "877",
+    "views": "611585",
+    "top_comments": [
+        {
+            "comment": "Cool make up for Halloween.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "5",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Irish you where in India I'm in india",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I wish you where in India I'm in india",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ha ha ha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "If you like the video - don't forget to share it with your friends! We're really appreciate your support.\nYou'll definitely like these videos:\nhttps://youtu.be/NXVlesZhUiU?list=PLy0LaulZe0vT6X9trmizSZHLzF5r9C2TI&playnext=1\n\u2605 Let's be friends: \nFacebook | https://www.facebook.com/troomhands \nPinterest | https://www.pinterest.com/troomtroom \nInstagram: https://www.instagram.com/troomtroom",
+            "polarity": 0.1,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "5",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "YAY SQUID GAME",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

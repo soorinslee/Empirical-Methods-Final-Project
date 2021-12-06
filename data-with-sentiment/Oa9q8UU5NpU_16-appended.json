@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-02 10:37:41",
+    "ups": "2885",
+    "downs": "69",
+    "views": "56870",
+    "top_comments": [
+        {
+            "comment": "That bit at the beginning where he's like \"Where are the Cheetos?\" \nSome people don't know that skit was written by Dan Harmon. They just kinda gloss over the credits shown in the full video of it / game it's from.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.025000000000000022,
+            "subjectivity": 0.47500000000000003
+        },
+        {
+            "comment": "Found out about #6 looking for a way to bypass level 6-7. My seven year old self somehow made it past a gauntlet of chomps, bomb platforms, and bandits, and yet failed to enter a pipe that was clearly the way out at the end. Kids are stupid, except when they\u2019re not.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.27,
+            "subjectivity": 0.42666666666666664
+        },
+        {
+            "comment": "Fun fact: that Naval Piranha easter egg is referenced in Yoshi's Woolly World. In that game you can still throw an egg (or a yarn ball I guess) at it and Kamek will react the same way. But he'll still make you fight him.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05000000000000001,
+            "subjectivity": 0.23125
+        },
+        {
+            "comment": "You always cover stuff everyone else has covered.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I still love it how the best boss with the best music, aside from Bowser himself, can be defeated so easily like that.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7333333333333334,
+            "subjectivity": 0.5083333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "the death stranding one looked  more like a metal gear easter egg. it looked like psycho mantis",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I also find a secret that noone else has seem to have found in daymare 1998  as during chapther one you will encounter enimies coming through  a seemingly unentertable door but if you do somehow like i did  follow the hallway like i did and it will simply state no wall breaking please.",
+            "polarity": -0.2,
+            "subjectivity": 0.5285714285714286
+        },
+        {
+            "body": "I will take Scrat over the minions any day of the week",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

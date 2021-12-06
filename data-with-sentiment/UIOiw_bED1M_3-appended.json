@@ -1,0 +1,133 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-10-31 05:04:41",
+    "ups": "5589",
+    "downs": "171",
+    "views": "124795",
+    "top_comments": [
+        {
+            "comment": "I'm glad Marvel has been staying away from MCU designs as much as possible. As a major comic book reader, I love seeing original designs and also comic accurate designs (like the ones you unlock in the game) show up in these games.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.2152777777777778,
+            "subjectivity": 0.6537037037037038
+        },
+        {
+            "comment": "Just finished the game on my series s. It\u2019s perfectly fine, I saw no jarring issues, the game ran fine and the game itself was amazing. Don\u2019t be ran off or worried that series s will limit gaming. It\u2019s perfectly fine",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09285714285714287,
+            "subjectivity": 0.5142857142857143
+        },
+        {
+            "comment": "Damn, was hoping you'd go over the PC version and its lighting pop-in issues and bad depth of field implementation",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I didn\u2019t even tried the video options in this game before the video. Yeah, you clearly can see the fidelity improvements right away. So, I switched it back to performance immediately - no amount of fancy visuals can outweigh 60 fps.",
+            "polarity": -0.0035714285714285726,
+            "subjectivity": 0.32976190476190476
+        },
+        {
+            "body": "I'm curious to know how this game runs on last gen machines. If it's at 1080p 30 on the series s, then what it is running on the ps4/pro & the xbox one/x. This is one of the few times the modes within the game looks noticeably different. I heard that they're releasing a patch for ray tracing soon after launch.",
+            "polarity": -0.18333333333333335,
+            "subjectivity": 0.4277777777777778
+        },
+        {
+            "body": "Another pro-xbox bias comparison made none other than the xbox sponsored Digital Foundry.",
+            "polarity": -0.0625,
+            "subjectivity": 0.1875
+        },
+        {
+            "body": "Not even a year in and this notion of running games at 4K at 60fps on this gen consoles is crumbling ...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Swear he called Peter\u2019s whip, \u201cThe Milallow.\u201d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "They really stuffed up the performance mode.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "I'm getting a strong Outer Worlds vibe from this.",
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.7333333333333333
+        },
+        {
+            "body": "I thought they were advertising the performance mode as 1440p 60fps.. I was considering that but now I know it\u2019s 1080 with lower settings.. hell no",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just finished the game on my series s. It\u2019s perfectly fine, I saw no jarring issues, the game ran fine and the game itself was amazing. Don\u2019t be ran off or worried that series s will limit gaming. It\u2019s perfectly fine",
+            "polarity": 0.09285714285714287,
+            "subjectivity": 0.5142857142857143
+        },
+        {
+            "body": "Best videogame reviews on the internet.",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Damn, was hoping you'd go over the PC version and its lighting pop-in issues and bad depth of field implementation",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "After playing Ratchet and Clank: Rift Apart, this drop is visual fidelity for performance mode is pretty sad. Sounds like an engine problem + lazy optimization.",
+            "polarity": -0.125,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Xbox still looks sharper. Even in the 1080p mode",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Glad I cancelled my preorder, I might give it a chance when hits gamepass",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I'm glad Marvel has been staying away from MCU designs as much as possible. As a major comic book reader, I love seeing original designs and also comic accurate designs (like the ones you unlock in the game) show up in these games.",
+            "polarity": 0.2152777777777778,
+            "subjectivity": 0.6537037037037038
+        },
+        {
+            "body": "it defaults to 60fps (performance mode) JUST keep it there, the smoothness/jump for 30 to 60 is so  much better ...30 fps is jarring once you experience higher fps",
+            "polarity": 0.375,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "wow new consoles cant even handle new games... what a shit generation",
+            "polarity": 0.04318181818181817,
+            "subjectivity": 0.6772727272727272
+        },
+        {
+            "body": "Thank you, had been waiting for this and now I'll buy the Xbox series X version... Keep up the good work...",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Unoptimized and not fun. Another terrible game.",
+            "polarity": -0.5166666666666666,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "Let's remember that the update that adds ray tracing will come to the game soon and as we know this is applicable to quality mode, so I imagine that they will take advantage of it to optimize the game, because if in quality mode it reaches 30fps with ray tracing then it will reach 10 fps, and if in performance mode even in 1080p in low it costs to reach 60fps with ray trancing it will reach 30fps.  Certainly the game is not well optimized, I still don't think Far Cry 6 runs at 4K 60fps on ps5 and sx and this game does not.  That is why I wait a while before buying a launch game, I find it cheaper and better optimized.",
+            "polarity": -0.13174603174603178,
+            "subjectivity": 0.48571428571428577
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-01 22:16:38",
+    "ups": "6280",
+    "downs": "44",
+    "views": "73525",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 516,
+            "number_of_replies": 145,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Hi Anna!\nplease make a Kpop music Workout, pleaseeeee \nlov u :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Um..... Anna can I ask you a question can you be my best friend I'm 10 next year I'll be um 11 and my favorite color I pink, my height 4.8 my age is 10 and you 3 in he's taller than me and you 19 I'm a right? and I'm dark skin please don't hate  me and I all ways like and comment and subscribe to your channel",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.1051020408163265,
+            "subjectivity": 0.4908163265306122
+        },
+        {
+            "comment": "Who needs to have gymnastics \ud83e\udd38\u200d\u2642\ufe0f for a lot of money when we can just watch Anna!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pls can u do a how to do splits but this video was really helpful",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u042f \u043e\u0434\u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0430\u044f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Help me do a handstand because I can\u2019t lift my arms up",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I don't have that much leg flexible but I can do the splits and a leg hold! \nI was doing this to get more flexible! \u2661",
+            "polarity": 0.4375,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "I am a big fan \ud83d\ude04",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "i am a beginner and i know it will work\ud83d\ude04\ud83d\ude04so excited",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        }
+    ]
+}

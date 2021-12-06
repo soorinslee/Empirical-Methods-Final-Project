@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-02 02:23:55",
+    "ups": "10124",
+    "downs": "76",
+    "views": "192963",
+    "top_comments": [
+        {
+            "comment": "you in the bar with all the college boys lmaoooo love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "The fact that TK\u2019s dad is a dentist makes soo much sense! She has the most perfect natural smile! And her teeth are so white and perfect \ud83e\udd29",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.46071428571428574,
+            "subjectivity": 0.4571428571428572
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udc97\ud83d\udc97",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "this makes me so sad bc i go to Purdue \ud83d\ude2d\ud83d\udc80",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "It looks like a really cool place",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Which college is this?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The fact that TK\u2019s dad is a dentist makes soo much sense! She has the most perfect natural smile! And her teeth are so white and perfect \ud83e\udd29",
+            "polarity": 0.46071428571428574,
+            "subjectivity": 0.4571428571428572
+        },
+        {
+            "body": "the fact that I just submitted my application to IU this morning lmao",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=8yUWg6_vCAk",
+    "time_now": "2021-10-31 13:18:05",
+    "ups": "2673",
+    "downs": "277",
+    "views": "54387",
+    "top_comments": [
+        {
+            "comment": "For some reason I was disappointed with the open beta. I couldn't kill anybody. Im a massive bf fan and usually I do pretty decent. But I hope I'll like the full game.",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": -0.054761904761904776,
+            "subjectivity": 0.6952380952380953
+        },
+        {
+            "comment": "I would love to have gyro aiming in this.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "This game had a such great marking till portal, after they went quiet and the beta came it was just a mess of dissapointing things. Specialist feels like they don't belong to this game, I would buy this game when it gets cheaper, I'm not gonna buy this game only for portal so that says something.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": -0.10833333333333334,
+            "subjectivity": 0.48425925925925917
+        },
+        {
+            "comment": "Played the beta and honestly COD is ahead with gameplay mechanics, movement and shooting. Not that COD is the best but for me better than battlefield.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "comment": "Pre-ordered \ud83d\ude0e",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'll say it again, another game that they had a great opportunity to be a fantastic game, and every trailer I see the more dissapointed I get (not to mention the bf beta) the only beautifull thing I see in this game are the maps",
+            "polarity": 0.07142857142857142,
+            "subjectivity": 0.6214285714285713
+        },
+        {
+            "body": "Does the lore of the game connects with the second Cold War in Battlefield 2142?",
+            "polarity": -0.3333333333333333,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "body": "\u306f\u3084\u304f\u3084\u308a\u305f\u3044\u3067\u3059\ud83e\udd7a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Zum kotzen\u2026. \ud83e\udd22\ud83e\udd2e\u2026 absolut nicht mehr das BF was man immer so gefeiert hat.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It looks worse than CoD",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "BETA/GAME = TRASH on ps4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Playstation \ud83d\udc99 Battlefield",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Not battle royale enough",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "For some reason I was disappointed with the open beta. I couldn't kill anybody. Im a massive bf fan and usually I do pretty decent. But I hope I'll like the full game.",
+            "polarity": -0.054761904761904776,
+            "subjectivity": 0.6952380952380953
+        }
+    ]
+}

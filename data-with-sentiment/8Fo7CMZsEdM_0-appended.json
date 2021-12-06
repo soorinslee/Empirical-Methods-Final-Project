@@ -1,0 +1,147 @@
+{
+    "time_posted": "2021-10-30 14:30:11",
+    "url": "https://www.youtube.com/watch?v=8Fo7CMZsEdM",
+    "time_now": "2021-10-30 16:45:39",
+    "ups": "1146",
+    "downs": "51",
+    "views": "6090",
+    "top_comments": [
+        {
+            "comment": "Squid game \ud83d\ude33",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "O que ser\u00e1",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pls leon win",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "\u042f \u0432\u043e\u043b\u043d\u0443\u044e\u0441\u044c \ud83d\udc49\ud83d\udc48",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Squid game \ud83d\udc19\ud83c\udf1a",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Anani babani",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "When is part 3 squid game?",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "6:51 \u041e \u043e\u0431\u043e\u0436\u0430\u044e \u0421\u0435\u0439\u043b\u043e\u0440 \u043c\u0443\u043d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udda4\ud83d\udda4\ud83d\udda4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0412\u0441\u0435\u043c \u043f\u0440\u0438\u0432\u0435\u0442 \u044d\u0442\u043e \u0442\u0430\u043a \u043a\u0440\u0443\u0442\u043e \u044f \u0442\u0430\u043a \u0436\u0434\u0430\u043b\u0430",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1:43 THE DEMON FACE IS BACK",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude02\ud83d\udcaf\ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So awesome",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Lola original",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Pls video Lola original",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Squid game animation is #1",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Squid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I've been very beautiful and watched the health video in your hands a full 99999 times Edgar \ud83d\udc99 Colette",
+            "polarity": 0.675,
+            "subjectivity": 0.775
+        },
+        {
+            "body": "kkk",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pls leon win",
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Death Game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Squid game \ud83d\udc19\ud83c\udf1a",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "O que ser\u00e1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u042f \u0432\u043e\u043b\u043d\u0443\u044e\u0441\u044c \ud83d\udc49\ud83d\udc48",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Squid game \ud83d\ude33",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

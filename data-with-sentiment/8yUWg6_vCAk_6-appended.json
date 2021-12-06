@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=8yUWg6_vCAk",
+    "time_now": "2021-10-31 17:25:08",
+    "ups": "2748",
+    "downs": "282",
+    "views": "57289",
+    "top_comments": [
+        {
+            "comment": "For some reason I was disappointed with the open beta. I couldn't kill anybody. Im a massive bf fan and usually I do pretty decent. But I hope I'll like the full game.",
+            "likes": 11,
+            "number_of_replies": 2,
+            "polarity": -0.054761904761904776,
+            "subjectivity": 0.6952380952380953
+        },
+        {
+            "comment": "I would love to have gyro aiming in this.",
+            "likes": 6,
+            "number_of_replies": 2,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "This game had a such great marking till portal, after they went quiet and the beta came it was just a mess of dissapointing things. Specialist feels like they don't belong to this game, I would buy this game when it gets cheaper, I'm not gonna buy this game only for portal so that says something.",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": -0.10833333333333334,
+            "subjectivity": 0.48425925925925917
+        },
+        {
+            "comment": "Played the beta and honestly COD is ahead with gameplay mechanics, movement and shooting. Not that COD is the best but for me better than battlefield.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "comment": "can i have a free PS5 ??",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "BF BC 1-2, BF 3, BF 4, BF 1. I will never forget this era of Battlefield. Thank you for the great memories but I do not feel like 2042 is part of the same family. Well see at launch.",
+            "polarity": 0.4,
+            "subjectivity": 0.4375
+        },
+        {
+            "body": "These massively open maps are not going to get me to drop BF4.",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Will not be buying ea is once again pandering to the woke crowd by demanding there be a non binary character called Sundance seriously ea everybody hates this woke garbage",
+            "polarity": -0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

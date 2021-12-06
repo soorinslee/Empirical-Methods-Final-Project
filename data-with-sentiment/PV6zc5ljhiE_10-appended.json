@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 12:30:41",
+    "url": "https://www.youtube.com/watch?v=PV6zc5ljhiE",
+    "time_now": "2021-11-01 09:53:39",
+    "ups": "483",
+    "downs": "74",
+    "views": "98402",
+    "top_comments": [
+        {
+            "comment": "Omg! \u2764\ufe0f\ud83d\udd25\ud83d\udd25 Hats off. Pravin mani rocked and the team \u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Rocking one \ud83d\udd25\ud83d\udd25\ud83d\udd25 .. Goosebumps all over after listening.. Thanks team for coming up with this great work. Navin your lyrics can resonate deep inside \ud83d\ude4f\ud83c\udffc\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "1)\u0b95\u0b9f\u0bcd\u0b9f\u0bc8 \u0bb5\u0bbf\u0bb0\u0bb2\u0bcb \u0ba4\u0bb2\u0bc8\u0baf\u0bcb                2)\u0baa\u0b9f\u0bcd\u0b9f\u0bc8\u0baf \u0b95\u0bbf\u0bb3\u0baa\u0bcd\u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bc0\u0b99\u0bcd\u0b95                   \n3)\u0bae\u0bc7\u0bb2\u0bc1\u0bae\u0bcd \u0ba8\u0bc0\u0b99\u0bcd\u0b95\u0bb3\u0bc1\u0bae\u0bcd \u0ba8\u0bae\u0bcd \u0ba4\u0bae\u0bbf\u0bb4\u0bc1\u0bae\u0bcd 4)\u0bb5\u0bc6\u0bb2\u0bcd\u0bb2\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd & \u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd\ud83d\udcaa",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Love it! Congratulations Team!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.78125,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Killing it!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0bb5\u0ba9\u0bcd\u0b9c\u0b95\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0bbe \u201c\u0bb5\u0b9e\u0bcd\u0b9a\u0b95\u0bae\u0bcd\u201d. \u0b9c \u0bb5\u0b9f\u0bae\u0bca\u0bb4\u0bbf \u0b9a\u0bca\u0bb2\u0bcd",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

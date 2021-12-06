@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-03 15:28:18",
+    "ups": "5320",
+    "downs": "231",
+    "views": "576162",
+    "top_comments": [
+        {
+            "comment": "Next: SapNap In Squid Game since dream is already in",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "\"Karl in Squid Game with jake\"\nGuard: *Gives a cookie from Karl*\nKarl: Ooooooo this is yummy\nKarl: *eats cookie*\n\"Player 290 Has eliminated\"\nJake: O_O\nJake: *Breaks Cookie when hear a shot*\n\"Player 089 Has eliminated\"",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.17500000000000002,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "I like how the lips are just blue.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "These guys must all be fans of mr beast",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Impossible",
+            "polarity": -0.6666666666666666,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Squid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "When they feed them the player hot takis",
+            "polarity": 0.25,
+            "subjectivity": 0.8500000000000001
+        }
+    ]
+}

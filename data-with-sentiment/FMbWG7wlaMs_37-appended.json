@@ -1,0 +1,102 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-06 01:10:17",
+    "ups": "41151",
+    "downs": "479",
+    "views": "885742",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1283,
+            "number_of_replies": 108,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "thats an awesome house",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Fridge tour !!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I LOVE IT \ud83d\udc95\ud83d\udc95\ud83d\udc95",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "This is a dream",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Stunning home\u2764\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Ok but like this is my dream kitchen I also love baking and I\u2019m moving soon but the kitchen isn\u2019t as big as the kitchen in the house I\u2019m living in right now love it even the pantry.",
+            "polarity": 0.3571428571428571,
+            "subjectivity": 0.4671428571428572
+        },
+        {
+            "body": "waiting for pewd to review it lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "8:33 name her Anni",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice house just realised how much this channel has grew \ud83e\udd2f",
+            "polarity": 0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "You should add a nice sauna",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Omg I love your dress! It fits you so well! Go rock that dress girl! I love your house as well! It is \r\ndefinitely\r my kind of style, and I'm sure it's your kind of style too. Love your videos btw!",
+            "polarity": 0.6544270833333333,
+            "subjectivity": 0.7481481481481481
+        },
+        {
+            "body": "Drew & Linda did an amazing job, your house is beautiful.  YES...video's on different rooms in the house and how you store and organize it would be great.  Always love seeing Blueberry & Coconut, they are just so precious.  Thank you for sharing your home with us, Enjoy!",
+            "polarity": 0.5357142857142857,
+            "subjectivity": 0.7642857142857142
+        },
+        {
+            "body": "Also love the house so pretty",
+            "polarity": 0.375,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "You should do more Harry Potter stuff!!!",
+            "polarity": 0.9765625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "The bedroom is larger than my house",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        }
+    ]
+}

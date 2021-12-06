@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-05 21:02:00",
+    "ups": "21655",
+    "downs": "234",
+    "views": "288858",
+    "top_comments": [
+        {
+            "comment": "I love Christina's voice so much.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "im so ready for top 20 songs of 2021, this one has to be thereee",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.35,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "this is really pretty, and you're all so talanted, but this is obviously studio recorded, I love the setup though, and keep up the amazing vocals and talent<3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3375,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Beautiful\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "So good! So much power!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5625,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "We see you Amy \ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I hate every clean version even though I love u \ud83d\ude0d",
+            "polarity": 0.022222222222222216,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "OMG Amy's low note are fantastic. I love this arrangement. Great job!",
+            "polarity": 0.475,
+            "subjectivity": 0.6375
+        }
+    ]
+}

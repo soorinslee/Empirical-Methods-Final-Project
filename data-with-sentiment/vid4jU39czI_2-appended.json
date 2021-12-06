@@ -1,0 +1,91 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-10-31 00:57:46",
+    "ups": "7699",
+    "downs": "86",
+    "views": "128484",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 910,
+            "number_of_replies": 85,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Jack as Batman will be known as \u2018The Cynthia Smasher\u2019 or the \u2018Gardevoir Guy.\u2019",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jack as Batman will be known as \u2018The Cynthia Smasher\u2019 or the \u2018Gardevoir Guy.\u2019",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy Halloween",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "That's for purplecliffe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I still think Jack wins",
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Anyone else relate to jacks face at the end",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Give cliff the win he deserves it",
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Couldn't stop laughing at all, if you guys decide to do a channel about funniest moments, would be awesome.",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Ngl Mike had a good strategy with ending in XYZ",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "HAIL YEAH!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mikey out smarted them by choosing Pok\u00e9mon x and y",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "DO MORE OF THESE!",
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I live for the chaotic energy in this video. Lol.",
+            "polarity": 0.4681818181818182,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Well done  Mikey",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

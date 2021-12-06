@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:33:28",
+    "url": "https://www.youtube.com/watch?v=mMc1hosXplE",
+    "time_now": "2021-10-31 13:18:18",
+    "ups": "1403",
+    "downs": "20",
+    "views": "30066",
+    "top_comments": [
+        {
+            "comment": "Understanding environmental impact of this will be interesting to understand, especially so much light in night on aquatic life",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "It's a quote made by me -\n\"If you find peace anywhere in this world for 1 second just feel and enjoy it !!! Who knows, maybe the next second this peace is gonna get vanished forever !!!!\"\nIt's a fact !!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1953125,
+            "subjectivity": 0.125
+        },
+        {
+            "comment": "Exactly make Kashmir and Arunachal Pradesh hottest tourist place on earth",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "This is the reason WION is the best news channel",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Lol no one is gonna come and watch coz they knw what will happen next  boom boom cheki cheki \ud83d\udca5 rip",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.35
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "And ban the Madrasas around the country",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kashmir is example hw islam distroy a heaven.. \nWhere islam become a majority it comes wid shitty culture",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is the Real Kashmir \nThe Burkhas and People with Caps Has nothing to Do with Kashmir they are just sick people who want to Attack the world and Invade it!",
+            "polarity": -0.3464285714285714,
+            "subjectivity": 0.5785714285714285
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-31 00:57:31",
+    "url": "https://www.youtube.com/watch?v=Zdc8vZcCEeo",
+    "time_now": "2021-10-31 21:32:25",
+    "ups": "2174",
+    "downs": "20",
+    "views": "38476",
+    "top_comments": [
+        {
+            "comment": "I PRAY WHO EVER READING THIS BECOMES SUCCESSFUL IN LIFE",
+            "likes": 8,
+            "number_of_replies": 2,
+            "polarity": 0.75,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Success in life is measured in how we live it, and knowing the lessons it teaches us.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.21818181818181817,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Christ is the culmination of the law so that there may be righteousness for everyone who believes.\r\nRomans 10:4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

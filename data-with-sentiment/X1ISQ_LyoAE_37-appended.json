@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-06 01:10:21",
+    "ups": "1849",
+    "downs": "38",
+    "views": "23482",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I've never owned ADG, but it's the most included sample whenever I buy other bottles of cologne.",
+            "polarity": 0.1875,
+            "subjectivity": 0.4375
+        }
+    ]
+}

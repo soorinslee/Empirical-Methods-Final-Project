@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 13:09:39",
+    "url": "https://www.youtube.com/watch?v=-lUtPDYnKL0",
+    "time_now": "2021-11-01 22:16:08",
+    "ups": "12226",
+    "downs": "177",
+    "views": "296171",
+    "top_comments": [
+        {
+            "comment": "all the voice from Clash Royale i tought and how it is\r\nMegaKnight: HUUU PLIJ!! RealVoice MegaKnight: RUURH... HURIYAAAH!!\r\nMagic Archer: howha! RealVoice Magic Archer: Tulta! (wich means \"fire!\")\r\nMini Pekka: OO JAMES!! RealVoice MiniPekka: PAN..CAKES\r\nP.E.K.K.A: HAI NIJ NAI RealVoice P.E.K.K.A: BUTTERFLY\nLet me know in the comments if u dont know some cards exact voice",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Anyone else noticed that the bone bros are red and green?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.15
+        },
+        {
+            "comment": "if I trick.u like my comment  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Clash quest is in sweden also :)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

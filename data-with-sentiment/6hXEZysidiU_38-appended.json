@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-06 05:17:35",
+    "ups": "4628",
+    "downs": "75",
+    "views": "101911",
+    "top_comments": [
+        {
+            "comment": "Amazingly amazing! How simple yet scientific, how spiritual yet rational answers were..!! Very profound...!! Thank you!",
+            "likes": 19,
+            "number_of_replies": 1,
+            "polarity": 0.2403971354166667,
+            "subjectivity": 0.5976190476190476
+        },
+        {
+            "comment": "the knowledge contained within guruji...its honestly just hard to fathom. he is definitely an enlightened  being",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.10277777777777776,
+            "subjectivity": 0.6472222222222223
+        },
+        {
+            "comment": "It is mind blowing knowledge \ud83d\ude07\ud83d\ude4f\ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Why would you ask a non-scientific person these questions. I just don't understand what's going on here",
+            "likes": 1,
+            "number_of_replies": 3,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Virus is not living",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sir when will we get petrol for 40rs? When will rupee get stronger as u said? Thanks for sharing these ancient wisdoms but could you please tell us how many people died without oxygen in India due to covid?",
+            "polarity": 0.19166666666666665,
+            "subjectivity": 0.35833333333333334
+        },
+        {
+            "body": "Why do 2 months and 2 years child die is it because of previous life karma ??",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Thank you for your enlighting message.  God bless you.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "In India all knowledge,understanding followed from inner journey,pure perception,that is ,no need for labs ,microscopes,etc. Just close your eyes,& traverse this vast Universe. All exists in us ,the whole ,wide Universe itself. Truly India is the Mother of all Science!! Just take an Inner Journey!!",
+            "polarity": 0.008750000000000003,
+            "subjectivity": 0.42666666666666664
+        },
+        {
+            "body": "He. Is gently flexible not dogmatic ,at ,all!! They perceive in the gap,that is the place all is present,no past ,future,etc Only Now!!",
+            "polarity": 0.020833333333333332,
+            "subjectivity": 0.6833333333333332
+        }
+    ]
+}

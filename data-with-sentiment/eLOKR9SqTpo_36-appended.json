@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-05 21:02:54",
+    "ups": "14364",
+    "downs": "1829",
+    "views": "1591444",
+    "top_comments": [
+        {
+            "comment": "Thank you for sharing this video. Keep doing more videos.\u00a0  \u2665 \u2665 12:16",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8333333333333334,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "8:12 I  think he has a problem over there?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thanks Sir, I learned a lot!  \u2665 \u2665 9:33",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": []
+}

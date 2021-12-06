@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-01 14:01:01",
+    "ups": "9836",
+    "downs": "10",
+    "views": "66863",
+    "top_comments": [
+        {
+            "comment": "Jackson Wang can make everything sold out",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If you want a *PERFORMANCE* , the one to call is Jackson Wang",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ohhh yeeeh jackson\ud83e\udd29\ud83e\udd29\ud83e\udd29\u2764\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Congratulations Team Wang Jackson Wang Love you always\ud83d\udc95\ud83d\udc9f\u2764",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "https://youtu.be/jWa1fS41Ckk\n\nJackson \ud83d\udc51street dance 4 official",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "jackson wang is the real flex. this man can dance, sing, rap and have a great leadership. STAN TALENT ;P",
+            "polarity": 0.5,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "Thank you to the Korean producers who generously share their culture with Chinese artists and make them even better.",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        }
+    ]
+}

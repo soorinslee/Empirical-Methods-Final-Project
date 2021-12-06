@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-10-31 21:32:50",
+    "ups": "2114",
+    "downs": "23",
+    "views": "29668",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 130,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\"Occasional try hard\". I love that description. People like you used to play Selucid armies under the wrg 7th edition ancient rules, that were globally used for many years for ancient warfare. I used to lose against them consistently with my late Romans which I played because, well I liked the late Rome. \u263a\ufe0f",
+            "polarity": 0.10648148148148147,
+            "subjectivity": 0.4462962962962963
+        },
+        {
+            "body": "Last week I found myself in a similar situation =) I had never had ever tried any kind of tournaments and decide to go to one for a game I am very very unexperienced..Blood bowl. Got crushed but had a blast, it was also a small sized tournament, 5 other players plus me, all very experienced but all very welcoming to a newer dude. In the was a great day ended up over some beers discussing this games that we all like.",
+            "polarity": 0.20708333333333337,
+            "subjectivity": 0.5068055555555555
+        },
+        {
+            "body": "Oh hey, I work at that store \ud83d\ude33",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "A note on \"net lists\". Just because someone is using such a list does not mean they know how to pilot it.\nI have seen similar things in various games I have played (M: tG, WHF, WM/H, etc). Any list is only as good as the player using it.",
+            "polarity": 0.12232142857142857,
+            "subjectivity": 0.5267857142857143
+        },
+        {
+            "body": "Why were you shooting boogers at the nightwatch at 2:36?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "time_posted": "2021-10-30 13:25:17",
+    "url": "https://www.youtube.com/watch?v=O_dLHAWRrlY",
+    "time_now": "2021-10-31 09:11:57",
+    "ups": "4104",
+    "downs": "186",
+    "views": "401490",
+    "top_comments": [
+        {
+            "comment": "What's your favorite upcoming match?\nLiverpool vs Brighton\nNewcastle vs Chelsea\nMan City vs Crystal Palace\nTottenham vs Manchester United\nLet me know & you'll have it after the game is over!",
+            "likes": 13,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Keeping partey fit is an absolute must, if he was to get injured we will basically loose our midfield",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.1743589743589744,
+            "subjectivity": 0.5230769230769231
+        },
+        {
+            "comment": "Solid defence, lack attacking. But still good played. Ramsdale is on fire \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "comment": "4:49 best save \ud83e\udd76",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Go Arsenal go \ud83d\udc4d\ud83d\udc4b\ud83d\udc4b",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Johnny Evans should have been sent off for holding back Auba on goal scoring run and for kicking Ramsdale on the butt. He is lucky to be still on the pitch.",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.4166666666666667
+        },
+        {
+            "body": "https://m.youtube.com/watch?reload=9&v=Y3Jkb_UexCc",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4:49 best save \ud83e\udd76",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Arsenal dah lupa rasanya kalah",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "https://youtu.be/GfbMQjyKCgY",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Go Arsenal go \ud83d\udc4d\ud83d\udc4b\ud83d\udc4b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Guys please do check \"Arsenal India Podcast\"  10 mins long, it's a discussion about our performance vs Leicester \ud83d\ude4f\ud83c\udffc\ud83d\ude4f\ud83c\udffc\ud83d\ude4f\ud83c\udffc",
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "https://youtu.be/BfU_G81NaQg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "https://youtu.be/BfU_G81NaQg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "https://youtu.be/BfU_G81NaQg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You didn't got copyright for uploading this video??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Solid defence, lack attacking. But still good played. Ramsdale is on fire \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.35,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "body": "Keeping partey fit is an absolute must, if he was to get injured we will basically loose our midfield",
+            "polarity": 0.1743589743589744,
+            "subjectivity": 0.5230769230769231
+        },
+        {
+            "body": "https://youtube.com/channel/UCkGVNet-MiAH3_khQPspJ9w",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "https://youtube.com/channel/UCkGVNet-MiAH3_khQPspJ9w",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

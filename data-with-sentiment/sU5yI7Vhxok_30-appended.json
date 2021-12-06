@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-04 20:18:29",
+    "ups": "8929",
+    "downs": "93",
+    "views": "86219",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 1149,
+            "number_of_replies": 27,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Who would have thought pop-funk would translate to metal so well! The riffage! The three of you together is quite something! Making Phil Collins creepy...Hotel California... just...wow! MORE!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Well you've only gone and done it again guys :) Awesome  many thanks",
+            "polarity": 0.44000000000000006,
+            "subjectivity": 0.74
+        },
+        {
+            "body": "4:01 I first thought it was Wandering Star from Portishead",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

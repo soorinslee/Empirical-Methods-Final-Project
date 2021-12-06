@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-03 03:06:30",
+    "ups": "11144",
+    "downs": "375",
+    "views": "345776",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 44,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\u029c\u026a\u026a,\ud83d\ude18\ud83d\ude0d\ud83e\udd70\ud83d\ude0a",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "*Please upload all song to Jiosaavn, Spotify, Gaana, Apple Music, Amazon Music, Deezer, Wynk, Hungama, Yt music*",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wow it's very heart touching song ..\nI am listen again and again \u2764\ufe0f\u2764\ufe0f\ud83e\udd70\ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Osm \u2764\ufe0f\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Super video",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Mc Gita banei aasuni jadi shortfilm kara ... Amiti Bala Gita baneiba kichhi abasyaka nahin....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

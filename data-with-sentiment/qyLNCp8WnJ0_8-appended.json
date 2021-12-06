@@ -1,0 +1,64 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-01 01:40:25",
+    "ups": "4382",
+    "downs": "119",
+    "views": "94389",
+    "top_comments": [
+        {
+            "comment": "Did Bobby move to Florida? I\u2019ve been away from this channel for a while.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Illinois has it!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "so i guess everyone here is okay with bobby promoting orthorexia this is ridiculous",
+            "polarity": 0.08333333333333334,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Healthy Thanksgiving recipes",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Do they have Raos vodka sauce?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No Rao in NJ",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "OMG u in my neck off the woods awesomeness",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We have Rao's up in Michigan.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Scottsdale, Arizona....Rao's here also - THE BEST!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Bobby is my favorite pie hole; he works perfectly with Dr. Gundry.",
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        }
+    ]
+}

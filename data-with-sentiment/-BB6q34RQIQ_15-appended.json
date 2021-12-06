@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-02 06:30:52",
+    "ups": "553",
+    "downs": "127",
+    "views": "52259",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "The EXPOS\u00c9, UK published an analysis yesterday on VAERS looking at batch\n numbers of COVID-19 FDA authorized vaccines, which discovered the \nshocking result that 100% of the deaths reported following these shots \ncame from only 5% of the batches, and we are talking about several \nthousand batches.",
+            "polarity": -0.25,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "Does anyone know how the vaccinations effect the carbon footprint?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It\u2019s going to get worse it\u2019s not going to get any better",
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Because it was a lie to begin with. They see people won't take the shot so they need a new plan. Hahaha.",
+            "polarity": 0.16818181818181818,
+            "subjectivity": 0.42727272727272725
+        }
+    ]
+}

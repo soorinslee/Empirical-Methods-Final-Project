@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-10-31 09:11:46",
+    "ups": "382",
+    "downs": "88",
+    "views": "33141",
+    "top_comments": [
+        {
+            "comment": "time to release the next variant if numbers are dropping",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Masks inhibit air flow into and out of the lungs.",
+            "likes": 1,
+            "number_of_replies": 3,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "COVID-19 has gone down because a  lot of them died from COVID-19.",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "As masks Increase both the frequency and depth of respirations (breaths), they increase the likelihood that each respiration will contain a larger amount of infectious viral particles. This may worsen the community transmission of CoVID-19 as infected people wearing masks exhale respiratory plumes loaded with greater levels of infectious viral particles. These infectious plumes readily move around the sides, bottom, and top of masks.",
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "We have thousands gathering weekly at NCAAFB, NFL and MLB games with none wearing masks. The politicians and MSM only wear masks when cameras are rolling, as we\u2019ve all seen. Never in their private lives.    \n\nHow long is the farce going to continue? If we had 100% vaccination rates, they would still demand masks. I\u2019m fully vaccinated and so tired of the games. Biden and Doc F are such jokes and deceivers clearly the majority don\u2019t believe or wear the mask. Doc F said the football season would cause cases to spike, he has been proven wrong again. How many chances do you get at this guessing game?",
+            "polarity": -0.11499999999999999,
+            "subjectivity": 0.5658333333333333
+        },
+        {
+            "body": "& now for Real News:\nChrist came, died, was buried, & rose again! (I Cor. 15:1-4)\nR E P E N T - \"But now He commands everyone everywhere to repent of their sins & turn to Him.\" (Acts 17:30)\nB E L I E V E - \"That if you confess with your mouth the Lord Jesus & believe in your heart that God has raised Him from the dead, you will be saved.\" (Romans 10:9)\nHope U make the right choice!",
+            "polarity": 0.2767857142857143,
+            "subjectivity": 0.5464285714285714
+        },
+        {
+            "body": "Covid 19 has mutated into myocarditis, blood clots,  livedo reticularis, Neuropathy, pulmonary arterial hypertension, miscarriages, food shortages, cyber attacks, and death. The hardest part about the 2 weeks to flatten the curve, is the 36 months.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I remember when they said covid won\u2019t live in cold weather",
+            "polarity": -0.2318181818181818,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Looking forward we need mor booster shots",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

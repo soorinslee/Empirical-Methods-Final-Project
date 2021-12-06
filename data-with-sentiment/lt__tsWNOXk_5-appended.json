@@ -1,0 +1,83 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-10-31 13:18:37",
+    "ups": "4992",
+    "downs": "254",
+    "views": "66845",
+    "top_comments": [
+        {
+            "comment": "Most of this list is still more stylish than 'trendy items'. Trends come and go, classic staples stay around for a long time",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.36944444444444446,
+            "subjectivity": 0.5777777777777777
+        },
+        {
+            "comment": "I love how he insist first every one to try one and later on next video boom it's out of fashion z\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1875,
+            "subjectivity": 0.23333333333333334
+        },
+        {
+            "comment": "Every trend that he recommended in the past few years, and now he's redacting them all \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.225,
+            "subjectivity": 0.175
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "At this point every man wears an underwear\u2026 we better change what we wear now!",
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Might have to disagree with every one of these \ud83e\udd37\u200d\u2642 except number 6 \ud83d\ude4c\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Next year it\u2019ll be we need to stop wearing puffer jackets. \u201cMy guy you just look like a marshmallow and honestly you just look kind of ridiculous walking around like the Michelin tire man.\u201d Throw in another comment about how we need to switch to something with a sleeker silhouette for a more timeless aesthetic and I\u2019d say you got next year\u2019s script in the can \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.22777777777777777,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "body": "Bro I give zero f**** what you tell me to wear I wear what I wanna wear",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This really should be called something along the lines of \"6 Things Out of Trend\" or \"Swap These 6 Overdone Items to Stand Out\" because certain items are always on point for good style. Chelsea boots are definitely one of those things, like good proper-fitting jeans. The suggestions are great to set one apart and mix up what everyone else is doing, but trend-jumping isn't core style. Except for men's jeggings--ahem--tight joggers. Those just need to go and never should have been lol",
+            "polarity": 0.48775510204081635,
+            "subjectivity": 0.5602040816326531
+        },
+        {
+            "body": "Petition to add shearling jackets and coats, both denim and suede, to the list.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Whose this guy saying how people should dress. He isn\u2019t put together a lot of the times. Maybe he needs to take his own advice.",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I disagree with some",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Most of this list is still more stylish than 'trendy items'. Trends come and go, classic staples stay around for a long time",
+            "polarity": 0.36944444444444446,
+            "subjectivity": 0.5777777777777777
+        },
+        {
+            "body": "Oh nice. Its a mf commercial",
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-02 02:24:05",
+    "ups": "4953",
+    "downs": "268",
+    "views": "218936",
+    "top_comments": [
+        {
+            "comment": "Omg I Subscribed at 20k and in a week You have 235k, can\u2019t wait to see these critters have more fun",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.35
+        },
+        {
+            "comment": "My hamster ( before she died a few days ago) hated hamster mazes lol. The lil hamsters look nice and healthy :) keep up the good work :) but maybe next time don\u2019t use the spinning box thing hamsters easily get dizzy.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.29333333333333333,
+            "subjectivity": 0.6433333333333333
+        },
+        {
+            "comment": "this is amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The lesson of this video: Keep going and never look back!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The hamsters are good at this",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I loved the squid game one",
+            "polarity": 0.14999999999999997,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Not the  hamster \ud83d\udc39 dogging his/her\u2019s every day life obstacles,..  sounds familiar!!!!!",
+            "polarity": 0.475,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Imagine going in his house and all you see is hamsters and mazes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

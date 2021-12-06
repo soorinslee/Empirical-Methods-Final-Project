@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-11-02 06:30:53",
+    "ups": "2394",
+    "downs": "9",
+    "views": "29171",
+    "top_comments": [
+        {
+            "comment": "It's a sure thing with Lisa, she's definitely the hostess with the mostess. A designer who makes our world finer. A self given saint who teaches us how to pick the right paint. The lady with her own grove, with a great channel on YouTube !  Love ya \ud83d\udc95",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.48095238095238096,
+            "subjectivity": 0.7124338624338624
+        },
+        {
+            "comment": "I would add some coasters, a box of tissues, bottled water and a small trash can.  Great video!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "White linen all the way \ud83d\ude00",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Lisa you are totally a rock star.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "I know this is random but would you give tips for a buy to rent home.we have a 2 bed that we are renovating from the brickwork out new electrics etc to rent to tenants.  I would love some help with decor or feel ideas.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.04545454545454545,
+            "subjectivity": 0.5181818181818182
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I would had one more thing to the list, if there is any space to do so in the room (if it can fit put one it absolutely) : a bench. Why? Because the best thing when you arrive at some place and have to unpack, is to have something to hold your suitcase above the floor! So convenient! Otherwise you have to put your suitcase on the bed and it might stain the bedding, or bend over the floor when your back is already strained from travelling. And when unpacking is done, the bench can be used as an extra seat to help put on your shoes or deal with dressing up a kid.",
+            "polarity": 0.3,
+            "subjectivity": 0.3285714285714286
+        },
+        {
+            "body": "Love this video! Thank you! I also have 2 nice luggage racks I can put out for guests. People always tell me how much they love having a luggage rack!",
+            "polarity": 0.5515625,
+            "subjectivity": 0.6
+        }
+    ]
+}

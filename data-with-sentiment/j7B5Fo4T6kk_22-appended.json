@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-03 11:20:49",
+    "ups": "11351",
+    "downs": "386",
+    "views": "354114",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 45,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\u029c\u026a\u026a,\ud83d\ude18\ud83d\ude0d\ud83e\udd70\ud83d\ude0a",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wow it's very heart touching song ..\nI am listen again and again \u2764\ufe0f\u2764\ufe0f\ud83e\udd70\ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Super song \ud83c\udfb5\ud83d\udc4c\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "such a beautiful song",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Good song",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

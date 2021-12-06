@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-03 23:43:19",
+    "ups": "7995",
+    "downs": "226",
+    "views": "214454",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "VG Tech made a true better analysis than this fiasco.\nyou saved the resolution to not harm PS5? maybe.",
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "These consoles are dissapointinly  beginning to show thier limits already. No ray tracing for 60fps or ray tracing at 30fps? Seriously? From what I have seen this is the case with most of the recent ray traced games on ps5 and xbsx. Why are we still settling for 30fps in 2021?",
+            "polarity": 0.05555555555555556,
+            "subjectivity": 0.47222222222222215
+        },
+        {
+            "body": "Come on DF, no HDR...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

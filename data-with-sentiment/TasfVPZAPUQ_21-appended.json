@@ -1,0 +1,107 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-03 07:13:38",
+    "ups": "42125",
+    "downs": "73",
+    "views": "217714",
+    "top_comments": [
+        {
+            "comment": "man, this is masterpiece!!!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The fact that they rerecorded the song and everything omg\ud83d\ude2d",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "esta super genial!!! gracias por el espectacular video",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6510416666666665,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "<3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "the original performance version is at 19k likes \ud83d\ude02 believe me this will get in new fans so we need to focus on this",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2556818181818182,
+            "subjectivity": 0.6022727272727273
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This is so good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "<3",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I like the concept",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The fact that they rerecorded the song and everything omg\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "sanat eseri",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "When you're not even on Road to Queendom but you serve a concept.\nOnly Queen club behavior y'all!",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "the original performance version is at 19k likes \ud83d\ude02 believe me this will get in new fans so we need to focus on this",
+            "polarity": 0.2556818181818182,
+            "subjectivity": 0.6022727272727273
+        },
+        {
+            "body": "too wan sicks, oh tutu",
+            "polarity": -0.2,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "body": "and i'm back \ud83d\ude01 keep stweaming to 1M plorys! dont lose hope, halloween content is relevant for at least 1 week",
+            "polarity": 0.03333333333333335,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Purple Kiss is so continually impressive!! They completely remixed this song, yet still kept the fun and brilliance of the original version while giving it completely different life. This video was awesome! I hope to hear this remix on streaming sites soon~",
+            "polarity": 0.4625000000000001,
+            "subjectivity": 0.6583333333333333
+        },
+        {
+            "body": "esta super genial!!! gracias por el espectacular video",
+            "polarity": 0.6510416666666665,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Amo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

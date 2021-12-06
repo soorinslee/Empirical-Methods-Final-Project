@@ -1,0 +1,102 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-11-05 21:02:25",
+    "ups": "72486",
+    "downs": "2571",
+    "views": "3627761",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 692,
+            "number_of_replies": 181,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Boyfriend is very weird",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.65,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Gol Gi\u00e0 Gi\u00e0 Germania",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ed Essa",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I like it when they both go fast and I like the  beat",
+            "polarity": 0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "WOW WOW WOW",
+            "polarity": 0.10000000000000002,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "So cute p Psych",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The pink one name is kissy missy",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I swear if i dont see a outfit battle with this song im gonna scream (not really)",
+            "polarity": -0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "you funny the big man the funny",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Morning",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gol Gi\u00e0 Gi\u00e0 Germania",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ed Essa",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "A bot play",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

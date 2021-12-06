@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-05 04:33:09",
+    "ups": "9928",
+    "downs": "41",
+    "views": "122318",
+    "top_comments": [
+        {
+            "comment": "Looks like some kind of crazy chalk cliffs. Love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "comment": "I absolutely love Ren's intros. I think it just might be my favourite yter intro.\nIt just gets me so hyped for the episode!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Create big spender Etho deals lol",
+            "polarity": 0.4,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "ren falling off the platform and then suilently using the scaffolding to get back up is an entire mood",
+            "polarity": 0.0,
+            "subjectivity": 0.3125
+        },
+        {
+            "body": "I\u2019ve figured it out. The reason people aren\u2019t paying in the barrel is because they can\u2019t see the barrel because it is covered up with glowing item frames on all visible sides",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1. Lever Off\n2. Check hopper if first inventory slot is empty\n3. Break comparator out of frame and place on iron trap door\n4. Flick lever (at far end of rails) once [dont have creepers explode or else rip hermitcraft]\n5. Look into hopper and use  number key (whatever slot you want it in) to put item into the hopper's 1st slot \n6. Turn off update suppressor/Flick scary lever again\n7. Look into hopper\n8. Like and subscribe",
+            "polarity": -0.05,
+            "subjectivity": 0.7666666666666666
+        },
+        {
+            "body": "Never seen a rendog video before but gotta say I was captivated by the editing and just by ren in general",
+            "polarity": 0.05000000000000002,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I absolutely love Ren's intros. I think it just might be my favourite yter intro.\nIt just gets me so hyped for the episode!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I feel like that sign is in the wrong spot cause from cubs video I think, he was struggling to find said barrel cause you put the payment amount on the barrel. Maybe switch the signs? Put \"Pay in here\" on the barrel and the amounts on the side? Idk just a thought",
+            "polarity": -0.5,
+            "subjectivity": 0.9
+        }
+    ]
+}

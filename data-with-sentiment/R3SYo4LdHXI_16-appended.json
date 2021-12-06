@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-02 10:37:15",
+    "ups": "5949",
+    "downs": "66",
+    "views": "134187",
+    "top_comments": [
+        {
+            "comment": "Let's step \u2764 nocap  going crazy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Whole tape pressure \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udcaf\ud83d\udcaf",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u201cuma street nigga after paper i get snap money , bitches in & out da crib look like da trap jumpin\u201d \ud83d\udca4\ud83e\udd85",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

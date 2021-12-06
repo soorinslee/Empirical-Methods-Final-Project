@@ -1,0 +1,98 @@
+{
+    "time_posted": "2021-10-30 13:09:39",
+    "url": "https://www.youtube.com/watch?v=-lUtPDYnKL0",
+    "time_now": "2021-10-31 05:04:45",
+    "ups": "9701",
+    "downs": "143",
+    "views": "210247",
+    "top_comments": [
+        {
+            "comment": "What kind of game is is is it's like some kind of another version of clash Royale",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "And I won the battle",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "OJ I was battling somebody in your clan in clash Royale",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Is the game out now I can\u2019t find it",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "What kind of game is is is it's like some kind of another version of clash Royale",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "And I won the battle",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "OJ I was battling somebody in your clan in clash Royale",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "time traveler: *breaths*\ntimeline: NEW BOMB MINER",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Stop posting this corny ass clash royals copy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "can you continue the best arena decks plz, i am kinda stuck in spooky town",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "what is this game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Of all things... why would supercell make a match 3 game?!",
+            "polarity": -0.5,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Where\u2019s the cheese\ud83e\uddc0",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Idk is this game good",
+            "polarity": 0.14999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Great video! I am so excited for the upcoming update!",
+            "polarity": 0.734375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Wonder if we\u2019ll see this troop on Clash Royale",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

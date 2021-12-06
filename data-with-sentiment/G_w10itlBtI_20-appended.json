@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-03 03:07:12",
+    "ups": "13522",
+    "downs": "175",
+    "views": "219077",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 36,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "bit late but have a look at a kitchen working triangle",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "No pulls, push to open.  Very minimalist...",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Push to open",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Mike, been watching you for a long time now. You make some pretty spectacular stuff Man!!  Building is coming along fantastically. With that being said, I vote pulls for the cabinets. Now, hear me out..... Paint them Ferrari Red!!!! Hoping all is well Bud, will prob. start commenting more often (not sure why I never really did this whole time) & Dirty Jersey out!!",
+            "polarity": 0.06111111111111109,
+            "subjectivity": 0.5654320987654321
+        },
+        {
+            "body": "In my experience the functionality of those push-to-open drawers will fade over time, I would definitely still go with the drawer pulls!",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Deep drawers for storing cooking utensils and bowls etc would be best. Cabinets for those, things get lost and are hard to see. Also a double trash can drawer next to the sink or butcher block is so helpful when chopping.",
+            "polarity": 0.14166666666666666,
+            "subjectivity": 0.24833333333333335
+        },
+        {
+            "body": "Drawer pulls for sure. It will save a lot of confusion for guests etc that come over if they don't see a handle.",
+            "polarity": 0.5,
+            "subjectivity": 0.8888888888888888
+        },
+        {
+            "body": "Just a suggestion ...when you wanna talk about camera specs ...I'd start with the resolution \ud83d\ude09 ...the crib is shaping up nicely",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "no pulls!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

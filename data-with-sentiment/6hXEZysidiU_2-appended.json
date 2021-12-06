@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-10-31 00:58:24",
+    "ups": "2062",
+    "downs": "16",
+    "views": "22368",
+    "top_comments": [
+        {
+            "comment": "I will hear this everyday from now on....I am in love with the amount of knowledge in this video.....no words...... absolutely amazing \u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "comment": "I loved this.. This is so beautiful \u2764 \u2764 \u2764 Thank you gurudev \u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7749999999999999,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Jgd \ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Starts at 1:14. Beautifully produced. It was indeed good to get the researchers and doctors together for this event. \nThat said, the video ends quite abruptly a bit jarring !",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4645833333333333,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "comment": "Guru is the way of life",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lovely! Thank you Gurudev and the entire crew\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.3125,
+            "subjectivity": 0.6875
+        }
+    ]
+}

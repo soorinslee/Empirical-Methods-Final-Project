@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-02 18:52:30",
+    "ups": "10742",
+    "downs": "83",
+    "views": "206857",
+    "top_comments": [
+        {
+            "comment": "The fact that TK\u2019s dad is a dentist makes soo much sense! She has the most perfect natural smile! And her teeth are so white and perfect \ud83e\udd29",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": 0.46071428571428574,
+            "subjectivity": 0.4571428571428572
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm honestly salty that you were in Bloomington and I didn't even see you!! Like this was a once in a lifetime thing for me since I never go to California..",
+            "polarity": 0.9375,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Loving the vibe in this vid Alisha love you Alisha",
+            "polarity": 0.55,
+            "subjectivity": 0.7749999999999999
+        },
+        {
+            "body": "This has to be my FAVORITE STYLE vlog you\u2019ve posted! I miss my college so this just felt so nice to watch!!!",
+            "polarity": 0.8125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Best vlog yet! Love the ladies in Indy!!!",
+            "polarity": 0.98828125,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "body": "I literally just moved to Indiana last mouth and I love it here \ud83d\ude0d",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Alisha: *suitcase gets dented* \"I need a new one!\" Me: *using other peoples suitcases so i dont have to buy one*",
+            "polarity": 0.02272727272727272,
+            "subjectivity": 0.4147727272727273
+        },
+        {
+            "body": "It\u2019s so weird seeing Alicia in most of her audience\u2019s setting like collegetown lol",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.7333333333333334
+        }
+    ]
+}

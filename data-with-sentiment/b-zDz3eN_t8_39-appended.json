@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-06 09:24:05",
+    "ups": "8395",
+    "downs": "373",
+    "views": "949224",
+    "top_comments": [
+        {
+            "comment": "Why are the guards blue",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "My lion\u2019s",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "the last one is sus",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "OH NOOO NOT DUBBED ! DUBBED SUCKS",
+            "polarity": -0.3,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Nice editing bro",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Why are the guards blue",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I just realized that the prize money is the same number as Gi-Huns number",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "The green one might be dream",
+            "polarity": -0.2,
+            "subjectivity": 0.3
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-02 22:59:47",
+    "ups": "10928",
+    "downs": "83",
+    "views": "211145",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I CANT BELIEVE YOU WERE AT IU AND I DIDNT SEE YOU",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Umm I need a part two of this trip!!! Lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "WHY DOES THEM GOLFING GIVE ME HSM VIBES ?!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I\u2019m sooo sad I didn\u2019t see you not even once\ud83d\ude2d\ud83d\ude2d",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "LOL I go to Purdue",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

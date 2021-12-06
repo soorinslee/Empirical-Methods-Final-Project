@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-06 13:30:47",
+    "ups": "11881",
+    "downs": "20",
+    "views": "103970",
+    "top_comments": [
+        {
+            "comment": "Man that dance solo\u2026\u2026. Divine! \nJackson is ridiculously talented! Soooooooo good \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 0.7875,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Jackson\u2019s dance performance is always NEXT level.. can\u2019t have enough of it \ud83d\udcaf\ud83d\udcaf Panthepack slays the stage too as always \ud83d\udd25\ud83d\udd25",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "The dance break is SWAG !!!!",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "OMG !!!! this is so good ! Love your new group Jackson !",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.5151515151515151,
+            "subjectivity": 0.5515151515151516
+        },
+        {
+            "comment": "The dance break .... that's the Jackson I missed MOST ! SWAG ! Love it so much !",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.5104166666666666,
+            "subjectivity": 0.43333333333333335
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "TEAMWANG\ud83c\udf89",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Loved everything about this perfomance",
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        }
+    ]
+}

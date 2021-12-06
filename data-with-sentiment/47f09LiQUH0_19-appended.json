@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-11-02 22:59:34",
+    "ups": "8203",
+    "downs": "347",
+    "views": "173105",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "This is something my friends would do",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Best gender reveal ever !!!!!\nAnd congratulations \ud83c\udf8a \ud83d\udc4f",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Did you just assume the babies gender what if it identifies as an attack helicopter",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Aww that's a cute idea",
+            "polarity": 0.4,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "Thats awesooommmmeee",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

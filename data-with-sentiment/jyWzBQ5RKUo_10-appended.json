@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-01 09:53:53",
+    "ups": "10117",
+    "downs": "42",
+    "views": "138575",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 185,
+            "number_of_replies": 10,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "17:14 WHAATT!!?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Uhmm u also could use waterlogged trapdoors for the farm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If you push waterlogged blocks with a 1 tick pulse, they do indeed get retain their waterlogged state.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "17:14 Did I hear what I think I heard?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "please tell us what mod you used! \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\nEdit: You might want to look at 17:14, cus i think you made a cut in a bit of an awkward place if you still don't see it turn captions on",
+            "polarity": -0.175,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Awesome episode! Wow that is a lot of string! Loving the storage build! Glad to see your doing better! Keep up the awesome work! Have a fantastic day! See you later!",
+            "polarity": 0.5625,
+            "subjectivity": 0.7937500000000001
+        },
+        {
+            "body": "If you push waterlogged blocks with a 1 tick pulse, they do indeed get retain their waterlogged state.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

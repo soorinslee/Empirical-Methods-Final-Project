@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-03 19:35:31",
+    "ups": "38229",
+    "downs": "494",
+    "views": "774322",
+    "top_comments": [
+        {
+            "comment": "Damn this go hard",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment": "YAK done snapped \ud83d\udc4c\ud83d\udc4c\ud83e\udd43\ud83d\ude0e\ud83e\udd21\ud83d\udeab\ud83d\udeab",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Yuuuuuuh big fact's",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Sounds better slowed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6\ud83c\udfc6",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Who he talking bout.?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is this a Jackboy diss?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I hate new  listeners they swear Yak just start snapping \ud83c\udfaf",
+            "polarity": -0.33181818181818185,
+            "subjectivity": 0.6772727272727272
+        },
+        {
+            "body": "Greatest that ever did it",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Hottest shit out right now \ud83c\udfaf\ud83c\udf83",
+            "polarity": 0.042857142857142844,
+            "subjectivity": 0.6678571428571429
+        }
+    ]
+}

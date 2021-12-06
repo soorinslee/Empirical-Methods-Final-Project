@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-04 03:50:05",
+    "ups": "43795",
+    "downs": "77",
+    "views": "233335",
+    "top_comments": [
+        {
+            "comment": "Original : cute beat music\nHalloween : zombie revenge concept",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.875
+        },
+        {
+            "comment": "I need this version on Spotify plz",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "SWAN REALLY DID KILLED THIS ONE, SHE SUITS THIS CONCEPT SOOOO MUCH IM IN LOVE",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.26666666666666666
+        },
+        {
+            "comment": "Ain't a fan but this is pretty well made",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I am obsessed with this music",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ATTENTION to all Plorys, Tomoons, and Moomoos. Please don't be lazy with str3aming. Unfortunately this is the reality of K-pop nowadays. Vi3ws count. Otherwise it's back of the line again for them while the groups with big agencies and fanbases takes the cake. No matter how talented our groups are.",
+            "polarity": -0.010000000000000009,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Dance practice porfaaaaaaaa ....please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It's really weird how Purple Kiss, being the best selling 2021 rookie is not nominated for MAMA. Oneus isn't nominated for anything either. Mamamoo got nominated for 1 category. I know Mnet is super rigged but RBW, are you sure your \"strategy\" is working? I thought y'all are doing an IPO? Isn't it high time to BOOST brand reputation?",
+            "polarity": 0.29866666666666664,
+            "subjectivity": 0.6791111111111111
+        },
+        {
+            "body": "I feel sorry for those who doesn't Stan them",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "MERECEN MUCHAS VISTAAAAAAAAAAAAAAAAS",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

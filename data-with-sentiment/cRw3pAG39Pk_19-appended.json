@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:59:49",
+    "url": "https://www.youtube.com/watch?v=cRw3pAG39Pk",
+    "time_now": "2021-11-02 22:59:01",
+    "ups": "12669",
+    "downs": "85",
+    "views": "141765",
+    "top_comments": [
+        {
+            "comment": "LINK TO ALL MUSIC STREAMING SERVICES https://ffm.to/squidgames\nSHARE THIS EVERYWHERE YOU KNOW!!!!",
+            "likes": 346,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Fire song,but now I just want to hear a Sang-Woo rap from you because we all know how good you portrait a villain",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Fire song,but now I just want to hear a Sang-Woo rap from you because we all know how good you portrait a villain",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Ahhh so this is what they mean when they says DPS don't miss. Amazing work, I zoned everything else out while this played- masterful.",
+            "polarity": 0.4291666666666667,
+            "subjectivity": 0.8624999999999999
+        },
+        {
+            "body": "Got a healthcare ad on this video might need it I'm speechless...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udd25 music",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is so incredibly good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "It\u2019s sad bc I\u2019m too obsessed with this song",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

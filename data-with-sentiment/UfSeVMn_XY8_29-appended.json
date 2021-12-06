@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-11-04 16:12:07",
+    "ups": "6160",
+    "downs": "475",
+    "views": "403482",
+    "top_comments": [
+        {
+            "comment": "IT is a good day it's me violet \u263a\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love you to go",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

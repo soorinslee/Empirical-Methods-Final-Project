@@ -1,0 +1,115 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-10-31 05:04:48",
+    "ups": "3694",
+    "downs": "180",
+    "views": "83454",
+    "top_comments": [
+        {
+            "comment": "Cool. \n\nAnd a whole forest wasn't on fire \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.275,
+            "subjectivity": 0.525
+        },
+        {
+            "comment": "It's not real magic until it starts a forest on fire!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.20833333333333331,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "Well, was expecting a rainbow smoke \ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "GLAD THAT PEOPLE KNOW THE FACT!! OF BIOLOGY. AKA REALITY.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.78125,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My favorite line, \u201cI smell a child\u2026 a child!\u201d",
+            "polarity": 0.625,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Well, was expecting a rainbow smoke \ud83d\ude4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I smell a child, Hol up wait a min",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "At least it wasn't a literal satchel, or C4!",
+            "polarity": -0.375,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Well for once nothing caught fire",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Explodes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Edp smells a child",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Vrru cool omfg !!! Xool",
+            "polarity": 0.68359375,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Libtards.. \"How dare you?\" \"It's not a boy until it choses what it will be!\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This was cute. Truthfully I don\u2019t understand gender reveals\u2026 I hope this mainstream trend dies out soon enough..",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "This is the best one I've seen so far\u2764",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I didn't see any nukes going off. Is this real?",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "Glad to see they managed not to hurt someone or start a fire.",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Only a true virgin can break the spell- my childhood",
+            "polarity": 0.175,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "Lol.",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

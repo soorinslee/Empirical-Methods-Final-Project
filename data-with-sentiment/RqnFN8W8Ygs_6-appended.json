@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 12:04:22",
+    "url": "https://www.youtube.com/watch?v=RqnFN8W8Ygs",
+    "time_now": "2021-10-31 17:25:30",
+    "ups": "312",
+    "downs": "60",
+    "views": "33105",
+    "top_comments": [
+        {
+            "comment": "YOUR GUESTS TALK WELL BUT ARE TRYING TO MISEDUCATE THE PEOPLE IN SOME WAYS!",
+            "likes": 2,
+            "number_of_replies": 6,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Puede nman yun kunin mo yun pera iboto kung ano ang nsa concencya kya lng wag nila takutin o bantayan yun mga binigyan nila",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Atienza hindi mo mauto mga Pinoys. Please stop trying.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "tama c atty lacson hind nila puwede\nbaguhin ang history people power \nrevolution,,nakaw,,dictator,,human\nabuse,,,mauunawaan yan ng taongbayan,,tama c pari socrates",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "HOW ABOUT OUR PROBLEM AT THE Philippines WEST SEA",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "vp leni showed ipakita she did in her own kahit pinabayaan  siya ni hindi pinapasok sa palacio she did showed",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Educated or alienated better be join the mason so you can be real in galvanizing use cement!\ud83d\ude01",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        }
+    ]
+}

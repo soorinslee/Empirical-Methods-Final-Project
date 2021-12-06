@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-04 20:18:55",
+    "ups": "17739",
+    "downs": "181",
+    "views": "395348",
+    "top_comments": [
+        {
+            "comment": "Maybe John could do a review of the classic Xbox game BLACK. i think it has one of the most realistic firearms",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05333333333333332,
+            "subjectivity": 0.36666666666666664
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hey question:\nWhich weppons would you take in a zombie Apokalypse because you know everything about weppons and i would cheerly know what your choice would be \nGreedings : paul from germany",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You should do Generation Zero",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This will breaks some hearts for some ameri-enthusiasts enthusiasts is the word 18:49",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I was beyond shocked by the M95 Barrett. Hadn't known that Barrett had neutered the perfection that was their semi-auto 50BMG rifle.\n\nM4 differences: lower is aftermarket, front sight/gas block is the triangle front sight on the actual M4, the game has an aftermarket pistol grip, an aftermarket stock, and if you're like me and your command denied you the ability to use PMAGs the Gen 3 PMAG. I do like the nice touch on the distinct definition on the magazine though. Identification of the mag's generation is easy.\n\nHadn't noticed the sort of M4 barrel profile on the M16, weird.",
+            "polarity": -0.03809523809523811,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "body": "I had a stroke when I fired the 300 rpm RPK",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "can he do tabg?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

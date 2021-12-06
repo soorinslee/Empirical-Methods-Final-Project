@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-04 07:57:59",
+    "ups": "1806",
+    "downs": "36",
+    "views": "22721",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I'd love to join the giveaway. I've never tried the original Acqua Di Gio. I do have Profumo and Profondo, and tried Profondo Lights",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.675
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I just recently picked up ADG profumo and I loved it. Already half way through the bottle. I wanted the original also. Just couldn\u2019t get myself to buy it after getting profumo. Would still love it for the collection though",
+            "polarity": 0.2816666666666666,
+            "subjectivity": 0.5133333333333334
+        },
+        {
+            "body": "I would like to join the giveaway Adg and adg profondo are some of the best and versatile I got in my collection",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I\u2019m newer to the Frag community. Never tried the ADG before but would love to!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I wish I could be able to rock it",
+            "polarity": 0.5,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "I have never owned a adg,i would love to try it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

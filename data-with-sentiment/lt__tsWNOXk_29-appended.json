@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-04 16:12:01",
+    "ups": "7372",
+    "downs": "417",
+    "views": "111957",
+    "top_comments": [
+        {
+            "comment": "White Air Force 1 are played out. Everyone has of shoes now.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I can put up with the others but CHELSEA BOOTS AND FLANNEL SHOULD NOT BE ON THIS LIST",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Thank you for referring a lace up boots \ud83e\udd7e they have always looked more classic and damn good \ud83d\ude0a.",
+            "polarity": 0.45555555555555555,
+            "subjectivity": 0.4222222222222222
+        },
+        {
+            "body": "I personally opt for some grey robes\u2026 matches my beard and hat.",
+            "polarity": -0.025,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "I didn\u2019t  see a single dude wearing Chelsea boots when I went out last weekend lol. Idk maybe it\u2019s because I\u2019m from dallas lol. We rock cowboy boots here . \ud83e\udd20",
+            "polarity": 0.3821428571428572,
+            "subjectivity": 0.4202380952380952
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-11-03 03:07:10",
+    "ups": "1906",
+    "downs": "32",
+    "views": "16895",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Christina, I absolutely love, love, love the black wash. The piece looks great and I too like a flat finish most of the time.",
+            "polarity": 0.3726190476190476,
+            "subjectivity": 0.5154761904761905
+        },
+        {
+            "body": "I didn\u2019t see the information or link to the lint-free wipes in your description. Please advise.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Loveeee this!!! I don\u2019t see those rags in the description box linked or am I missing something?! I have been using shop towels and good god do I need a tonnnnn to do washes and I feel like it makes it expensive as those towels aren\u2019t cheap \ud83e\udd26\ud83c\udffc\u200d\u2640\ufe0f",
+            "polarity": 0.0875,
+            "subjectivity": 0.5125
+        }
+    ]
+}

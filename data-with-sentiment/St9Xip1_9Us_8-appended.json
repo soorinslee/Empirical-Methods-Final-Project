@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:07:55",
+    "url": "https://www.youtube.com/watch?v=St9Xip1_9Us",
+    "time_now": "2021-11-01 01:40:19",
+    "ups": "2519",
+    "downs": "67",
+    "views": "50877",
+    "top_comments": [
+        {
+            "comment": "2 propane tanks underneath with rubber hose lines? Mounted lower than the muffler? First thing that gets hit when you bottom out? You can't do that. Oh for God sakes !!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.390625,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "comment": "Nicely done but why not put the toilet in the shower area then you can also have privacy plus free up space in the cabinets. Just seems like there is plenty of space to put the toilet in the shower area. Then just move the toilet if you need too... \nWith the curtain across the shower the toilet and the other things would be out of sight. give a real bathroom feeling to the area.\nJust a thought but maybe your way works better for you... I do love the van.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.19416666666666665,
+            "subjectivity": 0.3575
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Thank you Steff\u2026 great life, Bonne chance.",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "You love coffee? No kidding!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I\u2019m worried about those  propane tanks .",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pretty amazing \ud83d\udc4f van build. Very clean \ud83d\udc4c and cozy.",
+            "polarity": 0.28166666666666673,
+            "subjectivity": 0.89
+        }
+    ]
+}

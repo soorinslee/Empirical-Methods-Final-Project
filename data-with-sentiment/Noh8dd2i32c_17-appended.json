@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-02 14:45:10",
+    "ups": "3169",
+    "downs": "29",
+    "views": "56270",
+    "top_comments": [
+        {
+            "comment": "If I have my labradoodle lie on my bed that adds texture, right?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I use bamboo sheets in winter and pure cotton in summer, white so they can be bleached when they start to yellow, and they look gorgeous. Good quality sheets will last years if taken care of.",
+            "polarity": 0.26904761904761904,
+            "subjectivity": 0.3444444444444445
+        },
+        {
+            "body": "My pillow has great sheets plus spiritual patriot. L. G .B.",
+            "polarity": 0.4,
+            "subjectivity": 0.44166666666666665
+        },
+        {
+            "body": "Not a fan of rugs under queen or king beds. Too hard to vaccuum.",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        }
+    ]
+}

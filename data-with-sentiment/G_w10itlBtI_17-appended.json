@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-02 14:45:15",
+    "ups": "12981",
+    "downs": "169",
+    "views": "208653",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 36,
+            "number_of_replies": 6,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "Love what your doing.  Very interesting and entertaining.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5499999999999999,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Me watching that view of all the models: \"This is a Unix system, I know this...\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why can't the concrete bench be over 8'?",
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "Dont do Push to open!! i have them in my kitchen, at first they were cool, but if you think about it... opening a kabinett ist a one-step thing, just pull and it opens. these pushtopenthingies make that a two-step action... inefficient... bothers the hell out of me... also they open everytime you hit or lean angainst them...",
+            "polarity": 0.13999999999999999,
+            "subjectivity": 0.4166666666666667
+        },
+        {
+            "body": "Push to open doors can get really annoying if you just happen to brush against it slightly and it flips open. I don't like it.",
+            "polarity": -0.24166666666666667,
+            "subjectivity": 0.5166666666666666
+        }
+    ]
+}

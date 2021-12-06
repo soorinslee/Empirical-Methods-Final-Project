@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-01 18:09:19",
+    "ups": "4661",
+    "downs": "248",
+    "views": "202209",
+    "top_comments": [
+        {
+            "comment": "These little guys surely never get bored, they must have the time of their life in those mazes^^ Great theme and amazing attention to detail, love it :D",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.28035714285714286,
+            "subjectivity": 0.8055555555555555
+        },
+        {
+            "comment": "My hamster ( before she died a few days ago) hated hamster mazes lol. The lil hamsters look nice and healthy :) keep up the good work :) but maybe next time don\u2019t use the spinning box thing hamsters easily get dizzy.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.29333333333333333,
+            "subjectivity": 0.6433333333333333
+        },
+        {
+            "comment": "Cuteeeee",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "this is amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "MoistCrital is Ruining your Squid Game Video hope You Respond to Him!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love that u create this cool and cute mazes for your hamsters. They must be having the time if their lives\ud83d\ude0e\ud83d\ude1c. I am also really curious on how you create all of your cool mazes",
+            "polarity": 0.32,
+            "subjectivity": 0.78
+        },
+        {
+            "body": "I love When they kissed at the end",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "this is amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Love both\u2764\ufe0f\ud83d\udc2d\ud83d\udc39",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Amesing",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "My hamster ( before she died a few days ago) hated hamster mazes lol. The lil hamsters look nice and healthy :) keep up the good work :) but maybe next time don\u2019t use the spinning box thing hamsters easily get dizzy.",
+            "polarity": 0.29333333333333333,
+            "subjectivity": 0.6433333333333333
+        }
+    ]
+}

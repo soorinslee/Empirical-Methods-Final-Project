@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-10-31 13:18:32",
+    "ups": "1989",
+    "downs": "15",
+    "views": "29747",
+    "top_comments": [
+        {
+            "comment": "So I know rugs on carpet is a faux pas, but how do you feel about a rug on carpet in a bedroom?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I have my grandma\u2019s lowboy for my dressing table and long mirror for my small bedroom. Just perfect.",
+            "polarity": 0.2333333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I learned a good bit from this video  As to Brookline, recently purchased their down alternative mattress pad  It's a good buy",
+            "polarity": 0.3111111111111111,
+            "subjectivity": 0.4347222222222223
+        },
+        {
+            "body": "Dear Nick,\nCould you cover the topic of curtains?\nWhat size they should be for different window types, what material, color, etc...\nThank you.",
+            "polarity": 0.0,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Article makes a nice bed with the night stands built in to the bed NERA king bed is a nice one\ud83d\udecca king bed is much better if a you have the space for it two guys get a better sleep at night once you had a king it\u2019s hard to go back to a queen the window covers you forgot to talk about \n\nNick you maybe could do a Bedroom  Series bedroom best bedroom ideas and bad ones too",
+            "polarity": 0.2760416666666667,
+            "subjectivity": 0.5635416666666666
+        },
+        {
+            "body": "A few years ago I changed from cotton to linen bedding. I love linen sheets. They\u2019re warm in Winter and cool in Summer, very comfortable and the texture helps to make the room look and feel cosy. I use dark greys in Winter and pale grey & white in Summer.",
+            "polarity": 0.1511111111111111,
+            "subjectivity": 0.4033333333333333
+        },
+        {
+            "body": "I really struggle with the rug thing because my room is a awkward shape and to have one under my bed like is often suggested would get in the way of my closet door, even if it were really thin. But I do have laminate(?) flooring, so it would be nice to have something cosy on the floor.",
+            "polarity": -0.05000000000000002,
+            "subjectivity": 0.7625
+        },
+        {
+            "body": "Ok Nick, I'm gonna have to confiscate that bedroom photo \ud83d\ude02",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

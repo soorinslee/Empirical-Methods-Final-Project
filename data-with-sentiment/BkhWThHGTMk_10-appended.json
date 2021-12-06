@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 12:24:22",
+    "url": "https://www.youtube.com/watch?v=BkhWThHGTMk",
+    "time_now": "2021-11-01 09:54:09",
+    "ups": "7472",
+    "downs": "406",
+    "views": "629464",
+    "top_comments": [
+        {
+            "comment": "ni ..... ni... ni...ni..\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nai nai yeah to ho \ud83d\ude02 \ud83d\ude02 \ud83d\ude02 \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Indian commentators fity muh",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "good pakistani team",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Nahi nahi nahi hillarious",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "MASHALLAH SUBHANALLAH ALLAH HU AKBAR",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Or ya kbi jit b nh skta hm sa",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Indian commentators fity muh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That \u201cnai nai\u201d \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nai nai yeah to ho \ud83d\ude02 \ud83d\ude02 \ud83d\ude02 \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That \" Nahi Nahi\" shows how much they hate Pakistan.",
+            "polarity": -0.30000000000000004,
+            "subjectivity": 0.55
+        }
+    ]
+}

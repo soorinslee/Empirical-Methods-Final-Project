@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 12:04:22",
+    "url": "https://www.youtube.com/watch?v=RqnFN8W8Ygs",
+    "time_now": "2021-11-01 05:47:16",
+    "ups": "337",
+    "downs": "67",
+    "views": "35077",
+    "top_comments": [
+        {
+            "comment": "Kung si Pacquiao siguro ang nangunguna sa survey, maniniwala sa survey si Atienza.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Puede nman yun kunin mo yun pera iboto kung ano ang nsa concencya kya lng wag nila takutin o bantayan yun mga binigyan nila",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "WE WILL SUPPORT LENI-KIKO TEAM FOR THE GOOD GOVERNANCE OF OUR COUNTRY.\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "Pag ibig at pag mamahal, pero  pinipili lang ang pinatatawad. A bunch of a hypocrite. Mr. KP representative, your mind is out of this world. Wake up and look around.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hayy this Atienza another \" trapo \". Puro salita , kulang sa gawa. Nag uuto lang .",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I do not expect that Atienza is this low.",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "LENI AT KIKO LANG ANG MALAKAS. HINDI CORRUPT, MAKATAO, MAKADIYOS AT TUNAY NA PUBLIC SERVANT.",
+            "polarity": -0.25,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "indi din nabigyan ng conclusion ang corruption issues inumpisahan ni manny",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

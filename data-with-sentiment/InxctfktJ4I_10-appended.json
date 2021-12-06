@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:22:54",
+    "url": "https://www.youtube.com/watch?v=InxctfktJ4I",
+    "time_now": "2021-11-01 09:54:06",
+    "ups": "551",
+    "downs": "42",
+    "views": "23238",
+    "top_comments": [
+        {
+            "comment": "congrats to those who watched from start to finish",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "in my 50 years ive never seen him with a brush in his hands",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u201cI met Andy Warhol at a really chic party\nBlow it out your hairdo 'cause you work at Hardees\u201d   - Dead Milkmen",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "I don't know much about this artist but wow...his life was crazier than I imagined.",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "I thought he died from like a surgery",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I feel like, his creativity came from illegal substances... not that I have ever tried taking some",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

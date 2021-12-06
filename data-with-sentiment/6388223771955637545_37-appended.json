@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj3dtv/is_popular_music_becoming_sadder/",
+    "time_posted": "2021-10-30 11:07:55",
+    "time_now": "2021-11-06 01:10:38",
+    "ups": 7,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hingr93",
+            "body": "Popular because the population is sad.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "hinm9wb",
+            "body": "I hear people saying music is becoming happier. It is both imo",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "comment_id": "hio0zdj",
+            "body": "I\u2019ve read something similar. Most songs are in minor key these days. There used to be more songs in major key. Minor is generally associated with sad, major with happy. But there\u2019s lots of examples of happy songs in minor and sad songs in major key. So it\u2019s not a good way to measure the sadness of music.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.07430555555555556,
+            "subjectivity": 0.6444444444444444
+        },
+        {
+            "comment_id": "hingc0h",
+            "body": "It is true. Also it is getting less and less creative with countless songs being just beats with little to no melody. Also often the beats are the same in multiple songs.",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.041145833333333326,
+            "subjectivity": 0.36354166666666665
+        },
+        {
+            "comment_id": "hinmbcs",
+            "body": "Maybe to some degree, but I think it just changes a lot. Some years are going to have happier pop music than others. I don't think it's really a big trend or anything though.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hingr93",
+            "body": "Popular because the population is sad.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "hinm9wb",
+            "body": "I hear people saying music is becoming happier. It is both imo",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "comment_id": "hio0zdj",
+            "body": "I\u2019ve read something similar. Most songs are in minor key these days. There used to be more songs in major key. Minor is generally associated with sad, major with happy. But there\u2019s lots of examples of happy songs in minor and sad songs in major key. So it\u2019s not a good way to measure the sadness of music.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.07430555555555556,
+            "subjectivity": 0.6444444444444444
+        },
+        {
+            "comment_id": "hingc0h",
+            "body": "It is true. Also it is getting less and less creative with countless songs being just beats with little to no melody. Also often the beats are the same in multiple songs.",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.041145833333333326,
+            "subjectivity": 0.36354166666666665
+        },
+        {
+            "comment_id": "hinmbcs",
+            "body": "Maybe to some degree, but I think it just changes a lot. Some years are going to have happier pop music than others. I don't think it's really a big trend or anything though.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hingr93",
+            "body": "Popular because the population is sad.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "hinm9wb",
+            "body": "I hear people saying music is becoming happier. It is both imo",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "comment_id": "hio0zdj",
+            "body": "I\u2019ve read something similar. Most songs are in minor key these days. There used to be more songs in major key. Minor is generally associated with sad, major with happy. But there\u2019s lots of examples of happy songs in minor and sad songs in major key. So it\u2019s not a good way to measure the sadness of music.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.07430555555555556,
+            "subjectivity": 0.6444444444444444
+        },
+        {
+            "comment_id": "hingc0h",
+            "body": "It is true. Also it is getting less and less creative with countless songs being just beats with little to no melody. Also often the beats are the same in multiple songs.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.041145833333333326,
+            "subjectivity": 0.36354166666666665
+        },
+        {
+            "comment_id": "hinmbcs",
+            "body": "Maybe to some degree, but I think it just changes a lot. Some years are going to have happier pop music than others. I don't think it's really a big trend or anything though.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

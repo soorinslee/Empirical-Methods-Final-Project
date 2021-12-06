@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:00:18",
+    "url": "https://www.youtube.com/watch?v=bm10lJQFxMs",
+    "time_now": "2021-11-02 14:44:58",
+    "ups": "8979",
+    "downs": "111",
+    "views": "231920",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "We are with you stay strong stand United against them democrats you know better how to raise your children",
+            "polarity": 0.4666666666666667,
+            "subjectivity": 0.6166666666666667
+        },
+        {
+            "body": "Stand up against the Democrats you\u2019re stronger than they are together we are with you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If machines are still being used democrats are still going to cheat just enough to maintain control over everything just like they did in 2020 when they stole the WH and the senate run-off!",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "if they have mail in voting the dems will cheat and steal your vote",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The demorats want total control",
+            "polarity": 0.0,
+            "subjectivity": 0.75
+        }
+    ]
+}

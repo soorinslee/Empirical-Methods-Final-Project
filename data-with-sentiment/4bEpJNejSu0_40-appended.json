@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-06 13:30:55",
+    "ups": "7924",
+    "downs": "457",
+    "views": "785574",
+    "top_comments": [
+        {
+            "comment": "Wale got Nore drunk as hell, even though Nore was trying to get  Wale drunk!!!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.73828125,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Wale got a irritating personality lol!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "This the most boring D. Champs I've seen .....the lil bit I did watch....main put Sanford & Son on.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Coked up after he went 2 the bathroom.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wale is better than Kendrick and Cole combined. Not even a debate.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Nore said he can see wale in a verses with busta? Now I know that nigga nore drunk...",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I guess I expected more \u2026 but two male Virgos \u2026 bruh \ud83d\ude29\ud83e\udd23",
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Wale got a irritating personality lol!",
+            "polarity": 0.3,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I hate how wale acting",
+            "polarity": -0.4,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "Wale is drunk I\u2019ve never seen him like this in interviews..He\u2019s very blunt when drunk lol..",
+            "polarity": 0.0,
+            "subjectivity": 0.75
+        }
+    ]
+}

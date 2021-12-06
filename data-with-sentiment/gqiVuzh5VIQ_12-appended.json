@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:00:33",
+    "url": "https://www.youtube.com/watch?v=gqiVuzh5VIQ",
+    "time_now": "2021-11-01 18:08:32",
+    "ups": "10231",
+    "downs": "163",
+    "views": "194071",
+    "top_comments": [
+        {
+            "comment": "What should I react to next...?",
+            "likes": 170,
+            "number_of_replies": 60,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "5:49 My eyes\u2026",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "bford i can help you be better at football if you come to england",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "2:53 it\u2019s Luton town btw",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "My video in the thumbnail",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "lAcRoX",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

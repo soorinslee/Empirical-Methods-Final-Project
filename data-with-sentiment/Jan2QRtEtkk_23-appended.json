@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 13:00:08",
+    "url": "https://www.youtube.com/watch?v=Jan2QRtEtkk",
+    "time_now": "2021-11-03 15:28:41",
+    "ups": "45737",
+    "downs": "1170",
+    "views": "1205060",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You waste your efforts trying to fix issues these days when no one knows anymore how to identify the cause of an issue. If you correctly identify the cause of an issue, you can quickly correct it... if you incorrectly identify the cause of an issue, then you can waste all your efforts and not affect it.",
+            "polarity": -0.022222222222222237,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "There hanging back,because they don't. Want to be slagged off!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Great report!",
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "We are not in the craphole cities, we are out here in the country building things.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Too many vaccines to many pharmaceuticals in the water and food.subliminal messages and social engineering",
+            "polarity": 0.3444444444444445,
+            "subjectivity": 0.35555555555555557
+        }
+    ]
+}

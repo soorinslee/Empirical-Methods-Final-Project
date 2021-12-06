@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=8yUWg6_vCAk",
+    "time_now": "2021-10-31 09:11:21",
+    "ups": "2557",
+    "downs": "270",
+    "views": "50596",
+    "top_comments": [
+        {
+            "comment": "\"Discarded maps\" lol Discarded is the *name* of the map... next time pick a better organized title lol.",
+            "likes": 14,
+            "number_of_replies": 1,
+            "polarity": 0.525,
+            "subjectivity": 0.475
+        },
+        {
+            "comment": "Different biomes, but same-y maps. Weird.",
+            "likes": 5,
+            "number_of_replies": 3,
+            "polarity": -0.25,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Woah can't wait to NOT BE ABLE to do all of these and just running around the map getting headshoted from every player out there!......",
+            "likes": 5,
+            "number_of_replies": 3,
+            "polarity": 0.625,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "This is going to be satisfying to play \ud83d\ude0d",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Not impressed",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I would love to have gyro aiming in this.",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Was hyped\u2026 but no more. Won\u2019t buy.",
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        }
+    ]
+}

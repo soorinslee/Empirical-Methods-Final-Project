@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-06 01:09:33",
+    "ups": "16008",
+    "downs": "356",
+    "views": "204707",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 867,
+            "number_of_replies": 20,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Lmao way to get those boys sweaty\nThis was dope! Flippin love it! \nIf you ever do a cover song of cartoon songs \ud83c\udfb6 \"Toxic Love\" - Tim Curry \ud83c\udfb6\nBro that song...that microphone needed a minute and a cigarette after what Tim Curry sang \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "am supposed to be working. happened onto YT and seen this new one.  HAD TO CHECK IT OUT.  Love Phil for years.  This was a great cover Ms. Orlandi!. Just wish there was that amazing Phil drum beats in this too :P",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5972727272727273,
+            "subjectivity": 0.740909090909091
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udda4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Another cover of Violets on my playlist love this",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "doing a cover of this song and leaving out the drum solo is crime that just cannot be forgiven",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "downloadable on streaming platforms please ? \ud83d\ude01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-11-03 07:14:26",
+    "ups": "2013",
+    "downs": "34",
+    "views": "119256",
+    "top_comments": [
+        {
+            "comment": "I love how Claudio just didn\u2019t say anything and complemented the soup when it poured on him.",
+            "likes": 52,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Thea asking \"how am i doing guys\" after people cheer for Trevor is so cringy....",
+            "likes": 19,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love Claudio's reaction at having food thrown on him xD\n\nAny person's reaction : \"You clumsy moron, look at what you've done you donut!!!\" \nClaudio's reaction : *YUM!* xD",
+            "likes": 10,
+            "number_of_replies": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "I felt that instinctually when her soup fell on Claudio.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Jeremy's overconfident cost him the final",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I feel like judge Alvin purposely tries to come off as annoying. But he is a good guy.",
+            "polarity": -0.0666666666666667,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "body": "My man Eric smiles upsidw down LMAOO",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        }
+    ]
+}

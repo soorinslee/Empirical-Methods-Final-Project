@@ -1,0 +1,171 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qiw68w/2_days_of_long_drive_with_my_6_years_old_husband/",
+    "time_posted": "2021-10-30 03:11:14",
+    "time_now": "2021-10-30 16:46:58",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "him8z9u",
+            "body": "You guys know what I meant.. It was just so I get your attention which I have now. So pls help me with the playlists",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "him89l2",
+            "body": "I would think having a 6 year old husband has already made it memorable...\n\nProofreading is a wonderful thing to do before hitting \"post\".",
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment_id": "him8510",
+            "body": "Might wanna rethink the title of this post OP.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "him84sp",
+            "body": "You go right to prison",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "comment_id": "him7qal",
+            "body": "Is this legal?",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "him7lyf",
+            "body": "I am so confused by the title and description.",
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "him7lyf",
+            "body": "I am so confused by the title and description.",
+            "ups": 10,
+            "downs": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment_id": "him8510",
+            "body": "Might wanna rethink the title of this post OP.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "him7qal",
+            "body": "Is this legal?",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "him84sp",
+            "body": "You go right to prison",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "comment_id": "him89l2",
+            "body": "I would think having a 6 year old husband has already made it memorable...\n\nProofreading is a wonderful thing to do before hitting \"post\".",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "him7lyf",
+            "body": "I am so confused by the title and description.",
+            "ups": 11,
+            "downs": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment_id": "him8510",
+            "body": "Might wanna rethink the title of this post OP.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "him7qal",
+            "body": "Is this legal?",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "him84sp",
+            "body": "You go right to prison",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "comment_id": "him89l2",
+            "body": "I would think having a 6 year old husband has already made it memorable...\n\nProofreading is a wonderful thing to do before hitting \"post\".",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "him7lyf",
+            "body": "I am so confused by the title and description.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment_id": "him8510",
+            "body": "Might wanna rethink the title of this post OP.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "him7qal",
+            "body": "Is this legal?",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "him84sp",
+            "body": "You go right to prison",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "comment_id": "him89l2",
+            "body": "I would think having a 6 year old husband has already made it memorable...\n\nProofreading is a wonderful thing to do before hitting \"post\".",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.7333333333333334
+        }
+    ]
+}

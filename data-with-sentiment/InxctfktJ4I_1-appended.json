@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:22:54",
+    "url": "https://www.youtube.com/watch?v=InxctfktJ4I",
+    "time_now": "2021-10-30 20:51:39",
+    "ups": "309",
+    "downs": "27",
+    "views": "10291",
+    "top_comments": [
+        {
+            "comment": "He didn\u2019t spit anything in anyone\u2019s face. \nHe ate it up and became \u201cThem\u201d.",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Very educational for me I heard His Name a couple of times never know what he did until now\ud83e\udd14",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.325,
+            "subjectivity": 0.325
+        },
+        {
+            "comment": "I really liked the season of AHS that featured this story",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.6,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "He kind of looks like chairblind, \u201cwhat\u2019s up guys and in today\u2019s video we\u2019re gonna be showing you how to bag a dead body, uh what\u2019s ur name maam\u201d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "\u201cI met Andy Warhol at a really chic party\nBlow it out your hairdo 'cause you work at Hardees\u201d   - Dead Milkmen",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.30000000000000004
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I thought he died from like a surgery",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Looks like he stole her ideas \ud83d\udca1 & he did not give her credit also part-time pyschopath",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u201cI met Andy Warhol at a really chic party\nBlow it out your hairdo 'cause you work at Hardees\u201d   - Dead Milkmen",
+            "polarity": 0.0,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "I don't know much about this artist but wow...his life was crazier than I imagined.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

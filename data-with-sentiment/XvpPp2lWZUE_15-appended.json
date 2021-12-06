@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 16:00:14",
+    "url": "https://www.youtube.com/watch?v=XvpPp2lWZUE",
+    "time_now": "2021-11-02 06:30:25",
+    "ups": "25281",
+    "downs": "71",
+    "views": "250773",
+    "top_comments": [
+        {
+            "comment": "happy international spooky day",
+            "likes": 497,
+            "number_of_replies": 13,
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u041e\u0431\u043e\u0436\u0430\u044e \u044d\u0442\u043e\u0433\u043e \u043d\u0430\u0440\u043a\u043e\u043b\u044b\u043a\u0443",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "MRGLGRGLGRGLGRGLGRGL",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

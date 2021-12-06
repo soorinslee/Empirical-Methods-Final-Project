@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-03 15:28:10",
+    "ups": "6784",
+    "downs": "362",
+    "views": "570882",
+    "top_comments": [
+        {
+            "comment": "Wale, Burna Boy and Jae Crowder the same Person",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "comment": "WALE VS BIG SEAN VERZUZ MAKE IT HAPPEN!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "2:43 he was talking about the most powerful Marvel character : T'Challa BlackPanther  Get with it man!!",
+            "polarity": 0.484375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Wale roasting Nore is funny af",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Nore fucked up and DC IN HERE UPT",
+            "polarity": -0.6,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Wale mad respect! Nor mad respect. I love this     216. Just have people like y\u2019all around. Makes life better. Solid.",
+            "polarity": -0.08125,
+            "subjectivity": 0.64
+        },
+        {
+            "body": "BiG was the first",
+            "polarity": 0.125,
+            "subjectivity": 0.21666666666666667
+        },
+        {
+            "body": "Not gonna lie....they literally didn't talk about shit in this interview.",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        }
+    ]
+}

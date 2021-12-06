@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 13:20:41",
+    "url": "https://www.youtube.com/watch?v=WHTOZc4F6hc",
+    "time_now": "2021-10-31 17:25:27",
+    "ups": "478",
+    "downs": "23",
+    "views": "45058",
+    "top_comments": [
+        {
+            "comment": "Standard jogger outfit\n-Hoodie (any color)\n-Sagging pants (below ass more gansta)\n-Gun (when shooting preferably to the \n             side, in their mind it looks cooler)\n-Nike sneaker (J\u2019s, AF1 etc)\n-$900 phone (IPhone, Samsung, Obama)\n-Box cutter (any will do)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Two Punks!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need a description of the suspects.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Two strong black males dont you ever let anyone else tell you different - strong black queen lol",
+            "polarity": 0.22222222222222224,
+            "subjectivity": 0.6055555555555556
+        },
+        {
+            "body": "You leave your home and you don\u2019t know if you will make it back. This is outrageous that the weak progressive Democrats allow this to happen. No one is doing anything about it, but blame it on COVID. Crime has been terrible for years ever since Deblazio took office this city has really gotten worse.  I pray the next mayor takes a strong stand on crime and doesn\u2019t back down on all the progressive politicians and progressive movements who are anti police and pro-crime. Wake up NY now is the time",
+            "polarity": -0.22972222222222222,
+            "subjectivity": 0.4447222222222222
+        }
+    ]
+}

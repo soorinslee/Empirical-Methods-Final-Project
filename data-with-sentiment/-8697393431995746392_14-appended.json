@@ -1,0 +1,110 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj4esa/we_need_to_have_mobile_gaming_phones_without/",
+    "time_posted": "2021-10-30 11:59:38",
+    "time_now": "2021-11-02 02:25:06",
+    "ups": 2,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinmldl",
+            "body": "minimal",
+            "ups": 10,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinq4fw",
+            "body": "Gaming phones without cameras? Why not take the phone part away too?\n\nYou will end up with a device that run games and has internet acess.\n\nWhich is almost what portable consoles are, but I wouldn't be texting this reply from my 3ds. Its absolutely not the same thing.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.5125
+        },
+        {
+            "comment_id": "hinor37",
+            "body": "Wouldn't that make it a hand held console",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinnfmb",
+            "body": "Bruh, just smash phone camera in store then buy it :D",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinmldl",
+            "body": "minimal",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinq4fw",
+            "body": "Gaming phones without cameras? Why not take the phone part away too?\n\nYou will end up with a device that run games and has internet acess.\n\nWhich is almost what portable consoles are, but I wouldn't be texting this reply from my 3ds. Its absolutely not the same thing.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.5125
+        },
+        {
+            "comment_id": "hinor37",
+            "body": "Wouldn't that make it a hand held console",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinnfmb",
+            "body": "Bruh, just smash phone camera in store then buy it :D",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinmldl",
+            "body": "minimal",
+            "ups": 10,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinq4fw",
+            "body": "Gaming phones without cameras? Why not take the phone part away too?\n\nYou will end up with a device that run games and has internet acess.\n\nWhich is almost what portable consoles are, but I wouldn't be texting this reply from my 3ds. Its absolutely not the same thing.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.5125
+        },
+        {
+            "comment_id": "hinor37",
+            "body": "Wouldn't that make it a hand held console",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinnfmb",
+            "body": "Bruh, just smash phone camera in store then buy it :D",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

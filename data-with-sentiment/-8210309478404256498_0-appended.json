@@ -1,0 +1,201 @@
+{
+    "post_url": "https://www.reddit.com/r/LifeProTips/comments/qij1oh/lpt_request_how_do_you_guys_list_the_groceries/",
+    "time_posted": "2021-10-29 14:22:14",
+    "time_now": "2021-10-30 16:50:24",
+    "ups": 6,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hijlgzo",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hikdejs",
+            "body": "Todoist app, shared list.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hik7y5k",
+            "body": "Check the app Out of Milk. Add your SO to a list and you can sync.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hik4y2u",
+            "body": "Share a list in the cloud (Reminders or Notes app) that both of you can add to\n\nUse a magnetic white board on the fridge so you can write stuff down as soon as you notice you need it",
+            "polarity": -0.07777777777777779,
+            "subjectivity": 0.14444444444444446
+        },
+        {
+            "comment_id": "hik0qs9",
+            "body": "We use Google shopping list",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hijxsch",
+            "body": "we have a whiteboard in the kitchen and we write down what we need as we remember it",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "comment_id": "hijxi95",
+            "body": "Small chalkboard in the kitchen",
+            "polarity": -0.25,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hijvzds",
+            "body": "We use the Cozi app to keep a shared grocery list. It works well for us",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hijvnhb",
+            "body": "We usually shop together. We both put things in the notes on our phone when we think of them, and then if only one person goes, the other person texts them their list so they can be combined.  \nWe would probably use a shared app if we weren\u2019t too cheap to pay for one. We use one to keep track of appointments.",
+            "polarity": 0.0062500000000000056,
+            "subjectivity": 0.58125
+        },
+        {
+            "comment_id": "hijuc8b",
+            "body": "I'm the shopper in my house of 3 adults.  There is a grocery list on the counter.  If it's not on the list, I don't buy it.  No whining about not having chips!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hijmijk",
+            "body": "In the old days, a piece of paper in the kitchen where we can both add to the list. Now, we use Google Keep and have a shared list.",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hijlgzo",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hijmijk",
+            "body": "In the old days, a piece of paper in the kitchen where we can both add to the list. Now, we use Google Keep and have a shared list.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hijuc8b",
+            "body": "I'm the shopper in my house of 3 adults.  There is a grocery list on the counter.  If it's not on the list, I don't buy it.  No whining about not having chips!",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hik0qs9",
+            "body": "We use Google shopping list",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hijvnhb",
+            "body": "We usually shop together. We both put things in the notes on our phone when we think of them, and then if only one person goes, the other person texts them their list so they can be combined.  \nWe would probably use a shared app if we weren\u2019t too cheap to pay for one. We use one to keep track of appointments.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0062500000000000056,
+            "subjectivity": 0.58125
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hijlgzo",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hijmijk",
+            "body": "In the old days, a piece of paper in the kitchen where we can both add to the list. Now, we use Google Keep and have a shared list.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hijuc8b",
+            "body": "I'm the shopper in my house of 3 adults.  There is a grocery list on the counter.  If it's not on the list, I don't buy it.  No whining about not having chips!",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hik0qs9",
+            "body": "We use Google shopping list",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hijvnhb",
+            "body": "We usually shop together. We both put things in the notes on our phone when we think of them, and then if only one person goes, the other person texts them their list so they can be combined.  \nWe would probably use a shared app if we weren\u2019t too cheap to pay for one. We use one to keep track of appointments.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0062500000000000056,
+            "subjectivity": 0.58125
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hijlgzo",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hijmijk",
+            "body": "In the old days, a piece of paper in the kitchen where we can both add to the list. Now, we use Google Keep and have a shared list.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hijuc8b",
+            "body": "I'm the shopper in my house of 3 adults.  There is a grocery list on the counter.  If it's not on the list, I don't buy it.  No whining about not having chips!",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hik0qs9",
+            "body": "We use Google shopping list",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hijvnhb",
+            "body": "We usually shop together. We both put things in the notes on our phone when we think of them, and then if only one person goes, the other person texts them their list so they can be combined.  \nWe would probably use a shared app if we weren\u2019t too cheap to pay for one. We use one to keep track of appointments.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0062500000000000056,
+            "subjectivity": 0.58125
+        }
+    ]
+}

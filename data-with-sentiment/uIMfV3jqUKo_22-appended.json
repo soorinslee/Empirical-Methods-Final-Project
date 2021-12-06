@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-03 11:21:22",
+    "ups": "23176",
+    "downs": "1678",
+    "views": "575853",
+    "top_comments": [
+        {
+            "comment": "\"Leaf is short thing\" \n\"Mother and God is everything\" \n\"Support is everything\".\u2764\ufe0f\ud83d\udc9c\u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Future",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "Christianity and Hinduism/ Sanatan Dharma are the only hope for the humanity and this planet.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "ECONOMY BHI DEKHLO {}",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It is stupid to let modi visit to vatigan he has killed countless lnnocent minority in india",
+            "polarity": -0.3333333333333333,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I am Catholic I proud\ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

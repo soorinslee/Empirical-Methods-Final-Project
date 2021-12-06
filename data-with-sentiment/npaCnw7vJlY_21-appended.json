@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-11-03 07:13:42",
+    "ups": "7691",
+    "downs": "72",
+    "views": "137845",
+    "top_comments": [
+        {
+            "comment": "One of my favorite songs by Adele n this young talented lady Gave Me Goosebumps...love it keep it up",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.7666666666666666
+        },
+        {
+            "comment": "Allie never fails to hit the spot. She is an unbelievable talent \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\nTake Care Stay Safe Everyone Regards Dave \ud83d\udc4d\ud83d\ude0e\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Brilliant voice!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Your going to hit 5 Million subscribers before the end of the year...\ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Another good song of Adele \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\uc544\ub378\uc758 \uace1\uc744 \uacc4\uc18d \ubd88\ub7ec\uc8fc\uc138\uc694\u263a\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

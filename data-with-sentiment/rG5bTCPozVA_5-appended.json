@@ -1,0 +1,50 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-10-31 13:18:46",
+    "ups": "371",
+    "downs": "3",
+    "views": "5737",
+    "top_comments": [
+        {
+            "comment": "Powerful job. Your attention to detail means the end result is top class.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Do these pipes not rust inside?.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wrong video I know, but your \"how to change a toilet fill valve and flush valve\" video was a great help, so thank you \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udcaa\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0888888888888889,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "comment": "Simply listing the products required already convinced me ripping off and replacing with PVC is better.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.4285714285714286
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "that's crazy. I don't think any contractor would come out for such a job. impressive.",
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "Another excellent video Charlie. A real masterclass. Anyone with cast iron rainwater good should watch this video. Btw, loving the Discord chatter!",
+            "polarity": 0.6625,
+            "subjectivity": 0.7125
+        }
+    ]
+}

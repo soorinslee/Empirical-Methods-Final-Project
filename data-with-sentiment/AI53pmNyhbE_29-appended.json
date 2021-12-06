@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-04 16:11:21",
+    "ups": "32829",
+    "downs": "5453",
+    "views": "7306964",
+    "top_comments": [
+        {
+            "comment": "our childhood memories \ud83d\ude1f\ud83e\udd7a\ud83e\udd7a",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nah koi tha nah koi heh Divya bharti one and only fans of millions hearts \u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm Bangladeshi .divya varti is the best actor of India.",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "love song",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Very good and songs",
+            "polarity": 0.9099999999999999,
+            "subjectivity": 0.7800000000000001
+        },
+        {
+            "body": "our childhood memories \ud83d\ude1f\ud83e\udd7a\ud83e\udd7a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice song \ud83c\udfa7",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Bazi insonlar ulgan bolsalarxam tirikdirlar bazilar 60 ga kirsalarxam olikdirlar tirikligida olikdirlar",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Divyaga loyiq insonlar bolmagan atrofina Ollox ximoyasi jonini olgan qayta yaxshi insonlar orasindan umr bersin Olloxim Divya judayam pokiza yosh boladay",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

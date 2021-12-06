@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 11:30:06",
+    "url": "https://www.youtube.com/watch?v=gWYcQ_pHemU",
+    "time_now": "2021-11-03 07:14:18",
+    "ups": "4864",
+    "downs": "75",
+    "views": "120983",
+    "top_comments": [
+        {
+            "comment": "If Younkin wins I will move to VA instead of MD.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Prayers for the people of Virginia   and victory for Youngkin",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "McAuliffe is a Communist!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lech Alex Bajan, Polish American and Polish American Legions for Youngkin governor of the Great State of Virginia. 2021. We are the people.",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.25
+        }
+    ]
+}

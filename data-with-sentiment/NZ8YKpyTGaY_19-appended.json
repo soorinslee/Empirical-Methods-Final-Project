@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-02 22:59:53",
+    "ups": "10153",
+    "downs": "817",
+    "views": "567612",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You know there is kids watching this",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I got fifteen cookies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I SO for cookies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

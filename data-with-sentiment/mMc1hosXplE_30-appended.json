@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 15:33:28",
+    "url": "https://www.youtube.com/watch?v=mMc1hosXplE",
+    "time_now": "2021-11-04 20:19:01",
+    "ups": "1931",
+    "downs": "40",
+    "views": "53394",
+    "top_comments": [
+        {
+            "comment": "kashmir ko bacha lo mera bhaiyo hindu haivanoo sa",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Dal lake meant for relaxation and admiring the lake \nThis kind of event makes nose and harmful for the lake and charm \nThe world remembers dal lake\nFor its dignity and appreciation",
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        }
+    ]
+}

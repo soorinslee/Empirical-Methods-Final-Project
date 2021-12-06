@@ -1,0 +1,183 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj0nkl/just_discovered_my_amazon_gaming_wishlist_from/",
+    "time_posted": "2021-10-30 08:39:22",
+    "time_now": "2021-10-30 16:47:46",
+    "ups": 70,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hine51y",
+            "body": "What was the game that is no longer available? You said you'd buy it even if its bad. Did you, and was it?",
+            "polarity": -0.23333333333333328,
+            "subjectivity": 0.48888888888888893
+        },
+        {
+            "comment_id": "hin12ah",
+            "body": "Streets of LA was my first PS2 game!",
+            "polarity": -0.125,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "comment_id": "hin06gr",
+            "body": "I like that you commented on yours. I\u2019ve never used that function. Bet you could get a PS2 and these games for less than the cost of 2 games twenty years ago.",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "comment_id": "himyuj9",
+            "body": "THUG was the shit to play when I was younger.",
+            "polarity": -0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "himy4xb",
+            "body": "I might be wrong but I think tony hawk underground was one of the first network playable games?  So that was really exciting at the time.",
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.6777777777777777
+        },
+        {
+            "comment_id": "himxtp9",
+            "body": "Everything except Gran Turismo I bought for GameCube.\n\nI ended up liking True Crime more than any of the GTA games that gen (the GTA games I bought on PC).",
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment_id": "himxra1",
+            "body": "Well you waited long enough, saves you some money buying them now instead of 20 years ago",
+            "polarity": -0.025,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "himxmu2",
+            "body": "Need for Speed Underground 2 was goat.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "himxmu2",
+            "body": "Need for Speed Underground 2 was goat.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himxra1",
+            "body": "Well you waited long enough, saves you some money buying them now instead of 20 years ago",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.025,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "himy4xb",
+            "body": "I might be wrong but I think tony hawk underground was one of the first network playable games?  So that was really exciting at the time.",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.6777777777777777
+        },
+        {
+            "comment_id": "himxtp9",
+            "body": "Everything except Gran Turismo I bought for GameCube.\n\nI ended up liking True Crime more than any of the GTA games that gen (the GTA games I bought on PC).",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment_id": "himyuj9",
+            "body": "THUG was the shit to play when I was younger.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.4
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himy4xb",
+            "body": "I might be wrong but I think tony hawk underground was one of the first network playable games?  So that was really exciting at the time.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.6777777777777777
+        },
+        {
+            "comment_id": "himxmu2",
+            "body": "Need for Speed Underground 2 was goat.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himxra1",
+            "body": "Well you waited long enough, saves you some money buying them now instead of 20 years ago",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.025,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "himxtp9",
+            "body": "Everything except Gran Turismo I bought for GameCube.\n\nI ended up liking True Crime more than any of the GTA games that gen (the GTA games I bought on PC).",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment_id": "himyuj9",
+            "body": "THUG was the shit to play when I was younger.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.4
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himy4xb",
+            "body": "I might be wrong but I think tony hawk underground was one of the first network playable games?  So that was really exciting at the time.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.6777777777777777
+        },
+        {
+            "comment_id": "himxmu2",
+            "body": "Need for Speed Underground 2 was goat.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himxra1",
+            "body": "Well you waited long enough, saves you some money buying them now instead of 20 years ago",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.025,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "himxtp9",
+            "body": "Everything except Gran Turismo I bought for GameCube.\n\nI ended up liking True Crime more than any of the GTA games that gen (the GTA games I bought on PC).",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment_id": "himyuj9",
+            "body": "THUG was the shit to play when I was younger.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.4
+        }
+    ]
+}

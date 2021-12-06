@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-05 04:33:47",
+    "ups": "7696",
+    "downs": "65",
+    "views": "112362",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 585,
+            "number_of_replies": 157,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Which time better to do this stretches?\n(Sry for my bad english)",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.06666666666666661,
+            "subjectivity": 0.38888888888888884
+        },
+        {
+            "comment": "#annamcnultychallenge #flexibility #stretch",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hi Anna I\u2019m a big fan",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Is there like a specific time to do these stretches .... like u know yoga has timing ... smthng like dat \ud83d\ude05\ud83d\ude05",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Can you please make an updated balance video or ankle/foot strengthening I\u2019m a ballet dancer trying to get strong enough for pointe shoes and I love your content \u2764\ufe0f",
+            "polarity": 0.3111111111111111,
+            "subjectivity": 0.6111111111111112
+        },
+        {
+            "body": "omg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I know this is off topic but can you do a video on how to become a gymnast at home please it would really be a dream please\ud83e\udd7a\ud83e\udd7a",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

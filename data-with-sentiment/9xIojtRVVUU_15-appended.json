@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-02 06:30:11",
+    "ups": "10391",
+    "downs": "12",
+    "views": "75292",
+    "top_comments": [
+        {
+            "comment": "If you want a *PERFORMANCE* , the one to call is Jackson Wang",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "https://youtu.be/jWa1fS41Ckk\n\nJackson \ud83d\udc51street dance 4 official",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "jackson wang is the real flex. this man can dance, sing, rap and have a great leadership. STAN TALENT ;P",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.525
+        },
+        {
+            "comment": "To watch him dance again.. Wow, it bring all the memories back again.. I remembered the first time I fell in love with him, it's when I saw him dance.. but then I fell in love with his voice too.. And now, everything about him, all the positive energy that he always brings..",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.2628787878787879,
+            "subjectivity": 0.5131313131313131
+        },
+        {
+            "comment": "Love it.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "He is a very good singer \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.9099999999999999,
+            "subjectivity": 0.7800000000000001
+        },
+        {
+            "body": "cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Im really feeling the vibe.With jackson and his band.Panthepack.Im loving all there talent.The rapping on this song is crazy crazy good.They kinda give me a group vibe like Kard.Its just To many vibes make me want to.Pulled up on all his team Wang.Like black panther 4every.Im team wang 4every.",
+            "polarity": -0.011111111111111094,
+            "subjectivity": 0.6472222222222221
+        }
+    ]
+}

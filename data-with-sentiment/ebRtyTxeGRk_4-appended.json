@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:26:58",
+    "url": "https://www.youtube.com/watch?v=ebRtyTxeGRk",
+    "time_now": "2021-10-31 09:11:35",
+    "ups": "377",
+    "downs": "33",
+    "views": "16117",
+    "top_comments": [
+        {
+            "comment": "Waiting for a kind heart \u2764\ufe0f person who can actually support me from his heart \u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Chutti na kriya kro jnab \ud83d\udc9e\ud83c\uddf5\ud83c\uddf0\u2763\ufe0f\ud83c\uddf4\ud83c\uddf2\ud83d\udc95",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Dear Haroon\ud83c\udf39yah hadees e mubarka Hy\u2764\ufe0f\u2615",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Assalamu Alaikum kaise ho theek thak hai Aapki show me aana chahta hun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My fevret show I like this kamal from Amritsar",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "..... ANYBODY MAY LIKE TO DEFINE & EXPLAIN FASSAD FIL-ARZ e PAK !",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Awesome \ud83d\udc4c",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

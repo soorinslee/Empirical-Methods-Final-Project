@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-04 12:04:27",
+    "ups": "17523",
+    "downs": "183",
+    "views": "389422",
+    "top_comments": [
+        {
+            "comment": "I hope world war z aftermath can also be include in firearms expert reacts",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Maybe John could do a review of the classic Xbox game BLACK. i think it has one of the most realistic firearms",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05333333333333332,
+            "subjectivity": 0.36666666666666664
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "May we possibly see guns from the game \"Scum\" i think they are really well done and would like to see them reviewed please?",
+            "polarity": -0.12499999999999999,
+            "subjectivity": 0.49999999999999994
+        },
+        {
+            "body": "the more I watch this the more the game devs decided that tilting the gun on the side for hip firing bugs me. its never help with accuracy except the one fluke episode of myth busters where they shot  two hand guns sideways at the same time.",
+            "polarity": 0.15,
+            "subjectivity": 0.38125
+        },
+        {
+            "body": "gta guns",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Maybe John could do a review of the classic Xbox game BLACK. i think it has one of the most realistic firearms",
+            "polarity": 0.05333333333333332,
+            "subjectivity": 0.36666666666666664
+        },
+        {
+            "body": "at 20:10 you can see the holes in the M16",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "As a designer I would guess that the tilting is a systemic design decision to prevent the gun model eating too much screen space when you are shooting at a group of enemies on a lower elevation.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

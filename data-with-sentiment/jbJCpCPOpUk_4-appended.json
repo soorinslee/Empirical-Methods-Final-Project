@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:00:32",
+    "url": "https://www.youtube.com/watch?v=jbJCpCPOpUk",
+    "time_now": "2021-10-31 09:12:00",
+    "ups": "2457",
+    "downs": "25",
+    "views": "23893",
+    "top_comments": [
+        {
+            "comment": "Love this! Now this project seem alot more easier for me to do, but I love all of your projects! Your hands are truly gifted.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5625,
+            "subjectivity": 0.675
+        },
+        {
+            "comment": "You\u2019re truly amazing , so creative in every piece you put together \ud83d\udc4f\ud83d\udc4f thank you for sharing your talent with us may god bless you",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "It\u2019s Beautiful \u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Girl, you\u2019re so talented and gifted! God bless you! You have no idea how brilliant your ideas are\u2026amaazinggg!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8270833333333334,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "comment": "As always ABSOLUTELY amazingly beautiful. I positively love all the creative ideas. You are such a blessing, \nTHANK YOU for sharing your many talents.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.47000000000000003,
+            "subjectivity": 0.72
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Girl, I want to thank you! I love home decor but was done with both HGTV and diy network, neither knows POC exist\ud83d\ude44 I haven't watched in over a year, but I also went looking for POC to watch. Looking on YouTube I find you doing 10,000 times more than what they've been showing, and I'm hooked\ud83d\ude0d Everytime I get a notification you are creating something amazing, your creativity is beyond belief. Thank you.",
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

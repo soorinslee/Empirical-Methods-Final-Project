@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 15:00:34",
+    "url": "https://www.youtube.com/watch?v=qJ2IP7O7sPc",
+    "time_now": "2021-11-06 13:31:06",
+    "ups": "104499",
+    "downs": "1698",
+    "views": "665593",
+    "top_comments": [
+        {
+            "comment": "Kaztro \ud83d\udc99",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "@kaztro active karo",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Antaryami kaha hai \u2639\ufe0f\u2639\ufe0f\u2639\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "OP GAMER \u2764\ufe0f bro \ud83d\ude18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Snax \u2764\ufe0f\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kaztro \ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What Is The Song Used In This Video?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Casetoo Bhai \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "@kaztro active karo",
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Antaryami kaha hai \u2639\ufe0f\u2639\ufe0f\u2639\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

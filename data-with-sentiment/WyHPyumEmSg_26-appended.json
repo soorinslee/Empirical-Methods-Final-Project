@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-04 03:50:26",
+    "ups": "11822",
+    "downs": "121",
+    "views": "146740",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 198,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Not everything is Kicker. \n\nIt's either Kicker or Landfall.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Confidential message: I work for WotC. I am sending this link to the BOSS so that this channel can be de-activated. There will be no uprising today. Obey my command: play magic and do not ask questions.",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I get the feeling you wrote this entire sketch just for the punchline you get to deliver at the end.",
+            "polarity": 0.0,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Kicker is additional cost and cleave is alternate cost. We are not the same",
+            "polarity": 0.0,
+            "subjectivity": 0.0625
+        },
+        {
+            "body": "Flanking and Banding would like a word.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm pretty sure first strike isn't kicker but I know someone will prove me wrong within a few days.",
+            "polarity": 0.06,
+            "subjectivity": 0.6444444444444445
+        },
+        {
+            "body": "Addendum is kind if like a phase structure styled kicker. but flash back has mill and self discard synergies and is not like kicker at all don't bad mouth roar of the wurm like that.",
+            "polarity": -0.03333333333333329,
+            "subjectivity": 0.5222222222222223
+        }
+    ]
+}

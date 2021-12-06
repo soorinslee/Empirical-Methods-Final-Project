@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 15:31:04",
+    "url": "https://www.youtube.com/watch?v=zDfl1TSKeCg",
+    "time_now": "2021-11-05 16:55:01",
+    "ups": "18548",
+    "downs": "245",
+    "views": "243092",
+    "top_comments": [
+        {
+            "comment": "\ud83c\udfa7 \u0938\u0941\u0928\u093f\u090f #TheRanveerShow \u0939\u093f\u0902\u0926\u0940 Spotify \u092a\u0930:\r\nhttps://open.spotify.com/episode/6OOFcnr13qIFp2N9T1stLf\n\n\u0939\u092e\u093e\u0930\u093e Telegram Community Join \u0915\u0930\u0947\u0902 - https://t.me/beerbicepsguy",
+            "likes": 126,
+            "number_of_replies": 10,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thank you \ud83d\ude4f\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ma padhne ke liye krta hu.. agr m*st#rbate nhi krta to m padh nii pata hu \ud83d\ude23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Make your self busy with something porn will not disturb you..",
+            "polarity": 0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Ye click karke bathroom chala gaya mein \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I did it for only 10 days and got weekness & madness",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Ranveer allahbadia - \nSwitch to 1.5x\nMe who already watching in 2X\ud83d\ude06\ud83d\ude06\u2728",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-06 05:17:30",
+    "ups": "5207",
+    "downs": "209",
+    "views": "230647",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 41,
+            "number_of_replies": 40,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "when there is no internet its life when there where no phones no computers and tablet",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I wonder how many trees were cut down to supply the paper \ud83d\ude2a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.17222222222222222,
+            "subjectivity": 0.3944444444444445
+        },
+        {
+            "comment": "0:39 I think BRIGHT SIDE was Typo, it should be written \"Unknown\" not \"Uncnown\".",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "instead of printing paper they should have created pdf of data...easy amd have saved lots of paper.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "IF The Old Man Was Smart He Will Use A Autoclicker",
+            "polarity": 0.15714285714285714,
+            "subjectivity": 0.4214285714285715
+        }
+    ]
+}

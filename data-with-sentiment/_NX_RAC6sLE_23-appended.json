@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-03 15:28:05",
+    "ups": "18358",
+    "downs": "58",
+    "views": "194643",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2609,
+            "number_of_replies": 14,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Your Kitten Can't Leave The Room. Can't Leave JK's Angelic Voice.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I was blown up when I heard this by jungkook \ud83e\udd7a\ud83d\udc95\nCan you believe \ud83e\udd7a i had \ud83d\ude2d tears i felt every word \ud83e\udd7a..my heart was crushed \ud83e\udd7a. I can't explain what I feel whenever i heard jungkooks voice \ud83e\udd7a\ud83d\udc95\nBrooooooooo ..i loveeeee him \ud83e\udd7a\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\u2764\ufe0f\nPlease help me !!!!!!",
+            "polarity": -0.3814697265625,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I love JK\u2019s cover of this song better than the original. His voice and pitch are perfect. His talents are so special! \ud83d\udc9c",
+            "polarity": 0.5642857142857143,
+            "subjectivity": 0.6842857142857144
+        },
+        {
+            "body": "So angelic voice of Jungkook",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Your Kitten Can't Leave The Room. Can't Leave JK's Angelic Voice.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jungkook sings so kindly, i just really like it bc sometime singers go too hard with full voices and belts it tires(?) my ears. But jk sings so softly yet so effectively, it's super healing to me.",
+            "polarity": 0.21527777777777776,
+            "subjectivity": 0.5347222222222222
+        }
+    ]
+}

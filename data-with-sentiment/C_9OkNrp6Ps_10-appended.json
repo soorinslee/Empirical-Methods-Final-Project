@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 11:00:05",
+    "url": "https://www.youtube.com/watch?v=C_9OkNrp6Ps",
+    "time_now": "2021-11-01 09:54:13",
+    "ups": "2823",
+    "downs": "119",
+    "views": "195662",
+    "top_comments": [
+        {
+            "comment": "Now I want fish and chips.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Erm. As a British viewer.....excuse me? Where did this anti UK stuff come from. Also I REALLY don't think an American should be saying that our food is crap lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.039999999999999994,
+            "subjectivity": 0.33999999999999997
+        },
+        {
+            "comment": "This was a nice change for MSNBC. Great piece! Except the British food comment. There are plenty of great English dishes. It\u2019s kind of like saying rap sucks. There\u2019s some decent rap if you look hard enough.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25750000000000006,
+            "subjectivity": 0.5408333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Didn't Fox News win a free speech case when accused of misinformation?",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "What\u2019s that got do with food!!.really \ud83e\udd28",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This was a nice change for MSNBC. Great piece! Except the British food comment. There are plenty of great English dishes. It\u2019s kind of like saying rap sucks. There\u2019s some decent rap if you look hard enough.",
+            "polarity": 0.25750000000000006,
+            "subjectivity": 0.5408333333333333
+        },
+        {
+            "body": "No Confidence in ANY Judges of any US Court, They do what they shouldn't and won't do what they should, sounds like money to me.! Look A Texas, precedent is just a way to turn their backs on the people and to shut people up JUDGES and COPS are the worst LAW BReakers on the PLANET",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Co",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Paul Newman and Sally : is a good flick:. Without Malice.  !!!!!!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

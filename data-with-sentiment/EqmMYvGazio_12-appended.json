@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-01 18:09:08",
+    "ups": "9602",
+    "downs": "72",
+    "views": "180891",
+    "top_comments": [
+        {
+            "comment": "you in the bar with all the college boys lmaoooo love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "My sister is my Uber driver and drives me everywhere, she LOVES me A LOT\ud83e\udd70\ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love the movie happy Gilmore\ud83d\ude0d\ud83d\ude06\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "How exciting!!\ud83e\udd29",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I\u2019ve never seen someone so excited to come to Indiana lol",
+            "polarity": 0.5875,
+            "subjectivity": 0.725
+        },
+        {
+            "body": "I jus thave to say it... Boiler up",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Go slower on your backswing, you\u2019ll have more control :)",
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        }
+    ]
+}

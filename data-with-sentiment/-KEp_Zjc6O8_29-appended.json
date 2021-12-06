@@ -1,0 +1,50 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=-KEp_Zjc6O8",
+    "time_now": "2021-11-04 16:11:13",
+    "ups": "1709",
+    "downs": "26",
+    "views": "34442",
+    "top_comments": [
+        {
+            "comment": "God garrix i love you",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\ud83c\udfa4\ud83c\udf39\u2728",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udcaf",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "A\u00efe a\u00efe a\u00efe \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "like it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude43\ud83d\ude1d\ud83d\udc96\ud83d\udca5\ud83d\udc83",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

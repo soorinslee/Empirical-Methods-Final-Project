@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 13:09:39",
+    "url": "https://www.youtube.com/watch?v=-lUtPDYnKL0",
+    "time_now": "2021-10-31 13:18:17",
+    "ups": "10811",
+    "downs": "158",
+    "views": "245467",
+    "top_comments": [
+        {
+            "comment": "The new clan thing looks really confusing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.08181818181818182,
+            "subjectivity": 0.42727272727272725
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "COULD THIS BE A NEW CLASHROYALE UPDATE ??? OR WHAT GAME IS THIS",
+            "polarity": -0.13181818181818183,
+            "subjectivity": 0.42727272727272725
+        },
+        {
+            "body": "Why haven\u2019t they made this game world wide?",
+            "polarity": -0.25,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "wait is this game still not out for Aussies?",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "OJ: its been a while \nMe: i miss that",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Unfortunately this game isnt available on Indonesia:'(",
+            "polarity": -0.375,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "What game is that",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

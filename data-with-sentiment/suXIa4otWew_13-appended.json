@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 09:14:41",
+    "url": "https://www.youtube.com/watch?v=suXIa4otWew",
+    "time_now": "2021-11-01 22:15:51",
+    "ups": "133935",
+    "downs": "1041",
+    "views": "1421739",
+    "top_comments": [
+        {
+            "comment": "GORGEOUSSSS",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Yass queen",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\uc544\ub2c8 \uba3c \uac8c\uc784\uce90\ub9ad\ud130\uac00 \ucda4\ucd94\ub294\uac70\uac19\uc560 \u3160\u3160 \uc608\uc058\ub2e4 \uc18c\ubbf8",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Am I the only one who finds the emojis confusing?",
+            "polarity": -0.15,
+            "subjectivity": 0.7
+        }
+    ]
+}

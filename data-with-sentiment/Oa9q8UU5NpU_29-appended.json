@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-04 16:11:36",
+    "ups": "3652",
+    "downs": "99",
+    "views": "83310",
+    "top_comments": [
+        {
+            "comment": "\"super secret Easter Eggs\"\n\n\"..you can find these obvious, blatant The Shining references peppered throughout Layers of Fear 2 by playing normally\"",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.6033333333333333
+        },
+        {
+            "comment": "\u201cOH, MY!\u201d Is still the funniest thing",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "i got the bombs without the grapple beam and its only 1 tricky jump",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 12:24:22",
+    "url": "https://www.youtube.com/watch?v=BkhWThHGTMk",
+    "time_now": "2021-11-02 06:30:48",
+    "ups": "8851",
+    "downs": "524",
+    "views": "781254",
+    "top_comments": [
+        {
+            "comment": "How prejudiced this commentator was who couldn't even applaud the batsman at one moment. All he uttered \"NAI NAI\"",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "0:18 To 1:10\nEndia Media\nShowing Hate On Live Tv Jo Dil Pay Wo Zubaa Pay",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.33181818181818185,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u0646\u06c1\u06cc\u06ba \u0646\u06c1\u06cc\u0646\u06d4\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

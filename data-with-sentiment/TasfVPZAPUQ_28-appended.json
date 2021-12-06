@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-04 12:04:02",
+    "ups": "44150",
+    "downs": "78",
+    "views": "237333",
+    "top_comments": [
+        {
+            "comment": "It's really weird how Purple Kiss, being the best selling 2021 rookie is not nominated for MAMA. Oneus isn't nominated for anything either. Mamamoo got nominated for 1 category. I know Mnet is super rigged but RBW, are you sure your \"strategy\" is working? I thought y'all are doing an IPO? Isn't it high time to BOOST brand reputation?",
+            "likes": 7,
+            "number_of_replies": 4,
+            "polarity": 0.29866666666666664,
+            "subjectivity": 0.6791111111111111
+        },
+        {
+            "comment": "ATTENTION to all Plorys, Tomoons, and Moomoos. Please don't be lazy with str3aming. Unfortunately this is the reality of K-pop nowadays. Vi3ws count. Otherwise it's back of the line again for them while the groups with big agencies and fanbases takes the cake. No matter how talented our groups are.",
+            "likes": 7,
+            "number_of_replies": 2,
+            "polarity": -0.010000000000000009,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "No one is doing it like PURPLE KISS! MSHIT is blind for not recognizing these talented girls!",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.1875,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "comment": "Purple kiss rookies of the year",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "We need it on Apple Music",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ROOKIE OF THE YEAR!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I am so late but I love this!!!!",
+            "polarity": 0.35,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "So good and Spooky",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Omg this version is so cool!!!!",
+            "polarity": 0.8544921875,
+            "subjectivity": 0.65
+        }
+    ]
+}

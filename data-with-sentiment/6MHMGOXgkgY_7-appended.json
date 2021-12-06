@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-10-31 21:32:30",
+    "ups": "12273",
+    "downs": "217",
+    "views": "212258",
+    "top_comments": [
+        {
+            "comment": "You should name the squad the traffic lights kinda like how u named the earlier one robust. Like so he can see",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Play gmod with Trevor Henderson/ things like siren head",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Play gmod with Trevor Henderson/ things like siren head",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Thanks for encouraging me to start my YouTube channel!!!!!Slogo!!!!good luck for any new YouTubers!!!",
+            "polarity": 0.23316761363636362,
+            "subjectivity": 0.32727272727272727
+        }
+    ]
+}

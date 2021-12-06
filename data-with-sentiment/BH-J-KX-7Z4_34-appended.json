@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 12:45:00",
+    "url": "https://www.youtube.com/watch?v=BH-J-KX-7Z4",
+    "time_now": "2021-11-05 12:47:57",
+    "ups": "2024",
+    "downs": "36",
+    "views": "27180",
+    "top_comments": [
+        {
+            "comment": "I enjoyed all this thrift find diys Christina. My favourites have to be the decorative books and the napkin holders. Beautiful diys on all \u2764",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.675,
+            "subjectivity": 0.85
+        },
+        {
+            "comment": "This whole video is my family to a T!  Music and Christmas. Jars with lights. Even the books. I'm sharing this video with my friends.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Beautiful DIY's!  Something about cutting sweaters and tearing up books makes me cringe every time though haha.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.20000000000000004,
+            "subjectivity": 0.7333333333333333
+        }
+    ],
+    "comments_since_last_sample": []
+}

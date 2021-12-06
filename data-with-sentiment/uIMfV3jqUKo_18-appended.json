@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-02 18:52:27",
+    "ups": "22992",
+    "downs": "1656",
+    "views": "565678",
+    "top_comments": [
+        {
+            "comment": "Lord Jesus spread the Christianity all over India.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Texi te kon betha hai \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\"Leaf is short thing\" \n\"Mother and God is everything\" \n\"Support is everything\".\u2764\ufe0f\ud83d\udc9c\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Bharat. Mata ki Jai",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "INDIA WITH MODI",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ab to dadhi bhi kam kar liya. Petrol ke daam bhi kam kar do Teleprompter baba ji.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Only publicity no actions farmers dying this man roaming",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\"Leaf is short thing\" \n\"Mother and God is everything\" \n\"Support is everything\".\u2764\ufe0f\ud83d\udc9c\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Wonderful meet our great prime minister..... Jai Hind\n\n\nSanguchatwam....... \ud83d\ude4fintegration",
+            "polarity": 0.9,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "Lovely \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-03 11:20:43",
+    "ups": "3468",
+    "downs": "39",
+    "views": "91035",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 103,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Ow! Ang napansin q parang magkamukha sila ni Bea Alonzo?! Or sa paningin q lang o baka Nagkamali lang aq! \ud83e\udd23\ud83e\udd23\ud83e\udd23 Power of voice Gigigigi.! Love it! \ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "O.M.G, grabe, kudos not only to GiGi but the whole band as well \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "ANG ANGAS NG BIRIT!!!\ud83d\ude2d\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "parang humikab lang eh.  sana all \ud83d\ude05\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Gurl, who hurt you? damn so good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Luv the version of GIGI!..  very much unique voice.... ;0)",
+            "polarity": 0.375,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "hit na hit  ang notes ahh ... love ko na ata si gigi",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "IDOL GiGi Pa Request: \nBIRTHDAY ko po sa Nov. 8 \ud83d\ude05\n\n I'M YOUR ANGEL - R.KELLY FT. CELINE DION \nTHANK YOU! MORE POWER! \ud83d\ude04\ud83d\udcaf",
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-11-01 01:39:56",
+    "ups": "2686",
+    "downs": "41",
+    "views": "60963",
+    "top_comments": [
+        {
+            "comment": "Waiting for steam deck. I have a good feeling that one will finally fill the hole in my life.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I just bought a moqi i7. Plus I'm waiting for the odin!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Skyrim max settings",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Weak. This isnt rocket science. There's already a successful formula for handhelds and you have to be an absolute moron to screw it up.",
+            "polarity": -0.05625000000000002,
+            "subjectivity": 0.86875
+        },
+        {
+            "body": "Once You said the D-pad was no good, nothing else mattered.",
+            "polarity": -0.35,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "bad ESN translation: \"Likely stolen\"",
+            "polarity": -0.3499999999999999,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "That would be the Steam Deck.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

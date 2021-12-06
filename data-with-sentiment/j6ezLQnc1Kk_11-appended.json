@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 11:30:13",
+    "url": "https://www.youtube.com/watch?v=j6ezLQnc1Kk",
+    "time_now": "2021-11-01 14:01:44",
+    "ups": "2260",
+    "downs": "61",
+    "views": "110220",
+    "top_comments": [
+        {
+            "comment": "You know what I was in a holding cell once and I would have loved one if those dorms in comparison, get out of your ivory tower Hayes!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.875,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This perspective of the state of affairs is the clearest and most accurate understanding I have heard yet.  I hope many more listen to these words.",
+            "polarity": 0.47500000000000003,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "It's ridiculous that fox is permitted to continue broadcasting hate speech clothed in constitutional tinder.",
+            "polarity": -0.5666666666666667,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "The fall of America began with regan. Allow this evil to die a peaceful death of non-support. VOTE BLUE IN 22&24.",
+            "polarity": -0.25,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "Let\u2019s go Brandon",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

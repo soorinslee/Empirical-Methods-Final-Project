@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-10-31 21:32:51",
+    "ups": "8372",
+    "downs": "62",
+    "views": "150478",
+    "top_comments": [
+        {
+            "comment": "alisha you looked like you had such a good time, it makes myheart so warm to see you so happy and fulfilled with life! i love you guys so much, you make me want to be a better person and love myself! <3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5694444444444444,
+            "subjectivity": 0.6222222222222222
+        },
+        {
+            "comment": "Ahhh love this Alisha!! \nI started watching your vids 7 years ago \nYour videos inspired me to make my own channel \nSo I did and now I\u2019m almost at 20k you\u2019ve helped me so much lida ilyyy",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5270833333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I love the movie happy Gilmore\ud83d\ude0d\ud83d\ude06\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Why wasn\u2019t this a main channel vid, I LOVED IT",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "comment": "My sister is my Uber driver and drives me everywhere, she LOVES me A LOT\ud83e\udd70\ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "it\u2019s so weird seeing alisha experience the midwest",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "No wayyy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love the movie happy Gilmore\ud83d\ude0d\ud83d\ude06\ud83d\ude02",
+            "polarity": 0.65,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "My sister is my Uber driver and drives me everywhere, she LOVES me A LOT\ud83e\udd70\ud83e\udd70",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How exciting!!\ud83e\udd29",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

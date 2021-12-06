@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-10-31 21:32:50",
+    "ups": "2343",
+    "downs": "16",
+    "views": "37227",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Thank you for all your wonderful tips/ideas. I learn so much from you! I wish I found you before we bought our furniture pieces! I wonder if you have any tips on styling with dark brown leather sofa/loveseats?",
+            "polarity": 0.3875,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "Lol I've had underwear for 10 years \ud83d\ude0b",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I used to buy new sheets in January every year. Start the New Year off NEW! My husband said why not!! So after Christmas we went sheet shopping and new pillows!! It was fun!!",
+            "polarity": 0.24417613636363633,
+            "subjectivity": 0.4036363636363636
+        }
+    ]
+}

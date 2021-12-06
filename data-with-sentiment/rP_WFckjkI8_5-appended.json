@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-10-31 13:18:10",
+    "ups": "2404",
+    "downs": "35",
+    "views": "51717",
+    "top_comments": [
+        {
+            "comment": "God I love your videos ETA. Emulation is just the best and so fun.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.36666666666666664
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The main reason why I cant buy these emulation devices because these sites doesn't delivered in India. I last time i ordered rg350 and it never came. Ali express in banned in my country so my best option is mobile with 8bit do controller. that works fine. Great fan of your work.",
+            "polarity": 0.47666666666666674,
+            "subjectivity": 0.39
+        },
+        {
+            "body": "Thanks! One thing: When testing Wind Waker on Gamecube, please don't test right at the start. Play, like, 15 minutes, until you get to the point where you get Tetra out of the tree. That area is much more demanding, so only having good speed in the first area doesn't really tell us if the game will run fine.",
+            "polarity": 0.24470899470899468,
+            "subjectivity": 0.47433862433862434
+        },
+        {
+            "body": "The name bruh... Z triggered",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "My main issue with this handheld is the fact the design is awful and its hideously ugly.",
+            "polarity": -0.5111111111111111,
+            "subjectivity": 0.7777777777777777
+        },
+        {
+            "body": "Any plan to buy a high-end android phone parts, build a handheld device with controller out of it through 3d printing while adding a fan on the CPU..?? I wonder if it could beat those gaming phone.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-02 02:23:53",
+    "ups": "3037",
+    "downs": "25",
+    "views": "52630",
+    "top_comments": [
+        {
+            "comment": "I am totally going to look for a nice rug for my bedroom! I am never going to have more pillows on my bed than needed - maybe that's very european of me.\nBut i do want my space to feel a bit more cozy!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "comment": "If I have my labradoodle lie on my bed that adds texture, right?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I appreciate your tips. All are practical and thought provoking. My taste leans to a traditional style. Think Mario Buatta simplified, transitioned to Barclay Butera calm of the Hampton Showhouse. Crazy combination, but each are comfortable, with texture, pattern, and a calm chic character. Struggling to achieve in in my small home on my small budget. Your tips and ideas are always helpful!",
+            "polarity": -0.023214285714285694,
+            "subjectivity": 0.6785714285714287
+        },
+        {
+            "body": "Great video!! What are your go-to neutral bedroom paint colors??",
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Nick, please do a video on Benjamin Moore\u2019s 2022 palette! I loved the last one!",
+            "polarity": 0.35,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "If you do a follow up to this video I would really appreciate if you touched on how to style a bed with two separate duvets. I live in Germany and sharing one isn't common here and I can't imagine not having my own. My husband and I would be fighting over it every night.",
+            "polarity": 0.1590909090909091,
+            "subjectivity": 0.55
+        }
+    ]
+}

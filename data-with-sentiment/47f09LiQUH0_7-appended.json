@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-10-31 21:32:39",
+    "ups": "5543",
+    "downs": "248",
+    "views": "119772",
+    "top_comments": [
+        {
+            "comment": "Cringe\ud83e\udd75",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hold on this is all cute and stuff I love it you go girl but why does she look like my math teacher \ud83d\udc40",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "I love how they stay in character even after the reveal. I\u2019m sensing we\u2019ve got a-list actors on our hands \ud83d\ude0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Props to whomever thought of this!!   Very clever!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.33854166666666674,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Oh my god...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm glad they didn't start a fire...like the ones did here in SoCal \ud83e\udd23",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I wonder if that guy wouldve had the same excitement if the baby were a girl instead \ud83e\udd14",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "Atleast they didn\u2019t nuke the earth blue",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 13:17:59",
+    "url": "https://www.youtube.com/watch?v=nS2QkPbR17U",
+    "time_now": "2021-11-01 05:47:29",
+    "ups": "3710",
+    "downs": "62",
+    "views": "51063",
+    "top_comments": [
+        {
+            "comment": "Public Rec Limited Time Discount Code 'ALPHAFALL' use special links:\nWeekend Jogger: https://bit.ly/3uYeDYH Weekend Crew: https://bit.ly/3AoS7tc \nWeekend Half Zip: https://bit.ly/3BoIWdG Weekend Full Zip: https://bit.ly/2WUQHZP",
+            "likes": 19,
+            "number_of_replies": 5,
+            "polarity": 0.09380952380952381,
+            "subjectivity": 0.2995238095238095
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Why these cloths are not available for india?\ud83e\udd37\u200d\u2642\ufe0f\ud83e\udd37\u200d\u2642\ufe0f",
+            "polarity": -0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I think one clarification on Suit sizing is recognize WHEN to size down. If the shoulders of the suit are right on the money. Tailor the rest! Do NOT size down or you are going to waste money.",
+            "polarity": -0.03849206349206352,
+            "subjectivity": 0.2783730158730159
+        },
+        {
+            "body": "This guy is so fruity that I honestly believe he\u2019s trying so hard to be an alpha because he\u2019s ashamed of being gay",
+            "polarity": 0.24166666666666667,
+            "subjectivity": 0.6749999999999999
+        },
+        {
+            "body": "I\u2019m having the most uncomfortable poop ever but this is helping me feel amazing and BADASS!",
+            "polarity": 0.25000000000000006,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "The color is vintage. The fit is flawless!",
+            "polarity": 0.7,
+            "subjectivity": 0.7
+        }
+    ]
+}

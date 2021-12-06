@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-02 10:38:10",
+    "ups": "6493",
+    "downs": "48",
+    "views": "79727",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 535,
+            "number_of_replies": 151,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "I can't do that all sretches",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I am 11 year old i am your big fan i am a girl",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "comment": "And make the video in comments",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Make the video in a new challenges",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I can't do that all sretches",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I am 11 year old i am your big fan i am a girl",
+            "polarity": 0.05,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "body": "And make the video in comments",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Make the video in a new challenges",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Love you Anna",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Hey anna i am your big fan you are so great",
+            "polarity": 0.4,
+            "subjectivity": 0.425
+        },
+        {
+            "body": "I\u2019m watching this 2 days after wow I\u2019m so early",
+            "polarity": 0.1,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Hi Anna I sheest want to ask if you can do hand stand in a split do you can do it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love from philippines \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "hey gys its aana",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

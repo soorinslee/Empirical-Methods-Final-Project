@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-06 01:10:21",
+    "ups": "11273",
+    "downs": "911",
+    "views": "645055",
+    "top_comments": [
+        {
+            "comment": "If you like the video - don't forget to share it with your friends! We're really appreciate your support.\nYou'll definitely like these videos:\nhttps://youtu.be/NXVlesZhUiU?list=PLy0LaulZe0vT6X9trmizSZHLzF5r9C2TI&playnext=1\n\u2605 Let's be friends: \nFacebook | https://www.facebook.com/troomhands \nPinterest | https://www.pinterest.com/troomtroom \nInstagram: https://www.instagram.com/troomtroom",
+            "likes": 5,
+            "number_of_replies": 3,
+            "polarity": 0.1,
+            "subjectivity": 0.35
+        },
+        {
+            "comment": "I saw 4 cookies!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Leave a comment bellow !",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wow that's great news about the job search",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.875
+        },
+        {
+            "comment": "Aku mintak yg bahasa Indonesia yg ini",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

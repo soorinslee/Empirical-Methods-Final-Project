@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-01 05:47:29",
+    "ups": "4597",
+    "downs": "125",
+    "views": "101075",
+    "top_comments": [
+        {
+            "comment": "Did Bobby move to Florida? I\u2019ve been away from this channel for a while.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "MORE BOBBY MORE!!! COSTCO MY FAV PLACE TOO! Why no bakery organic bread ya think???",
+            "polarity": 0.75,
+            "subjectivity": 0.5
+        }
+    ]
+}

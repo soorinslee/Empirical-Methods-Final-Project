@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-10-31 17:25:36",
+    "ups": "7883",
+    "downs": "56",
+    "views": "136671",
+    "top_comments": [
+        {
+            "comment": "I\u2019m from Indiana and it is so weird to hear them say \u201cIndianapolis\u201d and \u201cBloomington\u201d\n\n\nIt\u2019s so crazy, I feel \u2728connected \u2728",
+            "likes": 6,
+            "number_of_replies": 1,
+            "polarity": -0.55,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Yasss a new video!!! Love it when the queen posts my day is instantly that much better\u2728\ud83d\udc97\ud83d\udc97",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2415838068181818,
+            "subjectivity": 0.4803030303030303
+        },
+        {
+            "comment": "\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Yess\u2026 and they say women shouldn\u2019t play golf. WE DONT NEED NO FORKING MAN. Periodt",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "i couldnt help but smile literally through all of this vlog!! So cute :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4895833333333333,
+            "subjectivity": 0.7000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ahh fav vlog ever since I go to IU haha",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "WHY DID I NOT KNOW SHE CAME TO INDIANA",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ky girl getting excited you were so close haha",
+            "polarity": 0.2875,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "4:30 this could go in Awkward situations series haha",
+            "polarity": -0.19999999999999998,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "TK is so meeee not a physical touch kind of person \ud83d\ude39",
+            "polarity": 0.3,
+            "subjectivity": 0.5214285714285715
+        },
+        {
+            "body": "Go Hoosiers \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So fun seeing you in my state!",
+            "polarity": 0.375,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "me watching this from bloomington and I can't believe that I missed that you were here \ud83d\ude29",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why wasn\u2019t this a main channel vid, I LOVED IT",
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "body": "Always using \u201clow key\u201d in the wrong context. So smart.",
+            "polarity": -0.07142857142857142,
+            "subjectivity": 0.7107142857142857
+        }
+    ]
+}

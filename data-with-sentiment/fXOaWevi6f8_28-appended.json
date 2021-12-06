@@ -1,0 +1,106 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-04 12:04:34",
+    "ups": "16877",
+    "downs": "318",
+    "views": "1012523",
+    "top_comments": [
+        {
+            "comment": "It's far far cheaper in india \ud83d\udc40 ..",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Just try this \"ginger-cardamom coffee\" recipe and tell me how it was...\nTake a cup of milk, add 1tsp sugar, add 1tsp instant coffee powder, grate a nail sized ginger, pound 1-2 green cardamoms and then boil.\nYour coffee is ready.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.4888888888888889
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Watching from Kochi, Kerala neighbour of Idukki",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Enemy but healthy \ud83e\udd23\ud83e\udd23\ud83e\udd23..\nAnyone agree with this?",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "\ud83d\udc95Idukki\ud83d\udc95",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "A small cardamom farmer is under the mercy of the local trader and gets only $14-15 per kg. Enquiries at better prices are welcome. Please reply here.",
+            "polarity": 0.21000000000000002,
+            "subjectivity": 0.5599999999999999
+        },
+        {
+            "body": "In nepal, i think farmers sell cardamom at  $6-7 dollar per kg.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0b8f\u0bb2\u0b95\u0bcd\u0b95\u0bbe\u0baf\u0bcd",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Actually they are not green but these guys coloured it with green color to sell in the market. A kind of deception.",
+            "polarity": 0.125,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "In Pakistan its rate is $42/kg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "this scenery is from heaven i think",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How we can get",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Indian \ud83c\uddee\ud83c\uddf3 is bank of Spices",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Do they speak predominantly Tamil in iddukki, Kerala?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nahh, not that expensive, around 35 bucks here for a kilo",
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Interesting",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "It's far far cheaper in india \ud83d\udc40 ..",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "i use green cardamom (Elaichi) everyday in tea, its refreshing and add flavor in tea, Funfact we grew cardamom in central India and can be grown in specific place in Katol :)",
+            "polarity": 0.09999999999999999,
+            "subjectivity": 0.5458333333333333
+        }
+    ]
+}

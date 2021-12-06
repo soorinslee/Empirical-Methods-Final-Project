@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 14:26:35",
+    "url": "https://www.youtube.com/watch?v=tt1Xhryc-iY",
+    "time_now": "2021-10-31 05:04:49",
+    "ups": "105",
+    "downs": "2",
+    "views": "7664",
+    "top_comments": [
+        {
+            "comment": "Miss you APPU",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "No choice remains only accept the truth \ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "RIP Appu Sir",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

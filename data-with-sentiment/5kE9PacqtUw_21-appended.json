@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 10:58:46",
+    "url": "https://www.youtube.com/watch?v=5kE9PacqtUw",
+    "time_now": "2021-11-03 07:14:19",
+    "ups": "1741",
+    "downs": "359",
+    "views": "136547",
+    "top_comments": [
+        {
+            "comment": "Joe snoozing during G20-\n\"It was all a dream. I used to read\"\n\"Word Up Magazine\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "3 days ago video of G20 summit held in Rome. Complete video report of media in English language is here for viewers.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Without China it is not interesting kk \ud83d\ude05. From Korea \ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "On the eve of 2022AD:\n\n    \" Yes 2022 \"\n\nWe are the  World \nWe are the Angle  \nWe are the Chosen\nWe are the Country\n\n           Strong\n\n           Rich  \n \n           Free  \n \n           Love\n\n  We\uff0cThe Socialism\n\n       \u611b   \u6587\u660e\u4e16\u754c\n \n       \u611b    \u5929\u4e0b\u70ba\u516c\n\n       \u611b    \u4e16\u754c\u5927\u540c\n\n       \u611b    \u5929\u4e0b\u4e00\u7d71\n\n\u516c\u51432022\u4f60\u524d\u5915\uff1a\n\u8a5e\uff1a\n       \u541f \u201c 2022 \u201d\n\n        \u54b1\u5011\u5929\u4e0b\n        \u54b1\u5011\u5929\u4f7f\n        \u54b1\u5011\u64bf\u9078\n        \u54b1\u5011\u570b\u5bb6\n\n            \u5f37\u58ef\n\n            \u5bcc\u88d5\n\n            \u81ea\u7531\n\n            \u6cdb\u611b\n\n  \u54b1\u5011   \u793e\u6703\u4e3b\u7fa9\n\n    \u611b   \u6587\u660e\u4e16\u754c\n\n    \u611b   \u5929\u4e0b\u70ba\u516c\n\n    \u611b   \u4e16\u754c\u5927\u540c\n\n    \u611b   \u5929\u4e0b\u4e00\u7d71",
+            "polarity": 0.42708333333333337,
+            "subjectivity": 0.7208333333333333
+        },
+        {
+            "body": "\u4ed6\u4eec\u662f\u8c01?\u4ed6\u4eec\u5728\u505a\u4ec0\u4e48?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Forests are disappearing very fast.  Save them",
+            "polarity": 0.26,
+            "subjectivity": 0.78
+        },
+        {
+            "body": "PM Boris Johnson and President Joko Widodo, i like them \ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

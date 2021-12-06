@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:20:42",
+    "url": "https://www.youtube.com/watch?v=OIaHppBOw7Y",
+    "time_now": "2021-11-06 05:16:45",
+    "ups": "9836",
+    "downs": "376",
+    "views": "941207",
+    "top_comments": [
+        {
+            "comment": "Kon kon dekh raha he ? \r\n(1) Student : Like \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\r\n(2)Other : Comment \ud83d\udc97\ud83d\udc97",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ek like apni maa ki lambi Umar ke dedo \u2764",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Still in love with this\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "NOVEMBER PEOPLE GIVE UR ATTENDANCE \ud83d\ude02\u2764",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pee Loon \ud83d\udda4",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

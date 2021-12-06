@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-11-01 05:47:33",
+    "ups": "432",
+    "downs": "4",
+    "views": "7175",
+    "top_comments": [
+        {
+            "comment": "Powerful job. Your attention to detail means the end result is top class.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "that's crazy. I don't think any contractor would come out for such a job. impressive.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "comment": "Simply listing the products required already convinced me ripping off and replacing with PVC is better.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.4285714285714286
+        },
+        {
+            "comment": "Cast iron refund?! \nYour perceived expertise at a wide range of jobs might be enhanced by taking account of YouTube's habit of hiding the bottom right portion of literally every single thumbnail.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.03809523809523809,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "comment": "Another excellent video Charlie. A real masterclass. Anyone with cast iron rainwater good should watch this video. Btw, loving the Discord chatter!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.6625,
+            "subjectivity": 0.7125
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi Charlie \nOff topic I know but any experience of using MDF sealer? I'm about to embark on a project to build built-in alcove cupboards and wondered whether to use.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You middle classers got some funny ideas",
+            "polarity": 0.125,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "For future reference, electrolysis is much safer for vintage metals. Less labor intensive too. The satisfaction of a job well done is priceless. You did a wonderful job.",
+            "polarity": 0.4066666666666666,
+            "subjectivity": 0.47833333333333333
+        }
+    ]
+}

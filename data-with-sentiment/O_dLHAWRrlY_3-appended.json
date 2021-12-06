@@ -1,0 +1,102 @@
+{
+    "time_posted": "2021-10-30 13:25:17",
+    "url": "https://www.youtube.com/watch?v=O_dLHAWRrlY",
+    "time_now": "2021-10-31 05:05:07",
+    "ups": "3425",
+    "downs": "152",
+    "views": "323182",
+    "top_comments": [
+        {
+            "comment": "What's your favorite upcoming match?\nLiverpool vs Brighton\nNewcastle vs Chelsea\nMan City vs Crystal Palace\nTottenham vs Manchester United\nLet me know & you'll have it after the game is over!",
+            "likes": 9,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "lm japanese fun in Arsenal!!  wa hope for Tomi playing so well there\ud83e\udd73\ud83e\udd73",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.234375,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Thats the Save of the Year for sure..Ramsdale take a vow Lad \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Arsenal the real conter nya lisester wkw",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "This is the Arsenal I love! Congrats to Arteta and Co.!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.78125,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Tavaress mantapp\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mbcsn commentators are dead \ud83d\udc80 trash commentary",
+            "polarity": -0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "This is avibrant arsenal shedding of our tears thanks Rowe auba and maghalez for getting Ramsdale is muder case ilove you Dale hope you can pay us avist in uganda",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Thanks our boys u bring back our hope",
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "This is the Arsenal I love! Congrats to Arteta and Co.!",
+            "polarity": 0.78125,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Thats the Save of the Year for sure..Ramsdale take a vow Lad \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Haven't watched football for almost 3 years and I'm surprised arsenal still exists lol",
+            "polarity": 0.45,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "There is no team hated by the officials than ars.....Jonny Evans should be given a straight red card if you watch man city vs crystal palace match",
+            "polarity": -0.2333333333333333,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "This documentary might become something legendary",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "lm japanese fun in Arsenal!!  wa hope for Tomi playing so well there\ud83e\udd73\ud83e\udd73",
+            "polarity": 0.234375,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "https://youtu.be/iQOMnojuvsA\nCristiano Ronaldo Goal vs Tottenham Hotspur",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 15:13:19",
+    "url": "https://www.youtube.com/watch?v=jVixdD4ABIk",
+    "time_now": "2021-11-02 06:30:12",
+    "ups": "14534",
+    "downs": "49",
+    "views": "171238",
+    "top_comments": [
+        {
+            "comment": "Everything by George Onslow",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "OMG I LOVE PROKOFIEV 3",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Start in Debussy, finish in the Bach.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "For more underrated composers/music,\n\nThe Scriabin piano sonatas are incredible works of art. His early works are very Chopin-esque, his middle age works are when Scriabin starts experimenting with harmonies and rhythm (his 4 and 5 sonata are just incredible), and lastly his late period is very idomatic in style. He writes \u201catonally\u201d but there is still coherent nature in each piece. \n\nAnother piece y\u2019all could check out is Rachmaninov\u2019s Vespers (All Nights Vigil). It is one of the most spectacular choir pieces out there and just oozes with beautiful harmonies.\n \nThese r just two I could think of off the top of my head but I hope some people enjoy this lol",
+            "polarity": 0.37941176470588234,
+            "subjectivity": 0.5215686274509804
+        },
+        {
+            "body": "Can you guys please react to Gene Shinozaki - Jigsaw (Apartment Sessions). I think you guys will have an awesome perspective on it. Pre warning it's not your conventional piece",
+            "polarity": 0.4285714285714286,
+            "subjectivity": 0.6785714285714286
+        },
+        {
+            "body": "I've always thought Paul Hindemith's Symphonic Metamorphosis is underrated",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

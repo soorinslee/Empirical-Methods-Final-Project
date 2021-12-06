@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-01 22:16:32",
+    "ups": "6205",
+    "downs": "318",
+    "views": "90260",
+    "top_comments": [
+        {
+            "comment": "Watching this video while wearing, Chelsea boots, ripped jeans and a flannel",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My advice to my fellow brothers: never follow trends just to fit in",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Tbh an overcoat and a turtle neck and a necklace it\u2019s one of the best outfits I\u2019ve ever worn in my life you should 100% try it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "I'm 39, what I heard was...ok it's over stop dressing how we used to dress in the 90s and now dress how you did in the 2000s \ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Joggers have been played out since 2017.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Me, who gets all my clothes from ross and Walmart.. \"cool, cant believe guys or anyone wastes their time on thinking what to wear\" \ud83d\ude02",
+            "polarity": 0.07499999999999998,
+            "subjectivity": 0.325
+        },
+        {
+            "body": "Flannels are never out of style",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Watching this video while wearing, Chelsea boots, ripped jeans and a flannel",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

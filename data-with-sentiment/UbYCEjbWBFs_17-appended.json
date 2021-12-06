@@ -1,0 +1,75 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-02 14:45:07",
+    "ups": "3254",
+    "downs": "463",
+    "views": "175578",
+    "top_comments": [
+        {
+            "comment": "I don't understand why BBC will choose an influencer to show the condition in Kuwait. Seeing her awesome house, AC system, wonderful plants indoor, cars.. Did the journalist really believe she can reflect the majority in Kuwait?? Or her western lifestyle seems more relatable to their western audience?  News should be focused on the majority, the ordinary people and the disadvantaged. This image of how people suffer the heat in Kuwait is wrongly presented as you must consider how much the majority can afford: what will happen to the people who don't have such an awesome house or a workplace with AC system? or like the other commenter said, those who must work a labour job? How many people in Kuwait can have an influencer job in which you can adjust your own work hours and locations to your need?  PLEASE SHOW THE LIVES OF THE ORDINARY, NOT THE PRIVILEGED.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.25833333333333336,
+            "subjectivity": 0.545
+        },
+        {
+            "comment": "They have so much sun! Why not talk about putting up solar panels in all that desert and on the buildings? We did it in Las Vegas. It's affordable, clean energy.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.30833333333333335,
+            "subjectivity": 0.45000000000000007
+        },
+        {
+            "comment": "Life of a privileged content creator \ud83d\ude0a. BBC didn't see anyone more eligible to talk abt the increasing temperature in Kuwait",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "This is horror. Specially for people not wealthy and people pushed to wear black.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.019841269841269837,
+            "subjectivity": 0.6682539682539682
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "There is enough money in Kuweit to plant those much needed trees.",
+            "polarity": 0.1,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "Good this conversation needs to start",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I don't understand why BBC will choose an influencer to show the condition in Kuwait. Seeing her awesome house, AC system, wonderful plants indoor, cars.. Did the journalist really believe she can reflect the majority in Kuwait?? Or her western lifestyle seems more relatable to their western audience?  News should be focused on the majority, the ordinary people and the disadvantaged. This image of how people suffer the heat in Kuwait is wrongly presented as you must consider how much the majority can afford: what will happen to the people who don't have such an awesome house or a workplace with AC system? or like the other commenter said, those who must work a labour job? How many people in Kuwait can have an influencer job in which you can adjust your own work hours and locations to your need?  PLEASE SHOW THE LIVES OF THE ORDINARY, NOT THE PRIVILEGED.",
+            "polarity": 0.25833333333333336,
+            "subjectivity": 0.545
+        },
+        {
+            "body": "Good video it's informational",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Yay Om Naief!  We should all learn from her, inshallah",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sell more oil to the west. \ud83d\udc40 May allah have mercy to all of us",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "What was that influencer doing other than cringe valley girl English",
+            "polarity": -0.0625,
+            "subjectivity": 0.1875
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-10-31 21:32:23",
+    "ups": "2266",
+    "downs": "88",
+    "views": "207860",
+    "top_comments": [
+        {
+            "comment": "This is amazing ! \ud83d\udc40\ud83d\udc40",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.7500000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "When Koolaid is famous and everyone is drinking it: 0:48",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Its even if it has Jimmy face on it\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Lol people still use bandicam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Sheesh amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Mr beast game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "When Koolaid is famous and everyone is drinking it: 0:48",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Its even if it has Jimmy face on it\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Zzz",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "X",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Whoa mrbeast in  squid game 2",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

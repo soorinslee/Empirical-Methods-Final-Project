@@ -1,0 +1,59 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-01 18:09:14",
+    "ups": "9477",
+    "downs": "746",
+    "views": "513860",
+    "top_comments": [
+        {
+            "comment": "Yes",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83c\uddf5\ud83c\uddea\ud83e\udd7a\ud83d\ude19\ud83d\ude0d\ud83e\udd70\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0dhi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "2 cookies \nby the way, cool video",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Hay",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "HAPPY HALLOWEEN",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-05 16:54:58",
+    "ups": "663",
+    "downs": "180",
+    "views": "64554",
+    "top_comments": [
+        {
+            "comment": "Dont mind me I'm just taking a turd in the litter box, dont look",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Covid is a plandemic. Plain and simple. Only idiots believe covid is real now. If asked 2 years ago, 100% of people would've not agreed to take part in medical experiments with a \"vaccine\" that was developed in a couple months. But the vaccine advertising is really strong. If you tell a lie enough times, it will be believed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.031216931216931223,
+            "subjectivity": 0.48306878306878304
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "State with a lot\u2019s of cuvid should be mandatory lockdown mandatory vaccination during pandemic the government should be in controlled people with cuvid should stayed in their house they should obey government mandate that we can eradicate the pandemic soon",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think libs failed to realize that we could have reached herd immunity faster if we didn't wear masks, used social distancing, or rely on lockdowns. Sure, we would have had several more deaths, but our ultimate form of herd immunity would have been much higher.",
+            "polarity": 0.11190476190476191,
+            "subjectivity": 0.4650793650793651
+        }
+    ]
+}

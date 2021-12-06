@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-04 20:18:34",
+    "ups": "4074",
+    "downs": "45",
+    "views": "113374",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 135,
+            "number_of_replies": 4,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Imma fan's of morisette but there's is something about gigi I couldn't exactly explain and she's stole my heart",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "Ang galing talaga ninyong lahat... pag naumpisahan ko manuod ng youtube channel nyo di kona mapigilan kahit paulit ulit kong panuodin/pakinggan ang galing lang talaga. Nakaka gigi vibes talaga! Kudos to gigi and the band!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

@@ -1,0 +1,69 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-03 07:14:08",
+    "ups": "12637",
+    "downs": "175",
+    "views": "453110",
+    "top_comments": [
+        {
+            "comment": "I wonder when they'll explode.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "what if... lava bomb once cooled has a diamond inside...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i just saw that on oct 30",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "a bomb should explode , not cool",
+            "polarity": -0.175,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Anybody else hate this voice and reporter?",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I wonder when they'll explode.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If dragons existed I'd imagine that this is what their poop looks like.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "There goes my Spain trip.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "oop",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"Cumbre Vieja\" Spanish for Old Peak.",
+            "polarity": 0.05,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "People in the middle ages would go crazy if this \"egg\" came to their attention.",
+            "polarity": -0.3,
+            "subjectivity": 0.45
+        }
+    ]
+}

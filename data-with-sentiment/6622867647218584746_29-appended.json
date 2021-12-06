@@ -1,0 +1,62 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj4iy2/call_of_duty_modern_warfare_is_50_off_on_the/",
+    "time_posted": "2021-10-30 12:04:34",
+    "time_now": "2021-11-04 16:13:16",
+    "ups": 1,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinrb47",
+            "body": "still too expensive for a \"not so recent\" game",
+            "ups": 5,
+            "downs": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinnbuz",
+            "body": "I'm gonna have to take a no on that one chief.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinrb47",
+            "body": "still too expensive for a \"not so recent\" game",
+            "ups": 6,
+            "downs": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinnbuz",
+            "body": "I'm gonna have to take a no on that one chief.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinrb47",
+            "body": "still too expensive for a \"not so recent\" game",
+            "ups": 6,
+            "downs": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinnbuz",
+            "body": "I'm gonna have to take a no on that one chief.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

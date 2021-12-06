@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-01 14:01:24",
+    "ups": "10309",
+    "downs": "43",
+    "views": "141293",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 187,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "Uhmm u also could use waterlogged trapdoors for the farm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "17:14 Did I hear what I think I heard?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If you push waterlogged blocks with a 1 tick pulse, they do indeed get retain their waterlogged state.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "17:15 \"sex is required here\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Please join #TeamSeas. I would love to see the Hermitcraft community get involved in such an amazing effort.",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Why U saying amathEst? It\u2019s amethyst - I love ur videos but I swear the miss pronunciation is driving me literally insane",
+            "polarity": -0.25,
+            "subjectivity": 0.8
+        }
+    ]
+}

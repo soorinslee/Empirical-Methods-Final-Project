@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-06 01:09:37",
+    "ups": "4551",
+    "downs": "52",
+    "views": "131868",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 160,
+            "number_of_replies": 6,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "World Class tlaga \ud83d\ude31\ud83d\ude31\ud83d\ude31 Higher and better than many Hollywood stars who sang this! Gigi and Charice Version is Fantastic!!!!! Most Beautiful cover ever!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6458333333333334,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": ",yan ang idol qu simple pero rock!",
+            "polarity": 0.0,
+            "subjectivity": 0.35714285714285715
+        },
+        {
+            "body": "All by myself. /oal baaaai maaaiseelf/\nmejo akward lang pagka pronounce niya for me",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rock version haha",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        }
+    ]
+}

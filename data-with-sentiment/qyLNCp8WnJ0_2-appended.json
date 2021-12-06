@@ -1,0 +1,91 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-10-31 00:58:26",
+    "ups": "2776",
+    "downs": "79",
+    "views": "49876",
+    "top_comments": [
+        {
+            "comment": "I love no mask. Mask dont work. \ud83d\ude01",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Love & Happy Halloween! #FlavCityFam  \ud83c\udf83\ud83e\udde1 & just ordered me some Laird pumpkin oatmeal to try! \ud83e\udd63 I had already the laird super food pumpkin spice creamer for my morning coffee! \ud83c\udf83\u2615\ufe0f \ud83e\udde1\ud83d\udda4\ud83e\udd0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6388888888888888,
+            "subjectivity": 0.7555555555555555
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I will have to check my Costco to see if Raos is on sale.  I'm in Chicagoland area and I think of Bobby every time I see the Unreal Chocolate coconut bars.  He said he can't find them in Florida and if I weren't afraid they'd melt I'd send him some.  It's weird to see people without masks shopping, we are still required here.  It doesn't bother me anymore to wear them, I'm used to it.",
+            "polarity": -0.55,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "We have Rao at Costco here in Little Rock! We love it!!",
+            "polarity": 0.2734375,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Yes! Raos was on sale for $7.99 at my Costco!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Does anyone know what organic coconut milk Bobby said it\u2019s healthier for you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice!",
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Just eat what you want we all die sometime.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "$8.59 for ONE jar of Rao's is expensive! You can get it cheaper when it's on sale at normal grocery stores. Could not see if that price was for one or two jars. You can find them for $6.49 a jar if you look.",
+            "polarity": -0.2375,
+            "subjectivity": 0.6749999999999999
+        },
+        {
+            "body": "Hi Bobby, always enjoy your trips to Costco:). It\u2019s my happy place as well. Can\u2019t thank you enough for all the knowledge I\u2019ve gained. I have become scrupulous in reading labels including those labeled \u201corganic.\u201d Lots of natural flavors in those. Enjoy the Rose \u201cshorts.\u201d",
+            "polarity": 0.4,
+            "subjectivity": 0.6928571428571428
+        },
+        {
+            "body": "Raos totally overated-- No big deal and jars too BIG.  Who wants left over spaghetti sauce in the fridge",
+            "polarity": 0.04,
+            "subjectivity": 0.21000000000000002
+        },
+        {
+            "body": "Bobby, people are hijacking your site in your comments to sell investments/ stocks/ crypto.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love & Happy Halloween! #FlavCityFam  \ud83c\udf83\ud83e\udde1 & just ordered me some Laird pumpkin oatmeal to try! \ud83e\udd63 I had already the laird super food pumpkin spice creamer for my morning coffee! \ud83c\udf83\u2615\ufe0f \ud83e\udde1\ud83d\udda4\ud83e\udd0d",
+            "polarity": 0.6388888888888888,
+            "subjectivity": 0.7555555555555555
+        },
+        {
+            "body": "Went to my Costo today, in San Jose, CA, Rao\u2019s is not on sale\u2026.rats! I still bought some though cause it is the best!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Not only are kcups disgusting, they're flooding our landfills too.",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-05 00:25:43",
+    "ups": "15509",
+    "downs": "337",
+    "views": "192790",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 843,
+            "number_of_replies": 19,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I don't know who's Dave but .. I hope you're not sad, you're voice makes me feel better that's why I am still visiting your channel ^_^",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I love this stuff. You guys rock! All my love.",
+            "polarity": 0.5625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\u0412\u0430\u0439\u043b\u0435\u0442, \u0430 \u043c\u043e\u0436\u043d\u043e \u0432 \u0442\u0432\u043e\u0435\u043c \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0435\u043c \u043a\u043b\u0438\u043f\u0435 \u0441\u043d\u044f\u0442\u044c\u0441\u044f \u0432 \u0440\u043e\u043b\u0438 \u0441\u0443\u043c\u0430\u0441\u0448\u0435\u0434\u0448\u0435\u0433\u043e \u043a\u043e\u043b\u0434\u0443\u043d\u0430?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Amazing cover , I love the way you reorchestred this classing song , really good job , congratulations !!!",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Just use flex seal.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

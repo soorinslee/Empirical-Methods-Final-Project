@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-03 07:14:29",
+    "ups": "5899",
+    "downs": "155",
+    "views": "150948",
+    "top_comments": [
+        {
+            "comment": "Thanks!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "I lost 30 lbs started in February. The Dr. Says I'm doin great my A1c 6.7 it was 8.\nMy weight was 220 now 190.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "We want reviews from Cisco in Australia",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love Raos!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Raos was 6.59 a year ago",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

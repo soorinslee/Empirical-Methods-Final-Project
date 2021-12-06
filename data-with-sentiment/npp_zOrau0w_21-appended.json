@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-03 07:13:39",
+    "ups": "14307",
+    "downs": "302",
+    "views": "165463",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 780,
+            "number_of_replies": 14,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Amazing cover!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "You should do a cover of Repay, by The Plot in You.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Holy mother of god violet your voice has become legend",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Weird comment, but I have a crap tablet playing this through headphones instead of my pixel 3(it's charging), and your voice is so beautifully crystal clear, yet the instrumentals are absolutely shot as sacrifice. Still though, your voice has never sounded so clear. I wish I could explain it better because it made me hear this cover for the first time twice, and it was magical.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love this song...great\ud83d\udc4d\ud83e\udd18",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "THE most original cover of this song EVER!",
+            "polarity": 0.484375,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "This was amazing! But damn, I was expecting the iconic drums, and I'm a little sad that they aren't here D:",
+            "polarity": 0.140625,
+            "subjectivity": 0.725
+        },
+        {
+            "body": "Violet, Red Right Hand by Nick Cave and the Bad Seeds when?",
+            "polarity": -0.13809523809523805,
+            "subjectivity": 0.40079365079365076
+        },
+        {
+            "body": "Too weak and soft",
+            "polarity": -0.1375,
+            "subjectivity": 0.4875
+        }
+    ]
+}

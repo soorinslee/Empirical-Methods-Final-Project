@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-11-03 15:28:06",
+    "ups": "7792",
+    "downs": "73",
+    "views": "140710",
+    "top_comments": [
+        {
+            "comment": "Brilliant voice!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Another good song of Adele \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "Allie Sherlock continues to break new ground  with almost every new video. Here she is really starting to show what she is capable of . Would be great to hear her at Glastonbury or the Isle of Wight  fest .. She is a unique and powerful performance artist-  would like to hear more of her own songs. These solo performances are the way to go for her I'm sure.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3547727272727273,
+            "subjectivity": 0.6547979797979797
+        },
+        {
+            "comment": "One of my favorite songs by Adele n this young talented lady Gave Me Goosebumps...love it keep it up",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.7666666666666666
+        },
+        {
+            "comment": "Your going to hit 5 Million subscribers before the end of the year...\ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Aahhhhhh that was so bloody fantastic\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\u2764\ufe0f\u2026 your voice is an absolute delight to my day\ud83d\ude0d",
+            "polarity": -0.30000000000000004,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "You smashed that one out the park \ud83d\udc4f loving the guitar",
+            "polarity": 0.6,
+            "subjectivity": 0.95
+        }
+    ]
+}

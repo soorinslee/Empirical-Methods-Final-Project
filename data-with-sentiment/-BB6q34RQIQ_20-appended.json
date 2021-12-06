@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-03 03:07:06",
+    "ups": "591",
+    "downs": "147",
+    "views": "56587",
+    "top_comments": [
+        {
+            "comment": "Watch their actions, not their words\ud83d\udcaf\ud83d\udd25\ud83d\udd25",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Good time to remind everyone that Florida has the least covid cases of any state.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "For those who fell for the COVID scam...I'd laugh, but I'm too busy feeling badly for all the people who have died from these shots. \"Mother should I trust the government...?\"",
+            "likes": 2,
+            "number_of_replies": 3,
+            "polarity": -0.09999999999999994,
+            "subjectivity": 0.35555555555555557
+        },
+        {
+            "comment": "Let\u2019s not forget all the morons who\u2019ve died from not being vaccinated",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I know lots of people who have covid this year and last year when the numbers were thru the roof I didn't know one single person who had covid...last year was nothing from the numbers today.  I say it is not being reported",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.03571428571428571,
+            "subjectivity": 0.14047619047619048
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Without random invitation surveys, we don't know what the numbers are.  They can be off by an order of magnitude, says the CDC.",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "They are dropping because people aren\u2019t watching the news as much.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Let\u2019s not forget all the morons who\u2019ve died from not being vaccinated",
+            "polarity": -0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "PLEASE SHUT UP ABOUT COVID-19!!!!!!!!!!!!!!! I AM SO DAMB TIRED OF HEARING ABOUT IT!!!!!!!!!! STOP LIVING IN FEAR YOU PEOPLE!!!!!!!!!!!!!!!!!!",
+            "polarity": -1.0,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Use magic mineral solution in your humidifier (don't drink it) as prophylaxis or recovery aid.\nAlso order an antiparasite cleanse if you can't get Ivermectin and use as a recovery aid.",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Simple answer. People are running out of paid time off",
+            "polarity": 0.0,
+            "subjectivity": 0.35714285714285715
+        },
+        {
+            "body": "LOL they want it so bad to continue",
+            "polarity": 0.0500000000000001,
+            "subjectivity": 0.6833333333333333
+        },
+        {
+            "body": "Is this headline for real? Who doesn\u2019t know that vaccines are working?",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "It goes up and down all the time,Right? I mean that's the 3rd wave, 4th wave,.....etc...\n  So duh. Next month everyone will be dying. They'll be pushing 4th booster.",
+            "polarity": -0.1536111111111111,
+            "subjectivity": 0.31527777777777777
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-03 23:43:17",
+    "ups": "106924",
+    "downs": "2294",
+    "views": "2731334",
+    "top_comments": [
+        {
+            "comment": "Can we all agree that when He uploads our days get better! \ud83d\udc96",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Preston play pet simulator x",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Presun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The one that was AJDevelopsYT was mepus, when he said to look up without saying simon says, i accidently stepped on my mouse wire.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes! I was routing for mister biscuit! :) :D",
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Unspepkablaeb said f_ck",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mr bicuit is so cute",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Presun",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "hi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

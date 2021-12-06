@@ -1,0 +1,89 @@
+{
+    "time_posted": "2021-10-30 13:36:24",
+    "url": "https://www.youtube.com/watch?v=DJMNN6BqUHg",
+    "time_now": "2021-10-31 21:32:33",
+    "ups": "5686",
+    "downs": "103",
+    "views": "110852",
+    "top_comments": [
+        {
+            "comment": "O1G when I first saw Roblox shut down I was like sad",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.13518518518518519,
+            "subjectivity": 0.5407407407407407
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "O1G when I first saw Roblox shut down I was like sad",
+            "polarity": -0.13518518518518519,
+            "subjectivity": 0.5407407407407407
+        },
+        {
+            "body": "Roblox is still down",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "I NEED ROBLOXXX",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just play brickhill",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "With out Roblox",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Me I\u2019m really going crazy",
+            "polarity": -0.19999999999999998,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "I think roblox got hacked and I play roblox everyday \ud83d\ude1e",
+            "polarity": -0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I am the character of him",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The character of Mr. Brookhaven",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm the one who almost crashed road blocks",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You fell for it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hahaha",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "5 weeks until it,s ficks",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Roblox miss you so much come back soon please",
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        }
+    ]
+}

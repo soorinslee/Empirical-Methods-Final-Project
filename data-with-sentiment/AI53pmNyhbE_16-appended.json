@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-02 10:37:27",
+    "ups": "29826",
+    "downs": "4878",
+    "views": "6562544",
+    "top_comments": [
+        {
+            "comment": "This song will be heard for 1000 years to come",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Bhai ye gana kabhi purana nahi hota, jab suno tab lagta hai kal hi release hua hai.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Super duper upar \ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sad To Know This Beautiful Girl Died At The Age Of 19 \ud83d\ude25",
+            "polarity": 0.175,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "All Time Blockbuster \ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udc8c\ud83d\udc8c\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\u2665\ufe0f\u2665\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-10-31 00:58:23",
+    "ups": "801",
+    "downs": "13",
+    "views": "32369",
+    "top_comments": [
+        {
+            "comment": "Eric smiled more times in the finale than probably his whole life",
+            "likes": 36,
+            "number_of_replies": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "comment": "\"This is something I would love to serve in my restaurant \"\nAlvin did just that when he opened R&D with Eric\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 11,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\"my grandpa on a plate\"\ud83d\ude02\ud83e\udd72\ud83e\udd24\ud83e\udd72",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love when he said \"This is so Canadian\" \ud83d\ude06",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "pov: re-watching these clips even you've already watched videos 'bout MasterChef Canada finale",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "alvin sounds especially quiet when shouting the amount of time left in the season 4 finale compared to the other ones.",
+            "polarity": -0.041666666666666664,
+            "subjectivity": 0.34722222222222215
+        },
+        {
+            "body": "no one:\nmasterchef finalists: *puts dessert elements\u00a0(mousse, crumb, panna cotta) in appetizers*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"This is so Canadian\"\nTook the words straight out of my mouth",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I love it everytime Eric went \"THIS IS MASTERCHEF\"",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\"This dish is like... My grandpa on a plate\". Dude like WTF",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "3:45 thats what she said",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "how to win Masterchef: lose the appetizer round",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "6:16 Eric, first of all, you have put alot on this plate\nme: I see 3 things in there only\ud83d\ude2d",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

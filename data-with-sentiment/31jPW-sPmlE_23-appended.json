@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-03 15:28:38",
+    "ups": "8427",
+    "downs": "315",
+    "views": "474241",
+    "top_comments": [
+        {
+            "comment": "Hope namo has watched netflixmovie two popes",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wah... Lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Latin \ud83d\ude0d language of the gods.... Pls speak... Converse in latin....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ok..good...good nice....\nBut who brain washed SONIA madamji.....",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "312  halale paidhaish log done their attendance",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Let chest of Vatican be opened n tell the truth",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Getting ready for NEW WORLD order.",
+            "polarity": 0.16818181818181818,
+            "subjectivity": 0.4772727272727273
+        }
+    ]
+}

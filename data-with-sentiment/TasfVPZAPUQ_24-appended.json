@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-03 19:35:34",
+    "ups": "43256",
+    "downs": "75",
+    "views": "228356",
+    "top_comments": [
+        {
+            "comment": "Monster rookie that you should not ignore",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ame la coreografia lo mas hermosa sera mi favorita por mucho tiempo",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ireh 22 deja vu 0",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Yuki slayed this performance! \u2728\nthank you Purple Kiss \ud83d\udc9c",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I need this version on Spotify plz",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Yuki Visual Queen  \u2764\u2764\ud83c\uddef\ud83c\uddf5",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I am obsessed with this music",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "SWAN REALLY DID KILLED THIS ONE, SHE SUITS THIS CONCEPT SOOOO MUCH IM IN LOVE",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.26666666666666666
+        }
+    ]
+}

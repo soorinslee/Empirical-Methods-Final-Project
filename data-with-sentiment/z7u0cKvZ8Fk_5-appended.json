@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 14:45:05",
+    "url": "https://www.youtube.com/watch?v=z7u0cKvZ8Fk",
+    "time_now": "2021-10-31 13:18:35",
+    "ups": "1367",
+    "downs": "106",
+    "views": "92938",
+    "top_comments": [
+        {
+            "comment": "When it comes to the world of investing, most people don't know where to start. Fortunately, great investors of the past and present can provide us with guidance.*..",
+            "likes": 34,
+            "number_of_replies": 26,
+            "polarity": 0.2625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Happy Halloween\ud83e\udddf\u200d\u2642\ufe0f\ud83e\udd87\ud83d\udc7b\ud83e\udddb\u200d\u2640\ufe0f\ud83e\udddb\u200d\u2640\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Yes!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy Halloween\ud83c\udf83\ud83d\udc7b\u2620\ufe0f......And happy Indian festival diwali\ud83c\udf87\u2728\ud83c\udf86.....Because  I am iku from india...\ud83c\uddee\ud83c\uddf3",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love halloween",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Happy Halloween  day",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Happy Halloween \u2620\ufe0f\ud83d\udc79\ud83d\udc7a\ud83d\ude08\ud83e\udd21\ud83d\udc7b\ud83d\udd77\ufe0f\ud83d\udd78\ufe0f\ud83d\udc40\ud83d\ude33\ud83d\ude30\ud83d\ude31\ud83d\ude2d\ud83c\udf6b\ud83c\udf6c\ud83c\udf6d\ud83d\ude44\ud83d\ude00\ud83d\ude03\ud83d\ude06",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

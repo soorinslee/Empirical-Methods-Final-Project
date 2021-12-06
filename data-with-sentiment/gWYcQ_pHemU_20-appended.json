@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 11:30:06",
+    "url": "https://www.youtube.com/watch?v=gWYcQ_pHemU",
+    "time_now": "2021-11-03 03:07:05",
+    "ups": "4858",
+    "downs": "75",
+    "views": "120608",
+    "top_comments": [
+        {
+            "comment": "If Younkin wins I will move to VA instead of MD.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Prayers for the people of Virginia   and victory for Youngkin",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "McAuliffe is a Communist!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Republicans want our Country to be a Theocracy, with huge Wealth Gaps, a slew of Small Businesses, Homogeneous, poor Education, and Small Government, no Resource Regulations, strong Military and Police, and Trump forever. That is many countries in Africa \ud83d\ude11. That is some African Nations to a tee. None of our Blue Ideas are good? Really? Really? Since we are the Devil and Everytime we vote \"it must be a \ud83e\udd25\".What y'all want to do? The country has been primarily Red. So nothing new? Nothing Blue?",
+            "polarity": 0.09783549783549783,
+            "subjectivity": 0.3634199134199134
+        },
+        {
+            "body": "He's Bart Simpson's kind of governor",
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        }
+    ]
+}

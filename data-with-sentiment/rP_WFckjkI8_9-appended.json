@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-11-01 05:46:59",
+    "ups": "2749",
+    "downs": "41",
+    "views": "63377",
+    "top_comments": [
+        {
+            "comment": "Waiting for steam deck. I have a good feeling that one will finally fill the hole in my life.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "To answer the question, no.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I saw on another video that you can play SOME ps2 games on the device. I haven't seen which or how many but Kingdom Hearts is supposed to run on it.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "It looks like a modded GPD XD",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It's not bad but as you mention the hardware is a bit performance limited and controls are a tad lacking.\n\nit's not the worst price point for what you get but in the same vein neither is a budget phone and a razr kishi. good news is you can upgrade the phone later on without having to re-buy the controller. and you have some if not less drawbacks.",
+            "polarity": 0.008843537414965965,
+            "subjectivity": 0.37159863945578236
+        },
+        {
+            "body": "Think I'm gonna pass... If I want top end of this tier emulation I just use my OnePlus 6t and a gamesir controller... Works great and it cost about three same all together... I'll wait and see what ambernic does but I won't hold my breath",
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.4583333333333333
+        },
+        {
+            "body": "To answer the question, no.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-01 01:39:46",
+    "ups": "24215",
+    "downs": "4161",
+    "views": "5393023",
+    "top_comments": [
+        {
+            "comment": "Divya Bharti was the most beautiful actress in bollywood industry \u2764\ufe0f\ud83d\ude0d\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.675,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "So funny dance\ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Love dream",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Kya mast ganaa hai. Aaj bhi naachte his iz song pei tho ladkiya patt jaati hai.Aaj ka Bullywuud bakwaas hai. Gandh hai.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Good morning",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I love this song very much",
+            "polarity": 0.38,
+            "subjectivity": 0.43
+        }
+    ]
+}

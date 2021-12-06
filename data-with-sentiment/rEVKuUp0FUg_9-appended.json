@@ -1,0 +1,85 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-01 05:47:30",
+    "ups": "5703",
+    "downs": "38",
+    "views": "61354",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 494,
+            "number_of_replies": 143,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Anna just from doing this stretch for 2 days is really helping my progress I used to not be able to do a split but I\u2019m so close to doing one",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4125
+        },
+        {
+            "comment": "Oh New video yet l enjoy for watch it\ud83d\ude02\ud83d\udc96\ud83d\udc96\ud83d\udc9d\ud83d\udc9d\ud83d\udc95",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2681818181818182,
+            "subjectivity": 0.4772727272727273
+        },
+        {
+            "comment": "Than you so much Anna \nYou are so kind you help us become flexible without any fees and this helped me alot to get flexible\nTysm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Thank you so much anna",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "I like when the music said \"we got this\" \ud83d\ude0a like yes we do thank you Anna for helping get flexible \ud83e\udd70\ud83d\ude18",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Thanks this really helped",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "miss Anna I have a question. My daughter is 10 and she will be going flyer training soon. Can you make a video about beginner flyers? My daughter is kinda nervous for her training, got any tips. Thanks & \ud83d\udc95 Your Videos. \ud83d\udc4d\ud83c\udffb",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "You are a great dancer",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I can bend myself so many different ways thanks to you Anna",
+            "polarity": 0.2333333333333333,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Anna mcnulty thackyou for helping me to get may arieal fast 1day ay try your streach and finally ay get may arieal  thackyou for helping as anna am pilipino ay live in philipine can you notice me\ud83d\ude0a",
+            "polarity": 0.11212121212121212,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "happy halloween anna mcnulty! i hope u have a nice day",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Than you so much Anna \nYou are so kind you help us become flexible without any fees and this helped me alot to get flexible\nTysm",
+            "polarity": 0.4,
+            "subjectivity": 0.55
+        }
+    ]
+}

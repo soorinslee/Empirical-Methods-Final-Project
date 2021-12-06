@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-11-01 22:16:00",
+    "ups": "2929",
+    "downs": "44",
+    "views": "69023",
+    "top_comments": [
+        {
+            "comment": "To answer the question, no.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Not going to lie. This little unit looks like dogshit. lol I can't get around the windows 98 form factor. In this day and age when you have so much competition in the handheld space, this is really disappointing.",
+            "polarity": 0.053125000000000006,
+            "subjectivity": 0.5249999999999999
+        },
+        {
+            "body": "Yeah that\u2019s a really weak SOC",
+            "polarity": -0.375,
+            "subjectivity": 0.625
+        }
+    ]
+}

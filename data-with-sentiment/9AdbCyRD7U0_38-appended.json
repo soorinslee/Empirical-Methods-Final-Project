@@ -1,0 +1,83 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-06 05:17:17",
+    "ups": "18265",
+    "downs": "268",
+    "views": "703933",
+    "top_comments": [
+        {
+            "comment": "Did they said \"Fire in the hole!\"?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "anyone down for some hot potato \ud83d\ude2e\u200d\ud83d\udca8",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.04722222222222221,
+            "subjectivity": 0.5694444444444445
+        },
+        {
+            "comment": "\"Whatchu know about rollin down in the deep\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.07777777777777779,
+            "subjectivity": 0.34444444444444444
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It\u2019s Lava ball.\nBomb? Lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Other News Channels: Hurricane Has Been Spotted In Minnesota! Everyone get to cover.\n\nInside Edition: *this rock rolls*",
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Did they said \"Fire in the hole!\"?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "idk why this thought entered my mind but I want to know what would happen if you shot that thing. like would it explode or what",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "A Celestial is emerging",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I thought bombs explode fascinating",
+            "polarity": 0.7,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "body": "Just defuse the bomb like it's CS:GO. ez game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Bomb explodes, this didn't explode",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bomb? Did it explode?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Volcano like skeet skeet",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

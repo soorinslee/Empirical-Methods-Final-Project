@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 11:30:06",
+    "url": "https://www.youtube.com/watch?v=gWYcQ_pHemU",
+    "time_now": "2021-11-01 18:09:04",
+    "ups": "4733",
+    "downs": "68",
+    "views": "116110",
+    "top_comments": [
+        {
+            "comment": "If Younkin wins I will move to VA instead of MD.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "I live in Virginia! Terry did not do anything for Virginians! Let's give a Republican governor a chance! Terry is against our 2nd Amendment! He is for killing babies too! Parents have the right to know what our kids are doing at school! Vote RED!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15586952110389607,
+            "subjectivity": 0.2589285714285714
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "democrats want to teach your kids hate and racism with CRT....\"parents shouldnt tell schools what to teach their kids\" -mcauliffe",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "McAuliffe is a Communist!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wonderful. A very important psychological tool, predicting the next elections. Dems OUT. Let's Go Brandon,",
+            "polarity": 0.38,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "School boards need voted out as well. Start local movements to take back our country.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Youngkin is a mustin if Virginia is survivin.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Thank you Glenn for saying the truth pls American citizens listen to this governor candidate  is saying and what our president Biden is in need of removal of his office for the same lieing so when it's time to vote in anew president  don't forget what right and what's  left one day at a time no pain no gain hard work patience and unity help each other in times of need will get us through Vote people. Vote freedom to the American Patriot of this nation in God we trust all others can go Bust",
+            "polarity": -0.018707482993197282,
+            "subjectivity": 0.22534013605442177
+        },
+        {
+            "body": "Every Democrat needs to be run out of the country.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

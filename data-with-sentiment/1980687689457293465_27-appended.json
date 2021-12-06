@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj1541/xbox_controllers_at_3am_be_like/",
+    "time_posted": "2021-10-30 09:08:01",
+    "time_now": "2021-11-04 07:59:38",
+    "ups": 19,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hin4v5j",
+            "body": "You can turn down the brightness now.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "comment_id": "hin0qga",
+            "body": "Am I missing something here?",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.05
+        },
+        {
+            "comment_id": "hin0qzs",
+            "body": "Not sure how this is funny.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.9444444444444444
+        },
+        {
+            "comment_id": "hin1jze",
+            "body": "I genuinely don't see how people think the light is bright, I've literally never noticed it while gaming.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment_id": "hinn9k5",
+            "body": "I genuinely don\u2019t get it, it\u2019s a button and it\u2019s not even remotely bright. Unless your playing in pitch black darkness at night and you try to look at your controller then maybe it\u2019d be bright but it\u2019s so tame and there\u2019s even night mode.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.2833333333333334,
+            "subjectivity": 0.55
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hin4v5j",
+            "body": "You can turn down the brightness now.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "comment_id": "hin0qga",
+            "body": "Am I missing something here?",
+            "ups": 6,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.05
+        },
+        {
+            "comment_id": "hiqktwe",
+            "body": "Fr but who be hoppin on at 3am",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin0qzs",
+            "body": "Not sure how this is funny.",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.9444444444444444
+        },
+        {
+            "comment_id": "hinn9k5",
+            "body": "I genuinely don\u2019t get it, it\u2019s a button and it\u2019s not even remotely bright. Unless your playing in pitch black darkness at night and you try to look at your controller then maybe it\u2019d be bright but it\u2019s so tame and there\u2019s even night mode.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.2833333333333334,
+            "subjectivity": 0.55
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hin4v5j",
+            "body": "You can turn down the brightness now.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "comment_id": "hin0qga",
+            "body": "Am I missing something here?",
+            "ups": 6,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.05
+        },
+        {
+            "comment_id": "hiqktwe",
+            "body": "Fr but who be hoppin on at 3am",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin0qzs",
+            "body": "Not sure how this is funny.",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.9444444444444444
+        },
+        {
+            "comment_id": "hinn9k5",
+            "body": "I genuinely don\u2019t get it, it\u2019s a button and it\u2019s not even remotely bright. Unless your playing in pitch black darkness at night and you try to look at your controller then maybe it\u2019d be bright but it\u2019s so tame and there\u2019s even night mode.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.2833333333333334,
+            "subjectivity": 0.55
+        }
+    ]
+}

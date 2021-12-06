@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 12:51:02",
+    "url": "https://www.youtube.com/watch?v=YMvAfsFfMW8",
+    "time_now": "2021-11-02 10:38:12",
+    "ups": "4790",
+    "downs": "563",
+    "views": "402875",
+    "top_comments": [
+        {
+            "comment": "What hacks do your parents use?\ud83d\ude0f",
+            "likes": 61,
+            "number_of_replies": 24,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "What\u2019s wrong with your annoying mom",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.65,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "None",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It's a 123go",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "16:03",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

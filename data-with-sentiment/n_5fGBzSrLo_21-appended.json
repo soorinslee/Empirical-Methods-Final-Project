@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-03 07:13:55",
+    "ups": "31201",
+    "downs": "450",
+    "views": "606818",
+    "top_comments": [
+        {
+            "comment": "Scare\ud83e\udd2c\u2620\ufe0f\ud83d\udc80\ud83d\ude40\ud83d\ude39",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Scare",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "CBELL IS BALDDD",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What controller do you use? (Do you use mouse and keyboard or a console controller?) just wondering because I am switching from console to pc and wondering what the recommended controller is (what is best for learning and getting good at mechanics)",
+            "polarity": 0.85,
+            "subjectivity": 0.45000000000000007
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 13:20:40",
+    "url": "https://www.youtube.com/watch?v=VSKW-Wep4kc",
+    "time_now": "2021-11-01 05:47:13",
+    "ups": "6836",
+    "downs": "404",
+    "views": "348041",
+    "top_comments": [
+        {
+            "comment": "\u27bd Subscribe to BOL News \u27bd https://bit.ly/2Qs5SQH \ud83d\udd14\r\nWatch BOL News Live: https://www.bolnews.com/live",
+            "likes": 25,
+            "number_of_replies": 6,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sami ibrheem ap k bahut bahut shukria",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ic leye hum log na 3 may na 13 may",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Saminibraheem q TV py betha hy jaky darny may bethy.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Great",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ]
+}

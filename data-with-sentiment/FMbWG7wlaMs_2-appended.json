@@ -1,0 +1,128 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-10-31 00:58:21",
+    "ups": "12778",
+    "downs": "120",
+    "views": "179569",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 464,
+            "number_of_replies": 56,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "@8:30 Name your house barrista 'Mr Radar'.  Can't go wrong with a Spaceballs reference.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "What a beautiful, beautiful home! Wow. Everything so tidy and clean too. Wonderful to see. Thank you. Love from Norway",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.630952380952381,
+            "subjectivity": 0.8714285714285713
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "12:46\nDigable Planets\n\ud83d\udcaa\ud83c\udffb\ud83d\ude0b\ud83d\ude0b\ud83d\ude0b\ud83d\ude0b\ud83d\udc4d\ud83c\udffb",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "@8:30 Name your house barrista 'Mr Radar'.  Can't go wrong with a Spaceballs reference.",
+            "polarity": -0.5,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "She keeps moving but it always gets better and better \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Hey Ro I love your house but I have a question is it in the same area as Rebecca\u2019s house cuz your house layout reminds me of hers. Congrats on the house",
+            "polarity": 0.25,
+            "subjectivity": 0.3625
+        },
+        {
+            "body": "Ro, what do you think about Barbara the barista?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What a beautiful, beautiful home! Wow. Everything so tidy and clean too. Wonderful to see. Thank you. Love from Norway",
+            "polarity": 0.630952380952381,
+            "subjectivity": 0.8714285714285713
+        },
+        {
+            "body": "Those blue jeans are \"nimzey\" on you... not really interested in the home.. so whatever",
+            "polarity": -0.0625,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "GUNTHER, from FRIENDS. in memory of the late Michael Tyler.",
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "What are the dogs names again?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "soo proud of you, Ro!!!! I remember you filming Nerdy Nummies in your tiny apartment and now look at this beautiful house/property that you live in!!!! You are an example that hard work pays off and i really look up to you, especially because i love to bake. Love you!!\u2764",
+            "polarity": 0.34347248526936025,
+            "subjectivity": 0.6601851851851852
+        },
+        {
+            "body": "Congratulations girl!\n\ud83d\udcaa\ud83c\udffb\ud83e\udd73\ud83e\udd73\ud83e\udd73\ud83e\udd73\ud83e\udd73\ud83e\udd73\ud83e\udd73\ud83d\udc4d\ud83c\udffb",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4:19\nDog prison cell. Does it come with a bunk bed? \ud83d\ude0b\ud83d\ude0b\ud83d\ude0b\ud83d\ude0b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I wish my house looked like that",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i love you and your house so much!!! it\u2019s so beautiful!",
+            "polarity": 0.75,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Beautiful house! Well done",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "DREW & LINDA! omg! lucky doll \nyour house is gorgeous",
+            "polarity": 0.5166666666666666,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "body": "The house barista should be called barbra",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So um, KITCHEN TOUR PLS",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Name the coffee maker Tiffany",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

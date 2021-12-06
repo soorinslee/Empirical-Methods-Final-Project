@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:23:10",
+    "url": "https://www.youtube.com/watch?v=6_ubH4F_eRQ",
+    "time_now": "2021-11-03 11:21:28",
+    "ups": "24553",
+    "downs": "2038",
+    "views": "2281556",
+    "top_comments": [
+        {
+            "comment": "Miss you Sir \ud83d\ude2d\ud83d\ude25",
+            "likes": 174,
+            "number_of_replies": 16,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Sir ur deeds will keep u alive\ud83d\ude4f internally",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I miss you Punit Rajkumar \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Miss u sir \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u09ab\u09bf\u09a8\u09be\u09b0\u09c7 \u099c\u09be\u09b9\u09be\u09a8\u09cd\u09a8\u09be\u09ae\u09be \u0996\u09be\u09b2\u09c7\u09a6\u09bf\u09a8\u09be \u09ab\u09bf \u09b9\u09be",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Legend really miss you so much",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Really miss you sir \ud83d\ude2d",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Sir ur deeds will keep u alive\ud83d\ude4f internally",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 15:33:28",
+    "url": "https://www.youtube.com/watch?v=mMc1hosXplE",
+    "time_now": "2021-10-31 17:25:21",
+    "ups": "1521",
+    "downs": "24",
+    "views": "33834",
+    "top_comments": [
+        {
+            "comment": "It's a quote made by me -\n\"If you find peace anywhere in this world for 1 second just feel and enjoy it !!! Who knows, maybe the next second this peace is gonna get vanished forever !!!!\"\nIt's a fact !!!!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.1953125,
+            "subjectivity": 0.125
+        },
+        {
+            "comment": "Exactly make Kashmir and Arunachal Pradesh hottest tourist place on earth",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "More pollution in Lake \ud83d\ude44",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "This is the reason WION is the best news channel",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Kashmir is potential resource as tourism and famous for rich haul of quality apples ,saffron and other cottage industries. Unfortunately due to political instability, the same suffered.  All inclusiveness is the mantra   entailing shedding off religious differences what so ever",
+            "polarity": 0.078125,
+            "subjectivity": 0.496875
+        },
+        {
+            "body": "Hope this place doesn't get destroyed by taliban",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "foolish news",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Steady theater will be bombed that's why floating necessary",
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Wao",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hope they ban plastic so that water don't get polluted",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

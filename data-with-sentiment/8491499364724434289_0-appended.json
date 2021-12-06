@@ -1,0 +1,45 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj3t6q/play_a_submarine_game_they_said_it_will_be_fun/",
+    "time_posted": "2021-10-30 11:29:39",
+    "time_now": "2021-10-30 16:47:17",
+    "ups": 7,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinjbj8",
+            "body": "Barotrauma IS fun. It's also punishing.",
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hinjbj8",
+            "body": "Barotrauma IS fun. It's also punishing.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinjbj8",
+            "body": "Barotrauma IS fun. It's also punishing.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinjbj8",
+            "body": "Barotrauma IS fun. It's also punishing.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-03 07:14:19",
+    "ups": "597",
+    "downs": "153",
+    "views": "57827",
+    "top_comments": [
+        {
+            "comment": "Use magic mineral solution in your humidifier (don't drink it) as prophylaxis or recovery aid.\nAlso order an antiparasite cleanse if you can't get Ivermectin and use as a recovery aid.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Let\u2019s not forget all the morons who\u2019ve died from not being vaccinated",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Im still wearing a mask wherever I go because it is still the responsible thing to do.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "Good news so we can stop wearing those stupid masks that don't work",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Next week increases",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Big Pharma buying add space on the news",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Good news so we can stop wearing those stupid masks that don't work",
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "This news station is definitely unhappy with the decrease in cases, especially in Florida.",
+            "polarity": -0.3,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "Is this really surprising?  Things like this usually fade away.  It might never be completely gone, but the big spread is mostly over, since about 90% have immunity either naturally or from the vaccine.",
+            "polarity": 0.19166666666666665,
+            "subjectivity": 0.35833333333333334
+        },
+        {
+            "body": "Before the 1st minute, another shot was done incorrectly. They are told to asparate the needle first. Meaning pulling back on the surange to be sure you are not in a vein. If you are it will go straight to the heart having all these heart issues. If you were a drug user you'd want to still aspartate the needle to make sure it is NOT going into the muscle which in that situation is also not a good idea.",
+            "polarity": 0.18333333333333335,
+            "subjectivity": 0.5185185185185185
+        },
+        {
+            "body": "Im still wearing a mask wherever I go because it is still the responsible thing to do.",
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "The real question is why isn\u2019t China being held accountable for this outbreak, have we all forgotten \u201cbat soup eating mofo\u2019s\u201d",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "Dear people, we will remove from your body what is called the Covid19 vaccination, the procedure will be expensive, they will give it to you for free. Think whether the game is worth the candle. You will search for a person from sea to sea to find salvation",
+            "polarity": -0.05,
+            "subjectivity": 0.5
+        }
+    ]
+}

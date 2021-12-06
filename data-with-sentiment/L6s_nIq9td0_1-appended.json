@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 12:02:50",
+    "url": "https://www.youtube.com/watch?v=L6s_nIq9td0",
+    "time_now": "2021-10-30 20:51:42",
+    "ups": "814",
+    "downs": "60",
+    "views": "24849",
+    "top_comments": [
+        {
+            "comment": "Tomorrow is my sons birthday and seeing all these costumes makes me want to wake him up and let him dress as his costume for 2 days in a row \ud83d\ude02",
+            "likes": 31,
+            "number_of_replies": 6,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Kelly Ripa used to be such a doll... now she just looks weird.",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": -0.25,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "I'm attending a Halloween party myself as Jason Voorhees or something this is so cool\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If they dress up as Native Americans, crybabies will explode",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "In America, Halloween is more like carnival actually.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "So if a white person has blackface it's racist, but an African American does whiteface it's okay? Funny how that happens. I don't think it's racist at all but if it were the other way around we wouldn't hear the end of it.",
+            "polarity": 0.10416666666666667,
+            "subjectivity": 0.3125
+        },
+        {
+            "body": "Congratulations on 9 \u00b7 68 m subscribers \ud83d\udc69\ud83c\udffd\u200d\ud83c\udfeb\ud83d\udda5\ufe0f\ud83c\udfe1)\ud83e\uddcd\ud83c\udffb\u200d\u2640\ufe0f\ud83e\uddcd\u200d\u2642\ufe0f\ud83e\uddcd\ud83c\udffb\u200d\u2642\ufe0f)\ud83d\udc68\ud83c\udffe\u200d\ud83c\udfeb\ud83d\udc75\ud83c\udffe\ud83d\udcbb\ud83c\udfe1\ud83d\udc69\ud83c\udffc\u200d\ud83c\udfeb\ud83e\uddcd\u200d\u2642\ufe0f)\ud83e\uddcd\ud83c\udffb\u200d\u2640\ufe0f\ud83d\udc76\ud83c\udffd\ud83c\udfe1)\ud83e\uddcd\ud83c\udffd\u200d\u2640\ufe0f\ud83d\udcf7\ud83c\udfe1)\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83c\udf83\ud83c\udf83\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude0e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "In America, Halloween is more like carnival actually.",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Happy Pandemekeey A.K.A Halloween \n\nHappy Pandemicsiving A.K.A \nThanksgiving \n\nMerry Pandemas A.K.A Christmas \n\nHappy Pandemery A.K.A New Year\n\nHappy Panderster A.K.A Easter \n\nHappy Pandelentine A.K.A Valentines day",
+            "polarity": 0.6893939393939394,
+            "subjectivity": 0.9090909090909092
+        },
+        {
+            "body": "Americans selebrate Halloween as if they created it.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If they dress up as Native Americans, crybabies will explode",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm dressing up as a streaker.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

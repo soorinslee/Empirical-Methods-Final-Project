@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-02 10:37:16",
+    "ups": "5767",
+    "downs": "65",
+    "views": "72403",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 315,
+            "number_of_replies": 41,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "Your voice is beautiful and so relaxing. Keep up the astounding work <3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8166666666666668,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Linda voz e m\u00fasica \ud83d\udc4dsucesso a cada dia \ud83c\udde7\ud83c\uddf7",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "He's back!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "where can we downloud this????",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "as soon as i saw that you did a cover i just knew that it would be absolutely amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "New subscriber here. I first heard your song house of cards on Spotify and upon hearing it I knew it was a masterpiece. Now that I have watched your covers, all I can say is you are a great singer. I love your voice. Keep singing. You'll soon get the recognition you deserve. >>",
+            "polarity": 0.4215909090909091,
+            "subjectivity": 0.5344696969696969
+        },
+        {
+            "body": "Huhu you are so great male cover.\ud83d\udd25",
+            "polarity": 0.4,
+            "subjectivity": 0.425
+        },
+        {
+            "body": "Amazing\ud83e\udd27\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

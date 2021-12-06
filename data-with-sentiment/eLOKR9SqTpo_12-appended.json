@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-01 18:09:13",
+    "ups": "11352",
+    "downs": "1382",
+    "views": "1176865",
+    "top_comments": [
+        {
+            "comment": "Ear rings  hack  is  so awesome",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Wow fantastic",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Next time pls make the video called rich hacker vs broke hacker",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1875,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "That's crazy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I\u2019m sorry",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Can i take that back?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is stupid",
+            "polarity": -0.7999999999999999,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Nice but i knew u are not usa okay well so i love your video too but u ara not usa 123Go",
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "These hacks are a waste of materials",
+            "polarity": -0.2,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi I'm big fan of your youtube channel and your all video are super and we have started a new channel and subscribe our channel please and channel name is rettaivaal please subscribe to our channel \u263a\ufe0f\u263a\ufe0f\u263a\ufe0f\u2665\ufe0f",
+            "polarity": 0.15656565656565655,
+            "subjectivity": 0.4070707070707071
+        }
+    ]
+}

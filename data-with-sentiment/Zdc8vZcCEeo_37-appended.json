@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-31 00:57:31",
+    "url": "https://www.youtube.com/watch?v=Zdc8vZcCEeo",
+    "time_now": "2021-11-06 01:09:49",
+    "ups": "2212",
+    "downs": "19",
+    "views": "41007",
+    "top_comments": [
+        {
+            "comment": "I PRAY WHO EVER READING THIS BECOMES SUCCESSFUL IN LIFE",
+            "likes": 12,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Success in life is measured in how we live it, and knowing the lessons it teaches us.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.21818181818181817,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": []
+}

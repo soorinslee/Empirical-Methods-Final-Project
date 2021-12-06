@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj3gep/murdering_my_patience/",
+    "time_posted": "2021-10-30 11:11:36",
+    "time_now": "2021-10-30 20:53:03",
+    "ups": 924,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinhq8h",
+            "body": "The longer the game goes, the more points people get.  If a killer is toying with you it's so they (and by extension you) can get more points in the end.",
+            "ups": 59,
+            "downs": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment_id": "hiohaj5",
+            "body": "Bro what happened to abbacchio",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiok367",
+            "body": "I love this game, but I'm trash. I panic way too much, and feel like I'm letting down the survivors. \n\nI'm also a bad killer.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.11111111111111109,
+            "subjectivity": 0.4311111111111111
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinhq8h",
+            "body": "The longer the game goes, the more points people get.  If a killer is toying with you it's so they (and by extension you) can get more points in the end.",
+            "ups": 64,
+            "downs": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment_id": "hiok367",
+            "body": "I love this game, but I'm trash. I panic way too much, and feel like I'm letting down the survivors. \n\nI'm also a bad killer.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.11111111111111109,
+            "subjectivity": 0.4311111111111111
+        },
+        {
+            "comment_id": "hiohaj5",
+            "body": "Bro what happened to abbacchio",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinhq8h",
+            "body": "The longer the game goes, the more points people get.  If a killer is toying with you it's so they (and by extension you) can get more points in the end.",
+            "ups": 60,
+            "downs": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment_id": "hiok367",
+            "body": "I love this game, but I'm trash. I panic way too much, and feel like I'm letting down the survivors. \n\nI'm also a bad killer.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.11111111111111109,
+            "subjectivity": 0.4311111111111111
+        },
+        {
+            "comment_id": "hiohaj5",
+            "body": "Bro what happened to abbacchio",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

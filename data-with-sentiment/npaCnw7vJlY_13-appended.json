@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-11-01 22:15:44",
+    "ups": "7049",
+    "downs": "70",
+    "views": "114299",
+    "top_comments": [
+        {
+            "comment": "Brilliant voice!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Allie never fails to hit the spot. She is an unbelievable talent \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\nTake Care Stay Safe Everyone Regards Dave \ud83d\udc4d\ud83d\ude0e\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "this girl must sing \ud83d\ude18for GOD\ud83d\ude07\ud83d\udc7c.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Brilliant voice!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Allie never fails to hit the spot. She is an unbelievable talent \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\nTake Care Stay Safe Everyone Regards Dave \ud83d\udc4d\ud83d\ude0e\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Congratulations Allie! Amazing Voice!\nYou gave me chills! Singing from your soul! The best of you!\nHugs from Portugal",
+            "polarity": 1.0,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "this girl must sing \ud83d\ude18for GOD\ud83d\ude07\ud83d\udc7c.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This sounds very very good, beautiful performance, love from the Netherlands \ud83d\udcaa\ud83c\udffb\ud83e\udd70\ud83d\udcaa\ud83c\udffb",
+            "polarity": 0.7533333333333333,
+            "subjectivity": 0.7933333333333334
+        },
+        {
+            "body": "it's impressive how you can sing all kinds of songs",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

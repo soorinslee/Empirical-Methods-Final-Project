@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-01 14:02:01",
+    "ups": "4759",
+    "downs": "128",
+    "views": "106558",
+    "top_comments": [
+        {
+            "comment": "Did Bobby move to Florida? I\u2019ve been away from this channel for a while.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "In a very recent video promoting Whole Foods sale prices, you specifically recommended a product, \"Four Sigmatic, Defend, Mushroom Blend Mix.\" On the can there's an explicit warning how this product can expose you to chemicals including lead, which is known in CA to cause birth defects or other reproductive harm. You express concerns about natural and artificial flavors. What's the deal here?",
+            "polarity": -0.08499999999999999,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Watched your newest...good job...except...I was making a list of what to buy and what to avoid....lookin' good til you suggested the Wild Pacific Sardines....while watching and seeing the ingredients, I noticed it was packed in 'Viet Nam'....nope, after watching a program about Viet Nam, I don't think so...but, other than that, I follow you faithfully...God Bless you and your family...",
+            "polarity": 0.22499999999999998,
+            "subjectivity": 0.4583333333333333
+        }
+    ]
+}

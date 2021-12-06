@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-10-31 17:25:15",
+    "ups": "12032",
+    "downs": "214",
+    "views": "205097",
+    "top_comments": [
+        {
+            "comment": "You should name the squad the traffic lights kinda like how u named the earlier one robust. Like so he can see",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Josh: Ahhhhh, its throwing magma balls\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "What about the hardcore world",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Josh said 4 elemantal siren heads but their was 3 elemantal siren heads",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Its all fun an games but when slogo meets the army of siren head gonna take over the world and treathen us to hit that like button",
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "You know i use to think your cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        }
+    ]
+}

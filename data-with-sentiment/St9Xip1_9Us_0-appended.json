@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 15:07:55",
+    "url": "https://www.youtube.com/watch?v=St9Xip1_9Us",
+    "time_now": "2021-10-30 16:46:06",
+    "ups": "344",
+    "downs": "7",
+    "views": "244",
+    "top_comments": [
+        {
+            "comment": "This is the first time I have seen a bed setup like that, cool! There is a little toaster thing that you can put on top of the stove to toast bread. Applaud on the backup camera!\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.49583333333333335
+        },
+        {
+            "comment": "Great setup  looks very comfortable and spacious.  Well done.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.66,
+            "subjectivity": 0.875
+        },
+        {
+            "comment": "Love the set up on that van!  I could live in that.  Thanks for sharing.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3204545454545455,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment": "I'm a poor man I made this channel to help my family\ud83d\udc68\u200d\ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83d\ude4f\u2764\ud83c\udf39",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "and this one time, at full time uptalker camp",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Really like your set-up!",
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "The camera lens makes the van look bigger than what it is.  Its small.  She's doing great making it work with all that storage.  There are extended vans that give a foot more room which is what I'm looking for.  I don't think I'd be happy living so tiny, but a longer van or skoolie would be ideal for tiny living.",
+            "polarity": 0.34375,
+            "subjectivity": 0.64375
+        },
+        {
+            "body": "That is one of the most well laid-out vans that I have seen.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "and this one time, at full time uptalker camp",
+            "polarity": 0.35,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "I'm a poor man I made this channel to help my family\ud83d\udc68\u200d\ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83d\ude4f\u2764\ud83c\udf39",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Love the set up on that van!  I could live in that.  Thanks for sharing.",
+            "polarity": 0.3204545454545455,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Nice car \ud83d\ude97",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Great setup  looks very comfortable and spacious.  Well done.",
+            "polarity": 0.66,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "This is the first time I have seen a bed setup like that, cool! There is a little toaster thing that you can put on top of the stove to toast bread. Applaud on the backup camera!\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe",
+            "polarity": 0.25,
+            "subjectivity": 0.49583333333333335
+        },
+        {
+            "body": "\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

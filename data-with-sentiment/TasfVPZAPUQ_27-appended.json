@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-04 07:57:05",
+    "ups": "43966",
+    "downs": "78",
+    "views": "235421",
+    "top_comments": [
+        {
+            "comment": "ATTENTION to all Plorys, Tomoons, and Moomoos. Please don't be lazy with str3aming. Unfortunately this is the reality of K-pop nowadays. Vi3ws count. Otherwise it's back of the line again for them while the groups with big agencies and fanbases takes the cake. No matter how talented our groups are.",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": -0.010000000000000009,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "No one is doing it like PURPLE KISS! MSHIT is blind for not recognizing these talented girls!",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.1875,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "comment": "It's really weird how Purple Kiss, being the best selling 2021 rookie is not nominated for MAMA. Oneus isn't nominated for anything either. Mamamoo got nominated for 1 category. I know Mnet is super rigged but RBW, are you sure your \"strategy\" is working? I thought y'all are doing an IPO? Isn't it high time to BOOST brand reputation?",
+            "likes": 5,
+            "number_of_replies": 3,
+            "polarity": 0.29866666666666664,
+            "subjectivity": 0.6791111111111111
+        },
+        {
+            "comment": "We need it on Apple Music",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thanks purple kiss \ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ahora no se cual versi\u00f3n preferir, est\u00e1n incre\u00edbles amabas!!!1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i thought they were just gonna wear costumes and sing the normal song but this was unexpected wooo!!",
+            "polarity": 0.153125,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "I SUPER LOVE THIS VERSION",
+            "polarity": 0.41666666666666663,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "body": "Purple kiss rookies of the year",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "They ate this alive",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "My rookie of the year **gives trophy**",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-06 09:24:24",
+    "ups": "8892",
+    "downs": "351",
+    "views": "539182",
+    "top_comments": [
+        {
+            "comment": "Praise Jesus",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Behind the scenes they both want to convert each other \ud83d\ude0a",
+            "polarity": -0.2625,
+            "subjectivity": 0.5375
+        }
+    ]
+}

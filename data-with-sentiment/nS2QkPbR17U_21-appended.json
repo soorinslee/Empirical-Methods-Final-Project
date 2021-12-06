@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:17:59",
+    "url": "https://www.youtube.com/watch?v=nS2QkPbR17U",
+    "time_now": "2021-11-03 07:14:30",
+    "ups": "4333",
+    "downs": "73",
+    "views": "62573",
+    "top_comments": [
+        {
+            "comment": "Public Rec Limited Time Discount Code 'ALPHAFALL' use special links:\nWeekend Jogger: https://bit.ly/3uYeDYH Weekend Crew: https://bit.ly/3AoS7tc \nWeekend Half Zip: https://bit.ly/3BoIWdG Weekend Full Zip: https://bit.ly/2WUQHZP",
+            "likes": 24,
+            "number_of_replies": 5,
+            "polarity": 0.09380952380952381,
+            "subjectivity": 0.2995238095238095
+        },
+        {
+            "comment": "I don\u2019t agree with the last one.\nBlack shoes look better. It is like a rule of cool here in London.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.17083333333333334,
+            "subjectivity": 0.4125
+        },
+        {
+            "comment": "I\u2019m having the most uncomfortable poop ever but this is helping me feel amazing and BADASS!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25000000000000006,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "comment": "Hi Alpha, have you tried Mack Weldon Ace sweats/joggers and how do you think they compare to public rec?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "comment": "I just bought the crewneck you\u2019re wearing with your code. What do you think about that sweatshirt paired with khakis and black air force ones?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The suit advice is great. I would add two more pieces of advice. 1) Find out which tailor your local fashion boutique uses so that you can get proper tailoring adjustment. 2) Get suits with higher and smaller arm holes. Smaller arm hole suits will show immediately whether the jacket fits or not.",
+            "polarity": 0.22142857142857145,
+            "subjectivity": 0.40714285714285714
+        },
+        {
+            "body": "He is just awesome as always \ud83d\udd25",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Man, Public rec just lost a peg in my book. I had a cart saved last month; I go to put your code in and it actually jumped the taxes up by over 20$ so It's literally an all of 3$ discount. I have a pair of the every days; love them, actually my go to around the house comfy pants, but actively watching that happen on screen makes you question things.",
+            "polarity": 0.061111111111111116,
+            "subjectivity": 0.25555555555555554
+        },
+        {
+            "body": "love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

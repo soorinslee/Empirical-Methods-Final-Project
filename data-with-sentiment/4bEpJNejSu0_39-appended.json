@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-06 09:23:57",
+    "ups": "7883",
+    "downs": "452",
+    "views": "780962",
+    "top_comments": [
+        {
+            "comment": "Man I don\u2019t like this kind of interview because nore letting that alcohol getting in his mind",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Wale got Nore drunk as hell, even though Nore was trying to get  Wale drunk!!!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.73828125,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Nore ain\u2019t the same since wale poured that double shot of Ciroc \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0625
+        },
+        {
+            "comment": "Lotus flower bomb is still the best song ever released",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Lol that was actually a really good interview!!! Sheeeshhhh",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.9,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "He does a lot of crying & complaining damn",
+            "polarity": -0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\u2764\ufe0f wale",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I fks wit wale music, but his entire character is lame. The dude is on his phone the entire time, complaining about taking shots, and sounding aggravated by the questions. Why go on the show? Looking like they forced him to go on.",
+            "polarity": -0.2,
+            "subjectivity": 0.55
+        }
+    ]
+}

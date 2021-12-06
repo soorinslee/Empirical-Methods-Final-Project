@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=5C3uUlBSYY0",
+    "time_now": "2021-10-30 20:51:51",
+    "ups": "1204",
+    "downs": "64",
+    "views": "47565",
+    "top_comments": [
+        {
+            "comment": "Excellent troom troom select the amazing work you have to done and I am proud of you I seeing your videos everyday excellent troom troom select  awesome and amazing thank you",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.6857142857142858,
+            "subjectivity": 0.9142857142857144
+        },
+        {
+            "comment": "Wow! It's good that Melissa's parents are together again! Melissa deserves to be punished. You can take a walk during the day. It's dangerous to walk at night",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Name ? U My Antara \ud83d\ude0a",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Mudra \ud83d\udc4d\ud83d\udc4c\ud83d\udc90\ud83d\udc4c\ud83d\ude0a\u263a\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love Troom Troom Select \ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Best if the best",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "\ud83d\ude1a\u263a\ud83d\udc95\ud83d\udc96",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Your not allowed  to go to sleep with glasses  on",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why does the mom have braces",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How good that her parents have reconciled and Melissa has a full-fledged family!\u263a\ufe0f\ud83d\ude0a\u263a\ufe0f",
+            "polarity": 0.6499999999999999,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Wow! It's good that Melissa's parents are together again! Melissa deserves to be punished. You can take a walk during the day. It's dangerous to walk at night",
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "Sad.... IDK WUT IS GOING TO HAPPEN NEXT!",
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Lovely video",
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Love you so much guys \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        }
+    ]
+}

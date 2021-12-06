@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-11-02 10:37:38",
+    "ups": "3030",
+    "downs": "46",
+    "views": "73084",
+    "top_comments": [
+        {
+            "comment": "During your upcoming emulation test, would you consider trying out \u201cHot Wheels: Ultimate Racing\u201d for the PSP?\nI\u2019ve been looking for a way to play that game on the go, and this new PowKiddy handheld seems like the right way to go (price notwithstanding).",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0544155844155844,
+            "subjectivity": 0.648051948051948
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "N3ds xl design",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Let's be honest here. Even a 3 year old random $30 Android box can match this performance. Nothing else about it screams $170 either. There's literally no reason to buy a new device if you already bought one in the last 3 years as they all performs nearly identically. What looks like performance upgrades on paper is in real life use so miniscule that nothing has changed in 3 years. Some ACTUAL hardware upgrades is needed, next gen upgrades, PS2 and Gamecube performance. Especially now when these high-end handheld devices like Steam Deck are being released, something needs to fill the huge gap.",
+            "polarity": 0.09421487603305785,
+            "subjectivity": 0.4382920110192838
+        },
+        {
+            "body": "same like ps3",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "Can you make a video on MAME on android (Samsung Galaxy tab 7+)",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

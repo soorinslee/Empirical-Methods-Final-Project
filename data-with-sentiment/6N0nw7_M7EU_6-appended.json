@@ -1,0 +1,74 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-10-31 17:25:42",
+    "ups": "3807",
+    "downs": "42",
+    "views": "76399",
+    "top_comments": [
+        {
+            "comment": "was he joking about that $1500 bottle wine?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That's called the \"one cup will put your on your ass\" drink",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You ok sky?\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "bruh thats like 70% hard alcohol you cant just add a couple orange slices and a bottle of juice and go \"ight that shits drinkable\" look at his face at the end shit is just straight alcohol lmfao",
+            "polarity": -0.09722222222222222,
+            "subjectivity": 0.5805555555555556
+        },
+        {
+            "body": "Oo damn!! That's so cool \ud83d\ude00\ud83d\ude00 and the best part was after taking a sip a ring came out of it.. \nThat some spooky Halloween Drink\ud83c\udf83\ud83d\udc7b\ud83c\udf6c",
+            "polarity": 0.675,
+            "subjectivity": 0.475
+        },
+        {
+            "body": "For those of you wondering that's 138 alcohol standard units. That's a BAC of 3,65%, or 7 times what would be considered \"high possibility of death\". Of course for an elephant that'd be like drinking a glass of wine.",
+            "polarity": 0.08,
+            "subjectivity": 0.26999999999999996
+        },
+        {
+            "body": "Drink some oj boy get ya feeling better ya hear me home boy!",
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "was he joking about that $1500 bottle wine?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No chance any of this shit taste good",
+            "polarity": 0.24999999999999997,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Sounds like a wizard brewing in his cauldron.. Happy Halloween everyone \ud83e\udddb\ud83e\udddb",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Carbon carbon carbon \ud83d\ude43",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Get well soon Sky",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

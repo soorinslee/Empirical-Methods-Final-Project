@@ -1,0 +1,123 @@
+{
+    "time_posted": "2021-10-30 14:20:29",
+    "url": "https://www.youtube.com/watch?v=KE8zYIoR0nI",
+    "time_now": "2021-11-01 22:15:59",
+    "ups": "190342",
+    "downs": "1893",
+    "views": "3260899",
+    "top_comments": [
+        {
+            "comment": "Subscribe for 136,500,000 skittles :)",
+            "likes": 12462,
+            "number_of_replies": 490,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I was Willy Wonka for Halloween lol.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "ralph:sweetie my wife is getting a candy\nbeluga: really 1\nralph:yes\nbeluga:how dare you dumb a$$\nralph:ok mommy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.0875,
+            "subjectivity": 0.35
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Happy Halloween! ",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "surprisingly, saw no squid game outfits, no fnf outfits, but one among us outfit",
+            "polarity": 0.14999999999999997,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "Hey guys I know you\u2019re not feeling good \nOk so we are going to have dinner",
+            "polarity": 0.6,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "this video makes it feel like my name is fucking tobias or something",
+            "polarity": -0.6,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I was blue among us no kidding",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I was Willy Wonka for Halloween lol.",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "That was facts! And that fact u were imposter or crewmate in squid game too \ud83d\ude02\ud83d\ude02",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Where is skittlechan?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is beluga ever gonna heart any comments?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It would be more funnier if ralph pressed the butten and instead of hecker falling down, hecker would FLYYYYY",
+            "polarity": 0.17222222222222222,
+            "subjectivity": 0.3944444444444445
+        },
+        {
+            "body": "somehow there was none in my neighborhood",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "holy, i was playing minecraft, and i was mineing and the video was ending, but that TNT made me think that was a creeper",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hm i wonder what skittle-chan and ralph are doing \ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83d\ude33",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Then baluga comes back with another among us costume",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hecker is custumed with him",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I actually thought ppl would be wearing squid game costumes but i saw no one wearing squid game costumes",
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "ralph:sweetie my wife is getting a candy\nbeluga: really 1\nralph:yes\nbeluga:how dare you dumb a$$\nralph:ok mommy",
+            "polarity": -0.0875,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "I don\u2019t celebrate Halloween because I\u2019m a Protestant Christian, but I like those squid game costumes.",
+            "polarity": -0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

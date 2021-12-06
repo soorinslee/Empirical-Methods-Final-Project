@@ -1,0 +1,128 @@
+{
+    "time_posted": "2021-10-30 14:20:29",
+    "url": "https://www.youtube.com/watch?v=KE8zYIoR0nI",
+    "time_now": "2021-10-31 00:57:46",
+    "ups": "107326",
+    "downs": "915",
+    "views": "1462762",
+    "top_comments": [
+        {
+            "comment": "Subscribe for 136,500,000 skittles :)",
+            "likes": 7286,
+            "number_of_replies": 490,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Lesson learned: Respect hecker properly.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "I bet a million dollars I'm gonna see a squid game costume tomorrow",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Same all of the ppl wear squid game",
+            "polarity": -0.2,
+            "subjectivity": 0.2625
+        },
+        {
+            "body": "Hecker hecks the two brain cells of Mumbo Jumbo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sheeeeeeeeesh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "3:00am I feel you.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "trick or trete",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lesson learned: Respect hecker properly.",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I bet a million dollars I'm gonna see a squid game costume tomorrow",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Faaac",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wait did thumbail are changed",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "where is skittle-chan:3?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\nFac mi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "true",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "S w e a t y\nMy wife is getting the treats",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*When skittle chan gets all the skittles*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think among us was last year\u2026 this year is squid game. Well I didn\u2019t trick or treat last year my mom hod candy around the house in little containers for us to find and we trick or treat at door in our house",
+            "polarity": -0.146875,
+            "subjectivity": 0.2583333333333333
+        },
+        {
+            "body": "R.I.P \n\n\n\n\nROBLOX",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hello again beluga.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "best video ever",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "1:07 why is hand bell hard?",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-11-06 05:17:39",
+    "ups": "3745",
+    "downs": "19",
+    "views": "52028",
+    "top_comments": [
+        {
+            "comment": "Thank you so much for listing the recipe in grams. Will be baking these tomorrow. Just bought 25lbs of pecans from the farm today.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "I just made these and I toasted the nuts first and ohhhhhhhhh my goodness you were so right!\ud83d\udc69\u200d\ud83c\udf73\ud83d\udc95\ud83c\udf7e\ud83e\udd42 everything I have ever made from your channel has turned out fabulous (and I have made many) thank you John I hope you and your family have a very blessed holiday season\ud83d\ude4f\ud83d\udc69\u200d\ud83c\udf73\u203c\ufe0fI appreciate your dedication and hard work \ud83d\udc95\ud83c\udf85\ud83e\udd36\ud83c\udf84",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.21166666666666661,
+            "subjectivity": 0.5349999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "We called these Swedish pecan puffs , formed into little logs then after baking while still warm lightly dusted with icing sugar,  but I never toasted the pecans , I'll be doing that now for sure , it will be a game changer , thanks .",
+            "polarity": 0.18541666666666667,
+            "subjectivity": 0.5481481481481482
+        }
+    ]
+}

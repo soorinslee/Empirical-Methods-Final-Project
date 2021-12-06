@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 14:08:00",
+    "url": "https://www.youtube.com/watch?v=XOkUo3OfhWY",
+    "time_now": "2021-11-02 10:37:40",
+    "ups": "2175",
+    "downs": "47",
+    "views": "49997",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "#Teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have hated creepers since I played minecraft but now I am proud of this creeper congrats creeper",
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.85
+        }
+    ]
+}

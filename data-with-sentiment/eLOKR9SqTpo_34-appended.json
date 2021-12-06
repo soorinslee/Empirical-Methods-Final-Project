@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-05 12:47:51",
+    "ups": "14073",
+    "downs": "1778",
+    "views": "1548989",
+    "top_comments": [
+        {
+            "comment": "8:12 I  think he has a problem over there?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thanks Sir, I learned a lot!  \u2665 \u2665 9:33",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "iLoveyouamama",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why is it poor or rich \ud83d\ude02\ud83e\udd11\ud83d\ude2e\ud83e\udd11\ud83d\ude2e\ud83e\udd11\ud83d\ude2e\ud83d\ude36\ud83d\ude36\ud83d\ude36\ud83d\ude36\ud83d\ude36\ud83d\ude36\ud83d\ude36\ud83d\ude36\ud83d\ude36\ud83d\ude36\ud83d\ude36 you have no idea \ud83d\ude05 you",
+            "polarity": -0.012500000000000011,
+            "subjectivity": 0.675
+        }
+    ]
+}

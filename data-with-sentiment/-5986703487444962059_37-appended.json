@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj3f7p/does_anyone_know_a_good_software_for_automated/",
+    "time_posted": "2021-10-30 11:09:51",
+    "time_now": "2021-11-06 01:11:40",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hing388",
+            "body": "You mean software for cheating?",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment_id": "hinhbsw",
+            "body": "What game you ruining by going AFK on?",
+            "ups": 7,
+            "downs": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hinklbk",
+            "body": "What, do you think the company in charge of the game you wanna cheat on is gonna kick down your door if you google \"autoclick software\"?",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.2777777777777778,
+            "subjectivity": 0.34444444444444444
+        },
+        {
+            "comment_id": "hinfnbx",
+            "body": "Selenium",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinqm2w",
+            "body": "I *think* folks use AHK (Or whatever the newer branch is called) for that.",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinhbsw",
+            "body": "What game you ruining by going AFK on?",
+            "ups": 7,
+            "downs": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hing388",
+            "body": "You mean software for cheating?",
+            "ups": 8,
+            "downs": 0,
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment_id": "hinklbk",
+            "body": "What, do you think the company in charge of the game you wanna cheat on is gonna kick down your door if you google \"autoclick software\"?",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.2777777777777778,
+            "subjectivity": 0.34444444444444444
+        },
+        {
+            "comment_id": "hinfnbx",
+            "body": "Selenium",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinqm2w",
+            "body": "I *think* folks use AHK (Or whatever the newer branch is called) for that.",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinhbsw",
+            "body": "What game you ruining by going AFK on?",
+            "ups": 7,
+            "downs": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hing388",
+            "body": "You mean software for cheating?",
+            "ups": 9,
+            "downs": 0,
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment_id": "hinklbk",
+            "body": "What, do you think the company in charge of the game you wanna cheat on is gonna kick down your door if you google \"autoclick software\"?",
+            "ups": 5,
+            "downs": 0,
+            "polarity": -0.2777777777777778,
+            "subjectivity": 0.34444444444444444
+        },
+        {
+            "comment_id": "hinfnbx",
+            "body": "Selenium",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinqm2w",
+            "body": "I *think* folks use AHK (Or whatever the newer branch is called) for that.",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

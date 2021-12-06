@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-04 07:57:19",
+    "ups": "40418",
+    "downs": "281",
+    "views": "589851",
+    "top_comments": [
+        {
+            "comment": "Glad Etho haven't found out about it yet",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Glad Etho haven't found out about it yet",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Iskall, the color of fully oxidized copper is turquoise",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You could hide light under the moss carpet",
+            "polarity": 0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "And make the entrance of the elevator maybe 3 or 4 blocks wide with at arch that should look better",
+            "polarity": 0.2,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "Why not just make the elevator bigger and put more soul sand soo the entrance to it is bigger like a big wonky tube",
+            "polarity": 0.04,
+            "subjectivity": 0.38
+        }
+    ]
+}

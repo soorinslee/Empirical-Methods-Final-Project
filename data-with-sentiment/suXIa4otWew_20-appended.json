@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 09:14:41",
+    "url": "https://www.youtube.com/watch?v=suXIa4otWew",
+    "time_now": "2021-11-03 03:06:30",
+    "ups": "153176",
+    "downs": "1425",
+    "views": "1685707",
+    "top_comments": [
+        {
+            "comment": "The first word always got me\ud83d\ude32\nOnly Indians can relate\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.125,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "Lan somi a\u015fk\u0131m sin",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Everybody : X-O-X-\u00d4\nVS What i hear :\nEXO EXO \ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Xoxo\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-05 12:47:53",
+    "ups": "6531",
+    "downs": "177",
+    "views": "178534",
+    "top_comments": [
+        {
+            "comment": "We have Rao's at Costco in NC. Planning on going this weekend, so I hope it's on sale!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Last week I was at Costco grabbing organic almond milk and got stopped by a guy asking me why am I not getting the Costco almond milk since it\u2019s Bobby approved. I am so happy that more and more people watch your videos and talk to each other at Costco, so cool\ud83d\ude04",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.335,
+            "subjectivity": 0.4883333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "your correct on the K-cups, I no longer have them or use, i handed emptied them in jar for use, especially body and plant, thank you as always",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Love your informative videos. The SF coffee pods is what I love.  My Costco had them briefly recently.  The Costco near my daughters home which is 30 miles from my location has it all the time.  There is another Costco about 6 miles away which had the SF coffee so I bought 2 cartons. Had to ask as it wasn\u2019t  stocked with the other coffee.  It was on an outside aisle. It is carried in stores where ii is most popular. You have taught me to read labels.  Love the wild sardines and the Raos Tomato sauce. Staying away from high carb products.",
+            "polarity": 0.25772727272727275,
+            "subjectivity": 0.47409090909090906
+        }
+    ]
+}

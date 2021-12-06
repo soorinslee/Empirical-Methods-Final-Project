@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-02 22:59:22",
+    "ups": "15412",
+    "downs": "228",
+    "views": "361709",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1691,
+            "number_of_replies": 135,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Can we all appreciate how fast jack was when finishing a cereal box maze.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I actually am using a castform in the pokemon blazing emerald rom hack",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Do first to get five shinys of the same type wins",
+            "polarity": 0.18333333333333335,
+            "subjectivity": 0.21944444444444444
+        },
+        {
+            "body": "Name a better trio, i will wait.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "OK?",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "(Tessingly) Thats 2 Mikey wins on your channal John, that i know of anyway! tisk tisk \u261d\" \ud83d\ude12\n\ud83d\ude06\nLMAO i love how Jack at the end there was like 'eh ima lose might as well enjoy the show at this point!' And his face at the end there! \ud83d\ude02 the \ud83d\ude32 it killed me! \ud83d\ude02\nEditv 12:36 i cntsto watching this part! \ud83d\ude02 im sory its gold! \ud83d\ude02",
+            "polarity": 0.34187500000000004,
+            "subjectivity": 0.45999999999999996
+        }
+    ]
+}

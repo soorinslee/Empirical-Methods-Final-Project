@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-05 04:33:36",
+    "ups": "658",
+    "downs": "175",
+    "views": "63634",
+    "top_comments": [
+        {
+            "comment": "Dont mind me I'm just taking a turd in the litter box, dont look",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Covid is a plandemic. Plain and simple. Only idiots believe covid is real now. If asked 2 years ago, 100% of people would've not agreed to take part in medical experiments with a \"vaccine\" that was developed in a couple months. But the vaccine advertising is really strong. If you tell a lie enough times, it will be believed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.031216931216931223,
+            "subjectivity": 0.48306878306878304
+        },
+        {
+            "comment": "see    WELCOME TO THE DEFENDER   CHILDREN'S HEALTH DEFENCE?????????????????",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "If you live in California, there is a state-wide school walkout on November 15.",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "NATURAL IMMUNITY. You are welcome.",
+            "polarity": 0.45,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "(Ephesians 3:20\r) ow unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,...",
+            "polarity": 0.25,
+            "subjectivity": 0.3625
+        },
+        {
+            "body": "What's that smell Ho yes its \ud83d\udc02\ud83d\udca9",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

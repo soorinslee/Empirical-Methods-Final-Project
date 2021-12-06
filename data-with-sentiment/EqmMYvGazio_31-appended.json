@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-05 00:26:30",
+    "ups": "11887",
+    "downs": "89",
+    "views": "235843",
+    "top_comments": [
+        {
+            "comment": "MY DAD WAS BORN THERE!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "MY DAD WAS BORN THERE!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please don't get a new suitcase. That's really wasteful and nobody would notice it or care anyway",
+            "polarity": 0.16818181818181818,
+            "subjectivity": 0.32727272727272727
+        },
+        {
+            "body": "im so upset i didnt see you :(",
+            "polarity": -0.75,
+            "subjectivity": 1.0
+        }
+    ]
+}

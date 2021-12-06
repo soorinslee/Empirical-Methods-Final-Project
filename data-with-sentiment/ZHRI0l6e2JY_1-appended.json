@@ -1,0 +1,75 @@
+{
+    "time_posted": "2021-10-30 15:00:15",
+    "url": "https://www.youtube.com/watch?v=ZHRI0l6e2JY",
+    "time_now": "2021-10-30 20:51:49",
+    "ups": "104",
+    "downs": "0",
+    "views": "2096",
+    "top_comments": [
+        {
+            "comment": "Sorry, but Emily's painting looked like something a preschooler produced and she moved at a snails pace. I did like the other two shortlisted pieces and how both focused on completely different aspects of the landscape. Made it hard to choose between them but I liked that Tom won. I felt his piece represented the overall landscape better.",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.026190476190476177,
+            "subjectivity": 0.5452380952380952
+        },
+        {
+            "comment": "i love that diptych",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\"Titivating\" is the word of the day.  To make small, enhancing alterations.  Well done, everyone.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "By far, the best painting of he day was the young lady who won the wolf card. Eager to see how she does next time",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.42500000000000004
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "New judges, please.",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Why don\u2019t we see an artist representing the wildcards in the semis?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why ya fuckin lettuce like that tho?? harry potter ass",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tom looks just like the artist who won in the previous season, Richard Alan, they could be brothers.",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Sorry, but Emily's painting looked like something a preschooler produced and she moved at a snails pace. I did like the other two shortlisted pieces and how both focused on completely different aspects of the landscape. Made it hard to choose between them but I liked that Tom won. I felt his piece represented the overall landscape better.",
+            "polarity": 0.026190476190476177,
+            "subjectivity": 0.5452380952380952
+        },
+        {
+            "body": "By far, the best painting of he day was the young lady who won the wolf card. Eager to see how she does next time",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.42500000000000004
+        },
+        {
+            "body": "\"Titivating\" is the word of the day.  To make small, enhancing alterations.  Well done, everyone.",
+            "polarity": -0.25,
+            "subjectivity": 0.4
+        }
+    ]
+}

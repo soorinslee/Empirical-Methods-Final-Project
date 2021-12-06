@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj3t6q/play_a_submarine_game_they_said_it_will_be_fun/",
+    "time_posted": "2021-10-30 11:29:39",
+    "time_now": "2021-11-03 07:15:35",
+    "ups": 9,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinjbj8",
+            "body": "Barotrauma IS fun. It's also punishing.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hintk86",
+            "body": "*Subnautica lurking in the darkness*: I wonder if I should say something?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiobu5w",
+            "body": "Ah, Barotrauma. Such fun.\n\nI remember doing a diving excursion in some ruined temple. Accidently put a fuel-tank on, instead of a scuba-tank.\n\nDied shortly after.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.09999999999999999,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinjbj8",
+            "body": "Barotrauma IS fun. It's also punishing.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hintk86",
+            "body": "*Subnautica lurking in the darkness*: I wonder if I should say something?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiobu5w",
+            "body": "Ah, Barotrauma. Such fun.\n\nI remember doing a diving excursion in some ruined temple. Accidently put a fuel-tank on, instead of a scuba-tank.\n\nDied shortly after.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.09999999999999999,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinjbj8",
+            "body": "Barotrauma IS fun. It's also punishing.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hintk86",
+            "body": "*Subnautica lurking in the darkness*: I wonder if I should say something?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiobu5w",
+            "body": "Ah, Barotrauma. Such fun.\n\nI remember doing a diving excursion in some ruined temple. Accidently put a fuel-tank on, instead of a scuba-tank.\n\nDied shortly after.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.09999999999999999,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

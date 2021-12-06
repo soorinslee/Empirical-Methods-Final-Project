@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:13:19",
+    "url": "https://www.youtube.com/watch?v=jVixdD4ABIk",
+    "time_now": "2021-11-06 13:30:47",
+    "ups": "16616",
+    "downs": "54",
+    "views": "205261",
+    "top_comments": [
+        {
+            "comment": "i'm so glad you guys included kapustin in there. he's one of my favorite composers just from the groove he has",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "You should do a composer profile series. Like ten prices of prokofiev, bach, debussy and others.\nTHANK YOU",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You missed Tchaikovsky's second mov of his 1st symphony. Such a wonderful, melancholic and peaceful music! omg",
+            "polarity": 0.328125,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I find Britten's final (3rd) SQ very like Bartok's final (6th). Both are deeply sad.",
+            "polarity": -0.06,
+            "subjectivity": 0.6599999999999999
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-01 18:09:07",
+    "ups": "2862",
+    "downs": "19",
+    "views": "48767",
+    "top_comments": [
+        {
+            "comment": "To me, slight asymmetry in shared bedrooms reflects not only interest but that the space is shared by 2 equally strong individuals: they obviously have a lot in common but ultimately do things slightly differently, no? \nThanks for what you do Nick, not only your ideas but also the background work you put into this, the timeline, the detail of items... while still keeping your wit and unique throw away lines that always make me smile. \u2665",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.14015151515151514,
+            "subjectivity": 0.6545454545454544
+        },
+        {
+            "comment": "This might not be a design mistake but people often setting up two-way switches that operate room lights as you enter the room as well as can be switched off when in bed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I am totally going to look for a nice rug for my bedroom! I am never going to have more pillows on my bed than needed - maybe that's very european of me.\nBut i do want my space to feel a bit more cozy!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.5833333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Do you have any recommendations on an extra deep quality sheet set? I have a topper and cannot find anything quality that is for dew mattresses",
+            "polarity": 0.0,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "I wonder if pendant lighting over the bed can cause glare from the lightbulbs shining down on you when you are lying in bed.",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "Nailed it. I agree with all of it. \ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just ordered mine! If they are as awesome as they look, will be ordering more! Tired of a boring room!",
+            "polarity": 0.05625000000000002,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "If I have my labradoodle lie on my bed that adds texture, right?",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "Oh, no no no no... no mirror in the bedroom, please! Maybe on the inside of the wardrobe door. God (I mean Feng Shui) forbid!",
+            "polarity": -0.390625,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "Nick, what do you think about wall sconces over the headboard if they cannot be placed over the nightstand?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

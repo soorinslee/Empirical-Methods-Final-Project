@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-11-01 18:09:06",
+    "ups": "2264",
+    "downs": "8",
+    "views": "26954",
+    "top_comments": [
+        {
+            "comment": "It's a sure thing with Lisa, she's definitely the hostess with the mostess. A designer who makes our world finer. A self given saint who teaches us how to pick the right paint. The lady with her own grove, with a great channel on YouTube !  Love ya \ud83d\udc95",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.48095238095238096,
+            "subjectivity": 0.7124338624338624
+        },
+        {
+            "comment": "I would add some coasters, a box of tissues, bottled water and a small trash can.  Great video!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "Shortly after moving into our current home, I announced to my husband one night that I was going to go sleep in the guestroom.   He thought he was in trouble and asked why.  I told him I needed to make sure I'd gotten everything right for future company. \ud83d\ude04",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0976190476190476,
+            "subjectivity": 0.4082671957671957
+        },
+        {
+            "comment": "I know this is random but would you give tips for a buy to rent home.we have a 2 bed that we are renovating from the brickwork out new electrics etc to rent to tenants.  I would love some help with decor or feel ideas.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.04545454545454545,
+            "subjectivity": 0.5181818181818182
+        },
+        {
+            "comment": "I ask my guests/family while they stay to let me know if there is anything I need to add or change to help in their stay. I make a list to get or do if it doesn\u2019t happen while they are here. Then the next time when someone stays it is much better. \nThat\u2019s when I learned about the tissues, fans, and the tub drain that wasn\u2019t draining well.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Some additions to your very helpful suggestions: a chair (if you have room), nightlights either in the room or just outside the room, and definitely a nightlight in the bathroom, I also add a couple of safety pins to the liner of my guest basket on the outer edge that hangs outside the basket, disposable razor and shaving cream, bottled water, something sweet, something savory, small notebook and pen, something funny (like a copy of the National Enquirer) and oh my gosh, so much more...",
+            "polarity": 0.13125,
+            "subjectivity": 0.43125
+        }
+    ]
+}

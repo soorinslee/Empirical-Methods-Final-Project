@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-01 18:08:41",
+    "ups": "2597",
+    "downs": "59",
+    "views": "47963",
+    "top_comments": [
+        {
+            "comment": "DLSS\n\nMakes everything look like Blurry crap",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "You always cover stuff everyone else has covered.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Your  Easter egg hunting skills are lacking. This is more of a Easter repost. Lazy at best",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I still love it how the best boss with the best music, aside from Bowser himself, can be defeated so easily like that.",
+            "polarity": 0.7333333333333334,
+            "subjectivity": 0.5083333333333333
+        }
+    ]
+}

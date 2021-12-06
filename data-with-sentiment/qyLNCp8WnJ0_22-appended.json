@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-03 11:21:33",
+    "ups": "5928",
+    "downs": "158",
+    "views": "153049",
+    "top_comments": [
+        {
+            "comment": "I lost 30 lbs started in February. The Dr. Says I'm doin great my A1c 6.7 it was 8.\nMy weight was 220 now 190.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Thanks!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Scared of red 40 and blue 1 but does not care about catching covid \nWorrying about the wrong things my friend",
+            "polarity": 0.024999999999999994,
+            "subjectivity": 0.475
+        },
+        {
+            "body": "Hi Bobby! I just bought Rao\u2019s at the Costco in Brandon, FL this past weekend. Absolutely love it! And I believe I paid around $8 for the 2 pack. Wish I would have bought more! Was even able to get my flu shot & booster while there! Costco us the best! Thanks for sharing your clean living tips! I\u2019m trying to get there!",
+            "polarity": 0.4854166666666667,
+            "subjectivity": 0.4535714285714286
+        }
+    ]
+}

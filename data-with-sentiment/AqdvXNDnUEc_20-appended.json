@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-03 03:06:15",
+    "ups": "37432",
+    "downs": "479",
+    "views": "731908",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udd25\ud83d\udd25\ud83d\udcab\ud83d\udcab",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Kodak has really grown",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "The best thing Trump ever did was giving us our boy back",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.15
+        },
+        {
+            "comment": "Finna drop ma freestyle to this right now bro need a Grammy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "0:53",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "J'attends la vid\u00e9o my negga \ud83d\udcf8\ud83d\udcf8Black Edwens depuis Ha\u00efti \ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "https://youtu.be/E4UZDxFMkhw",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "kodak is a sorcerer.... \u062c\u0627\u062f\u0648\u06af\u0631 magician.... fuck with his spirit you step in quicksand.. you fkup... ngga got 100 songs he aint even dropped",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\ud83d\udd25\ud83d\udd25\ud83d\udcab\ud83d\udcab",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

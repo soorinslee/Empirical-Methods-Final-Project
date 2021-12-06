@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-03 11:20:59",
+    "ups": "15741",
+    "downs": "243",
+    "views": "375346",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1711,
+            "number_of_replies": 135,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "omigot",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-05 21:02:52",
+    "ups": "7696",
+    "downs": "464",
+    "views": "119084",
+    "top_comments": [
+        {
+            "comment": "Modern man is not the man who goes off to discover himself, his secrets, and his hidden truth; he is a man who tries to invest himself in something beneficial for the future.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.016666666666666663,
+            "subjectivity": 0.2895833333333333
+        },
+        {
+            "comment": "This video contradicts everything u have said in the past.the jeans looks bad bulky on the bottom make u look shorter.the boots I understand. But u loved chealse boots.the jacket for chubby people make the look even fatter",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 5.551115123125783e-17,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "Denim Jacket and Chelsea Boots are so played out imo. Everyone is wearing them. Maybe switch up the denim jacket with a corduroy trucker and the Chelsea boot with a lace-up boot, preferably with grooved outsoles for winter. Again, this is my opinion\ud83d\ude4f\ud83c\udffd",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Let me see if I understand this, you want us to buy stuff from H&M(the most accessible store in the world), wear items that \u201cdesigners are pumping out like crazy\u201d in order to stand out? Stand out by wearing what everyone else is wearing. Flawless",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.31875,
+            "subjectivity": 0.69375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Flannels will never run out of style. Flannels are the apple pie of American clothing.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tbh ur so wrong with almost everything like chelsea boots out of style lmao and flannels lmao those thing never go out of style but its also im older then your target group i guess bcs every video i see now is just so wrong",
+            "polarity": 0.07333333333333332,
+            "subjectivity": 0.8266666666666668
+        },
+        {
+            "body": "1. Chelsea boots never going out of style 2. Trendy clothes sucks\n3. I dont see  that much people with chelsea boots",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.4666666666666666
+        }
+    ]
+}

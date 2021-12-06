@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-02 22:59:58",
+    "ups": "5492",
+    "downs": "303",
+    "views": "251065",
+    "top_comments": [
+        {
+            "comment": "The lesson of this video: Keep going and never look back!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Y\u2019all must have treated them well  they\u2019re very smart!",
+            "polarity": 0.3482142857142857,
+            "subjectivity": 0.8357142857142859
+        },
+        {
+            "body": "So cute...\n\nBy the way. It's winter or cambel?",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "OMG how smart they are!!",
+            "polarity": 0.33482142857142855,
+            "subjectivity": 0.6428571428571429
+        }
+    ]
+}

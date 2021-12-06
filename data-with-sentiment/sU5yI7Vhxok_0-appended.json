@@ -1,0 +1,126 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-10-30 16:45:22",
+    "ups": "1265",
+    "downs": "7",
+    "views": "4332",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween everyone! \ud83c\udf83 \nCheck out \"In The Air Tonight\" on Violet's channel https://youtu.be/npp_zOrau0w",
+            "likes": 42,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Given your record of turning songs inside out, should the title have prepared me for the outcome of the video? Yes. Was I somehow still shocked? Also yes \ud83d\ude04  Really well done, all of you.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.24999999999999997,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Happy Halloween everyone! \ud83c\udf83 \nCheck out \"In The Air Tonight\" on Violet's channel https://youtu.be/npp_zOrau0w",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "You guys are great, and bringing Violet in just elevates each piece.",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "What a great interpretation! Happy Halloween. Don't let the zombies bite.",
+            "polarity": 0.9,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "Awesome! Though I think you really missed an opportunity to sneak in an Airplane reference by having Violet crash into a jukebox \ud83d\ude09",
+            "polarity": 0.6,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Second only to A.C.'s cover.",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "A perfect song for Halloween! \u2764\u2764\ud83d\udc4d\ud83d\udc4d",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Her voice <3 Great reinterpretation, good job!",
+            "polarity": 0.8916666666666666,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "body": "Great interpretation of a classic song. At no time did I feel like I was in a Disco (no offense meant to disco). The creepy collaboration continues.",
+            "polarity": 0.15555555555555556,
+            "subjectivity": 0.6388888888888888
+        },
+        {
+            "body": "This is sooooooo dope",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How do you manage to make all of your work masterpieces? Keep up!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I just wanted to give you a zombie hug!!! \ud83d\ude2d\ud83d\ude02\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Everybody gangsta until Melodicka Bros make a metal cover",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Anyone thumbs downing this should have their internet restricted by their parents, and then be beaten by a badass metal \ud83c\udfb8.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is gold-\nI love how you guys keep branching into making mini films compressed into a song with your vids",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "*sees 911 likes*\nHello 911, I'd like to report a murder...\n\nTHEY SLAYED IT!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "it's the best version of this song out there !!!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Outstanding! HAPPY HALLOWEEN",
+            "polarity": 0.7125,
+            "subjectivity": 0.9375
+        },
+        {
+            "body": "Given your record of turning songs inside out, should the title have prepared me for the outcome of the video? Yes. Was I somehow still shocked? Also yes \ud83d\ude04  Really well done, all of you.",
+            "polarity": -0.24999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "It's dying alive that's makes a good cover",
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "MY GOD! Best work yet",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ]
+}

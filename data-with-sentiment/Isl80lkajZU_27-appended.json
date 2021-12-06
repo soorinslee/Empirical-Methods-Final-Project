@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 13:00:11",
+    "url": "https://www.youtube.com/watch?v=Isl80lkajZU",
+    "time_now": "2021-11-04 07:57:10",
+    "ups": "13646",
+    "downs": "233",
+    "views": "182971",
+    "top_comments": [
+        {
+            "comment": "SIGN UP FOR MY FREE MASTERCLASS: How to Turn Video-Making Into $100k/yr Career\nhttps://bit.ly/3vK6tUe",
+            "likes": 179,
+            "number_of_replies": 41,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The music video is boring but to me the beat is amazing and MTS & Lisa freaking killed it. Like there's only a few songs I like from Ozuna & DJ snake but oh well and when I want to listen to this song I just use the lyrics lmao",
+            "polarity": -0.033333333333333305,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Well the mv isn\u2019t American but it did suck",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jordan I have an suggestion pls make an reaction in girl group \"Rocket Punch\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

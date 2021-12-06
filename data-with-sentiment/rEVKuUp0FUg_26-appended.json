@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-04 03:51:02",
+    "ups": "7317",
+    "downs": "57",
+    "views": "101302",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 569,
+            "number_of_replies": 156,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Hello I am 10 yrs old from India\ud83c\uddee\ud83c\uddf3 and I know that you are so kind and sweet I wish I could meet u and ur so flexible and ur room is gorgeous I love it can I get a heart\u2764\ud83d\udc96\ud83d\udc95 please \ud83d\ude4f how do I get a stretch band I can't get it anywhere",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Hi Anna! I did a lot of your stretching challenges in the past, especially in 2020. But then I didn\u2019t for so long, so now my goal for the summer (Southern Hemisphere here, so our Christmas season is in summer) is to get back into stretching with your vid\u2019s, starting with this this callenge \ud83c\udf08\ud83c\udf08\u2764\ufe0f\u2764\ufe0f you are so inspiring, I find your channel so fun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0625,
+            "subjectivity": 0.36875
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "1:47 WE GOTTA DO THAT FOR DAM P.E -",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "In your next Q&A if you can answer this question then can you it\u2019s when will you stop stretching and not be flexible",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi Anna! I just saw your website and noticed that there is new products! And the stretch kit is gone \ud83d\udc40",
+            "polarity": 0.17045454545454544,
+            "subjectivity": 0.45454545454545453
+        }
+    ]
+}

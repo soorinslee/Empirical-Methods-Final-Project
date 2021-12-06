@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 13:20:40",
+    "url": "https://www.youtube.com/watch?v=VSKW-Wep4kc",
+    "time_now": "2021-10-31 00:58:00",
+    "ups": "5520",
+    "downs": "301",
+    "views": "255405",
+    "top_comments": [
+        {
+            "comment": "\u27bd Subscribe to BOL News \u27bd https://bit.ly/2Qs5SQH \ud83d\udd14\r\nWatch BOL News Live: https://www.bolnews.com/live",
+            "likes": 18,
+            "number_of_replies": 2,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\u06cc\u06c1 \u0639\u0644\u0627\u0645\u06c1 \u06a9\u0628 \u0628\u0646\u0627\ud83d\udc37\ud83d\udca9\ud83d\udc4e\ud83e\udd1a\ud83c\udffe\u0644\u06c1\u0646\u062a \u0627\u0646 \u0633\u0628 \u067e\u0631 \u0627\u0648\u0631 \u0633\u0645\u06cc\u0639 \u062a\u0645 \u067e\u0631 \u0628\u06be\u06cc \ud83d\udc37\ud83d\ude49\ud83d\udca9\ud83d\udc4e\ud83e\udd1a\ud83c\udffe",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u0633\u0645\u06cc\u0639 \u0627\u0628\u0631\u0627\u0647\u064a\u0645 \u0622\u067e \u06a9\u06d2 \u0633\u0648\u0641\u0679 \u0648\u06cc\u0626\u0631 \u06a9\u0627 \u0627\u067e \u0688\u06cc\u0679 \u062a\u0648 \u0627\u06cc\u06a9 \u062a\u06be\u067e\u0691 \u06a9\u06cc \u0645\u0627\u0631 \u06be\u06d2",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Koi b a jata he Islam ka Nara lga k aql he nh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0633\u0645\u06cc\u0639 \u0627\u0628\u0631\u0627\u06c1\u06cc\u0645 \u0628\u06be\u0627\u0626\u06cc \u0627\u0644\u0644\u06c1 \u067e\u0627\u06a9 \u0622\u067e\u06a9\u0648 \u062c\u0632\u0627\u0626\u06d2 \u062e\u06cc\u0631 \u0639\u0637\u0627 \u0641\u0631\u0645\u0627\u0626\u06d2 \u0627\u0648\u0631 \u067e\u06cc\u0627\u0631\u06d2 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u06a9\u0648 \u0627\u067e\u0646\u06d2 \u062d\u0641\u0638 \u0648 \u0627\u0645\u0627\u0646 \u0645\u06cc\u06ba \u0631\u06a9\u06be\u06d2 \u0622\u0645\u06cc\u0646",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tlp",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Labbaik Labbaik Ya RasoolAllah\n  Saad Hussain Rizvi Zindabad",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tlp zindabad",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

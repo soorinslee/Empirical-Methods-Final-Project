@@ -1,0 +1,76 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-01 14:01:04",
+    "ups": "12104",
+    "downs": "249",
+    "views": "124344",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 662,
+            "number_of_replies": 13,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I loved the chucky theme that's funny as hell for Halloween \ud83c\udf83\ud83d\ude01",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.475,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "i love that the dog at 3:12 is just like \"who tf is this guy\"",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Love it!!",
+            "polarity": 0.78125,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "After all, Chucky shall drink no more. He is without thirst.",
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Yes always Love whatever Violet does..And the added darkness to this already serious issue really shows how Violet made this Phil Collins hit her own.Loved it, keep up the great work!!",
+            "polarity": 0.3416666666666667,
+            "subjectivity": 0.5541666666666667
+        },
+        {
+            "body": "I loved the chucky theme that's funny as hell for Halloween \ud83c\udf83\ud83d\ude01",
+            "polarity": 0.475,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Fantastic \ud83d\ude0d\ud83d\udc4f\ud83d\udc4d\ud83d\udc4c\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83d\udda4\ud83d\udda4\ud83d\udda4\ud83d\udda4\ud83d\udda4",
+            "polarity": 0.4,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Many were asking if Violet is straight or lesbian or whatever. Now you have the answer: pupettophile",
+            "polarity": 0.35,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "Sinister, creepy, and disturbing... I love it!",
+            "polarity": -0.21875,
+            "subjectivity": 0.85
+        },
+        {
+            "body": "Thumbs down. Disgrace to phil collins.",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "I _love_ that butterfly necklace.",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

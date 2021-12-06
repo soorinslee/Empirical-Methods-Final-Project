@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:05:08",
+    "url": "https://www.youtube.com/watch?v=ASUbjTHL2u8",
+    "time_now": "2021-10-31 21:32:23",
+    "ups": "2003",
+    "downs": "35",
+    "views": "46263",
+    "top_comments": [
+        {
+            "comment": "I'm so confused, how haven't u hit 1Mill yet, you deserve too",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "get the worlds most kills in one game in shdow royal",
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "Lmao. Whoever that Mirage is he is GOATED. Making the Mirage like myself proud (\u2018:",
+            "polarity": 0.7,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Im like 80% sure That end game fight was staycations team vs the mirage \ud83e\udd23 I think he said tifo or tyfo  it was funny watching her cut him off then kick him dead",
+            "polarity": 0.03749999999999999,
+            "subjectivity": 0.6722222222222222
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-11-02 06:30:17",
+    "ups": "7219",
+    "downs": "71",
+    "views": "119349",
+    "top_comments": [
+        {
+            "comment": "Allie never fails to hit the spot. She is an unbelievable talent \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\nTake Care Stay Safe Everyone Regards Dave \ud83d\udc4d\ud83d\ude0e\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Brilliant voice!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "this girl must sing \ud83d\ude18for GOD\ud83d\ude07\ud83d\udc7c.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "this is the most impresive cover youve ever done. beautiful perfect amazing, wow.",
+            "polarity": 0.6100000000000001,
+            "subjectivity": 0.8800000000000001
+        },
+        {
+            "body": "Oh yeah here it is When We Were Young by Adele I think you would be wonderful with this one oh my goodness I would love to hear you sang that\u2764\ud83e\udd70\u2764\ud83e\udd70",
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Loved it Allie.. is there anyway you could do Adele Someone Like You and thank you in advance and there's another one I'm trying to think you would be great at\u2764\ud83e\udd70 I'll leave another comment when I think of it\ud83e\udd70",
+            "polarity": 0.75,
+            "subjectivity": 0.775
+        },
+        {
+            "body": "She sure sings from the heart, doesn\u2019t she?  Love it. Well done, Allie.",
+            "polarity": 0.5,
+            "subjectivity": 0.7444444444444445
+        }
+    ]
+}

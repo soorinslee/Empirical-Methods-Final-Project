@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 15:49:45",
+    "url": "https://www.youtube.com/watch?v=QWDaS80rTVI",
+    "time_now": "2021-10-31 09:11:48",
+    "ups": "2967",
+    "downs": "198",
+    "views": "323530",
+    "top_comments": [
+        {
+            "comment": "\u0627\u0644\u063a\u0631\u0648\u0631 \u0648\u0627\u0644\u0627\u0633\u062a\u0647\u062a\u0627\u0631 \u0628\u0641\u0631\u064a\u0642 \u0628\u0631\u0627\u064a\u062a\u0648\u0646 \u0628\u0639\u062f \u062a\u062f\u0645\u064a\u0631 \u0627\u0644\u064a\u0648\u0646\u0627\u064a\u062a\u062f \u0633\u0628\u0628 \u0643\u0628\u064a\u0631 \u0641\u064a \u0627\u0644\u062a\u0639\u0627\u062f\u0644 \u0648\u0627\u0639\u062a\u0642\u062f \u0627\u0646 \u0641\u0631\u0645\u064a\u0646\u064a\u0648 \u0644\u0645 \u064a\u0643\u0646 \u0644\u0629 \u062f\u0648\u0631 \u0641\u064a \u0627\u0644\u0634\u0648\u0637 \u0627\u0644\u062b\u0627\u0646\u064a \u0645\u0337\u0640\u0640\u0640\u0650\u0652\u0646 \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u062a\u063a\u064a\u0631\u0629 \u0627\u062a\u064a \u0645\u062a\u0623\u062e\u0631 \u0648\u0627\u0644\u0645\u062d\u0632\u0646 \u062d\u0642\u0627\u064e\u064e \u0647\u0648 \u0627\u0646\u0627\u0646\u064a\u0629 \u0645\u0627\u0646\u064a \u0648\u0628\u0639\u0636 \u0627\u0644\u0627\u0639\u0628\u064a\u0646 \u0645\u0639 \u0635\u0644\u0627\u062d\n\u0645\u0648 \u064a\u0635\u0646\u0639 \u0644\u0647\u0645 \u0627\u0644\u062a\u0645\u0631\u064a\u0631\u0627\u062a \u0648\u0627\u0644\u0627\u0647\u062f\u0627\u0641 \u0627\u0643\u062b\u0631 \u0645\u0627\u064a\u0633\u062c\u0644 \u0648\u0647\u0645 \u0644\u0671 \u064a\u0642\u062f\u0631\u0648\u0646 \u0630\u0644\u0643",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Putus juga gol salah yg beruntun di EPL walo gol 1 tapi offside jadi gak ke itung, dan bisa ngimbangi 2-2 di kandang liverpool hebat juga tu brington",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thank you for the Highlights!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I am happy for this result..",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "What a game! Any of them could have won it, however kudos to Brighton for taking the game to Liverpool",
+            "polarity": -0.45,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Awful highlights, not put together very well\u2639\ufe0f",
+            "polarity": -0.4,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "https://youtu.be/GfbMQjyKCgY",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Let's check Liverpool's bank account after this match",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "https://youtube.com/channel/UCkGVNet-MiAH3_khQPspJ9w",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

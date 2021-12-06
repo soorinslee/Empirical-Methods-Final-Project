@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-02 02:23:12",
+    "ups": "15275",
+    "downs": "130",
+    "views": "183295",
+    "top_comments": [
+        {
+            "comment": "I'm not familiar with these young ladies at all. However, I am familiar with Billie. I must say you all did a fantastic job creating this awesome rendition to her hit song \"Happier than ever\". Billie will be so very proud... you ladies rock!!!\u2764\u2764\u2764\u2764\u2764\u2764",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.4479166666666667,
+            "subjectivity": 0.7166666666666667
+        },
+        {
+            "comment": "SHOUTOUT TO THE VIOLNISTS",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Major performance girls! Congrats!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09765625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Y'all, this is breathtaking",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Soooo perfect \ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Major performance girls! Congrats!",
+            "polarity": 0.09765625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "ICONIC LEGENDARY O.G. SISTERS",
+            "polarity": 0.75,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Goosebumps",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "the midi strings are _really_ bad but everything else is awesome. I missed hearing Lisa sing.",
+            "polarity": 0.15000000000000008,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "I loved this...I listen to this to relax..so relaxing...great job girls. shout out to Amy for her amazing voice. Can I just point out Lisa's pretty hair and amazing voice that comes out of nowhere? Because you are listening to someone else's voice and then her voice comes and it leaves me in shock. these girls voices are so talented. Lisa's, Amy's, Lauren's, and Christina's voices literally leaves the world in shock.",
+            "polarity": 0.5700000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "one word about that cover , AMAZING!!!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "This is so beautiful \ud83d\ude0d",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Where\u2019s Katherine?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lisa never fails to impress",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "lisa is just perfect",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

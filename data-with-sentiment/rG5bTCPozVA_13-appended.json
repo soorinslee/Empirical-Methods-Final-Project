@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-11-01 22:16:42",
+    "ups": "474",
+    "downs": "4",
+    "views": "8369",
+    "top_comments": [
+        {
+            "comment": "Powerful job. Your attention to detail means the end result is top class.",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Another excellent video Charlie. A real masterclass. Anyone with cast iron rainwater good should watch this video. Btw, loving the Discord chatter!",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.6625,
+            "subjectivity": 0.7125
+        },
+        {
+            "comment": "Such an excellent and informative vid. Makes me wish i had some cast iron pipes to refurb my self \ud83d\ude02 The timba glaze tip is priceless",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "For future reference, electrolysis is much safer for vintage metals. Less labor intensive too. The satisfaction of a job well done is priceless. You did a wonderful job.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4066666666666666,
+            "subjectivity": 0.47833333333333333
+        },
+        {
+            "comment": "OMG! you must be psychic! I need to do this and other roof jobs before winter THANK YOU!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        }
+    ],
+    "comments_since_last_sample": []
+}

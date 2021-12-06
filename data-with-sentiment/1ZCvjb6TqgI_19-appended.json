@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 11:00:01",
+    "url": "https://www.youtube.com/watch?v=1ZCvjb6TqgI",
+    "time_now": "2021-11-02 22:59:45",
+    "ups": "10607",
+    "downs": "269",
+    "views": "447967",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "This bill will do nothing but give the Democrats more power and big pay days for them and their friends",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "If \"Recall\" Newsome can stay in office...\nI wouldn't put it past Democrats to squeeze this one out for McCauliff.\nI hate to think they're getting better and better at manipulating the voting system.",
+            "polarity": -0.012500000000000011,
+            "subjectivity": 0.5375
+        },
+        {
+            "body": "The Progressives \"kept their word\" to whom, Harold?\nTo an ultra minority handful of other Progressives who want the same thing?\nYeah.\nThat's looking out for majority American interests.",
+            "polarity": -0.041666666666666664,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "I'am going to sneak into Mexico, cross back to the US & collect 450000. Later....Let's go Brandon!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-02 06:30:51",
+    "ups": "22667",
+    "downs": "1639",
+    "views": "547173",
+    "top_comments": [
+        {
+            "comment": "Bharat. Mata ki Jai",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Texi te kon betha hai \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Bharat. Mata ki Jai",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Martyr pour l'\u00e9glise en Belgique. Demande assistance pour l'\u00e9glise en cause les Multi M\u00e9dia bloque l'ouverture du Monast\u00e8re.  S\u0153ur Agn\u00e8s martyr Carmelites. Actuel maison avec Famille du Chat d'Iran. Mort o\u00f9 est ta delivrance.\nAmen.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Modi naya chal iska har rang samjh aa jata hai .aur iske pichhe hai rss ka hatn",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Texi te kon betha hai \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lord Jesus spread the Christianity all over India.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "God bless to our Indian  catholic and none brothers and sisters from the phillipines",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "The world leaders are now completely appraised of modi's foolishness, bluffs, cowardice and incompetence at home and abroad. They see him as a man unworthy of any respect. He is a fallen leader and a disgrace for the country.",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 15:00:32",
+    "url": "https://www.youtube.com/watch?v=itK7gvvxxDs",
+    "time_now": "2021-11-02 22:59:18",
+    "ups": "85568",
+    "downs": "825",
+    "views": "1471512",
+    "top_comments": [
+        {
+            "comment": "Caitlyn really needed a redesign. Her original one was iconic for the time, but it looks a bit goofy now in the modern game.",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.22916666666666666,
+            "subjectivity": 0.525
+        },
+        {
+            "comment": "I mean she just got sexier a bit more, making it harder for us men.( also WHERE IS JAX VISUAL REWORK GUYS WTF)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.08249999999999999,
+            "subjectivity": 0.4375
+        },
+        {
+            "comment": "Fantastic start to the ASU era, well done Riot, we can't wait to see more!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5125,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "leave caitlyn as she currently is, it's ugly, caitlyn doesn't need any rework, don't spoil her please\n\ndeixa a caitlyn como ela \u00e9 atualmente, ta tudo feio, a caitlyn n\u00e3o precisa de nenhum rework, n\u00e3o estraguem ela por favor",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.7,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Wheres the pulsefire caitlyn theme?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So she got a bigger gun? I'm sorry I don't know what changed to her appearance at all apart from the gun",
+            "polarity": -0.25,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Dark star Jhin>",
+            "polarity": -0.15,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I love that one consistent part of the Arctic Warfare splash arts was \"SHE HAS A PUBBY\"",
+            "polarity": 0.375,
+            "subjectivity": 0.425
+        },
+        {
+            "body": "caitlyn my wife I love her, thanks riot for this",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "ANNIE NEXT UPDATE PLS RITO",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love this, please keep making another theme for old champions",
+            "polarity": 0.3,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "02:14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Really Good, this change make me want to play ADC before a Zed came in an one-shot me.\nAlso I think Caitlyn need a Voice update, she needs to be more energetic.",
+            "polarity": 0.5666666666666667,
+            "subjectivity": 0.5333333333333333
+        }
+    ]
+}

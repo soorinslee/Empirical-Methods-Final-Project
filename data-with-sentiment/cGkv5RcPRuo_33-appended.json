@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-05 08:40:00",
+    "ups": "28501",
+    "downs": "642",
+    "views": "512371",
+    "top_comments": [
+        {
+            "comment": "The last NCS10 Release",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "comment": "*Hello gringa guys, this is Lucas and I'm loving the ncs songs. greetings from Brazil \ud83c\udde7\ud83c\uddf7*",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Sounds like a doom soundtrack",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is the last ncs 10 release I hope 10 years later will release ncs 20 release!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.03333333333333333
+        },
+        {
+            "comment": "Foda demais!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Halowen",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "awasome",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is the last ncs 10 release I hope 10 years later will release ncs 20 release!",
+            "polarity": 0.0,
+            "subjectivity": 0.03333333333333333
+        },
+        {
+            "body": "Wow nice music \ud83e\udd29",
+            "polarity": 0.35,
+            "subjectivity": 1.0
+        }
+    ]
+}

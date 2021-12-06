@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:59:20",
+    "url": "https://www.youtube.com/watch?v=zHZnQn6D-2E",
+    "time_now": "2021-11-02 14:45:13",
+    "ups": "10413",
+    "downs": "154",
+    "views": "133967",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Fantastic job as always",
+            "polarity": 0.4,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I love your small space renter-friendly renos!  Great ideas, beautiful space - feels at least twice its actual size.  Well done, team AG!",
+            "polarity": 0.25625,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "JAMES KILLS ME LOL",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "My god I love James! \ud83d\ude2d",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Really nice. But I would need more color. At least changing the bedspread was a start. I think the faux headboard should have been a deeper color. And the wallpaper behind the desk should have color.",
+            "polarity": 0.1,
+            "subjectivity": 0.6499999999999999
+        },
+        {
+            "body": "Well done! You inspired so many ideas for my small studio apartment two years ago, I learned many little tricks, and I'm so grateful for it <3 also, I would LOVE to work at Team AG, it looks like you guys are having so much fun :))",
+            "polarity": 0.3578125,
+            "subjectivity": 0.5875
+        },
+        {
+            "body": "triangular work table would pull the monitor into shade but its unreasonable not to allow people to at least put a shelf or a painting on the wall of such a small space",
+            "polarity": -0.18333333333333335,
+            "subjectivity": 0.43333333333333335
+        }
+    ]
+}

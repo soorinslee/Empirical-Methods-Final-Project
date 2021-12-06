@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-31 00:57:31",
+    "url": "https://www.youtube.com/watch?v=Zdc8vZcCEeo",
+    "time_now": "2021-10-31 13:18:06",
+    "ups": "2159",
+    "downs": "24",
+    "views": "37160",
+    "top_comments": [
+        {
+            "comment": "I PRAY WHO EVER READING THIS BECOMES SUCCESSFUL IN LIFE",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.95
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lupos stream Lupos choice",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,543 @@
+{
+    "post_url": "https://www.reddit.com/r/LifeProTips/comments/qish3q/lpt_if_an_online_company_demands_you_create_an/",
+    "time_posted": "2021-10-29 22:54:28",
+    "time_now": "2021-10-30 16:49:56",
+    "ups": 6207,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hilj73z",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hinn0se",
+            "body": "That's not true. It's another scummy method to drive traffic, create engagement, store your data, get you hooked onto the site because with an account you can participate more. Sites from pixiv to instagram to twitter all use this as a marketing technique.",
+            "polarity": 0.1625,
+            "subjectivity": 0.575
+        },
+        {
+            "comment_id": "hingqre",
+            "body": "Actually not if I\u2019m giving you a better deal then every other store then it\u2019s only for my customers to see.",
+            "polarity": 0.09375,
+            "subjectivity": 0.49375
+        },
+        {
+            "comment_id": "hinexob",
+            "body": "Its also so tbey can stitch together your identity (email address) with your activity without needing a cookie which is impermanent",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinbktm",
+            "body": "When I go to a website, and the first thing I see is a form to fill out, I usually just hit the back button. I\u2019m out of there.\n\nOTH, on most that require an email, a fske email works.",
+            "polarity": 0.125,
+            "subjectivity": 0.2708333333333333
+        },
+        {
+            "comment_id": "hinars0",
+            "body": "So pintrest, facebook and instagram?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hina9ad",
+            "body": "Funny how most social media does that",
+            "polarity": 0.2611111111111111,
+            "subjectivity": 0.5222222222222223
+        },
+        {
+            "comment_id": "hin9maz",
+            "body": "That's not true at all. Among other things it's a sales tactic that creates a degree of emotional investment on the part of the customer so that they're less likely to immediate run over to Amazon after shopping on their page.\n\nIn the services sector in particular it's pretty normal to collect some information on the customer in order to generate a correct quote.\n\nBeing dumb enough to order something \"95% off\" the normal price for an item doesn't have anything to do with making an account.",
+            "polarity": -0.011363636363636366,
+            "subjectivity": 0.5795454545454546
+        },
+        {
+            "comment_id": "hin8srl",
+            "body": "Web developer here, we use to allow this for non logged users, on many websites , but bots start hitting every open endpoint generating thousands of projects and database records clogging our database, we were already paying for cloudfare and stuff didn't make a difference had to opt for closing the systems to logged users only.",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment_id": "hin85sn",
+            "body": "So, like Facebook and Instagram?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin6ugt",
+            "body": "Exact reason why I don't have Facebook and Instagram.",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "hin6e14",
+            "body": "Many companies hate access to their product with email signup NOT because their product sucks, but rather because they want to be able to market to you via email",
+            "polarity": -0.025000000000000022,
+            "subjectivity": 0.58125
+        },
+        {
+            "comment_id": "hin64d4",
+            "body": "First of all, this is more YSK than LPT, but as an LPT it\u2019s definitely more of an SLPT. The real reason is much simpler, every company wants to capture as much user data as they possibly can.",
+            "polarity": 0.25625,
+            "subjectivity": 0.39166666666666666
+        },
+        {
+            "comment_id": "hin5r7r",
+            "body": "&gt;Seriously people. Critical thinking skills are important. Almost nothing is completely black and white. And if you're stretching your imagination to come up with exceptions so hard that you lose sight of the original intention, that's a comment on you.\n\nThat seems to be the name of the game on Reddit, unfortunately.\n\nThat said, I think the LPT here is to have a fake email account (or 10) to suss out the dubious services.",
+            "polarity": -0.12037037037037039,
+            "subjectivity": 0.6583333333333333
+        },
+        {
+            "comment_id": "hin5kv9",
+            "body": "This is exactly why I can never commit to onlyfans.",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "hin563v",
+            "body": "it's more about data collection.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin47fq",
+            "body": "This is just a digital marketing practice now a days to capture some detail for further marketing and to begin to build a customer profile on potential buyers.",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin3tno",
+            "body": "You can't even view instagram without an account.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin35jn",
+            "body": "This applies to subreddits that make you subscribe in order to participate as well.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin2856",
+            "body": "Also This new trend of asking for your phone number to opt into texts. Like I\u2019ll give you an alt email for 15% off, sure. But I\u2019ll take a tabasco enema before i EVER agree to marketing texts. I don\u2019t care if you offer me 90% off, that is off limits. It feels so brazen and intrusive and has been THE deciding factor on whether to buy from company A or company B.",
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.6717171717171717
+        },
+        {
+            "comment_id": "hin1nma",
+            "body": "I suggest checking bugmenot to see if anyone has shared the account they created to check out the site.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin1krf",
+            "body": "*shakes fist at Instagram\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin162s",
+            "body": "Or, consider this: some companies are bad at making websites because that's not what they do. This entire premise fails [Hanlon's Razor](https://en.wikipedia.org/wiki/Hanlon's_razor).",
+            "polarity": -0.3999999999999999,
+            "subjectivity": 0.5305555555555556
+        },
+        {
+            "comment_id": "hin0rul",
+            "body": "This would have been good to know as I needed to access preview of certain school books before purchasing them",
+            "polarity": 0.45714285714285713,
+            "subjectivity": 0.5857142857142857
+        },
+        {
+            "comment_id": "hin0eqt",
+            "body": "Same for used cell phones and meid. If they don't give you the meid, there's something wrong with the phone.",
+            "polarity": -0.25,
+            "subjectivity": 0.5125
+        },
+        {
+            "comment_id": "himztb5",
+            "body": "This is exactly why I stopped using a certain booking software for my business. Their booking flow involved handing over all of your personal info before being able to see pricing and availability. My business dropped off 80% (I have a lot of older, southern clients who don't do things that way) and I quickly reverted to my old ways. Business picked right back up.",
+            "polarity": 0.185,
+            "subjectivity": 0.3315476190476191
+        },
+        {
+            "comment_id": "himzrl9",
+            "body": "It's probably just about the data and contact info, same as probably 99.5% of online job applications.",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "comment_id": "himzc86",
+            "body": "I was just ranting about this to my friends in discord. I get this all the time with fashion advertisements on Facebook. I'm sorry, but I don't like that skirt *that* much.",
+            "polarity": -0.15,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "himyxhl",
+            "body": "So 98% of companies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himyf2g",
+            "body": "I was kind of mad I wanted to get a price for spot and tango dog food because I heard its amazing.  You have to fill out a bunch of questions before they give you any idea of how much it costs.  Its very expensive, probably worth it but it put me off I couldn't just look up a price.",
+            "polarity": 0.07083333333333335,
+            "subjectivity": 0.6683333333333333
+        },
+        {
+            "comment_id": "himy97a",
+            "body": "that's great, except 90% of all services force you to create a new account before you even get to try it nowadays.",
+            "polarity": 0.4681818181818182,
+            "subjectivity": 0.6022727272727273
+        },
+        {
+            "comment_id": "himxeg2",
+            "body": "lol is this supposed to be a subtle nod to facebook especially with all thats going on?",
+            "polarity": 0.15555555555555559,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment_id": "himxa06",
+            "body": "Nah, it\u2019s just a shitty way to move you down their sales funnel.",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "comment_id": "himwy37",
+            "body": "Doesn't Netflix require this?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himwvhd",
+            "body": "Cough cough Imgur",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himwi8l",
+            "body": "Not necessarily. As someone who develops tech products, I can tell you after numerous tests, account sign up before value is provided yields higher metrics for both us and for the users. It's backed up by some psychological research about people valuing something a lot more if even a tiny amount of work is required to get it.\n\nOn one product I worked on, when we tested requiring account creation first, user engagement went up 50% and revenue went up 15%, along with a whole host of secondary metrics that also increased.",
+            "polarity": 0.09999999999999999,
+            "subjectivity": 0.4592592592592593
+        },
+        {
+            "comment_id": "himwdbn",
+            "body": "So Skillshare is shit. Got it.",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "himvo8f",
+            "body": "Like most things on LPT, this isn't true at all.\n\nAs a business that offers a subscription service, your goal is to get as many people signed up as possible. If you can get people to sign up before viewing something, you take advantage of it.\n\nIt's not that a company should be thinking \"let's let them sample and we'll prove to them that we're worth it\".\n\n It's about doing anything they can to can to drive more customers. They obviously hope you'll stick around after viewing the content, but their customer base will be much much smaller if they let you view their content without signing up.",
+            "polarity": 0.145,
+            "subjectivity": 0.525
+        },
+        {
+            "comment_id": "himus5p",
+            "body": "I guess it depends because I constantly have been getting 10-25% off on most of my orders by providing my spam email to them. If the site is really shady I won\u2019t even put in my spam email until I find something I need. Then I just go back to the website with a new vpn provided IP and put it my spam address for the new user code or to activate the website script for applying discounts into the cart.\n\nI\u2019ve saved thousands by entering my spam email into websites over the past few years. Everything that is in my Amazon cart that is expensive, high quality, or foodstuffs gets cross checked with the manufacturer website to see if I can get better deals and I usually do. (I\u2019d never buy foodstuffs from Amazon unless it came directly from whole foods) The only websites I avoid are the ones that absolutely need your phone number and a confirmation and most of those if you look carefully are only asking for your number but not requiring it for the code. They don\u2019t explicitly say that (scammy, I know) but it\u2019s usually in the small black print or hidden in the phrasing that you don\u2019t actually need to provide your phone number for the code/discount.\n\nMost very reputable US based websites that represent companies that manufacture in the US do this. Actually most reputable websites with high quality goods and have a reputation they want to grow in general do this, so don\u2019t think it\u2019s only shady websites that do this. It\u2019s just good for business.",
+            "polarity": 0.09512923351158645,
+            "subjectivity": 0.514385026737968
+        },
+        {
+            "comment_id": "himuf2e",
+            "body": "Same for giving them your email phone name address etc. they are trying to get you invested. Homeadvisor etc. f that. Abandon. Don\u2019t get invested because you told them your decks square footage.",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "comment_id": "himsrgt",
+            "body": "But like you can't avoid this, surely?",
+            "polarity": 0.5,
+            "subjectivity": 0.8888888888888888
+        },
+        {
+            "comment_id": "hims1td",
+            "body": "Unless it\u2019s porn",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himqqz7",
+            "body": "Tell that to Felder tools or any other \"by quote\" machinery supplier.",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "comment_id": "himqeqn",
+            "body": "Discovery Plus. Just released in Canada today. Couldn't get a show list.\n\nSigned up, checked the list. Abort, abort!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himq849",
+            "body": "Adblock and remove overlay are lifesavers for content locked behind paywalls. It bugs me the most with news sites that lock their content behind paywalls. That\u2019s so morally abhorant and completely flies in the face of what journalism and news is supposed to be. News should be free unless the user decides to contribute and even then I have ethical problems with that.",
+            "polarity": 0.05714285714285715,
+            "subjectivity": 0.5642857142857143
+        },
+        {
+            "comment_id": "himpn43",
+            "body": "Hey thats Netflix!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himkbdd",
+            "body": "Yup, or they just won't tell you the price until they get your info.  That's a big **no** on that one.",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment_id": "himk78i",
+            "body": "Totally false. It's called lead generation. Companies want to make sure they can pitch future products to you, even if you don't like what is currently offered, as you mentioned. It has nothing to do with confidence in product. It's just good marketing.",
+            "polarity": 0.15999999999999998,
+            "subjectivity": 0.5227777777777778
+        },
+        {
+            "comment_id": "himjjbx",
+            "body": "Seems like I can barely view anything on Facebook or instagram these days without logging in. I do tend to regret going on there so that tracks.",
+            "polarity": 0.05,
+            "subjectivity": 0.1
+        },
+        {
+            "comment_id": "himfu2g",
+            "body": "In the same vein, I was shopping around for a new lease car. I wanted to compare a Skoda so I wanted to download the brochure. Impossible, but give us your email and we will send it to you. I went to the chat to see if they could send me a link: nope, it's truly email only.\n\nSkoda didn't trust their product enough offer without enabling Push Marketing.\n\nI didn't take the Skoda.",
+            "polarity": -0.10606060606060605,
+            "subjectivity": 0.615909090909091
+        },
+        {
+            "comment_id": "himff2c",
+            "body": "or holding your content hostage until you pay, f u photobucket.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himcg4d",
+            "body": "I've found 2 websites in the UK that harvest my cookies whe. I go on there and start spam emailing me! Drives me crazy!! Yet I still go on them....",
+            "polarity": -0.9375,
+            "subjectivity": 0.9
+        },
+        {
+            "comment_id": "him7zcj",
+            "body": "i run store i only do that so i can get your email for marketing",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment_id": "him5v0s",
+            "body": "Shots fired at Target.com!\n\nI find it ridiculous that I need to create an account to buy something. Target recently removed the \u201cGuest\u201d option, which really means to me that they don\u2019t care for customers as they are for long-term data collection.",
+            "polarity": -0.04444444444444443,
+            "subjectivity": 0.48333333333333334
+        },
+        {
+            "comment_id": "him4ymk",
+            "body": "Netflix does that.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "him1xzx",
+            "body": "No company that sells raw and bulk products allows anyone to see their price list without a valid EIN number. Anything that has a safety warning has to be sold to consumers as a consumer product, which is why their packages disclaim \"any use of this product not defined here is illegal\". \n\nPrices with basic material suppliers is almost always negotiated anyways.",
+            "polarity": -0.2435897435897436,
+            "subjectivity": 0.3621794871794872
+        },
+        {
+            "comment_id": "him1sfg",
+            "body": "Disagree. It\u2019s really just how much you want it. If you really want their product/services, you\u2019ll sign up. Hell, you\u2019ll even throw money at them. If you don\u2019t want their product/service, why you even on their page? \n\nNow, whether or not they give quality content is another question. But basically it comes down to how much you want what they offer.",
+            "polarity": 0.12888888888888891,
+            "subjectivity": 0.2177777777777778
+        },
+        {
+            "comment_id": "him0psc",
+            "body": "Yeah, like all those products on onlyfans.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hilzt8r",
+            "body": "Hey Wish, I believe he's talking to you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hilxmd3",
+            "body": "Why would they not take your information regardless, if as your tip implies, it is valuable to them?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hilvkxn",
+            "body": "I've started giving 1 star reviews and commenting on this bullshit for apps that require it on the play store. \n\nIf it's a website, I just give something like 10minute mail a try to see first. Doesn't always work, but usually does.",
+            "polarity": 0.0,
+            "subjectivity": 0.29166666666666663
+        },
+        {
+            "comment_id": "hiltvcx",
+            "body": "But if a website has clear explanation of the product, with screenshot and video, but requires an account to use it because you're saving your data, is that also a bad move?\n\nHow can I let people create their stuff and let them come back to this stuff afterwards?",
+            "polarity": -0.19999999999999996,
+            "subjectivity": 0.3499999999999999
+        },
+        {
+            "comment_id": "hiltqqs",
+            "body": "Burner email accounts are great.",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hilqwz3",
+            "body": "Not always the case.  The LPT have been bad the last few days",
+            "polarity": -0.3,
+            "subjectivity": 0.27777777777777773
+        },
+        {
+            "comment_id": "hilq0gj",
+            "body": "Looking at you Zulilly",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hilpr3q",
+            "body": "I just want to apologize to whoever owns the email SmellyFarts@gmail.com.\n\n\nI use this email every time I need to create an account to view a website.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hilnx2n",
+            "body": "I mean, Funimation made me sign up for a free account before I could scroll. But I was on a \u201cmobile\u201d app.",
+            "polarity": 0.04375000000000001,
+            "subjectivity": 0.74375
+        },
+        {
+            "comment_id": "hill2bl",
+            "body": "Yeah, that's totally a hard pass for me. I don't care what the product or service is.",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hilj73z",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hilpr3q",
+            "body": "I just want to apologize to whoever owns the email SmellyFarts@gmail.com.\n\n\nI use this email every time I need to create an account to view a website.",
+            "ups": 406,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hill2bl",
+            "body": "Yeah, that's totally a hard pass for me. I don't care what the product or service is.",
+            "ups": 146,
+            "downs": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment_id": "hiltqqs",
+            "body": "Burner email accounts are great.",
+            "ups": 126,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hiltvcx",
+            "body": "But if a website has clear explanation of the product, with screenshot and video, but requires an account to use it because you're saving your data, is that also a bad move?\n\nHow can I let people create their stuff and let them come back to this stuff afterwards?",
+            "ups": 27,
+            "downs": 0,
+            "polarity": -0.19999999999999996,
+            "subjectivity": 0.3499999999999999
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hilj73z",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hiltqqs",
+            "body": "Burner email accounts are great.",
+            "ups": 124,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hilpr3q",
+            "body": "I just want to apologize to whoever owns the email SmellyFarts@gmail.com.\n\n\nI use this email every time I need to create an account to view a website.",
+            "ups": 410,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hill2bl",
+            "body": "Yeah, that's totally a hard pass for me. I don't care what the product or service is.",
+            "ups": 144,
+            "downs": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment_id": "himjjbx",
+            "body": "Seems like I can barely view anything on Facebook or instagram these days without logging in. I do tend to regret going on there so that tracks.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.1
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hilj73z",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hiltqqs",
+            "body": "Burner email accounts are great.",
+            "ups": 123,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hilpr3q",
+            "body": "I just want to apologize to whoever owns the email SmellyFarts@gmail.com.\n\n\nI use this email every time I need to create an account to view a website.",
+            "ups": 406,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hill2bl",
+            "body": "Yeah, that's totally a hard pass for me. I don't care what the product or service is.",
+            "ups": 144,
+            "downs": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment_id": "himjjbx",
+            "body": "Seems like I can barely view anything on Facebook or instagram these days without logging in. I do tend to regret going on there so that tracks.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.1
+        }
+    ]
+}

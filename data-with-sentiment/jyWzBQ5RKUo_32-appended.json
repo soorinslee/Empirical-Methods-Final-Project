@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-05 04:33:15",
+    "ups": "12297",
+    "downs": "52",
+    "views": "180522",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 237,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "I can\u2019t tell if achach wood is a joke lol 13:55",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I wont tell you you should have built the farm using dispensers, but i will tell you that waterlogged trapdoors would have been cheaper and more compact than your pistons rows \ud83d\ude05",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I can\u2019t tell if achach wood is a joke lol 13:55",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

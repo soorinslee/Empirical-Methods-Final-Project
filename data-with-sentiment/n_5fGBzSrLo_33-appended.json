@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-05 08:40:16",
+    "ups": "33226",
+    "downs": "480",
+    "views": "667924",
+    "top_comments": [
+        {
+            "comment": "Sometimes i wish i had good teamates in gold rank",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.050000000000000044,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Sunless is the funniest man alive",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "can you do guese the rank but its their first game of the day?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3166666666666667,
+            "subjectivity": 0.5444444444444444
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jon is the best lol",
+            "polarity": 0.9,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Other from musty you are my 2nd favorite rl player im plat 3 and can barely do air dribbles and double taps, though I have done both, luckily",
+            "polarity": 0.12638888888888888,
+            "subjectivity": 0.38472222222222224
+        }
+    ]
+}

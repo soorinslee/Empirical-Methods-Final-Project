@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-11-06 13:31:15",
+    "ups": "74154",
+    "downs": "2651",
+    "views": "3753889",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 705,
+            "number_of_replies": 183,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Bro love how they just do the head to the beat",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\u064a\u0627\u0639\u0645 \u062e\u0644\u0643\u0648\u0646\u064a\u0633",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I like  Friday night huggy  wuggy  first  song  when boyfriend beat buggy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "comment": "Why huggy wuggy is so cute?? I wanna pet him\ud83d\ude4f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Its huggy wuggy and kissy missy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What mod did he use to get this?",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "He\u2019s doing on bot",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Funny tging kissy missy tie is yellow but is blue and it makes them like realbrother and sisters",
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "Woww you now kissy missy vool ooo and i like your song of huggy waggy and kissy missy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

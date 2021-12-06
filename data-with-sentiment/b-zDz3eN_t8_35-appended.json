@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-05 16:54:30",
+    "ups": "7641",
+    "downs": "348",
+    "views": "848395",
+    "top_comments": [
+        {
+            "comment": "Oo: I love this UTS ginna be epic and I love the blue suits",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.275,
+            "subjectivity": 0.42500000000000004
+        },
+        {
+            "comment": "This is insane I love this video and the shape is mr beast logo it\u2019s so funny.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.8666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "why girls had blue lipstick",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Not being rude but that editing is so bad",
+            "polarity": -0.4999999999999999,
+            "subjectivity": 0.6333333333333333
+        }
+    ]
+}

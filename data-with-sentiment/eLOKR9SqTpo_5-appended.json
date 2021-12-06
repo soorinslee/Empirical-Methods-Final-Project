@@ -1,0 +1,115 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-10-31 13:18:38",
+    "ups": "7824",
+    "downs": "941",
+    "views": "715675",
+    "top_comments": [
+        {
+            "comment": "Theres still 1 yellow candy on the table",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "0:37 I believe I can fly \u2708\ufe0f \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "What the f***",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "That skittle dudes mom looks like a Karen lol \ud83e\udd23\u263a\ufe0f\ud83e\udddf\u200d\u2640\ufe0f",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "6:09 *An imagination* Woman Thats pretending to be a daughter:See you never!\nThe man:Noooo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "0:37 I believe I can fly \u2708\ufe0f \ud83d\ude02",
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Now most people know they're all adults because of the first part",
+            "polarity": 0.375,
+            "subjectivity": 0.41666666666666663
+        },
+        {
+            "body": "That skittle dudes mom looks like a Karen lol \ud83e\udd23\u263a\ufe0f\ud83e\udddf\u200d\u2640\ufe0f",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "That\u2019s crazy a grown man calling their mom mommy crazy",
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "body": ".net bbbbbhhbbb bub :/:/ j",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Putting sweets in a tablet blister pack is appalling. Shame on you guys.",
+            "polarity": -0.35,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "this real good",
+            "polarity": 1.0,
+            "subjectivity": 0.9000000000000001
+        },
+        {
+            "body": "but why look like she struggling to squirt Nutella on the bread",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love you 123 Go!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "My mom give me vegitable and i was like \" no i hate vegitables \" and then she give me a carrot looks like frenc fries and i didn't even notice cool parental hacks",
+            "polarity": 0.375,
+            "subjectivity": 0.775
+        },
+        {
+            "body": "Hahahahahahah",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What the f***",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It\u2019s soooo funny",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Theres still 1 yellow candy on the table",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

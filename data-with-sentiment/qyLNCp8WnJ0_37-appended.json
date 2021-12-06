@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-06 01:10:23",
+    "ups": "6640",
+    "downs": "178",
+    "views": "182220",
+    "top_comments": [
+        {
+            "comment": "Last week I was at Costco grabbing organic almond milk and got stopped by a guy asking me why am I not getting the Costco almond milk since it\u2019s Bobby approved. I am so happy that more and more people watch your videos and talk to each other at Costco, so cool\ud83d\ude04",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.335,
+            "subjectivity": 0.4883333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Bobby, oil is not healthy",
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-10-31 13:18:10",
+    "ups": "8566",
+    "downs": "32",
+    "views": "109425",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 158,
+            "number_of_replies": 7,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "'In the premious episode'",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Super, amazing\u2026",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "a-cha-cha wood?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I want to know your thoughts on MatPat's video about Evil X.",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Super, amazing\u2026",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "achacha wood?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You talked about moving waterlocked stairs and dispensers... I myself always use waterlocked trapdoors. It's the same as water source and piston, but it's in one block",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "At 17:14\nHmmm\u2026 what is required?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "13:56 WAIT DID HE JUST SAY A-CHA-CHA WOOD IM DYING PLS HELP",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wouldn\u2019t alternating the hopper clocks make the farm more efficient because spawning spaces will be available 100% of the time?",
+            "polarity": 0.45,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "Drake meme\nRed sand: \ud83d\udc4e\nOrange concrete powder: \ud83d\udc4d",
+            "polarity": 0.07500000000000001,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "body": "That red sand shortage...... Cub is the best",
+            "polarity": 0.5,
+            "subjectivity": 0.15
+        },
+        {
+            "body": "Founded is a word lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "founded is a word for the creation of a company or country ect.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "a-cha-cha wood?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "great vid x",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "It might just be me, but X's continual mispronunciation of acacia & tutorial really grinds my gears",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Lol,  triggered so many people saying \"classic\" stone block moded server.",
+            "polarity": 0.48888888888888893,
+            "subjectivity": 0.45555555555555555
+        },
+        {
+            "body": "'In the premious episode'",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You've really developed your building skills this season! Great work so far X!",
+            "polarity": 0.35000000000000003,
+            "subjectivity": 0.6833333333333332
+        },
+        {
+            "body": "only legends remember that the original name of this episode was \"kind of string\"",
+            "polarity": 0.325,
+            "subjectivity": 0.8833333333333333
+        },
+        {
+            "body": "2:30 cub hasn't remove the demon child",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

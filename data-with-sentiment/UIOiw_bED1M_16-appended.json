@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-02 10:37:41",
+    "ups": "7642",
+    "downs": "212",
+    "views": "198527",
+    "top_comments": [
+        {
+            "comment": "We\u2019re only in the early years of these consoles and it seems as if their already hitting their limits\u2026maybe a rock solid 4k60fps is still to big a challenge for this gen.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.025,
+            "subjectivity": 0.37500000000000006
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lots of small graphical, audio and stuttering issues with this title, but I still loved playing through it.",
+            "polarity": 0.22499999999999998,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Just finished on PS5! Really good game don't think I've ever taken so many pics in a game! Graphically stunning pros definitely outweigh the few cons I encountered.",
+            "polarity": 0.0857142857142857,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Can you produce a video about the last gen versions as well?\n\nI use the performance mode during battles and the quality mode for the rest of the time.",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "Character design is great I don\u2019t know why some people are mad, I recently watched the movies to get some backstory before playing and the game design is far superior than the movie",
+            "polarity": 0.09583333333333333,
+            "subjectivity": 0.7166666666666667
+        },
+        {
+            "body": "We\u2019re only 1 year in into the new generation and already games are running 4K 30fps only. There is no hinder from last gen, no nothing\u2026. 6 more years to go with this generation\u2026.",
+            "polarity": 0.12727272727272726,
+            "subjectivity": 0.6042424242424242
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-11-06 01:10:14",
+    "ups": "2765",
+    "downs": "10",
+    "views": "35493",
+    "top_comments": [
+        {
+            "comment": "I would add some coasters, a box of tissues, bottled water and a small trash can.  Great video!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "I look at my guest rooms as if I am going to stay there: is it comfortable, is the light within easy reach when reading in bed, etc etc. Thank you for the tips, I am missing the comfy throw! \ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.24583333333333335,
+            "subjectivity": 0.5958333333333333
+        },
+        {
+            "comment": "Lisa you are totally a rock star.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "I know this is random but would you give tips for a buy to rent home.we have a 2 bed that we are renovating from the brickwork out new electrics etc to rent to tenants.  I would love some help with decor or feel ideas.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.04545454545454545,
+            "subjectivity": 0.5181818181818182
+        },
+        {
+            "comment": "My daughter in law always has a goodie basket for us when we visit.  We just love it!  She always includes our favorite candies, Tylenol, small creams, bottles of water and linen spray.  Outstanding room and daughter in law!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.375,
+            "subjectivity": 0.71875
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "May I suggest that you make a video on multifunctional rooms? My home office is also my guest bedroom and I find it hard to decorate it because I want it cosy/homey for when family and friends come to visit but I also want it clean and professional for my everyday use. It\u2019s quite difficult to do both at the same time, so your tips would be appreciated!",
+            "polarity": -0.03928571428571429,
+            "subjectivity": 0.45238095238095244
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-11-02 06:31:01",
+    "ups": "4576",
+    "downs": "55",
+    "views": "106468",
+    "top_comments": [
+        {
+            "comment": "\ud83d\ude18\ud83c\udf4a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That trini accent lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "So does he throw a party every time he mixes up a batch. Or does it all get poured out?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "u can consume dry ice?\ud83d\udc80",
+            "polarity": -0.06666666666666665,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "That prolly tastes nasty and ur dead the next morning if u manage to enjoy drinking this none sense",
+            "polarity": -0.19999999999999998,
+            "subjectivity": 0.475
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-01 18:09:16",
+    "ups": "4927",
+    "downs": "128",
+    "views": "110725",
+    "top_comments": [
+        {
+            "comment": "I just watched a special on Chinese tomatoes. Label doesn\u2019t have to say where tomatoes are grown just where processed (at least here in Canada). China has poor reputation for abusing workers. I wonder about Rao\u2019s.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.08571428571428572,
+            "subjectivity": 0.39285714285714285
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Not glycosine, glyphosate!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please do more cooking videos grain free. I have RA.. and I need clean food. \ud83d\ude4f",
+            "polarity": 0.4222222222222222,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Thanks \u263a\ufe0f",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Hello Bobby, many thanks for providing good information to buy the foods. It's so helpful. We're friend of organic Oatmeal! You are AWSOME! Have a nice day!!!",
+            "polarity": 0.675,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "Never understand why rao is best in class when its not even organic... so much better options",
+            "polarity": 0.75,
+            "subjectivity": 0.4
+        }
+    ]
+}

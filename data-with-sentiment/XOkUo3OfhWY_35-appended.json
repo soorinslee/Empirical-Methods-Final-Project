@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:08:00",
+    "url": "https://www.youtube.com/watch?v=XOkUo3OfhWY",
+    "time_now": "2021-11-05 16:54:38",
+    "ups": "2547",
+    "downs": "54",
+    "views": "61634",
+    "top_comments": [
+        {
+            "comment": "#Teamseas #Teamseas",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "So assuming the AI is basically not gonna fail at walking on some glass, there was a one in nine chance here.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.29999999999999993
+        },
+        {
+            "comment": "3:48 THIS IS SUPER BLESSING :D",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.8333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "#TEAMSEAS",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "its not acreeperits ala",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#TEAMSEAS",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

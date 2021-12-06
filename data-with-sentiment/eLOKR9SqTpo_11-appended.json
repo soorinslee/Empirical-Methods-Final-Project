@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-01 14:01:54",
+    "ups": "11092",
+    "downs": "1360",
+    "views": "1136631",
+    "top_comments": [
+        {
+            "comment": "Ear rings  hack  is  so awesome",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Wow fantastic",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "*That\u2019s crazy a grown man calling their mom mommy crazy*",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "That's crazy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Next time pls make the video called rich hacker vs broke hacker",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1875,
+            "subjectivity": 0.375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Very cool video --hello from Kojak country Lifestyle youtube channel in Jamaica.",
+            "polarity": 0.45499999999999996,
+            "subjectivity": 0.8450000000000001
+        },
+        {
+            "body": "When the mom says I\n Falling  I was like what",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow fantastic",
+            "polarity": 0.25,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "good job i love you",
+            "polarity": 0.6,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

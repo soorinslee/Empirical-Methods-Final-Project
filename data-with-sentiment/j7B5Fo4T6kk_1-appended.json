@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-10-30 20:51:17",
+    "ups": "4957",
+    "downs": "145",
+    "views": "108809",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 12,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Jasmine all videos full hd 1080 download in my phone.. love \ud83d\udc95 you",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "So beautiful song &voice \ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Jashmine is so adorable",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Congratulations tarang music for 3 million subscribers \ud83d\ude0a",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It's Awesome.. Class chemistry\nI remember my childhood.. this song like two songs available..buby/Jina and sabya/chinky ... but it's Class..",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Taranga music ra all songs and music video wonderful",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Super \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Jasmine is one of my favourite actress'....\ud83e\udd70\ud83e\udd70\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Superb.. \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Jasmine all videos full hd 1080 download in my phone.. love \ud83d\udc95 you",
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "Jasmine is so beautiful \ud83e\udd70\ud83e\udd70\ud83e\udd70 and my favourite heroine \ud83d\udc96\ud83d\udc96\ud83d\udc96",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        }
+    ]
+}

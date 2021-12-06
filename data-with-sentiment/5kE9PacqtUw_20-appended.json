@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 10:58:46",
+    "url": "https://www.youtube.com/watch?v=5kE9PacqtUw",
+    "time_now": "2021-11-03 03:07:07",
+    "ups": "1731",
+    "downs": "357",
+    "views": "135545",
+    "top_comments": [
+        {
+            "comment": "3 days ago video of G20 summit held in Rome. Complete video report of media in English language is here for viewers.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Without China it is not interesting kk \ud83d\ude05. From Korea \ud83c\uddf0\ud83c\uddf7\ud83c\uddf0\ud83c\uddf7",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Joe snoozing during G20-\n\"It was all a dream. I used to read\"\n\"Word Up Magazine\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The western media played down the position of Biden on G20 meeting photo session.  He was placed at a corner. It must have been a big embarrassment for US.",
+            "polarity": -0.051851851851851864,
+            "subjectivity": 0.12962962962962965
+        },
+        {
+            "body": "G20.  What a joke.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Biden stands on the far left, hahaha, bye-bye to America today! thank youThat is, the leaders of each country should consider their own interests, not serve the United States! America can get out of the world!",
+            "polarity": 0.321875,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "What summit? The Gitmo summit\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

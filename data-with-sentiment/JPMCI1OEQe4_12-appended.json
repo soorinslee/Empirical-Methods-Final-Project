@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 14:00:05",
+    "url": "https://www.youtube.com/watch?v=JPMCI1OEQe4",
+    "time_now": "2021-11-01 18:08:41",
+    "ups": "28405",
+    "downs": "592",
+    "views": "612366",
+    "top_comments": [
+        {
+            "comment": "*Gamers : \u201cwe need Gift Cards\u201d*\r\n*Me  : we easily get them from* \ud835\ude03\ud835\uddef\ud835\ude02\ud835\uddf0\ud835\uddf8\ud835\ude00\ud835\udfee\ud835\udfee\u02f3\ud835\uddf0\ud835\uddfc\ud835\uddfa",
+            "likes": 137,
+            "number_of_replies": 1,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Your so good at fortnite good job",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "0:28 \ud83e\udd28 what did you say freshy boi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "He cheated in the challenge and I don't see you using combat shotgun fresh now that you did the video so yep you didnt know mechs were not coming or what",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The real question is did he use the combat shotgun?",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "You forgot to drop 3 minis you dropped 1 but not 2 more because you got cracked then used 2 minis then you were on 3 minis then you picked up 3 more then u had 6 and then u dropped 1 so yeah.",
+            "polarity": 0.125,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "You also used around 5 launch pads",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "erm you failed at 5:55 you had 3 minis left before you jumped over to the petrol station ha ha",
+            "polarity": -0.25,
+            "subjectivity": 0.15
+        },
+        {
+            "body": "Yeah when you were on your last 3 minis you were actually meant to be on your last 1",
+            "polarity": 0.0,
+            "subjectivity": 0.07777777777777778
+        },
+        {
+            "body": "What was the point of the challenge if he picked up 3 extra minis",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

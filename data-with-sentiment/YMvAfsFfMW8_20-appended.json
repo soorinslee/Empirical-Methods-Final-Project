@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 12:51:02",
+    "url": "https://www.youtube.com/watch?v=YMvAfsFfMW8",
+    "time_now": "2021-11-03 03:07:22",
+    "ups": "5309",
+    "downs": "627",
+    "views": "448047",
+    "top_comments": [
+        {
+            "comment": "What hacks do your parents use?\ud83d\ude0f",
+            "likes": 63,
+            "number_of_replies": 26,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "i hate it please get a real job",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.30000000000000004,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "Your videos are so se bhi so much super cute and Beautiful \ud83d\ude18\ud83e\udd29\ud83e\udd70\ud83e\udd29\ud83c\udf89",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.561111111111111,
+            "subjectivity": 0.8888888888888888
+        },
+        {
+            "comment": "The dad Was kind of runny like she fall\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": []
+}

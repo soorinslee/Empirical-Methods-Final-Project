@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-01 14:01:08",
+    "ups": "2670",
+    "downs": "24",
+    "views": "61033",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 46,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "bawal na po sya mg cover ng opm?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Proud to be a Filipino..\nCoz of you Gigi de Lana..So as to your Gigi's Band....\nGaling Galing mo talaga..\nGoosebump \"All By Myself\" cover mo...\n\u2764\u2764\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "pinaka magada makeup mo eh sa through the fire, wag mo na baguhin yun, parang tumanda at naging haggard ka jan, but voice astig padin. yun dalawa sa likod mo may contest ba palakihan ng tyan bago mag december lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "OMGigi and her Vibes Band of all Genre did it again. Hello Eric Carmen are u hearing this! Superb!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Galing nman... Lupit!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "NAPAKA GALING TLGA KAYA NAPAKA LODS KOPO KYONG LAHAT",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Galinggggg talaga naman \ud83d\udc4f\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "PLSS SING DEFYING GRAVITY \nTHAT IS THE FIRST SONG THAT I'VE HEARD YOU SING IN TV\nIYAN DIN KUNG BAKIT TILL NOW NAKA SUBAYBAY PA DIN AKO SAYO HERE IN YOUTUBE",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

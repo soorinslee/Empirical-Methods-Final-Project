@@ -1,0 +1,95 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-01 09:53:52",
+    "ups": "13155",
+    "downs": "193",
+    "views": "288212",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1482,
+            "number_of_replies": 124,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\u201cThese children won\u2019t stop talking to me\u201d who else thought he said something else",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I feel good for Mikey cause he always loses to john. He would always be *THIS CLOSE* and then just loses the challenge",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.033333333333333326,
+            "subjectivity": 0.26666666666666666
+        },
+        {
+            "comment": "What an epic ending",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I feel good for Mikey cause he always loses to john. He would always be *THIS CLOSE* and then just loses the challenge",
+            "polarity": 0.033333333333333326,
+            "subjectivity": 0.26666666666666666
+        },
+        {
+            "body": "The fact that Mikey was the only one to use the strat of making 2 out of 3 of his games the 100% capture rate on the first route ones is genius. I would have done the same.",
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.4861111111111111
+        },
+        {
+            "body": "I AM JUSTICE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "BatCliffe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What an epic ending",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "The sponsor is such a bullsh*t company... There is 0% that anything he said about the cereal is true",
+            "polarity": 0.175,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "Un un un un un un un un un",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Some it John",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jack's face a the end really sold it.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "hahhaahhahahahaha the one thats a edit super saiyan why was theyre some heart hahahahahahhahahaahaha",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Happy NNN",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

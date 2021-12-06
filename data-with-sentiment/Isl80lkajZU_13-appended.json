@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 13:00:11",
+    "url": "https://www.youtube.com/watch?v=Isl80lkajZU",
+    "time_now": "2021-11-01 22:15:45",
+    "ups": "11708",
+    "downs": "196",
+    "views": "149045",
+    "top_comments": [
+        {
+            "comment": "SIGN UP FOR MY FREE MASTERCLASS: How to Turn Video-Making Into $100k/yr Career\nhttps://bit.ly/3vK6tUe",
+            "likes": 155,
+            "number_of_replies": 41,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "day 5 of spamming the same comment until Jordan notices me\r\n\"Ok but now I really need Jordan to watch the fallin' flower mv of seventeen,,, it is just so pretty and I love it so much,,\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.27499999999999997,
+            "subjectivity": 0.4375
+        },
+        {
+            "comment": "I agree 100 % with you! The Korean industry just makes better video quality be it music or film industry. Anyway, after we watched hundreds of coreea videos it's pretty hard to go back to American standard \ud83d\ude05\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.07638888888888888,
+            "subjectivity": 0.34027777777777773
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "did you really not notice lisa's bad green screen? LMAO",
+            "polarity": -0.09999999999999995,
+            "subjectivity": 0.5416666666666667
+        },
+        {
+            "body": "Jordan you should react to IZ*ONE 'FIESTA' even though they have already disbanded it's really amazing so i want you to react to it. \ud83d\ude42",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Jordan you should react to IZ*ONE 'FIESTA' even though they have already disbanded it's really amazing so i want you to react to it. \ud83d\ude42",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Jordan you should react to IZ*ONE 'FIESTA' even though they have already disbanded it's really amazing so i want you to react to it. \ud83d\ude42",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Jordan you should react to IZ*ONE 'FIESTA' even though they have already disbanded it's really amazing so i want you to react to it. \ud83d\ude42",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Repeat with me, Everything is fine, but Lisa saved the video",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Jordan you should react to IZ*ONE 'FIESTA' even though they have already disbanded it's really amazing so i want you to react to it. \ud83d\ude42",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Don't judge their mv..it's not kpop",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

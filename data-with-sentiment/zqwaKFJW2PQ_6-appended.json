@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=zqwaKFJW2PQ",
+    "time_now": "2021-10-31 17:25:24",
+    "ups": "171",
+    "downs": "35",
+    "views": "17126",
+    "top_comments": [
+        {
+            "comment": "We miss you President Trump ....Free speech and no shadow banning  Go Truth Social",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.03333333333333333,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "comment": "Come on Kinzinger, we need you. Don't let them do this to us. You belong in our government. You are one of the few good Republicans.",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.24999999999999997,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "comment": "He may be running for president!",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "NBC HAS ZERO CREDIBILITY",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "R I N O",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The GOP doesn't lead anymore - now it follows its lunatic base.  Why have leaders when they are afraid to really lead?  Conservatives are historically people in strong need of direction.  If left to themselves, they burn at the stake, lynch and shoot.  Personally, they are not people I want to know.",
+            "polarity": -0.10952380952380951,
+            "subjectivity": 0.44761904761904764
+        },
+        {
+            "body": "He seems to be under the influence of evil, demonically possessed. We shall see who God favors.",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I thought he moved to msnbc?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "the only cancer to the country are these week spineless \"Republicans\", that support the very liberal socialist party that's really the diseases that's trying to eat way the moral fiber of this country, I'm surpized he's not crying.",
+            "polarity": 0.1,
+            "subjectivity": 0.47000000000000003
+        }
+    ]
+}

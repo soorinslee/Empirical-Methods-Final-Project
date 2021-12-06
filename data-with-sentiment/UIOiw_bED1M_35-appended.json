@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-05 16:54:40",
+    "ups": "8166",
+    "downs": "233",
+    "views": "219292",
+    "top_comments": [
+        {
+            "comment": "I wish the Avengers game by Square Enix had been like this Guardians of the Galaxy game! The games as a service ruined the Avenger game, what a huge loss. Also Deus Ex was stopped because of that live service game so that is another strike. Please support these single player games because we need more of them .",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.09188311688311687,
+            "subjectivity": 0.4642857142857143
+        },
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Why does df always act like performance mode running at 1080p locked is a terrible thing.\n\nThis is probably like the first game I've seen in recent times for next gen that doesn't force the game to run at maximum dynamic resolution and then drop performance where it could've been made up by just locking it to 1080p.\n\nI only have a 1080p monitor... Why the fuck am I being forced to get supersampled games running like shit when they could clearly benefit in performance if they just locked to 1080p.",
+            "polarity": -0.19583333333333333,
+            "subjectivity": 0.4611111111111111
+        },
+        {
+            "body": "cant do 60 fps on series s? shit developers. not buying.",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        }
+    ]
+}

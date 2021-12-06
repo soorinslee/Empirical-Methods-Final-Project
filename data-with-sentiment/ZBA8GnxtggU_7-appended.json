@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=ZBA8GnxtggU",
+    "time_now": "2021-10-31 21:32:56",
+    "ups": "2080",
+    "downs": "218",
+    "views": "171774",
+    "top_comments": [
+        {
+            "comment": "5:13 Unlimited dollars but maximum level extreme depresson",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I love rock star\u2019s",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "hi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "hiii",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "luky 99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "99!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I wish I was in this video \ud83d\ude13",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I don't like this one  the money was  to be hers",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Can I be in one of your videos",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I wish I can be in one of your videos",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love your videos",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I hate you do you now why you waste food do you now how many people don\u2019t have food",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "body": "Y'all are so cute love the outfits the best love outfits you should know what my closet looks like it looks like a disaster with only the prettiest clothes in the world because I'm too rich for you I am a billionaires",
+            "polarity": 0.4791666666666667,
+            "subjectivity": 0.7083333333333334
+        }
+    ]
+}

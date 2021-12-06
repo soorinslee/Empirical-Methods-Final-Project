@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 15:05:08",
+    "url": "https://www.youtube.com/watch?v=ASUbjTHL2u8",
+    "time_now": "2021-11-03 19:35:50",
+    "ups": "2247",
+    "downs": "39",
+    "views": "54615",
+    "top_comments": [
+        {
+            "comment": "What was in Mirage's hand at 15:43?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u201cDon\u2019t worry you won\u2019t be able to farm abuse wildlife to upgrade your evo armor\u201d\n1:25 - 4:00",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.625
+        }
+    ],
+    "comments_since_last_sample": []
+}

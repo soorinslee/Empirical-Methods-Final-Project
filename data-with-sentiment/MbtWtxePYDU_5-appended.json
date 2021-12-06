@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 12:00:21",
+    "url": "https://www.youtube.com/watch?v=MbtWtxePYDU",
+    "time_now": "2021-10-31 13:17:56",
+    "ups": "3990",
+    "downs": "19",
+    "views": "56740",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "It's the memories that always hurts us",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nakaka miss ma in love at magtampo\ud83d\ude02",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Hii zackkk I FROM INDONESIA",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love you",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "It all interconnects",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ang daming mv ang saya HAHA",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        }
+    ]
+}

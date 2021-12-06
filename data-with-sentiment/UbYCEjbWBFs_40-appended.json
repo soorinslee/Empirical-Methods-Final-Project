@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-06 13:31:31",
+    "ups": "4366",
+    "downs": "550",
+    "views": "234281",
+    "top_comments": [
+        {
+            "comment": "Lower and higher altitudes of this world are feeling the brunt of it for now, midlanders, you\u2019re next.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Literally you can fried egg outside during hot summer",
+            "polarity": 0.125,
+            "subjectivity": 0.45000000000000007
+        },
+        {
+            "body": "Kuwait is rich country you can plant trees like SINGAPORE, how they maintain their plants and trees.. you have hire low skilled workers just to water those plants and trees. It\u2019s not too late ya Kuwait.. Salam Kuwait..",
+            "polarity": 0.14375,
+            "subjectivity": 0.5375
+        },
+        {
+            "body": "MABROOK OM NAIEF",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I\u2019ve been in Kuwait for 16 years.. and yes it\u2019s very hot specially starting from the summer month which is June.. You cannot live there without AC but 24/7 Air Condition is not also good to your health",
+            "polarity": 0.2903409090909091,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Lower and higher altitudes of this world are feeling the brunt of it for now, midlanders, you\u2019re next.",
+            "polarity": 0.125,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Every time the influencer talk i want to hang my self, kuwait needs less of her and more of om naif",
+            "polarity": 0.16666666666666669,
+            "subjectivity": 0.2833333333333333
+        }
+    ]
+}

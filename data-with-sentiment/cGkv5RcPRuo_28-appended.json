@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-04 12:04:04",
+    "ups": "27668",
+    "downs": "626",
+    "views": "483029",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udc4d\ud83c\udffb\ud83d\ude16",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "TOKYO MACHINE - SLASH [NCS10 RELEASE]",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "HEY NCS10",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "feel cute",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Can i have a permission to use this sound For gaming montage btw the song is freaking dope\ud83d\udd25",
+            "polarity": 0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "SPOOKY",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-02 10:38:06",
+    "ups": "1689",
+    "downs": "35",
+    "views": "20419",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I\u2019d like to enter the giveaway. Never worn ADG personally, would be interesting to try it out.",
+            "polarity": 0.25,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Personally I've never had AGD but it's definitely one every guys should have in their collection. Simple but an OG in the game",
+            "polarity": -0.1,
+            "subjectivity": 0.38928571428571435
+        },
+        {
+            "body": "I would love to enter the giveaway, my brother rocks Perry Ellis 360 red and I absolutely love it, but I have never tried ADG. Thank you Ash for the opportunity.",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.39999999999999997
+        }
+    ]
+}

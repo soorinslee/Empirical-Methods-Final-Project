@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-01 05:47:26",
+    "ups": "10360",
+    "downs": "1242",
+    "views": "1034273",
+    "top_comments": [
+        {
+            "comment": "OMG i have them i buyer them for my baby sister",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "0:30 why is there a man in the bathtub-",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "*That\u2019s crazy a grown man calling their mom mommy crazy*",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ear rings  hack  is  so awesome",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Who is",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Super",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "That's crazy",
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I love you 123 go",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "*That\u2019s crazy a grown man calling their mom mommy crazy*",
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "0:00",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-04 16:11:08",
+    "ups": "6790",
+    "downs": "81",
+    "views": "166526",
+    "top_comments": [
+        {
+            "comment": "Syko!!!!\ud83c\uddef\ud83c\uddf2\ud83d\udcaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "rapping attacking",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "When you going to drop this video bro",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yo w sg sanzave zmf for life",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "On god NoCap be the hardest on almost every song he get on \ud83e\udd26\ud83c\udfff\u200d\u2642\ufe0f\ud83e\udd37\ud83c\udfff\u200d\u2642\ufe0f\ud83e\udd76\ud83e\udd76\ud83e\udd76",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

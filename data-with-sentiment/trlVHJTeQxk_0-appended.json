@@ -1,0 +1,147 @@
+{
+    "time_posted": "2021-10-30 13:23:29",
+    "url": "https://www.youtube.com/watch?v=trlVHJTeQxk",
+    "time_now": "2021-10-30 16:45:47",
+    "ups": "22041",
+    "downs": "110",
+    "views": "0",
+    "top_comments": [
+        {
+            "comment": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u3068\u8a00\u3048\u3070\u845b\u8449\n\u845b\u8449\u3068\u8a00\u3048\u3070\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\n\u3053\u308c\u306f\u56fd\u5bb6\u8a66\u9a13\u306b\u3082\u51fa\u308b\u3089\u3057\u3044",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u300c\u5f85\u3063\u3066\u305f\u3088\u845b\u8449\u300d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u5618\u2026\u3002\u305d\u3089\u308b\u3055\u3093\u3068\u306eApex\u306731\u65e5\u306b\u3069\u3046\u305f\u3089\u3053\u3046\u305f\u3089\u3063\u3066\u8a00\u3063\u3066\u305f\u304b\u3089\u5fc3\u69cb\u3048\u306f\u3057\u3066\u305f\u3051\u3069\u2026\u307e\u3055\u304b\u306e\u30b5\u30fc\u30cb\u30e3\u3067\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\uff1f\uff01\u3082\u3046\u3069\u3093\u306a\u5f62\u3067\u3042\u308c\u4f9b\u7d66\u5b09\u3057\u3059\u304e\u308b\u3057\u3001\u4e88\u60f3\u51fa\u6765\u306a\u3055\u3059\u304e\u3066",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u3046\u308f\u6700\u9ad8\u304b\u3088....\n\u660e\u65e5\u547d\u65e5\u306e\u4eba\u591a\u3044\u3067\u3059\u3088\u306d\u3001\u79c1\u3082\u305d\u306e1\u4eba\u3067\u3059",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u660e\u65e5\u4ffa\u3089\u306e\u547d\u65e5\u3089\u3057\u3044\u3088\u3001\u5893\u4f5c\u3063\u3066\u304a\u304f\u304b",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u3068\u8a00\u3048\u3070\u845b\u8449\n\u845b\u8449\u3068\u8a00\u3048\u3070\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\n\u3053\u308c\u306f\u56fd\u5bb6\u8a66\u9a13\u306b\u3082\u51fa\u308b\u3089\u3057\u3044",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So this is what soraru san mean by that \ud83d\ude02\ud83d\ude02\ud83d\ude05\ud83d\ude05\ud83d\ude0d\ud83d\ude0d",
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "\u5618\u2026\u3002\u305d\u3089\u308b\u3055\u3093\u3068\u306eApex\u306731\u65e5\u306b\u3069\u3046\u305f\u3089\u3053\u3046\u305f\u3089\u3063\u3066\u8a00\u3063\u3066\u305f\u304b\u3089\u5fc3\u69cb\u3048\u306f\u3057\u3066\u305f\u3051\u3069\u2026\u307e\u3055\u304b\u306e\u30b5\u30fc\u30cb\u30e3\u3067\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\uff1f\uff01\u3082\u3046\u3069\u3093\u306a\u5f62\u3067\u3042\u308c\u4f9b\u7d66\u5b09\u3057\u3059\u304e\u308b\u3057\u3001\u4e88\u60f3\u51fa\u6765\u306a\u3055\u3059\u304e\u3066",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u300c\u5f85\u3063\u3066\u305f\u3088\u845b\u8449\u300d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u3044\u3084\u3063\u305f\u30a1\u30a1\u30a1\u30a1\u30a1\u30a1\u30a1\u30a1\u30a1\u30a1\u30a1\u30a1\uff01\uff01\uff01\uff01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u6df7\u4e71\u3057\u304b\u306a\u3044\u3093\u3060\u304c\uff1f\uff1f\uff1f\uff1f\n\u6700\u9ad8\u3059\u304e\u3066\u9f3b\u8840\u51fa\u305f((((((((((((\n\u795e\u3063\u3066\u307e\u3059\u305a\u306f\u611b\u3057\u3066\u308b\u3088\u751f\u304d\u3066\u308b\u9593\u306f\u305a\u3063\u3068\u63a8\u3059",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4\u3064\u76ee\u306e\u6b4c\u3063\u3066\u307f\u305f\u304c\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u306a\u306e\u306f\u6700\u9ad8\u2026\u2026\u3048\u5f85\u3063\u3066\uff1f\u845b\u8449\u5973\u306e\u5b50\u304b\uff1f\u3063\u3066\u304f\u3089\u3044\u53ef\u611b\u3044\u30a4\u30e9\u30b9\u30c8\u306a\u3093\u3060\u304c\u3001\u3001\u3001\ud83c\udf4e\ud83d\udc0f\ud83c\udf65\u306e\u518d\u751f\u56de\u6570\u3092\u3069\u3046\u8d85\u3048\u3066\u3044\u304f\u304b\u697d\u3057\u307f\u3002\u845b\u8449\u306e\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u306a\u3093\u3066\u6700\u521d\u805e\u3044\u305f\u3089\u98db\u3076\u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u3053\u308c\u3092\u805e\u3044\u305f\u3089\u79c1\u306f\u6b7b\u3093\u3067\u3057\u307e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u3042\u3041\u2026\u3046\u3093\u3002\u3007\u306c\u3093\u3060\u3041\u2026\u2026\u2026\n\u6700\u5f8c\u306b\u845b\u8449\u306e\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u805e\u304d\u305f\u304b\u3063\u305f\u306a\u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u611f\u52d5\u3057\u3066\u308b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u30cf\u30de\u3063\u3066\u6b4c\u3063\u3066\u307f\u305f\u8074\u3044\u3066\u305f\u5f53\u6642\u304b\u3089\u845b\u8449\u306e\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u3092\u305a\u3063\u3063\u3063\u3068\u8074\u304d\u305f\u3044\u3068\u601d\u3063\u3066\u3066\u8133\u5185\u518d\u751f\u307e\u3067\u3057\u3066\u305f\u3093\u3060\u3051\u3069\u3001\u307e\u3055\u304b\u672c\u5f53\u306b\u6b4c\u307f\u305f\u4e0a\u304c\u308b\u3068\u306f\u601d\u308f\u306a\u304b\u3063\u305f\u301c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u307e\u3058\u3067\u305f\u306e\u3057\u307f..........\ud83e\udd7a\ud83e\udd0d\uff01\uff01\uff01\uff01\uff01\uff01\uff01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u3053\u306e\u9854\u306f\u3059\u3050\u306b\u9996\u306b\u565b\u307f\u4ed8\u3044\u3066\u304f\u308b\u30e4\u30f3\u30c7\u30ec\u3067\u3059\u306d\u3002\u50d5\u306f\u597d\u304d\u3067\u3059\u3002",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u845b\u8449\u306e\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u306e\u30a4\u30e9\u30b9\u30c8\u771f\u6a2a\u304b\u3089\u3058\u3083\u306a\u304f\u3066\u3061\u3087\u3044\u30ca\u30ca\u30e1\u306b\u3057\u3066\u304f\u308c\u305f\u3053\u3068\u3068\u3001\u30b5\u30fc\u30cb\u30e3\u306b\u3057\u3066\u304f\u308c\u305f\u306e\u307b\u3093\u3068\u306b\u795e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u3046\u308f\u6700\u9ad8\u304b\u3088....\n\u660e\u65e5\u547d\u65e5\u306e\u4eba\u591a\u3044\u3067\u3059\u3088\u306d\u3001\u79c1\u3082\u305d\u306e1\u4eba\u3067\u3059",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u3042\u308a\u304c\u3068\u3046\u3042\u308a\u304c\u3068\u3046\u3042\u308a\u304c\u3068\u3046\u3042\u308a\u304c\u3068\u3046\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sometimes it neads a real man to be a best girl.",
+            "polarity": 0.6,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "\u516c\u958b\u524d\u306b\u3053\u308c\u3060\u3051\u306e\u9ad8\u8a55\u4fa1\u3068\u30b3\u30e1\u30f3\u30c8\u3067\u671f\u5f85\u5024\u304c\u3069\u3093\u3060\u3051\u9ad8\u3044\u304b\u308f\u304b\u308b\u3001\u3001\n\u307b\u3093\u3068\u306b\u3042\u308a\u304c\u3068\u3046;;",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u660e\u65e5\u4ffa\u3089\u306e\u547d\u65e5\u3089\u3057\u3044\u3088\u3001\u5893\u4f5c\u3063\u3066\u304a\u304f\u304b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "KUZUHAAAAA \ud83d\udda4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

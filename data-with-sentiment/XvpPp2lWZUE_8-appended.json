@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 16:00:14",
+    "url": "https://www.youtube.com/watch?v=XvpPp2lWZUE",
+    "time_now": "2021-11-01 01:39:49",
+    "ups": "23443",
+    "downs": "65",
+    "views": "225741",
+    "top_comments": [
+        {
+            "comment": "happy international spooky day",
+            "likes": 450,
+            "number_of_replies": 12,
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Your animations are getting better and better, i love it XD",
+            "polarity": 0.5,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "I sad i cant play this game",
+            "polarity": -0.45,
+            "subjectivity": 0.7
+        }
+    ]
+}

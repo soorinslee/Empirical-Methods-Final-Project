@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-06 09:24:11",
+    "ups": "12532",
+    "downs": "51",
+    "views": "185609",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 239,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "YOU COULD HAVE USED WATERLOGGED TRAPDOORS!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I can\u2019t tell if achach wood is a joke lol 13:55",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hey X, hope you're feeling good now. Your voice sounded a bit weird at a place. Take a lot of rest mate",
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.8
+        }
+    ]
+}

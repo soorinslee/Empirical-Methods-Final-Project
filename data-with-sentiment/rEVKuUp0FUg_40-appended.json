@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-06 13:31:46",
+    "ups": "8153",
+    "downs": "76",
+    "views": "126149",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 607,
+            "number_of_replies": 160,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Thank you very much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26,
+            "subjectivity": 0.26
+        },
+        {
+            "comment": "\ud83e\udd70\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I hate anna",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "How old are you",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Can\u2019t wait to get more flexible",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Anna really helps people for free and i almost made my needle with this video! Can you do a hands scretching beacuse i need to scretch my hands for the needle",
+            "polarity": 0.35,
+            "subjectivity": 0.5
+        }
+    ]
+}

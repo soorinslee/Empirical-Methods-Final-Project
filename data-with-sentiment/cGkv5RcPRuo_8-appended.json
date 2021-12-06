@@ -1,0 +1,137 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-01 01:39:40",
+    "ups": "19511",
+    "downs": "459",
+    "views": "252966",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween \ud83c\udf83\ud83d\udc7b",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Spooky!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "this isn't fire... it's the damn sun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The song is giving feel of Halloween \ud83c\udf83",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy Halloween! \u270c\ud83c\udf83\ud83c\udf83\ud83c\udf86\nNcs!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hello",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "HAPPY HALLOWEEN!\nperfect edm music for halloween tho",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "i cant stop listening to this song",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "this song is bad",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "The song is giving feel of Halloween \ud83c\udf83",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The bass is insane on this song \ud83e\udd11\ud83e\udd11",
+            "polarity": -0.575,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Happy Halloween! \u270c\ud83c\udf83\ud83c\udf83\ud83c\udf86\nNcs!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Is this a reference to the knife attack on the Tokyo train?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83d\ude33\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tournament of dj",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tokio machine vs k0i rap\u00ae\ud83e\udd18",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "this isn't fire... it's the damn sun",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Spooky!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy Halloween \ud83c\udf83\ud83d\udc7b",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Happy Halloween",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "what if the other local subscriber is dead and their account are still subs to you?",
+            "polarity": -0.10833333333333334,
+            "subjectivity": 0.25833333333333336
+        },
+        {
+            "body": "awesome Halloween and you music NCS",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

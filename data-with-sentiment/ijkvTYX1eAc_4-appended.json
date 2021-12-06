@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 14:30:06",
+    "url": "https://www.youtube.com/watch?v=ijkvTYX1eAc",
+    "time_now": "2021-10-31 09:11:24",
+    "ups": "3767",
+    "downs": "22",
+    "views": "53736",
+    "top_comments": [
+        {
+            "comment": "Lucario: \"Not yet, Ash! I can do this!\"",
+            "likes": 350,
+            "number_of_replies": 7,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wow I just realised there are many fighting type trainers, like Chuck, Dojo master, Maylene, Korina, Hala, Bea and more:o",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "I feel like the reason why Ash lost to Alain in the Kalos League, its because Alain is in the Master 8 and Ash will bring back \"SATOSHI GEKKOUGA\", to battle and beat him, that will be insane!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Where did you find the episodes?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "where to watch pokemon journeys dub for FREE?!",
+            "polarity": 0.5,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I thought it was great to set up for the main event. The little party at the start was desperately needed for Ash's Pokemon and I loved the Bea and Korrina interactions. Seriously though, can we get one battle where Lucario isn't getting brutalized to a ridiculous amount before landing one lucky critical hit? The amount of damage he's taken in this episode alone should have KO'd him. Show him dodging attacks and countering more...And landing a few hits of his own.",
+            "polarity": 0.08598484848484848,
+            "subjectivity": 0.7075757575757575
+        },
+        {
+            "body": "i read a video title somewhere saying that lucario refused mega evolution so when i was watching the episode i was half expecting ash to just be like be right back, run over to his bag and hope that he put his z ring in there and come back with it and put the key stone glove in the bag but then i remembered this isn't unova",
+            "polarity": 0.023809523809523808,
+            "subjectivity": 0.3404761904761905
+        },
+        {
+            "body": "people not notcing hau in ep",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "next ep is gona be cool g max vs mega",
+            "polarity": 0.175,
+            "subjectivity": 0.325
+        }
+    ]
+}

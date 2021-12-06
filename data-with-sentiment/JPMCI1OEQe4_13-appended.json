@@ -1,0 +1,50 @@
+{
+    "time_posted": "2021-10-30 14:00:05",
+    "url": "https://www.youtube.com/watch?v=JPMCI1OEQe4",
+    "time_now": "2021-11-01 22:16:03",
+    "ups": "28570",
+    "downs": "593",
+    "views": "617344",
+    "top_comments": [
+        {
+            "comment": "*Gamers : \u201cwe need Gift Cards\u201d*\r\n*Me  : we easily get them from* \ud835\ude03\ud835\uddef\ud835\ude02\ud835\uddf0\ud835\uddf8\ud835\ude00\ud835\udfee\ud835\udfee\u02f3\ud835\uddf0\ud835\uddfc\ud835\uddfa",
+            "likes": 172,
+            "number_of_replies": 1,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "He cheated in the challenge and I don't see you using combat shotgun fresh now that you did the video so yep you didnt know mechs were not coming or what",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "0:28 \ud83e\udd28 what did you say freshy boi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Huh you think that was intense i once got into top 5 small zone with only 20hp 5 kills cuz im a bot and the mistake i made their just to shoot still at that camping bot he was soo low",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09,
+            "subjectivity": 0.6399999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I haven't watched your videos in a while \nI come back and your voice sounds a little DEEP",
+            "polarity": -0.0625,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Huh you think that was intense i once got into top 5 small zone with only 20hp 5 kills cuz im a bot and the mistake i made their just to shoot still at that camping bot he was soo low",
+            "polarity": 0.09,
+            "subjectivity": 0.6399999999999999
+        }
+    ]
+}

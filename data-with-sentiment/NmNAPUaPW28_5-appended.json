@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-10-31 13:18:43",
+    "ups": "2502",
+    "downs": "17",
+    "views": "29251",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "https://youtube.com/channel/UCB87V_LS9liFj7uelH8g73g",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Could you do this with almonds?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love pecan sandies. But I\u2019ve only had store bought. I will be trying this!!!",
+            "polarity": 0.25,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Oh waw..so amazing\nThank you my dear sweet and smiley John for this great recipe.\nYou always make my day and I am grateful I found your channel through the pandemic because I gett happy when I watch you cook and hear your nice comforting voice\ud83c\udf3a\ud83c\udf3c\u2763\ud83c\udf41",
+            "polarity": 0.63,
+            "subjectivity": 0.86
+        },
+        {
+            "body": "This look so good John thank you",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Mmm! I never even thought about making homemade ones!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-05 21:01:56",
+    "ups": "40271",
+    "downs": "590",
+    "views": "917842",
+    "top_comments": [
+        {
+            "comment": "Jackboy diss",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "van sam wam bam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "bet 80% of yall think he still dissin jack but yak came a longgg way and cut off the old & fake ones so he jus speaking on it",
+            "polarity": -0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "https://youtu.be/QfjcHqEHw1U",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

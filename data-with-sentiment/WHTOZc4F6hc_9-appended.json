@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 13:20:41",
+    "url": "https://www.youtube.com/watch?v=WHTOZc4F6hc",
+    "time_now": "2021-11-01 05:47:13",
+    "ups": "521",
+    "downs": "27",
+    "views": "49745",
+    "top_comments": [
+        {
+            "comment": "We need a description of the suspects.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Beautiful y\u2019all keep voting the same and this will continue so stop making this news and wasting our tax dollars arresting them only to be released within days .",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2833333333333333,
+            "subjectivity": 0.7083333333333334
+        },
+        {
+            "comment": "The old New York is back,, damn. Thank you Democrats.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.07878787878787878,
+            "subjectivity": 0.21818181818181817
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "broody was like thts a op right there ? graww graw boom",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "what a normal day in bronx NY!!!",
+            "polarity": 0.29296875,
+            "subjectivity": 0.6499999999999999
+        },
+        {
+            "body": "So wearing is bad?...just like that? Did they know each other or what?",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        }
+    ]
+}

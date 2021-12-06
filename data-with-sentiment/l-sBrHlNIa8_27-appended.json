@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-04 07:57:09",
+    "ups": "3811",
+    "downs": "42",
+    "views": "102887",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 122,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Ang galing talaga ninyong lahat... pag naumpisahan ko manuod ng youtube channel nyo di kona mapigilan kahit paulit ulit kong panuodin/pakinggan ang galing lang talaga. Nakaka gigi vibes talaga! Kudos to gigi and the band!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow!\ud83d\udc95",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Somewhere in my past po by Julie Vega",
+            "polarity": -0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "ang galing...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "When I was young\nI never needed anyone\nAnd making love was just for fun\nThose days are gone\nLiving alone\nI think of all the friends I've known\nBut when I dial the telephone\nNobody's home\nAll by myself\nDon't wanna be\nAll by myself\nAnymore\nHard to be sure\nSometimes I feel so insecure\nAnd loves so distant and obscure\nRemains the cure\nAll by myself\nDon't wanna be\nAll by myself\nAnymore\nAll by myself\nDon't wanna live\nAll by myself\nAnymore\nWhen I was young\nI never needed anyone\nAnd making love was just for fun\nThose days are gone\nAll by myself\nDon't wanna be\nAll by myself\nAnymore\nAll by myself\nDon't wanna live\nDon't wanna live\nBy myself, by myself\nAnymore\nBy myself\nAnymore\nAll by myself\nDon't wanna live\nI never, never, never\nNeeded anyone",
+            "polarity": 0.13955627705627704,
+            "subjectivity": 0.5039682539682541
+        },
+        {
+            "body": "Mag subscribe din. Wag lang puro nood .",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

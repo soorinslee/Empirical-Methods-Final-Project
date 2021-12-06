@@ -1,0 +1,64 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-01 14:01:27",
+    "ups": "7285",
+    "downs": "207",
+    "views": "182323",
+    "top_comments": [
+        {
+            "comment": "I generally go for the performance mode when given the option, but this title played just fine in Quality mode and it looked absolutely stellar while doing so. The loss in fidelity on performance was really, really obvious between the two.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.17916666666666667,
+            "subjectivity": 0.4375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Really sucks that console doesnt perform well at all. At least give us some checkboard 1800p60fps. I can't 1080p. Recently got lucky with a 3080ti so guess I'm getting this on PC",
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.4458333333333333
+        },
+        {
+            "body": "Thankfully series x has vrr.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "where are the ps4 vs xbone videos digital foundry ?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Game looks fun, but that\u2019s a hard pass for me. I\u2019ll wait for the 4K 60 patch",
+            "polarity": -0.13055555555555556,
+            "subjectivity": 0.38055555555555554
+        },
+        {
+            "body": "This was poor optimization at its finest, hands down. This should and COULD be 1440p 60fps on the series x EASILY.",
+            "polarity": -0.040740740740740744,
+            "subjectivity": 0.5740740740740741
+        },
+        {
+            "body": "4k @ 120 my ass\ud83e\udd23\ud83e\udd23 Consoles were and still are shit. Period",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Late game the frame drops seem to get, much, much worse. Some sections hit the single digits for me, on Series X. I thought it might just be me but seen a few other posts about it too.",
+            "polarity": -0.2494047619047619,
+            "subjectivity": 0.3815476190476191
+        },
+        {
+            "body": "The only cost here is poor optimization. They threw that 60 fps there without caring much about it. Whoever thinks this PS4 game cannot run in new consoles in 60/1440p is simply deluded. Its all a matter of optimization. Eidos Montreal simply threw the modes in there and did not bother to optimize the code, rather than cut whatever is needed in order to play smoothly in 60. Now the usual PC elitist who is used to brute forcing poorly optimized games on his uber PC, will come here and tell us this is exactly how it is. That somehow, Guardians of the Galaxy and Eidos Montreal \"maxed out\" PS5 and XBSX. Because, clearly... which game looks better? Ratchet and Clank (or any PS5/XBX exclusive) in 60fps with Ray Tracing and featuring open world environments in higher resolution, or Guardians of the Galaxy... lol\nPS: This whole \"we cant have everything\" BS from DF is getting old. We dont need to have everything, but from having everything to this piss job Eidos Montreal did with the 60fps mode, there is a huge gap...",
+            "polarity": 0.07431818181818182,
+            "subjectivity": 0.4726082251082251
+        },
+        {
+            "body": "This is the second video commentary on the game about it's visual connection to the movies. Why is it so hard for people to take 5 minutes and pick up a comic book? Most of the lore in the game is related to events in the comic books and the game is obviously a continuation of that inspiration.",
+            "polarity": -0.0446969696969697,
+            "subjectivity": 0.3765151515151515
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-02 18:52:27",
+    "ups": "565",
+    "downs": "136",
+    "views": "54760",
+    "top_comments": [
+        {
+            "comment": "\u6551\u6551\u6211\u4eec\u5bb6\u5c0f\u5b69\uff0c\u6211\u5bb6\u5c0f\u5b69\u6b63\u906d\u53d7\u7535\u78c1\u6b66\u5668\u6253\u51fb\uff0c\u8bb0\u5fc6\u529b\u975e\u5e38\u5dee\uff0c\u5e38\u5e38\u5fd8\u8bb0\u521a\u521a\u53d1\u751f\u7684\u4e8b\u60c5\u3002",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nearly 2 solid years of this now and how many people do you honestly know of that \"died of covid\" without the presence of unrelated terminal illness?",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Watch their actions, not their words\ud83d\udcaf\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I\u2019ve been wearing a mask since March 2020 whenever I go out and I\u2019m COVID-19 free with no vaccine.",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Watch their actions, not their words\ud83d\udcaf\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So many immunologists on this thread. Amazing.",
+            "polarity": 0.55,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Today covid is dropping. \nTomorrow covid is rising. \nThe following day covid is dropping again. \nThe day after that covid is rising. \nIt's over when it over. Don't believe the news until we see it and live it.",
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Nearly 2 solid years of this now and how many people do you honestly know of that \"died of covid\" without the presence of unrelated terminal illness?",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Ovid means sheep in latin",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

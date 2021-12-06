@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-01 09:54:14",
+    "ups": "3645",
+    "downs": "149",
+    "views": "145480",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 2,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "but then is it printing that news story that's being told on the tv? and then when that was printed is it going to print the one that's saying that it's printing what this news story is about and what the news anchor is saying right now? and then they can just say that after we shut down the news agency, the rest will be printed up until 3 seconds after the shut off. and then everything will be 100% printed but don't forget to add in that 5 minutes of commentary and communication because it's super important. this is probably one of the most important useless fact that anybody could have told anyone ever",
+            "polarity": 0.18049886621315192,
+            "subjectivity": 0.5987528344671202
+        },
+        {
+            "body": "IS THAT TRUE I AM SO SCARED WHY BECAUSE MY ONLNE CLASES WILL BE NO MORE AND MY BEST DESKTOP OH NO !",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.48333333333333334
+        }
+    ]
+}

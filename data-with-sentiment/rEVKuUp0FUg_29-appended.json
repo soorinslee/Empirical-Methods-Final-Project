@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-04 16:12:06",
+    "ups": "7496",
+    "downs": "62",
+    "views": "105871",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 575,
+            "number_of_replies": 156,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Which time better to do this stretches?\n(Sry for my bad english)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.06666666666666661,
+            "subjectivity": 0.38888888888888884
+        },
+        {
+            "comment": "I am super duper exited to try this . Anna u make my day good and awesome by uploading ur videos . Thank u Anna for making this video .",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6777777777777777,
+            "subjectivity": 0.7555555555555555
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Which time better to do this stretches?\n(Sry for my bad english)",
+            "polarity": -0.06666666666666661,
+            "subjectivity": 0.38888888888888884
+        },
+        {
+            "body": "So Exited Anna",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc97",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

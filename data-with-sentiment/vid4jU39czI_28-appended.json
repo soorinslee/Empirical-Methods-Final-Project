@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-04 12:04:22",
+    "ups": "16345",
+    "downs": "260",
+    "views": "396992",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1767,
+            "number_of_replies": 138,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "The end of the video is like when the protagonist is about to lose and they somehow win",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Spoiler Alert\u2026kinda\n\nLove that when Mikey wins he says - \u2018I just won\u2019 in a similar sense to Light Yagaki in Death Note \ud83d\ude02",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.47500000000000003
+        },
+        {
+            "body": "jacks face at the end is priceless. John's hopes and dreams were shattered and Mikey played his cards just right.",
+            "polarity": 0.6428571428571428,
+            "subjectivity": 0.7678571428571428
+        }
+    ]
+}

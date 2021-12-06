@@ -1,0 +1,110 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj1sf5/25_most_awaited_games_in_2022/",
+    "time_posted": "2021-10-30 09:45:04",
+    "time_now": "2021-11-02 06:32:40",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinkunk",
+            "body": "I can agree with Dark Tide and Elden ring",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.15,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hinofeb",
+            "body": "That was a very low effort article, if I ever saw one",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.39
+        },
+        {
+            "comment_id": "hineljq",
+            "body": "mycraft 2",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hip5ujd",
+            "body": "Lol why is there a picture of AC 1?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinkunk",
+            "body": "I can agree with Dark Tide and Elden ring",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.15,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hinofeb",
+            "body": "That was a very low effort article, if I ever saw one",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.39
+        },
+        {
+            "comment_id": "hineljq",
+            "body": "mycraft 2",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hip5ujd",
+            "body": "Lol why is there a picture of AC 1?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinkunk",
+            "body": "I can agree with Dark Tide and Elden ring",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.15,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hinofeb",
+            "body": "That was a very low effort article, if I ever saw one",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.39
+        },
+        {
+            "comment_id": "hineljq",
+            "body": "mycraft 2",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hip5ujd",
+            "body": "Lol why is there a picture of AC 1?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

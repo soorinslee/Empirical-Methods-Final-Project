@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 14:59:20",
+    "url": "https://www.youtube.com/watch?v=zHZnQn6D-2E",
+    "time_now": "2021-11-05 21:02:49",
+    "ups": "12019",
+    "downs": "197",
+    "views": "167389",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Get better Chico!",
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Great make over! I use command strips and fabric to create accent walls, etc. Matching - or not - bedskirt to better hide the games or put some games on display.",
+            "polarity": 0.75,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "The only thing I would have tried, would maybe be to make a custom desk/surface/TV surface into one furniture. I dont't know if it would have work with her space, but I think it would have tied the desk with the rest of the living room in an another fashion. Either way, the accent wall with the wallpaper was a really good choice ! \ud83d\ude0d",
+            "polarity": 0.4375,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "this one just doesn't work for me at all. there is still no separation of space. visually or actually. a divider between the bed and living room maybe? I dunno it seems like you just fluffed up what was already there without giving her any real solutions like \"when I'm in my bed I feel like I'm in the kitchen\" she said in the beginning. I usually love your makeovers but this one not so much.",
+            "polarity": 0.22499999999999998,
+            "subjectivity": 0.3
+        }
+    ]
+}

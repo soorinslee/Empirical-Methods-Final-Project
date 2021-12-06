@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-03 23:43:10",
+    "ups": "9396",
+    "downs": "38",
+    "views": "112942",
+    "top_comments": [
+        {
+            "comment": "you could clone netherite",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The problem of the payment barrels isn't the signage indicating to use them, it's the location of the barrels themselves. For one thing, the barrels are further above, and away from, the product chests. Two, the barrels have two items frames, each with either a diamond or Derp Coin in it, further camoflaging the barrels.\n\nThey just don't look like something you're supposed to interact with, however, I think changing the location of the payment barrels to a more up-front, or parallel, location in regards to the product chests will increase their proper usage.\n\nThe octagon is amazing! First of its kind on Hermitcraft and just what I'd expect from a duo like you and DocM77!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.42592592592592593
+        },
+        {
+            "comment": "#PAYINTHEBARREL",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "#payinthebarrel",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"That proves the hermits are incapable of reading a sign.\"\n\nYou've never worked retail, have you my dude?",
+            "polarity": 0.3,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Change from 1 free item to but 1 get 1 free so the hermits have to spend to use the coupons",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I don't usually comment, but I think the barrel problem is more so about confusion around WHICH barrel to pay in. So in fear of paying in the wrong one they opt for what they're used to - paying in the shulker~ \nSo either move each shop-sections payment barrel closer to the section entrance and clearly label it \"payment barrel\" or specify the location of the barrel on the sign. \n\nAlso.. In my opinion - the problem seems to kinda be that \"Pay in the barrel\" makes it sound like there is ONE spesific barrel intended for payment, but there are several barrels around the place, again making it confusing as to which one is the right one, if they're all the right one and so on :p \n\nAnyway, Keep up the great work my dude!",
+            "polarity": 0.20649350649350648,
+            "subjectivity": 0.514069264069264
+        },
+        {
+            "body": "\"Automatically\" is my new favorite word in English. Thank you!",
+            "polarity": 0.21212121212121213,
+            "subjectivity": 0.48484848484848486
+        }
+    ]
+}

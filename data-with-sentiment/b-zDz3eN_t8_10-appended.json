@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-01 09:53:47",
+    "ups": "2893",
+    "downs": "126",
+    "views": "283378",
+    "top_comments": [
+        {
+            "comment": "When Koolaid is famous and everyone is drinking it: 0:48",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "MrBeast is gonna Pay to Win.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Its even if it has Jimmy face on it\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "why are they're lips blue? XD",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "You rwally insane beast",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Dude when u made it red to blue u make there lip to blue",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "#Squid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

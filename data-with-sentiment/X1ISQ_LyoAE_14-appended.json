@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-02 02:24:00",
+    "ups": "1667",
+    "downs": "35",
+    "views": "19978",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Never tried the origional aqua di gio but my dad had profumo and it was top notch",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "ive only tried the flankers",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Aqua di gio !Great fragrance! Used to rock it back in highschool! Got compliments all the time. Can't go wrong with aqua di gio.",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "body": "I\u2019d like to join the giveaway, but I have tried the original GIO many times definitely an essential part to any fragrance collection in my opinion.",
+            "polarity": 0.2916666666666667,
+            "subjectivity": 0.5166666666666667
+        },
+        {
+            "body": "I\u2019d like to enter , I still wear the original ADG\nThanks for the draw \nUSA",
+            "polarity": 0.2875,
+            "subjectivity": 0.475
+        },
+        {
+            "body": "Absolutely love, love, love the original Gio. Started with that. Love profondo as well. Lights too...",
+            "polarity": 0.475,
+            "subjectivity": 0.63
+        },
+        {
+            "body": "Would like to enter the giveaway, have never used ADG, here its hot all year.",
+            "polarity": 0.25,
+            "subjectivity": 0.8500000000000001
+        }
+    ]
+}

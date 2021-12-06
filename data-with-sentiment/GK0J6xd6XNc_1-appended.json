@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:28:29",
+    "url": "https://www.youtube.com/watch?v=GK0J6xd6XNc",
+    "time_now": "2021-10-30 20:51:11",
+    "ups": "1567",
+    "downs": "82",
+    "views": "47053",
+    "top_comments": [
+        {
+            "comment": "Spotify Playlist \u27a4 https://sptfy.com/gangstercity",
+            "likes": 19,
+            "number_of_replies": 7,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "*i dont the the language but i love this song, its a soulful song\ud83d\udc9e*",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Hello from Ukraine \ud83d\ude03\u2764\ufe0f\u270a",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Great music, amazing singer and action packed movie scene !",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5083333333333334,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "comment": "Fun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Gobhi lele , gobhi lele , 40 ka hai 2 , teen bees ka",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It is best \ud83d\ude2d",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 11:00:01",
+    "url": "https://www.youtube.com/watch?v=1ZCvjb6TqgI",
+    "time_now": "2021-11-02 10:37:59",
+    "ups": "10395",
+    "downs": "267",
+    "views": "437260",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "If youngkin does not win, the voting is rigged",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "PS - slight typo correction to previous post.  Read \"accused OF breaking the law\".",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Separation of adults and children.  It was my impression that adults accused to breaking the law and\ndetained as a result were separated from children as a matter of course in the legal process.  Am I wrong?",
+            "polarity": -0.15,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Has anyone checked to see if hiden is deaf because he thinks he is speaking well but he sounds like a person who can't hear what's he's talking about but then it could be he has his head where it don't belong",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

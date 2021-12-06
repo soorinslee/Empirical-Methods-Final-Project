@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=5E97BY6E--k",
+    "time_now": "2021-11-04 03:50:59",
+    "ups": "10383",
+    "downs": "258",
+    "views": "140814",
+    "top_comments": [
+        {
+            "comment": "Sir Tata Power is my favourite stock and also it is best for those investor who have small portfolio\nand also for those who says that they have less money",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.19444444444444445,
+            "subjectivity": 0.25555555555555554
+        },
+        {
+            "comment": "reliance\r\nirctc\r\ntcs\r\nDmart\r\ncdsl\r\npidilite\r\nhdfc bnk\r\njubliant foodwrk\r\nsona blw\r\niex\r\ntata power\r\nbajaj fin\r\nitc\r\ndeepak ntr\r\nlauras lab\r\nlaxmi org",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "There will be Bhararti airtel aslo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

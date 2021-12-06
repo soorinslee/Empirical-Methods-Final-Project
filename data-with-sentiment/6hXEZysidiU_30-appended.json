@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-04 20:19:22",
+    "ups": "4417",
+    "downs": "67",
+    "views": "92387",
+    "top_comments": [
+        {
+            "comment": "Amazingly amazing! How simple yet scientific, how spiritual yet rational answers were..!! Very profound...!! Thank you!",
+            "likes": 13,
+            "number_of_replies": 1,
+            "polarity": 0.2403971354166667,
+            "subjectivity": 0.5976190476190476
+        },
+        {
+            "comment": "Such a magnificent teaching. Much love",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.7000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ravi shankar has done degree in science. What a joke. Look at those people, those people who is getting fooled",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Good Post! Guruji, Happy Deepavali!",
+            "polarity": 0.9375,
+            "subjectivity": 0.8
+        }
+    ]
+}

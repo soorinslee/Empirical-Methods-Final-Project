@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-05 00:26:24",
+    "ups": "13086",
+    "downs": "194",
+    "views": "587548",
+    "top_comments": [
+        {
+            "comment": "Praise Jesus Christ lord",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Why would you leave you Louis bag to get all full of chemicals anyways?",
+            "polarity": 0.35,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "this just looks so fake and scripted. the way that \"thief walked, the coincidental placement of full HD camera in the closet,.. this has to be an insurance scam",
+            "polarity": -0.07500000000000001,
+            "subjectivity": 0.775
+        },
+        {
+            "body": "I have a beautiful collection of jewelry, some inherited, some purchased. My jewelry is in either my personal vault in my home or at the bank in a safety deposit box. In this day you have to proactive to deter thieves. I can\u2019t stand thieves.",
+            "polarity": 0.425,
+            "subjectivity": 0.65
+        }
+    ]
+}

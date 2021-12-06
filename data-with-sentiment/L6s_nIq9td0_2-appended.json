@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 12:02:50",
+    "url": "https://www.youtube.com/watch?v=L6s_nIq9td0",
+    "time_now": "2021-10-31 00:58:04",
+    "ups": "1013",
+    "downs": "76",
+    "views": "33809",
+    "top_comments": [
+        {
+            "comment": "I'm dressing up as a streaker.",
+            "likes": 4,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "In America, Halloween is more like carnival actually.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "That cardi b costume was on point. She did that!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "They were \ud83e\udd21 mask 24/7 365 \nnothin new here",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment": "If they dress up as Native Americans, crybabies will explode",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "wait a minute this isnt a video for fortnite skins ;(",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "all good 2021  Halloween costumes lol",
+            "polarity": 0.75,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "That made me sick Snoop u made me lose hope in humanity",
+            "polarity": -0.7142857142857143,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "body": "Some one should dress up like snoop Dogg when he dressd like a hooker",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "theyre so cringey",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "nice costumes",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Savannah is holding her own. Sunny looks great. That Cardi B costume is a fab idea.",
+            "polarity": 0.7,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "so not halal mode\n\n\n\ud83d\ude10",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

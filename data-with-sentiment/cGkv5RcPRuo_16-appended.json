@@ -1,0 +1,123 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-02 10:37:21",
+    "ups": "24062",
+    "downs": "552",
+    "views": "368734",
+    "top_comments": [
+        {
+            "comment": "Nice",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Cool",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Do you have need chinese song ..?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Grow me Up pleaseeeeeeeeeeeeeeeeeeeeeeeee",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Cold track",
+            "polarity": -0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Best Song for Halloween Happy Halloween everyone \ud83d\udc7b\ud83c\udf83\ud83c\udf6c",
+            "polarity": 0.9,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "CreAzY 4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Background is also moving.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Amazing song \u2764\ufe0f",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Ooooommmmmmgggggggg 222222 ggggggooooooooddddddddd",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "next release:\nLost Identities & Ro Broth- For Me (November 4)",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ooooooo Nice !!",
+            "polarity": 0.9375,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "so insaneeeeeeeeeeeeeeeeeeeeeeeeeeeeeee dude love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Do you have need chinese song ..?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "No copyright music",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Nice song",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Sike song keep it up \ud83d\ude0e\ud83d\ude0e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

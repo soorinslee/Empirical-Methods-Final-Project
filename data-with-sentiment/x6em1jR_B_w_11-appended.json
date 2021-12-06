@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-01 14:02:04",
+    "ups": "4483",
+    "downs": "243",
+    "views": "192649",
+    "top_comments": [
+        {
+            "comment": "These little guys surely never get bored, they must have the time of their life in those mazes^^ Great theme and amazing attention to detail, love it :D",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.28035714285714286,
+            "subjectivity": 0.8055555555555555
+        },
+        {
+            "comment": "Cuteeeee",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Omg I Subscribed at 20k and in a week You have 235k, can\u2019t wait to see these critters have more fun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.35
+        },
+        {
+            "comment": "I feel like the comments are bots",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is funny",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude22\ud83d\ude22\ud83d\ude22\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83d\ude1a\ud83d\ude1a\ud83d\ude1a\ud83d\ude1a\ud83d\ude11\ud83d\ude11\ud83d\ude11",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Omg I Subscribed at 20k and in a week You have 235k, can\u2019t wait to see these critters have more fun",
+            "polarity": 0.4,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "Wow this is so cute and lovely \ud83e\udd70\ud83d\udc39 Have a nice day \ud83d\ude0a\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+            "polarity": 0.42500000000000004,
+            "subjectivity": 0.9375
+        },
+        {
+            "body": "I feel like the comments are bots",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is funny",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-03 03:07:10",
+    "ups": "11072",
+    "downs": "84",
+    "views": "215064",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "BEEN WAITING FOR THIS!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "this whole vid is just cuteness",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        }
+    ]
+}

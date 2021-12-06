@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-01 09:53:34",
+    "ups": "6359",
+    "downs": "55",
+    "views": "49983",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 846,
+            "number_of_replies": 24,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "wow, this is a cool surprise, sounds great really enjoyed it, greetings from  new zealand",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.37727272727272726,
+            "subjectivity": 0.7109090909090908
+        },
+        {
+            "comment": "I'm going to date myself. I remember when this was released aby the Bee Gees. And it was good. I must say, I enjoyed your version much better \ud83d\ude0a and thank you for the warning at the beginning of your video. I'm sure the video is amazing, since you all sang so wonderfully!! However, blinking lights can bring on a vertigo attack (lol I don't even get those right. Instead of the room \"constantly spinning\" mine rocks. Like I'm on a rocking horse and I can't get off. And it can last anywhere from a few minutes to a month.) Anyways, can't wait to hear more of your music! So glad I'm a subscriber \ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.446978021978022,
+            "subjectivity": 0.6018925518925518
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nice collab! and you are nice musiciants with great taste of music. Thanks",
+            "polarity": 0.5875000000000001,
+            "subjectivity": 0.7375
+        },
+        {
+            "body": "wow, this is a cool surprise, sounds great really enjoyed it, greetings from  new zealand",
+            "polarity": 0.37727272727272726,
+            "subjectivity": 0.7109090909090908
+        },
+        {
+            "body": "this one annoys me as hell.\nshe cant sing, wrong vocal for this.",
+            "polarity": -0.5,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Happy Halloween.",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Another kick ass jam",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

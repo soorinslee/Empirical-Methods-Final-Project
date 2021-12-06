@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 16:00:14",
+    "url": "https://www.youtube.com/watch?v=XvpPp2lWZUE",
+    "time_now": "2021-10-31 21:32:21",
+    "ups": "22898",
+    "downs": "64",
+    "views": "216823",
+    "top_comments": [
+        {
+            "comment": "happy international spooky day",
+            "likes": 430,
+            "number_of_replies": 11,
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Poor bandit ;(",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Two houses one defense and the other attack and they are all toxic",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Why are you advertising badger's gamersupps?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That ending LMAO",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

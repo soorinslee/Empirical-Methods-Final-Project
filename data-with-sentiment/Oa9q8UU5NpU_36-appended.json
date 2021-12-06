@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-05 21:02:23",
+    "ups": "3897",
+    "downs": "108",
+    "views": "92469",
+    "top_comments": [
+        {
+            "comment": "\"super secret Easter Eggs\"\n\n\"..you can find these obvious, blatant The Shining references peppered throughout Layers of Fear 2 by playing normally\"",
+            "likes": 6,
+            "number_of_replies": 1,
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.6033333333333333
+        },
+        {
+            "comment": "Chipsturs! Long time no chat! Your old buddy Aaron from RetroLiberty sending you love! <3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.415625,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "I could watch this channel all day. In fact I'm going to ty james",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I was channel surfing late one night back in the year 2000 and caught a channel playing the Summoner deadale wives DND skit. I can't remember what channel it was but my buddies and I were cracking up at that skit.",
+            "polarity": -0.15,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I could watch this channel all day. In fact I'm going to ty james",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

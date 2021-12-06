@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:23:10",
+    "url": "https://www.youtube.com/watch?v=6_ubH4F_eRQ",
+    "time_now": "2021-11-05 08:40:49",
+    "ups": "25431",
+    "downs": "2107",
+    "views": "2346251",
+    "top_comments": [
+        {
+            "comment": "Miss you Sir \ud83d\ude2d\ud83d\ude25",
+            "likes": 177,
+            "number_of_replies": 16,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Miss you \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Miss you sir \ud83d\ude23\ud83d\ude23\ud83d\ude16",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Miss you sir \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Real video https://youtu.be/mVS3b0q7h2A",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "Bhagwan enke aat ko santi de",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

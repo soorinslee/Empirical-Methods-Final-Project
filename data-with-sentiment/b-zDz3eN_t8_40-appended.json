@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-06 13:31:03",
+    "ups": "8587",
+    "downs": "381",
+    "views": "971264",
+    "top_comments": [
+        {
+            "comment": "Still waiting for MR BEAST comment\ud83d\ude44",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Why are the guards blue",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "My lion\u2019s",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Still waiting for MR BEAST comment\ud83d\ude44",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice video",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Woah, This a cool new leak for the second season",
+            "polarity": 0.1621212121212121,
+            "subjectivity": 0.36818181818181817
+        }
+    ]
+}

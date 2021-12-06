@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:34",
+    "url": "https://www.youtube.com/watch?v=dRWqRiTvO7E",
+    "time_now": "2021-11-06 01:10:00",
+    "ups": "8255",
+    "downs": "50",
+    "views": "97410",
+    "top_comments": [
+        {
+            "comment": "How did it go in Virginia with all this living in the past and waiting for a stale, pale, male to do the right thing in the DOJ? \n\nAmerica - you have the representation you deserve. I'm enjoying watching the sun set on the arrogance and ignorance of the US.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.029047619047619044,
+            "subjectivity": 0.36095238095238097
+        },
+        {
+            "comment": "we will lose this country to fascism after 2022 when the complicit GOP can stop all jan.6 investigations.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Right there with you man if it continues down this road the cohesiveness of both parties merge into one and that is our worst-case scenario that seems to be playing out before our eyes",
+            "polarity": 0.06507936507936506,
+            "subjectivity": 0.4123015873015873
+        },
+        {
+            "body": "Congress is part of the problem they are allowing Trumps people to show contempt !",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Glenn to many Trump holdovers at main Justice",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.41666666666666663
+        },
+        {
+            "body": "Why no indictment MR Garland is this a coverup?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

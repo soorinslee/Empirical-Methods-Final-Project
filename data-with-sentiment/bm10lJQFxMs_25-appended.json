@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:00:18",
+    "url": "https://www.youtube.com/watch?v=bm10lJQFxMs",
+    "time_now": "2021-11-03 23:43:27",
+    "ups": "9175",
+    "downs": "113",
+    "views": "238230",
+    "top_comments": [
+        {
+            "comment": "Let's go Brandon! FJB \ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I'm from the south and I know not to get between a mamma bear and her cubs! Evidently some city democrats have never been taught this! Mamma bear 101 is in session America! Let's go Brandon!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.762939453125,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I thought facts don\u2019t care about your feelings!!??? So teaching kids that some of the founding fathers were slave owners is some CRAZY idea!!",
+            "polarity": -0.9375,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "LET'S GO MAMA BEARS!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

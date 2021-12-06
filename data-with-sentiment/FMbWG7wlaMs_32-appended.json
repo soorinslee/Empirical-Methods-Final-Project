@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-05 04:33:40",
+    "ups": "39820",
+    "downs": "465",
+    "views": "851649",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1246,
+            "number_of_replies": 107,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "Wow\u2026 I\u2019ve never had a cohesive idea of what my dream home would be but THIS IS IT!! So beautiful! Every. Single. Finish. Chef\u2019s kiss!! I am obsessed with the modern-meets-classic design!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08779761904761907,
+            "subjectivity": 0.7380952380952381
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ro has come such a long way. I'm so proud of this girl \ud83d\udc97",
+            "polarity": 0.25,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "body": "In this house, you don\u2019t need to go out cause all stuffs you need is all there!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Y\u2019all rich",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Ur house looks like my house in bloxburg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Did Justine do your tech organization In planning for your new house? Lol",
+            "polarity": 0.4681818181818182,
+            "subjectivity": 0.5772727272727273
+        },
+        {
+            "body": "You should name your coffee maker \"attacca\" because your coffee machine is probably working non-stop \ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You should name it Suzie ,Linda, or ro",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love RO's dress",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

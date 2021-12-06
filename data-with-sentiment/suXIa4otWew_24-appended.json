@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 09:14:41",
+    "url": "https://www.youtube.com/watch?v=suXIa4otWew",
+    "time_now": "2021-11-03 19:35:45",
+    "ups": "162032",
+    "downs": "1447",
+    "views": "1812259",
+    "top_comments": [
+        {
+            "comment": "Somi fits in every song\nOur living Doll",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Only indians can understand the first word \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\n\n\n\n\n\n\n\n\nLike if you are indian \ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "The trauma I get Every time I listen to this song ......\ud83d\ude36\ud83d\ude36\nOnly Indian armys can understand \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "After listening the misheard lyrics I can't listen this song normally",
+            "polarity": 0.15,
+            "subjectivity": 0.6499999999999999
+        },
+        {
+            "body": "Why i always heard it as bhenchd \ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Her skirt and shoes are adorable",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Only indians can understand the first word \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\n\n\n\n\n\n\n\n\nLike if you are indian \ud83d\udc4d",
+            "polarity": 0.125,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

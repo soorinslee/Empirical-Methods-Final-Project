@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-04 07:57:57",
+    "ups": "7276",
+    "downs": "404",
+    "views": "109909",
+    "top_comments": [
+        {
+            "comment": "White Air Force 1 are played out. Everyone has of shoes now.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You just gained a subscriber with this video , so on point .",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "White Air Force 1 are played out. Everyone has of shoes now.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ngl? Hated every suggestion besides maybe the puffy jacket. \ud83d\udc80",
+            "polarity": -0.9,
+            "subjectivity": 0.7
+        }
+    ]
+}

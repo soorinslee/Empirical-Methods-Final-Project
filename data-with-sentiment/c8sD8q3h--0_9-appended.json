@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 08:30:09",
+    "url": "https://www.youtube.com/watch?v=c8sD8q3h--0",
+    "time_now": "2021-11-01 05:46:50",
+    "ups": "10747",
+    "downs": "1287",
+    "views": "313268",
+    "top_comments": [
+        {
+            "comment": "Who Wanna This Lifestyle \nEven We are middle class now",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "RVCJ come from ur original ID",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Rvcj wale hazir ho!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ulti aajaye aaese song sun \ud83e\udd2eke",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sasta bohmia",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0926\u093f\u0935\u093e\u0932\u0940 \u0915\u093e \u0930\u093e\u092e-\u0930\u093e\u092e \u0938\u093e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Katai honey singh ho rhe ho\ud83d\ude12\ud83e\udd23\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tony bhaiya se battle krlbalo inki \ud83e\udd23\ud83e\udd23 to b Tony kakkr hi jiyega",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-02 22:59:45",
+    "ups": "3255",
+    "downs": "31",
+    "views": "59145",
+    "top_comments": [
+        {
+            "comment": "If you do a follow up to this video I would really appreciate if you touched on how to style a bed with two separate duvets. I live in Germany and sharing one isn't common here and I can't imagine not having my own. My husband and I would be fighting over it every night.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1590909090909091,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Any recommendations for people with oddly shaped bedrooms? Say, a room that has 3 different widths due to past home owners weird renovating choices?",
+            "polarity": -0.20833333333333331,
+            "subjectivity": 0.495
+        },
+        {
+            "body": "I've been very much enjoying your videos! Could you let me know, do you have any videos and advice on window treatments? When to use, when perhaps not to? And of course, how!",
+            "polarity": 0.78125,
+            "subjectivity": 0.6
+        }
+    ]
+}

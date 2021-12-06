@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-10-31 13:18:33",
+    "ups": "1874",
+    "downs": "19",
+    "views": "25138",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 120,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My local gw used to run 1k 40k tournaments; they were a blast",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Strong jorts game Kurtis.",
+            "polarity": 0.016666666666666635,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "body": "Thank God they\u2019re easy on the painted models, because we know you\u2019ll never get them painted! Your a unique painter, not an Army painter, don\u2019t fight it\nAnd Glad to see you enjoying something again",
+            "polarity": 0.4791666666666667,
+            "subjectivity": 0.8583333333333334
+        },
+        {
+            "body": "I'm just glad Curtis got a haircut.",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

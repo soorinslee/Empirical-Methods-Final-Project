@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:05:08",
+    "url": "https://www.youtube.com/watch?v=ASUbjTHL2u8",
+    "time_now": "2021-11-01 01:39:51",
+    "ups": "2035",
+    "downs": "35",
+    "views": "47396",
+    "top_comments": [
+        {
+            "comment": "I'm so confused, how haven't u hit 1Mill yet, you deserve too",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "What was in Mirage's hand at 15:43?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "does Ashes passive where she marks surviving attackers/lootboxes have a cool down once she does it?",
+            "polarity": 0.0972222222222222,
+            "subjectivity": 0.46944444444444444
+        },
+        {
+            "body": "I have a bad feeling that the tall pink grass at 2:26 can be turned off with .cfg editing, giving players with super framerate optimized cfg files a big visibility advantage.",
+            "polarity": -0.11666666666666663,
+            "subjectivity": 0.43333333333333335
+        }
+    ]
+}

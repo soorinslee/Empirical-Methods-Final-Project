@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 15:05:08",
+    "url": "https://www.youtube.com/watch?v=ASUbjTHL2u8",
+    "time_now": "2021-10-31 00:57:42",
+    "ups": "1541",
+    "downs": "22",
+    "views": "30320",
+    "top_comments": [
+        {
+            "comment": "Question..does the AI only attack the team that triggers them, or any nearby player? If I'm being chased or wanting to push in the right area, can I shoot the eggs with a team close by to get them attacked?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.14285714285714285,
+            "subjectivity": 0.7678571428571428
+        },
+        {
+            "comment": "The mirage was hacking i saw he had a lifeline ult for a moment!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Crafting metal or crafting material??\nI m confused \ud83d\ude15",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Can the Prowlers and spiders roam the whole map once their habitat has been disturbed or do they have a limited area?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0642857142857143,
+            "subjectivity": 0.27142857142857146
+        },
+        {
+            "comment": "This is stupid, now you kill animals! This game is getting worse.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Once the season comes out, would it be cool if you did an ai only challange, only looting from prowlers and spiders? Cool video idea i think",
+            "polarity": 0.175,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "I wanna see a vid where you just go around farming damage off of the ai wildlife\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The mirage was hacking i saw he had a lifeline ult for a moment!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Crafting metals as in the stuff for skins? Or the stuff for in game crafting?",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "\"all warfare is based on deception\" - Sun Tzu",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is stupid, now you kill animals! This game is getting worse.",
+            "polarity": -0.6,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "I wonder who won that punch off",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "When he is without his newbie lobbie expoilt you really  see a dip in his performance",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 13:00:14",
+    "url": "https://www.youtube.com/watch?v=XmD0eg0vzh0",
+    "time_now": "2021-11-01 22:16:39",
+    "ups": "6153",
+    "downs": "48",
+    "views": "116960",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I cant wait to see your next house so happy for you guys \ud83e\udd70",
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I just can't watching y'all Stephen you are truly amazing Dad I admire you for you making sure everything goes smoothly for your family and the way your kids take part in what they have to do love you all so much stay safe",
+            "polarity": 0.45,
+            "subjectivity": 0.5981481481481482
+        },
+        {
+            "body": "Ya\u2019ll need to do like a \u201ctips and tricks when moving houses\u201d video because I am in need of that PLEASE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

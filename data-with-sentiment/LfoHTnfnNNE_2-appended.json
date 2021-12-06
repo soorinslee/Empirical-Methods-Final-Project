@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 15:26:03",
+    "url": "https://www.youtube.com/watch?v=LfoHTnfnNNE",
+    "time_now": "2021-10-31 00:57:55",
+    "ups": "520",
+    "downs": "10",
+    "views": "6628",
+    "top_comments": [
+        {
+            "comment": "Wow, this lady is bang on the nail, very well said.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Kick all the boats out.and back too france and keep the dingy divers there",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83e\udd23 Take that Pepe.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "U.K.: I wanna be a 3rd country.\nE.U.: Are you sure?\n\nU.K.: I wanna be a 3rd country.\nE.U.: Are you really sure?\n\nU.K.: I wanna be a 3rd country.\nE.U.: You know this is going to totally change the way you trade with us?\n\nU.K.: I wanna be a 3rd country.\nE.U.: Alright then. From now on, 3rd party country rules apply.\n\nU.K. STOP PUNISHING US!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.3159722222222222
+        },
+        {
+            "comment": "Threatening the British is never a good strategy\u2026",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.175,
+            "subjectivity": 0.30000000000000004
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "A German friend called me yesterday. He was laughing about the UK and our so called shortages. ( They think we have nothing but empty shops. \ud83d\ude02",
+            "polarity": -0.05,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "0:40 Fake News! \nWhere the copy of the actual letter?",
+            "polarity": -0.3125,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "\ud83e\udd23 Take that Pepe.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes the Eu are playing france like puppets,,getting them to do they\u2019re dirty work,they are all trying to punish the uk,,get out now frosty,while you can",
+            "polarity": -0.6,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "The let come at us!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Another war with France, let's go. It's been long enough since the last one tbh.",
+            "polarity": -0.016666666666666666,
+            "subjectivity": 0.32222222222222224
+        },
+        {
+            "body": "I'm 0 for 4 with books coming in from the UK. One was 'lost in transit' and it's been over 6 weeks for another. Let's see if the others make it. We're talking just printed matter here. Customs?\ud83e\udd14 Nah...punishment.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Apparently if general degualle had his way Britain would never have been in the eu in the first place and we would have still been eating new Zealand l and Australian beef Lol",
+            "polarity": 0.24727272727272726,
+            "subjectivity": 0.3975757575757576
+        },
+        {
+            "body": "Why are the EU able to punish us? I thought we'd taken back control?",
+            "polarity": 0.25,
+            "subjectivity": 0.3125
+        },
+        {
+            "body": "Starting to lose faith in GB news ,why aren't you covering the street protests as all over the world and England by the way.. what a load of bull.",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

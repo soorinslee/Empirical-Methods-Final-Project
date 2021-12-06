@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 13:09:39",
+    "url": "https://www.youtube.com/watch?v=-lUtPDYnKL0",
+    "time_now": "2021-11-05 08:40:26",
+    "ups": "13505",
+    "downs": "194",
+    "views": "340314",
+    "top_comments": [
+        {
+            "comment": "HEY OJ | NEW CLASH QUEST TROOPS \ud83c\udf4a \u2764\ufe0f NICE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.36818181818181817,
+            "subjectivity": 0.7272727272727273
+        },
+        {
+            "comment": "CREATOR BOOST \nCODE : OJ",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

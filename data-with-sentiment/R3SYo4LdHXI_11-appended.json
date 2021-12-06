@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-01 14:00:59",
+    "ups": "5238",
+    "downs": "50",
+    "views": "107285",
+    "top_comments": [
+        {
+            "comment": "Let's step \u2764 nocap  going crazy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "\u201cIf I see what his name imma what cha call it\u201d that shi too fye \ud83d\ude02\ud83d\ude02\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83e\udd85 they all silde",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Damn deion and plies lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "THIS A DISS TO THAT DUDE WHO GO WITH YUNG MIAMI",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Let's step \u2764 nocap  going crazy",
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-02 22:58:58",
+    "ups": "37025",
+    "downs": "472",
+    "views": "711114",
+    "top_comments": [
+        {
+            "comment": "Finna drop ma freestyle to this right now bro need a Grammy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "comment": "Kodak has really grown",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "https://youtu.be/Kd7p8mXd2HM",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The best thing Trump ever did was giving us our boy back",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.15
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Finna drop ma freestyle to this right now bro need a Grammy",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "\"I knew the perc was fake but I still ate cause I'm a gremlin\" RAWEST SHIT EVER",
+            "polarity": -0.35,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Real super Stars \u2b50\ufe0f play no games \ud83c\udf0b\ud83c\udf0b\ud83d\udd25",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wow! So your focus is on JACK\u2026 with a now rapper SNAPP KAT I can\u2019t even take you seriously anymore\u2026 damn that\u2019s crazy that WIZ \ud83d\udd4aGONE",
+            "polarity": -0.26944444444444443,
+            "subjectivity": 0.8555555555555555
+        },
+        {
+            "body": "https://youtu.be/9OTSshGWBeE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

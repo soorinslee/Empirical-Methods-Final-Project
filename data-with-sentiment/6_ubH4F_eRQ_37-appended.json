@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:23:10",
+    "url": "https://www.youtube.com/watch?v=6_ubH4F_eRQ",
+    "time_now": "2021-11-06 01:10:18",
+    "ups": "25688",
+    "downs": "2136",
+    "views": "2367821",
+    "top_comments": [
+        {
+            "comment": "Miss you Sir \ud83d\ude2d\ud83d\ude25",
+            "likes": 179,
+            "number_of_replies": 16,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\ude22\ud83d\ude22",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude14\ud83d\ude14\ud83d\ude14\ud83d\ude14\ud83d\ude14\ud83d\ude14\ud83d\ude14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rip",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-06 13:30:58",
+    "ups": "38185",
+    "downs": "6434",
+    "views": "8606478",
+    "top_comments": [
+        {
+            "comment": "She is heavenly angel such a beautiful eyes and smile",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "comment": "Divya , most gorgeous actress ever \ud83d\ude00\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "I have never seen a  beauty like DivyaBharathi.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u0996\u09c1\u09ac \u09b8\u09c1\u09a8\u09cd\u09a6\u09b0 \u09b2\u09be\u0997\u099b\u09c7",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "i love this song .my favourite .",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "This song very osam \u2764\u2764\u270c\ud83d\ude0d\ud83d\ude18\nBut divya  bharti  no more  \ud83d\ude2d\ud83d\ude2d\ud83d\ude22\ud83d\ude1e\ud83d\ude26\nMiss you too",
+            "polarity": -0.024999999999999994,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Super song\nSuper dance",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Miss you Divya bharti",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Divya Bharti is best actor",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Very nice song \ud83d\udc8c\ud83d\udc8c\ud83d\ude4f\ud83c\udf39",
+            "polarity": 0.78,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Jo kuch bolo bhai iss gane Main dom hai",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

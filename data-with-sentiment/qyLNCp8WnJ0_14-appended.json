@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-02 02:24:02",
+    "ups": "5218",
+    "downs": "137",
+    "views": "119672",
+    "top_comments": [
+        {
+            "comment": "In a very recent video promoting Whole Foods sale prices, you specifically recommended a product, \"Four Sigmatic, Defend, Mushroom Blend Mix.\" On the can there's an explicit warning how this product can expose you to chemicals including lead, which is known in CA to cause birth defects or other reproductive harm. You express concerns about natural and artificial flavors. What's the deal here?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.08499999999999999,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Illinois has it!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Stop promoting your sponsored crud From other companies when your in Costco\u2026.that is so ghetto! Your are notorious for doing this.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "We have Raos in Minnesota. Best pasta sauce we\u2019ve ever tried!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "any ideas for sardines for me- with an avocado allergy?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Truvani protein mix? Has Prop 65 warning. Other protein mixes don't. What think of prop 65 warning? Why on truvani and not on others w same ingrdnts?",
+            "polarity": -0.0625,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "My wife and I are going to the new Costco tomorrow that they just built a week ago. So excited. We have never been to 1 before!",
+            "polarity": 0.3025568181818182,
+            "subjectivity": 0.6022727272727273
+        }
+    ]
+}

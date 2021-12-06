@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 11:00:05",
+    "url": "https://www.youtube.com/watch?v=C_9OkNrp6Ps",
+    "time_now": "2021-11-03 19:36:20",
+    "ups": "3171",
+    "downs": "136",
+    "views": "243566",
+    "top_comments": [
+        {
+            "comment": "My guy Ari calling out England on it's food\ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23 You know he was fed something that left an impact on him. AND he loves candy corn. I mean I keep finding new things to love about him",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08096590909090909,
+            "subjectivity": 0.43551136363636367
+        },
+        {
+            "comment": "Neanderthals walking around Congress.... \ud83d\ude02 \ud83d\ude02 \ud83d\ude02 \ud83d\ude02 YES!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ari - I don't know where you live but here in New York the food is trash - maybe that's why a lot of people go thru the trash for food!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15340909090909088,
+            "subjectivity": 0.4772727272727273
+        }
+    ],
+    "comments_since_last_sample": []
+}

@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-06 01:09:56",
+    "ups": "18340",
+    "downs": "187",
+    "views": "413478",
+    "top_comments": [
+        {
+            "comment": "9:50 I think that they wanted the stream of casings coming up from the gun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I noticed on every single gun the bolt/slide locks back regardless of being empty or not, So there is no 1+ in the chamber, and you ALWAYS are forced to rack the bolt/slide on every reload. I hate games like that, so much, also the AR-15's 30 round P-Mag is also not only fitted incorrectly but also only holds 25 rounds.",
+            "polarity": -0.1412698412698413,
+            "subjectivity": 0.4904761904761905
+        },
+        {
+            "body": "gears of war, anyone?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wait Jonathan the AA12 has chassis style construction unlike USAS12. and it's slow shooting to mitigate recoil but not in the way you think. It has a unique recoil reduction mechanism .",
+            "polarity": 0.03749999999999998,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Firearms of Receiver 2!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "sad he didn't go over the Pheonix. was curious about his input on that one.",
+            "polarity": -0.3,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Excuse me mr ferguson, but the Doom 2 double barrel actually does have its buttstock",
+            "polarity": -0.016666666666666666,
+            "subjectivity": 0.05000000000000001
+        },
+        {
+            "body": "Please straighten the shit on the wall.  Thank you",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        }
+    ]
+}

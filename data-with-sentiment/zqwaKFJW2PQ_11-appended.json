@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=zqwaKFJW2PQ",
+    "time_now": "2021-11-01 14:01:36",
+    "ups": "187",
+    "downs": "40",
+    "views": "19610",
+    "top_comments": [
+        {
+            "comment": "Bye RINO...LMFAO!!!\nLets go Brandon!!!",
+            "likes": 10,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "He betrayed the trust of the voting public. Not seeking reelection was a brilliant move by comparison.",
+            "likes": 3,
+            "number_of_replies": 2,
+            "polarity": 0.45,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "comment": "REPUBLICANS ARE DRAINING THE SWAMP!!!!!   MAGA",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I thought he moved to msnbc?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Cult Trumpers  Modify Republican  Party ,won't go far .  Only  causes Damage  On USA",
+            "polarity": 0.05,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Kinzinger Quits  Republican party  Is Over",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Insurrect this \ud83c\udf46...  I guess when the ship is sinking you gotta jump.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

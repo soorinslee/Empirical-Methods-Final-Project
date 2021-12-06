@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:22:54",
+    "url": "https://www.youtube.com/watch?v=InxctfktJ4I",
+    "time_now": "2021-10-31 21:32:42",
+    "ups": "533",
+    "downs": "36",
+    "views": "21614",
+    "top_comments": [
+        {
+            "comment": "Campbell soup did it in the kitchen with a spoon \ud83d\ude33 \nI know \u2026it bowled me over too \ud83e\udd14",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Can we get more videos like this?!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "congrats to those who watched from start to finish",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I don't know much about this artist but wow...his life was crazier than I imagined.",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "\u201cI met Andy Warhol at a really chic party\nBlow it out your hairdo 'cause you work at Hardees\u201d   - Dead Milkmen",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.30000000000000004
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Velvet underground still a classic Lou Reed is a legend rip Andy Warhol your name will live on forever",
+            "polarity": 0.1515151515151515,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

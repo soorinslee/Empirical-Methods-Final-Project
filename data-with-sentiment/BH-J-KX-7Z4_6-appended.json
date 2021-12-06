@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 12:45:00",
+    "url": "https://www.youtube.com/watch?v=BH-J-KX-7Z4",
+    "time_now": "2021-10-31 17:25:47",
+    "ups": "1324",
+    "downs": "20",
+    "views": "14325",
+    "top_comments": [
+        {
+            "comment": "So many good DIY projects \ud83d\udc4f\u2665 I really liked the mason jars and napkins holder!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "comment": "I loved all of these! The paper wreath in a slightly larger scale would also make a great advent calendar. Just punch a hole in the top of the round part and the flappy top part of each cone, feed some thread through the holes, fill the cone with a piece of candy and tie the thread. Then write the numbers on the closed \"lids\" with a marker.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.33928571428571425,
+            "subjectivity": 0.5071428571428571
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My favorite was the French horn\n\ud83c\udfba\ud83c\udf3f\ud83c\udfbc",
+            "polarity": 0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "All of the projects came out awesome!!!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "So many good DIY projects \ud83d\udc4f\u2665 I really liked the mason jars and napkins holder!",
+            "polarity": 0.65,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "body": "French horn is my favorite too. I made one of those many years ago as a gift.",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I think the sheet music wreath and sweater projects were my favorites.  I\u2019m SO glad you didn\u2019t paint that beautiful wooden bowl!  \ud83d\ude03 It drives me crazy when crafters paint over beautiful, natural wood!",
+            "polarity": 0.28750000000000003,
+            "subjectivity": 0.7166666666666667
+        },
+        {
+            "body": "Loved all of them \u2764",
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        }
+    ]
+}

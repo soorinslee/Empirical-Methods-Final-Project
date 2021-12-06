@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=zqwaKFJW2PQ",
+    "time_now": "2021-11-04 20:19:04",
+    "ups": "189",
+    "downs": "41",
+    "views": "20165",
+    "top_comments": [
+        {
+            "comment": "He betrayed the trust of the voting public. Not seeking reelection was a brilliant move by comparison.",
+            "likes": 4,
+            "number_of_replies": 2,
+            "polarity": 0.45,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "comment": "Lets hope Adam runs for President. America needs an honest Republican.",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "REPUBLICANS ARE DRAINING THE SWAMP!!!!!   MAGA",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Move on, please...preferably to China or someplace more fitting to your totalitarian tendencies.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

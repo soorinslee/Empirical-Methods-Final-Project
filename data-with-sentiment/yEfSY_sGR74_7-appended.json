@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-10-31 21:32:07",
+    "ups": "4012",
+    "downs": "37",
+    "views": "37106",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 243,
+            "number_of_replies": 37,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "Incredible cover wow",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.95
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ooof, the autotune. Yikes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "that was so gorgeous",
+            "polarity": 0.7,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Fuck it's so amazing. It's so perfect \ud83e\udd29",
+            "polarity": 0.4000000000000001,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Alexander\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "luv \ud83d\udc93\ud83d\udc93\ud83d\udc93",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Great song \ud83d\udc4f\ud83c\udffb",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I've missed you Alex...\ud83d\udda4once again you're leaving us breathless \ud83e\udd7a I'm Soo downloading this. Love you Alex <3",
+            "polarity": 0.75,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Thanks ...you made my heart better \ud83d\udc93\ud83d\udc31",
+            "polarity": 0.35,
+            "subjectivity": 0.35
+        }
+    ]
+}

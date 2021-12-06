@@ -1,0 +1,91 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-11-03 19:36:02",
+    "ups": "64715",
+    "downs": "2229",
+    "views": "3108139",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 631,
+            "number_of_replies": 155,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "did you notice the huggy wuggy and the pink have the same beat with their idle?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.2125
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The blue one is huggy wuggy you pne know the pink one name is kissy missy as the calls it in poppy playtime",
+            "polarity": -0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Can we just appreciate how hard this song hits?",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "\u0427\u0451?)",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "IT ONLY MAKES SINCES WHEN YOU 2X SPEEEEEED",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Buen mucic",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bf:beep scbep(oh no double trouble)",
+            "polarity": -0.1,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "APPPapapapppppy\u00e1\u00e1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You use bot play",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1:14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "GOOD!",
+            "polarity": 0.875,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "The pink huggy wuggy is her sis",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "did you notice the huggy wuggy and the pink have the same beat with their idle?",
+            "polarity": -0.05,
+            "subjectivity": 0.2125
+        },
+        {
+            "body": "The pink huggy calls kissy missy",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        }
+    ]
+}

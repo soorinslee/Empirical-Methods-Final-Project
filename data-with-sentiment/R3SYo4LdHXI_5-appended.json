@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-10-31 13:17:47",
+    "ups": "3973",
+    "downs": "36",
+    "views": "70157",
+    "top_comments": [
+        {
+            "comment": "Thebackendchild never misses",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Everyday I wake up and find a new reason to appreciate Kobe Crawford",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": -0.03181818181818183,
+            "subjectivity": 0.5272727272727272
+        },
+        {
+            "comment": "ngl sykobob trash",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Dis dat shit \ud83d\udcaf \ud83d\udd25 \ud83e\udd27",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Y\u2019all sleeping on Syk!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Kodak been the goat",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "bob Bob!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yeah boiii on God\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

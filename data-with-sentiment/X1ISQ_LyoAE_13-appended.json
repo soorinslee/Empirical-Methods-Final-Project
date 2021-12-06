@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-01 22:16:34",
+    "ups": "1651",
+    "downs": "35",
+    "views": "19761",
+    "top_comments": [
+        {
+            "comment": "I'd really like to win the giveaway!\nI'm italian so it's pretty common here to wear ADG as a signature.\nPersonally i don't have it, but i hope to add that to my collection :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2357142857142857,
+            "subjectivity": 0.4857142857142857
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I have never rocked ADG, or even tried it. Even the sample I got ended up getting smashed by a friend before I had a chance to spray it.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm wearing Acqua di Gio right now! Just finished work, was pumped to see it in this video \ud83d\ude01 I love it so much that this current bottle is a replacement for one I knocked off my shelf and smashed a few months ago.. the bathroom smelt great for quite some time afterwards but the replacement wasn't what I wanted to be doing as it was still 3/4 full when it broke!",
+            "polarity": 0.2992346938775511,
+            "subjectivity": 0.44795918367346943
+        }
+    ]
+}

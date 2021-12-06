@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 14:30:11",
+    "url": "https://www.youtube.com/watch?v=8Fo7CMZsEdM",
+    "time_now": "2021-11-02 14:44:40",
+    "ups": "3035",
+    "downs": "139",
+    "views": "70642",
+    "top_comments": [
+        {
+            "comment": "the jackal leon uses the power of invisibility to save himself \ud83d\ude05\ud83d\ude02",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Next animation swamp gene origin pls",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy Helloween\ud83d\udc7b\ud83d\udc7d\ud83d\udc80\ud83d\ude08\ud83c\udf83\ud83c\udf89",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\ud83d\ude18\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "DEEPEST SLEEP",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi, Gumymation, I just came to tell you...\n...if someone in your animations reincarnates once again, I will never be your subscriber again",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

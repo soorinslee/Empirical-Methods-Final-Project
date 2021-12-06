@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 11:00:05",
+    "url": "https://www.youtube.com/watch?v=C_9OkNrp6Ps",
+    "time_now": "2021-11-01 01:40:16",
+    "ups": "2693",
+    "downs": "103",
+    "views": "177752",
+    "top_comments": [
+        {
+            "comment": "He\u2019s talking about the character and and his leader ship toward annihilating any competition that gets in his way he\u2019s a gangster just like his cohort trump",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ari- I think you do a great job in the presentation of the news!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Erm. As a British viewer.....excuse me? Where did this anti UK stuff come from. Also I REALLY don't think an American should be saying that our food is crap lol",
+            "polarity": 0.039999999999999994,
+            "subjectivity": 0.33999999999999997
+        },
+        {
+            "body": "His voice went gangsta lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "So why pursue Julian Assange?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "These laws are used to stop descent exposing truth. They are used to persecute journalists and whistle-blowers in Australia. It is the start of the loss of freedom and democracy and the burden of proof demonstrates that there is no assumption of innocence. Authoritarian regimes encourage the expansion of this and control power and money.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ALL these trumpsters that love him should go to russia and live what his authoritarian agenda has in-store for America",
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Nope, you've over step the mark, forget our laws, our food is great! It's you guys that have lost the grip on reality, not the UK\nWe watch you people from across the pond and think, what the f**k, \n\nWhat's going on in your country is disturbing, there are but a few serious voices, and they aren't being heard\n\nYou would do well to listen to David Packman on you tube, one of the few Americans that make sense.",
+            "polarity": -0.04666666666666667,
+            "subjectivity": 0.4833333333333334
+        }
+    ]
+}

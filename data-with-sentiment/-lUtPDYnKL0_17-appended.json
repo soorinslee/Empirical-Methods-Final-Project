@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:09:39",
+    "url": "https://www.youtube.com/watch?v=-lUtPDYnKL0",
+    "time_now": "2021-11-02 14:44:50",
+    "ups": "12637",
+    "downs": "182",
+    "views": "309740",
+    "top_comments": [
+        {
+            "comment": "Anyone else noticed that the bone bros are red and green?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.15
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Y cant i play the game when i search it up its not there",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "When will you be able to play from whatever country you are???",
+            "polarity": 0.5,
+            "subjectivity": 0.625
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-01 18:08:40",
+    "ups": "7398",
+    "downs": "205",
+    "views": "187136",
+    "top_comments": [
+        {
+            "comment": "Damn, I played through the e tire game and didn't even realize it had a quality or performance mode. Lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "I'm playing the game on my PS5 and the graphic is very good.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16999999999999996,
+            "subjectivity": 0.5266666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Damn, I played through the e tire game and didn't even realize it had a quality or performance mode. Lol",
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Ps5 says 4k120fps gaming. Welcome 30fps \ud83d\ude07 NEXT GEN CONSOLE POWER :D is it normal 60fps 1080p in 2021????",
+            "polarity": 0.4875,
+            "subjectivity": 0.6375
+        },
+        {
+            "body": "I love how when they said the series x had less often frame drops then the ps5 they instantly say it's either because it's a patch ahead, or completely coincidental LOl",
+            "polarity": 0.24666666666666667,
+            "subjectivity": 0.4866666666666667
+        },
+        {
+            "body": "I'm playing the game on my PS5 and the graphic is very good.",
+            "polarity": 0.16999999999999996,
+            "subjectivity": 0.5266666666666667
+        },
+        {
+            "body": "You have to got to be fucking joking. 4K 30fps Quality mode. Glad to see that we\u2019ve got consoles more powerful than PS4 Pro and Xbox Series S/X (major sarcasm).",
+            "polarity": 0.1525,
+            "subjectivity": 0.76
+        },
+        {
+            "body": "60 FPS = Performance? \ud83e\udd14 It's that time again??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This games looks amazing! I was waiting for this. Thanks for reviewing. Was hoping for a higher resolution in performance mode. This seems more like a xbox one x and ps4 pro trade off. Where there was a 1080p60 mode and a 4k30 mode for most of the supported games. Hope this wil not become a trend for the series x and ps5.",
+            "polarity": 0.44000000000000006,
+            "subjectivity": 0.52
+        },
+        {
+            "body": "Ok first impressions. Game does drop frames in battle and the graphics are really poor at 1080p. You can see shivers everywhere low textures and bluriness......too bad",
+            "polarity": -0.12499999999999999,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "body": "maybe im weird but ive always preferred 1440p 45fps with VRR to either 1080p60 or 4k30 I know that will never happen on consoles but this instance it really feels like the 2 extremes are too far apart, this type of game is more just fun at 60fps imo but that 1080p looks pretty awful and the 4k almost looks too sharp to me even though 4K rarely looks too sharp with TAA. Maybe too much post sharpening like in the lat deus ex game?",
+            "polarity": -0.05384615384615384,
+            "subjectivity": 0.6384615384615385
+        },
+        {
+            "body": "Next gen gaming machines dropping down to 1080p with inferior graphic settings to get 60fps \ud83d\ude02 what a joke and u console sc** bags said that pc is left behind fk off",
+            "polarity": -0.11111111111111112,
+            "subjectivity": 0.2777777777777778
+        },
+        {
+            "body": "Performance mode seems more like developer lazy mode. There's no way that 4K30 translates to 1080p60 with so many visual downgrades. Both PS5 and Series X should easily be able to handle 1440p60.",
+            "polarity": 0.25,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "that is why i will get it on my PC\nand run it on 1440p native at over 90 fps on 144 hz monitor it will be great",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Who ever thought a bossfight in the dark was a good idea is a sick person",
+            "polarity": -0.05476190476190479,
+            "subjectivity": 0.6190476190476191
+        }
+    ]
+}

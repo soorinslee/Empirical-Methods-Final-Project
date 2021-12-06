@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-03 11:21:14",
+    "ups": "8335",
+    "downs": "305",
+    "views": "464054",
+    "top_comments": [
+        {
+            "comment": "Latin \ud83d\ude0d language of the gods.... Pls speak... Converse in latin....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hope namo has watched netflixmovie two popes",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wah... Lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jay Bharat, Kai sadio ke baad aysa drusya dekh Kar ankho me  harsh  ke ansoo as Gaye,  hradaya khusio se bhar Gaya, Sara dukh bhul Gaye, prajavatsal,nyaypriya, kartavyapalak, raja jug jug jio ,vandemateram",
+            "polarity": -0.2,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "May be first Indian PM ever to visit pope.",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "The body language of both shows \nthey have developed a great bond\nbetween them .No doubt that this\nmeeting will go a long way in creating great love and friendship \nbetween Hindu and Christian communities.",
+            "polarity": 0.35833333333333334,
+            "subjectivity": 0.46666666666666673
+        },
+        {
+            "body": "God's plan for the human being brotherhood and the whole of the humanity change comes true !",
+            "polarity": 0.2125,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "body": "please pray for christians in india for protection",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "PM Modi world hero",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice to see Rev Pope speaking little Hindi \"aap ke liye banaya gaya\"! Great \ud83d\udc4d",
+            "polarity": 0.3885416666666666,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "\ud83c\udf39\ud83c\udfcfJesus, bless us&our country\ud83c\udfcf\ud83c\udf39",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

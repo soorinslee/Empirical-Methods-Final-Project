@@ -1,0 +1,38 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj0tnn/new_world_is_even_more_broken/",
+    "time_posted": "2021-10-30 08:49:40",
+    "time_now": "2021-11-03 11:23:20",
+    "ups": 12,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himyu1g",
+            "body": "Is it accurate that the game has lost 70% of it's player base?",
+            "ups": 5,
+            "downs": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6777777777777777
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himyu1g",
+            "body": "Is it accurate that the game has lost 70% of it's player base?",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6777777777777777
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himyu1g",
+            "body": "Is it accurate that the game has lost 70% of it's player base?",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6777777777777777
+        }
+    ]
+}

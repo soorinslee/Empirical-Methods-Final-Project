@@ -1,0 +1,122 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-10-31 21:32:48",
+    "ups": "459",
+    "downs": "107",
+    "views": "40854",
+    "top_comments": [
+        {
+            "comment": "Fear sells it\u2019ll be \u201cback\u201d",
+            "likes": 6,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ALL LIES",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Now is the time to step up vaccinations and other mitigations, so we can knock out covid. Now is the time to fight the virus harder. If people just stop vaccinating and listening  we will get another cycle.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.1125,
+            "subjectivity": 0.1875
+        },
+        {
+            "comment": "WE ARE NOT OUT OF THE WOODS YET",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "YOU CAN LEARN A LOT FROM A DUMMY BUCKLE YOUR SAFETY BELT",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Stop testing stop \" covid19\".",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Because of Ivermectin \ud83d\ude01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Are yall ready for a new variant? \ud83d\ude01\ud83d\ude02",
+            "polarity": 0.16818181818181818,
+            "subjectivity": 0.4772727272727273
+        },
+        {
+            "body": "I'll tell you why cases are dropping, it's because these psychopaths have gotten bored, but don't worry it won't last long. In a few weeks a new variant will emerge out of nowhere and they will start with the cases up and people dying bs.",
+            "polarity": -0.12272727272727273,
+            "subjectivity": 0.4042424242424243
+        },
+        {
+            "body": "Of course it's decreasing trump said herd immunity we should go for fouchi said no so what did you expect. Remember bird flu is on the rise in China don't get to optimistic.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Delta Plus is on the way. Already detected in countries around the world and the numbers are climbing quickly. Lockdown by Christmas. This is just the lull before the storm. Even the fascists need a break now and then before putting the boot down harder.",
+            "polarity": 0.025925925925925908,
+            "subjectivity": 0.262962962962963
+        },
+        {
+            "body": "So Natural Immunity is effective?  No need to be mandated to get vaccinated then.",
+            "polarity": 0.35,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I have covid :-)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "YOU CAN LEARN A LOT FROM A DUMMY BUCKLE YOUR SAFETY BELT",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WE ARE NOT OUT OF THE WOODS YET",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ALL LIES",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "When they turn off the TV and Radio's what will you do lol .",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Democratic Party is trying to bring America \ud83c\uddfa\ud83c\uddf8down into Bankruptcy!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Fear sells it\u2019ll be \u201cback\u201d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Now is the time to step up vaccinations and other mitigations, so we can knock out covid. Now is the time to fight the virus harder. If people just stop vaccinating and listening  we will get another cycle.",
+            "polarity": -0.1125,
+            "subjectivity": 0.1875
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-02 22:59:55",
+    "ups": "5683",
+    "downs": "145",
+    "views": "136410",
+    "top_comments": [
+        {
+            "comment": "My wife and I are going to the new Costco tomorrow that they just built a week ago. So excited. We have never been to 1 before!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3025568181818182,
+            "subjectivity": 0.6022727272727273
+        },
+        {
+            "comment": "Truvani protein mix? Has Prop 65 warning. Other protein mixes don't. What think of prop 65 warning? Why on truvani and not on others w same ingrdnts?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.0625,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "Thanks!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "And in Canada they still don't have anything as good and Bobby approved products...",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Tried to buy the pallet of Raos  they wouldn\u2019t let me",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*Btw...Last month you showed Suja Green Juice pack ...I looked all over and on line and it was no where to be found!!!*",
+            "polarity": -0.390625,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I really like your eyes only! With that great eye color!",
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.65
+        }
+    ]
+}

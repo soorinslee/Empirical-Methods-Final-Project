@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-05 16:55:26",
+    "ups": "14235",
+    "downs": "1811",
+    "views": "1571677",
+    "top_comments": [
+        {
+            "comment": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "8:12 I  think he has a problem over there?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thanks Sir, I learned a lot!  \u2665 \u2665 9:33",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The candy\u2019s pill one nope your kid will grow up and be thinking eating pills are fine",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "123Go",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

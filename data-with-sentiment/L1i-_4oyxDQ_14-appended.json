@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-11-02 02:23:55",
+    "ups": "1738",
+    "downs": "25",
+    "views": "14529",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Hard work pays off!!!\nIt is absolutely amazing!!!",
+            "polarity": 0.21516927083333326,
+            "subjectivity": 0.7208333333333333
+        },
+        {
+            "body": "This is fabulous. I love the black wash. It's gorgeous! The hard work was worth it.",
+            "polarity": 0.26944444444444443,
+            "subjectivity": 0.5958333333333333
+        },
+        {
+            "body": "Where do I buy zibra kit/discount?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes, the wash is nice and modern but cutting off the scallops was brilliant; fast, easy and cheaper!",
+            "polarity": 0.30694444444444446,
+            "subjectivity": 0.7722222222222223
+        },
+        {
+            "body": "That is gorgeous!!",
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "looks so awesome",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "So beautiful! You are amazing! So talented! I love to watch you.",
+            "polarity": 0.78125,
+            "subjectivity": 0.85
+        }
+    ]
+}

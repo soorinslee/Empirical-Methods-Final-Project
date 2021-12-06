@@ -1,0 +1,142 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-10-30 20:51:45",
+    "ups": "259",
+    "downs": "41",
+    "views": "20526",
+    "top_comments": [
+        {
+            "comment": "Because ppl turn off CNN and mainstream news...why else?",
+            "likes": 10,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The numbers were always artificially inflated.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "We don\u2019t need anymore variants at all.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Another shutdown coming",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\"...Covid-19 Cases Dropping\" motivates us, the people of America, to redouble our efforts to rapidly find out at any given moment, including even while On-Line, who among us are unwittingly contagious (i.e. pre-symptomatic or asymptomatic) in order to #ConvinceItForward for them to call their doctor and to self-quarantine per CDC guidelines in hopes of stopping this pandemic instead of having more #MourningInAmerica. Thus, we're hoping for the best while preparing for the worse-case scenario of the Alpha lineage mutations and others like the Gamma, Beta, Epsilon, Iota, Lambda, Mu & Delta lineage mutations combining to form hybrids that render current COVID vaccines/pills no longer effective.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.525,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\"...Covid-19 Cases Dropping\" motivates us, the people of America, to redouble our efforts to rapidly find out at any given moment, including even while On-Line, who among us are unwittingly contagious (i.e. pre-symptomatic or asymptomatic) in order to #ConvinceItForward for them to call their doctor and to self-quarantine per CDC guidelines in hopes of stopping this pandemic instead of having more #MourningInAmerica. Thus, we're hoping for the best while preparing for the worse-case scenario of the Alpha lineage mutations and others like the Gamma, Beta, Epsilon, Iota, Lambda, Mu & Delta lineage mutations combining to form hybrids that render current COVID vaccines/pills no longer effective.",
+            "polarity": 0.525,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "maybe its run its course and everyone with weak immune systems have died off.",
+            "polarity": -0.375,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "My mother vaccinated 3 months ago came down with COVID last month and spent 3 weeks in Hospital. Know she has natural antibodies.",
+            "polarity": -0.038888888888888896,
+            "subjectivity": 0.2138888888888889
+        },
+        {
+            "body": "Did we forget the \"Global\" part?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The real \"Great Lie\" is being realized.",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Plot twist: Covid-19  itself wrote this headline and wonders why cases are dropping.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Because people dont believe ur b.s. anymore",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Vaccinations were never necessary",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Given we're now close to 2 years in and have still refused to institute any sort of national testing program, we're basically where we were 2 years ago in terms of data.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The numbers were always artificially inflated.",
+            "polarity": -0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Last night I returned home with my body fully swollen! People are collapsing at work because of Serious Heavy Workload! I had to keep begging the Customers to give me few seconds to breath!",
+            "polarity": -0.20833333333333331,
+            "subjectivity": 0.33333333333333337
+        },
+        {
+            "body": "Because ppl turn off CNN and mainstream news...why else?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Because flu seasons come and go. A large population of people are vaccinated and those that aren't probably have already had the virus. The only ones keeping it alive are the news media and an over bearing government.",
+            "polarity": 0.10476190476190476,
+            "subjectivity": 0.6095238095238096
+        },
+        {
+            "body": "Shut down the states to slow down the virus yes",
+            "polarity": -0.20370370370370372,
+            "subjectivity": 0.32592592592592595
+        },
+        {
+            "body": "Another shutdown coming",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need another lockdown yes we do",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We don\u2019t need anymore variants at all.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "All the White Christian Nationalists are dying off?\n#LetsgoRickyBobby",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1 of 5 are not vaxxed.  But if 1/2 of that 20% are former Covid sufferers, that's 9 of ten.\nHave we crossed the line towards herd immunity?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

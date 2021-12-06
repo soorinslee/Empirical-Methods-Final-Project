@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-05 04:33:42",
+    "ups": "7523",
+    "downs": "441",
+    "views": "115298",
+    "top_comments": [
+        {
+            "comment": "This video contradicts everything u have said in the past.the jeans looks bad bulky on the bottom make u look shorter.the boots I understand. But u loved chealse boots.the jacket for chubby people make the look even fatter",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 5.551115123125783e-17,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "I didn\u2019t  see a single dude wearing Chelsea boots when I went out last weekend lol. Idk maybe it\u2019s because I\u2019m from dallas lol. We rock cowboy boots here . \ud83e\udd20",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3821428571428572,
+            "subjectivity": 0.4202380952380952
+        },
+        {
+            "comment": "I personally opt for some grey robes\u2026 matches my beard and hat.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.025,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Denim Jacket and Chelsea Boots are so played out imo. Everyone is wearing them. Maybe switch up the denim jacket with a corduroy trucker and the Chelsea boot with a lace-up boot, preferably with grooved outsoles for winter. Again, this is my opinion\ud83d\ude4f\ud83c\udffd",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Let me see if I understand this, you want us to buy stuff from H&M(the most accessible store in the world), wear items that \u201cdesigners are pumping out like crazy\u201d in order to stand out? Stand out by wearing what everyone else is wearing. Flawless",
+            "polarity": 0.31875,
+            "subjectivity": 0.69375
+        },
+        {
+            "body": "Just stick with classic pieces for the majority of your wardrobe, and call it a day! \ud83d\ude10",
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "I disagree with all your choices! flannels are a MUST for fall! what  is wrong with you bro!?! I wear what I like .. end of discussion \ud83d\ude2c",
+            "polarity": -0.78125,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Where am from, more people Wear quilted puffer jackets than bombers. So wearing a puffer won't make you stand out.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Denim Jacket and Chelsea Boots are so played out imo. Everyone is wearing them. Maybe switch up the denim jacket with a corduroy trucker and the Chelsea boot with a lace-up boot, preferably with grooved outsoles for winter. Again, this is my opinion\ud83d\ude4f\ud83c\udffd",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

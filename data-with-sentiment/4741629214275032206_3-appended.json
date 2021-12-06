@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qizrea/what_are_the_best_horror_games_out_right_now/",
+    "time_posted": "2021-10-30 07:40:48",
+    "time_now": "2021-10-31 05:07:01",
+    "ups": 4,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himt1ix",
+            "body": "Alien isolation, difficult aswell",
+            "ups": 5,
+            "downs": 0,
+            "polarity": -0.375,
+            "subjectivity": 0.875
+        },
+        {
+            "comment_id": "himue3n",
+            "body": "Dead Space\n\nSOMA\n\nSilent Hills\n\nAlan Wake \n\nBioshock\n\nFEAR\n\nControl",
+            "ups": 6,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "himuypr",
+            "body": "I\u2019d check out The Dark Pictures Anthology series.\n\nMan of Medan was pretty good, as was Little Hope. If you\u2019re into decision based gaming. There\u2019s a new one out now too.\n\nUntil Dawn is excellent too. And Outlast. Although these have been out several years.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.24983766233766233,
+            "subjectivity": 0.564935064935065
+        },
+        {
+            "comment_id": "hin8762",
+            "body": "I had an absolute blast playing the Resident evil series from start when Village was announced. But 7 &amp; Village are the stuff if you want quality horror and they are pretty much a standalone story.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.08750000000000001,
+            "subjectivity": 0.775
+        },
+        {
+            "comment_id": "hin6dwk",
+            "body": "Dead Space 1, Alien Isolation, SOMA.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.225,
+            "subjectivity": 0.575
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himue3n",
+            "body": "Dead Space\n\nSOMA\n\nSilent Hills\n\nAlan Wake \n\nBioshock\n\nFEAR\n\nControl",
+            "ups": 5,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "himuypr",
+            "body": "I\u2019d check out The Dark Pictures Anthology series.\n\nMan of Medan was pretty good, as was Little Hope. If you\u2019re into decision based gaming. There\u2019s a new one out now too.\n\nUntil Dawn is excellent too. And Outlast. Although these have been out several years.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.24983766233766233,
+            "subjectivity": 0.564935064935065
+        },
+        {
+            "comment_id": "hin8762",
+            "body": "I had an absolute blast playing the Resident evil series from start when Village was announced. But 7 &amp; Village are the stuff if you want quality horror and they are pretty much a standalone story.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.08750000000000001,
+            "subjectivity": 0.775
+        },
+        {
+            "comment_id": "himt1ix",
+            "body": "Alien isolation, difficult aswell",
+            "ups": 7,
+            "downs": 0,
+            "polarity": -0.375,
+            "subjectivity": 0.875
+        },
+        {
+            "comment_id": "hing4k6",
+            "body": "RE7 Biohazard, RE Village and Visage.  Infliction is pretty low budget but will scare the shit out of you at times too.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.7000000000000001
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himue3n",
+            "body": "Dead Space\n\nSOMA\n\nSilent Hills\n\nAlan Wake \n\nBioshock\n\nFEAR\n\nControl",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "himuypr",
+            "body": "I\u2019d check out The Dark Pictures Anthology series.\n\nMan of Medan was pretty good, as was Little Hope. If you\u2019re into decision based gaming. There\u2019s a new one out now too.\n\nUntil Dawn is excellent too. And Outlast. Although these have been out several years.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.24983766233766233,
+            "subjectivity": 0.564935064935065
+        },
+        {
+            "comment_id": "hin8762",
+            "body": "I had an absolute blast playing the Resident evil series from start when Village was announced. But 7 &amp; Village are the stuff if you want quality horror and they are pretty much a standalone story.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.08750000000000001,
+            "subjectivity": 0.775
+        },
+        {
+            "comment_id": "himt1ix",
+            "body": "Alien isolation, difficult aswell",
+            "ups": 6,
+            "downs": 0,
+            "polarity": -0.375,
+            "subjectivity": 0.875
+        },
+        {
+            "comment_id": "hing4k6",
+            "body": "RE7 Biohazard, RE Village and Visage.  Infliction is pretty low budget but will scare the shit out of you at times too.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.7000000000000001
+        }
+    ]
+}

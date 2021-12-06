@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-01 18:08:29",
+    "ups": "23985",
+    "downs": "77",
+    "views": "210503",
+    "top_comments": [
+        {
+            "comment": "Imagine a omega berdly.....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "John Brain \u0442\u044b \u043b\u0438 \u044d\u0442\u043e?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u201cPizza time\u201d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Should've learned to wavedash.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Imagine a omega berdly.....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Toby Fox would be proud",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

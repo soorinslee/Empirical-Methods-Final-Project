@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:22:54",
+    "url": "https://www.youtube.com/watch?v=InxctfktJ4I",
+    "time_now": "2021-11-02 10:37:52",
+    "ups": "581",
+    "downs": "45",
+    "views": "25164",
+    "top_comments": [
+        {
+            "comment": "Can we get more videos like this?!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "I don't know much about this artist but wow...his life was crazier than I imagined.",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "\u201cI met Andy Warhol at a really chic party\nBlow it out your hairdo 'cause you work at Hardees\u201d   - Dead Milkmen",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "congrats to those who watched from start to finish",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "in my 50 years ive never seen him with a brush in his hands",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

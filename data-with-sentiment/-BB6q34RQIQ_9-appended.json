@@ -1,0 +1,83 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-01 05:47:19",
+    "ups": "497",
+    "downs": "120",
+    "views": "44900",
+    "top_comments": [
+        {
+            "comment": "Well, for me it's cuz I made myself immune quite easily.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Because no ones getting tested.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "COVID is surging in Europe.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Because people are getting vaccinated",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Side effects of fluvoxamine may include sexual dysfunction as well as suicidal thoughts and behaviors.",
+            "polarity": 0.5,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "If you believe that every death we are told is from corona actually is it is an increase of one death per ten thousand people more than the regular virus.",
+            "polarity": 0.125,
+            "subjectivity": 0.16923076923076924
+        },
+        {
+            "body": "You can't stay home if you don't have sick leave. Call it selfish or call it respofor paying you bills.",
+            "polarity": -0.6071428571428572,
+            "subjectivity": 0.9285714285714286
+        },
+        {
+            "body": "Dr Dr Geert Vanden Bossche.\n\u201c Why do we always need to learn things the hard way?\u201d \nThis PHD / virologist is at least telling the truth. \nThe 5 th video down red shirt,has C Blog ,re- iterating why / how this vaccine an hurt us . \u2764\ufe0f\u270a",
+            "polarity": -0.18680555555555556,
+            "subjectivity": 0.3076388888888889
+        },
+        {
+            "body": "\u201cWhy are Covid 19 cases dropping\u201d\n\nLike they want the virus to stay around.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Minorities are nothing more than cattle and votes to the Democrats. \ud83d\udc04\ud83d\udc04\ud83d\udc89\ud83d\udc89",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Covid or no covid, we can never go back to life the way it was. Not because of a virus but we now clearly see behind the veil and lies and propaganda we have been plagued with since the day we were born. You can\u2019t go back after that. NBC, ABC, CBS, CNN, even FOX, all you need to go. We will NEVER trust you again",
+            "polarity": -0.08,
+            "subjectivity": 0.23666666666666666
+        },
+        {
+            "body": "After every wave numbers drop and they knew exactly when",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "vermont cases are up",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

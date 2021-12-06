@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-03 23:43:51",
+    "ups": "7255",
+    "downs": "56",
+    "views": "99235",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 566,
+            "number_of_replies": 156,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "What if we can\u2019t stretch deep",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "thank you :) :D",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Hi Anna! I did a lot of your stretching challenges in the past, especially in 2020. But then I didn\u2019t for so long, so now my goal for the summer (Southern Hemisphere here, so our Christmas season is in summer) is to get back into stretching with your vid\u2019s, starting with this this callenge \ud83c\udf08\ud83c\udf08\u2764\ufe0f\u2764\ufe0f you are so inspiring, I find your channel so fun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0625,
+            "subjectivity": 0.36875
+        },
+        {
+            "comment": "Hello I am 10 yrs old from India\ud83c\uddee\ud83c\uddf3 and I know that you are so kind and sweet I wish I could meet u and ur so flexible and ur room is gorgeous I love it can I get a heart\u2764\ud83d\udc96\ud83d\udc95 please \ud83d\ude4f how do I get a stretch band I can't get it anywhere",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi, so my legs are like really long in comparison with my body... Does that make a difference at stretching (I mean is it harder to get more flexible?)",
+            "polarity": 0.009374999999999994,
+            "subjectivity": 0.396875
+        },
+        {
+            "body": "Your videos are a bit boring, you should do something more fun, something more you, all your videos are always the same. It is a tip",
+            "polarity": 0.06,
+            "subjectivity": 0.465
+        }
+    ]
+}

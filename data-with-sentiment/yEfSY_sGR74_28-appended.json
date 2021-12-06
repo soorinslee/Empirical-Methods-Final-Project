@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-04 12:03:59",
+    "ups": "7495",
+    "downs": "82",
+    "views": "105744",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 361,
+            "number_of_replies": 45,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "U should do cover in What A Shame by Leyla Blue cause your voice will really suit that voice\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96",
+            "polarity": 0.1,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "body": "alex could u say 'hello' for me? i really like u :') \u2764\ufe0f",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Aaackkk Mahal na mahal kitaaaaa\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "time_posted": "2021-10-30 10:00:13",
+    "url": "https://www.youtube.com/watch?v=5DGBVPkdZ-o",
+    "time_now": "2021-11-06 09:24:00",
+    "ups": "24968",
+    "downs": "205",
+    "views": "265784",
+    "top_comments": [
+        {
+            "comment": "Janet Jackson ng Pinas!!!!! Love you my Queen!!!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Nadine is so lit",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Need a little time to think \nYou don't gotta wait for me\n You can do your own thing \nWhile I do some work on me \nI don't wanna make a mess of your love\n\nAng saket naman pi \ud83d\ude2d",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.184375,
+            "subjectivity": 0.56875
+        },
+        {
+            "comment": "Nice \ud83e\udd7a\u2764\ufe0f\ud83d\ude2d\u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "She got me in my feelings \u270a\ud83c\udffc\ud83d\ude2b she says You don't gotta wait for me, but also feels like she wants you to wait \ud83d\ude2d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.1
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude22\ud83d\ude22\ud83d\ude22",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pero bat ang lungkot? \ud83d\ude29",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ganda netooo \ud83d\ude2d super catchy \ud83d\ude2d",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "deserve 100m views",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "so nakiki chismis lang ako sa twitter tapos kung saan-saan na account na ako nakarating so habang nag sscroll ako para makichismis may nag rt ng clip ng song na to tas nagandahan ako ngayon andito nako tas naka add na to sa playlist ko plsss \ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oh my \u2764\ufe0f is \ud83d\udc94\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nadine, make a Tagalog song and it will become a hit.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Super curious ako sa writer ng song na to\u2026 \ud83e\uddd0\ud83e\uddd0\ud83e\uddd0",
+            "polarity": 0.11666666666666665,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "The perfect response to this song is any song from The Script. My choice is either Nothing or There's no good in goodbyes",
+            "polarity": 0.325,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "She got me in my feelings \u270a\ud83c\udffc\ud83d\ude2b she says You don't gotta wait for me, but also feels like she wants you to wait \ud83d\ude2d",
+            "polarity": 0.2,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "\ud83d\ude22\ud83e\udd7a\ud83d\udc94",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Need a little time to think \nYou don't gotta wait for me\n You can do your own thing \nWhile I do some work on me \nI don't wanna make a mess of your love\n\nAng saket naman pi \ud83d\ude2d",
+            "polarity": 0.184375,
+            "subjectivity": 0.56875
+        },
+        {
+            "body": "Nice \ud83e\udd7a\u2764\ufe0f\ud83d\ude2d\u2764\ufe0f",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

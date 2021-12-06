@@ -1,0 +1,75 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj39db/your_favourite_lesser_known_songs_from/",
+    "time_posted": "2021-10-30 11:02:03",
+    "time_now": "2021-10-30 16:46:30",
+    "ups": 1,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinruui",
+            "body": "Bath of Fire - The Presidents of the United States of America. \n\nJust a great song.",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hinm1ov",
+            "body": "See You by Foo Fighters",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hinm1ov",
+            "body": "See You by Foo Fighters",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinruui",
+            "body": "Bath of Fire - The Presidents of the United States of America. \n\nJust a great song.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinm1ov",
+            "body": "See You by Foo Fighters",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinruui",
+            "body": "Bath of Fire - The Presidents of the United States of America. \n\nJust a great song.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinm1ov",
+            "body": "See You by Foo Fighters",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinruui",
+            "body": "Bath of Fire - The Presidents of the United States of America. \n\nJust a great song.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ]
+}

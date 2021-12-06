@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 15:31:04",
+    "url": "https://www.youtube.com/watch?v=zDfl1TSKeCg",
+    "time_now": "2021-11-03 19:36:22",
+    "ups": "15158",
+    "downs": "189",
+    "views": "178384",
+    "top_comments": [
+        {
+            "comment": "\ud83c\udfa7 \u0938\u0941\u0928\u093f\u090f #TheRanveerShow \u0939\u093f\u0902\u0926\u0940 Spotify \u092a\u0930:\r\nhttps://open.spotify.com/episode/6OOFcnr13qIFp2N9T1stLf\n\n\u0939\u092e\u093e\u0930\u093e Telegram Community Join \u0915\u0930\u0947\u0902 - https://t.me/beerbicepsguy",
+            "likes": 107,
+            "number_of_replies": 7,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "34:35 six times \ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pura dakh leya bhai thank u. \u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Watch the movie Thanks For Sharing. To know more about addiction and de-addiction.\n\nThe ones who are already addicted, Dont worry guys. Buri aadatei bhi achi aadatei hoti hai. You'll get over them after learning from them.",
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.4333333333333333
+        },
+        {
+            "body": "india  me agar  family me yea fir parents ke  sath sex ke bare me khul ke bat karne jaoge to chutter me danda parega pehele",
+            "polarity": 0.05,
+            "subjectivity": 0.1
+        }
+    ]
+}

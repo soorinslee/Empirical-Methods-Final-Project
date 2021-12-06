@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 15:00:15",
+    "url": "https://www.youtube.com/watch?v=ZHRI0l6e2JY",
+    "time_now": "2021-10-31 00:58:20",
+    "ups": "166",
+    "downs": "1",
+    "views": "4005",
+    "top_comments": [
+        {
+            "comment": "By far, the best painting of he day was the young lady who won the wolf card. Eager to see how she does next time",
+            "likes": 9,
+            "number_of_replies": 1,
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.42500000000000004
+        },
+        {
+            "comment": "\"Titivating\" is the word of the day.  To make small, enhancing alterations.  Well done, everyone.",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Sorry, but Emily's painting looked like something a preschooler produced and she moved at a snails pace. I did like the other two shortlisted pieces and how both focused on completely different aspects of the landscape. Made it hard to choose between them but I liked that Tom won. I felt his piece represented the overall landscape better.",
+            "likes": 6,
+            "number_of_replies": 1,
+            "polarity": 0.026190476190476177,
+            "subjectivity": 0.5452380952380952
+        },
+        {
+            "comment": "i love that diptych",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Why don\u2019t we see an artist representing the wildcards in the semis?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I absolutely loved all of their entry submissions. I didn't feel the same about their on-site pieces.",
+            "polarity": 0.35,
+            "subjectivity": 0.4625
+        },
+        {
+            "body": "Wow, not what I was expecting (or hoping)!",
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "As an acrylic painter, this would be a perfect weather to paint outside... minus the wind lol",
+            "polarity": 0.42500000000000004,
+            "subjectivity": 0.4625
+        },
+        {
+            "body": "I'm not going to lie, I envy all this artists that are brought to such beautiful places to paint those master pieces of nature and architecture... just don't paint a single tree when you have such a landscape before your eyes, you'll be missing the point (I'm saying this because a past episode :-P)\nPlus, Dave looks so much like Mike Myers \ud83e\udd2d",
+            "polarity": 0.15982142857142856,
+            "subjectivity": 0.4642857142857143
+        },
+        {
+            "body": "Personally, I loved the submission painting of Emily\u2019s. It was naive but extremely charming and intricate. However, when she chose to change mediums, her canvas didn\u2019t grab me by the shoulder\u2019s and say\u2026that\u2019s it! Thanks so much for the post as we wait weekly for it\u2019s appearance!",
+            "polarity": 0.345,
+            "subjectivity": 0.64
+        },
+        {
+            "body": "Why are they going the same locations as the series before",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "I think the wild card was really the winner \ud83e\udd2d",
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.30000000000000004
+        }
+    ]
+}

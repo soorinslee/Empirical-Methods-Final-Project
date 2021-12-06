@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-01 22:16:00",
+    "ups": "10758",
+    "downs": "44",
+    "views": "148510",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 200,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "I can't help but think the Octogon is what Sahara always wanted to be.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If you push waterlogged blocks with a 1 tick pulse, they do indeed get retain their waterlogged state.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "can you get the derpcoin not in hermitcraft",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hey X, I got a bunch of malware from vanilla tweaks. Do you know what\u2019s up with that?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Use waterlogged trapdoors and get one more spawning block. Door vertical blocks the water, door horizontal lets it flow.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "You could use waterlogged trapdoors, they would work and are very cheap to use",
+            "polarity": 0.52,
+            "subjectivity": 0.9099999999999999
+        },
+        {
+            "body": "The Xisuma soundtrack is amazing!",
+            "polarity": 0.7500000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "17:14 i feel like sex is required here",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The next MC mob should be a little Docm77 that walks by ur side and teaches u to do these kinds of things XD that would be the most OP mob... crafted with 64 Diamond blocks in each slot in the crafting bench.... WORTH IT!!!!",
+            "polarity": 0.26123046875,
+            "subjectivity": 0.275
+        },
+        {
+            "body": "can you get the derpcoin not in hermitcraft",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-06 13:30:54",
+    "ups": "4714",
+    "downs": "56",
+    "views": "139695",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 165,
+            "number_of_replies": 6,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "What I like with this girl is that when she sings , she makes it her very own by showing her own style and talent.... Terrible ....I'm getting crazy with your style of singing",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.05500000000000002,
+            "subjectivity": 0.975
+        },
+        {
+            "comment": "POP ROCK DIVA, GiGi ,SAKALAM!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "4:45 and ended with a winner smile!!! RIP replay button",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5859375,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Nakakapanindig balahibo ah\ud83d\ude32",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Love her voice. Filipino singers are so good in singing. She has an incredible voice, she's a great, brilliant singer & beautiful. She's soulful, her diction is good, her high notes are always on point, she never misses. Her low notes are smooth & beautiful too. With her wide range she can sing at an international level like Charice.",
+            "polarity": 0.5123076923076924,
+            "subjectivity": 0.63
+        },
+        {
+            "body": "Labis na nadaktan",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

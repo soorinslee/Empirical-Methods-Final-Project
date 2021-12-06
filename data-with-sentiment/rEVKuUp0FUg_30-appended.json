@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-04 20:19:28",
+    "ups": "7581",
+    "downs": "65",
+    "views": "108294",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 581,
+            "number_of_replies": 157,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Which time better to do this stretches?\n(Sry for my bad english)",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.06666666666666661,
+            "subjectivity": 0.38888888888888884
+        },
+        {
+            "comment": "Hi Anna!! I am your biggest fan! \nI have a question can we get taller from stretching? How can we get taller easily? In 1 Or 2 weeks? \n\nFrom Your Biggest fan from India!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5416666666666667,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Is there like a specific time to do these stretches .... like u know yoga has timing ... smthng like dat \ud83d\ude05\ud83d\ude05",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "comment": "Hi Anna I\u2019m a big fan",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi Anna!! I am your biggest fan! \nI have a question can we get taller from stretching? How can we get taller easily? In 1 Or 2 weeks? \n\nFrom Your Biggest fan from India!",
+            "polarity": 0.5416666666666667,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "This is so helpful especially when there is a pandemic and my body is starting to get weak but this helps a lot thank you Anna!!",
+            "polarity": -0.1953125,
+            "subjectivity": 0.5750000000000001
+        },
+        {
+            "body": "Is there like a specific time to do these stretches .... like u know yoga has timing ... smthng like dat \ud83d\ude05\ud83d\ude05",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "Hi Anna I\u2019m a big fan",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I RLLY WANT A NEW MORNING ROUTINE \ud83d\udc97",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "#annamcnultychallenge #flexibility #stretch",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

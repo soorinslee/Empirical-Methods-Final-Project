@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj39db/your_favourite_lesser_known_songs_from/",
+    "time_posted": "2021-10-30 11:02:03",
+    "time_now": "2021-11-02 06:31:18",
+    "ups": 1,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinm1ov",
+            "body": "See You by Foo Fighters",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hioucpx",
+            "body": "Don\u2019t Mind If I Do by George Strait\n\nIt\u2019s very jazzy and laid back, this is basically him showcasing his Sinatra influence instead of his country influences. I wish I could live this song out in real life lol. It\u2019s in my top 10 songs of all time. \n\nhttps://youtu.be/8zwBnTC1JTA",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.3060606060606061,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "comment_id": "hinruui",
+            "body": "Bath of Fire - The Presidents of the United States of America. \n\nJust a great song.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinm1ov",
+            "body": "See You by Foo Fighters",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hioucpx",
+            "body": "Don\u2019t Mind If I Do by George Strait\n\nIt\u2019s very jazzy and laid back, this is basically him showcasing his Sinatra influence instead of his country influences. I wish I could live this song out in real life lol. It\u2019s in my top 10 songs of all time. \n\nhttps://youtu.be/8zwBnTC1JTA",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.3060606060606061,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "comment_id": "hinruui",
+            "body": "Bath of Fire - The Presidents of the United States of America. \n\nJust a great song.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinm1ov",
+            "body": "See You by Foo Fighters",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hioucpx",
+            "body": "Don\u2019t Mind If I Do by George Strait\n\nIt\u2019s very jazzy and laid back, this is basically him showcasing his Sinatra influence instead of his country influences. I wish I could live this song out in real life lol. It\u2019s in my top 10 songs of all time. \n\nhttps://youtu.be/8zwBnTC1JTA",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.3060606060606061,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "comment_id": "hinruui",
+            "body": "Bath of Fire - The Presidents of the United States of America. \n\nJust a great song.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ]
+}

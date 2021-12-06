@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:22:54",
+    "url": "https://www.youtube.com/watch?v=InxctfktJ4I",
+    "time_now": "2021-11-04 20:19:07",
+    "ups": "606",
+    "downs": "49",
+    "views": "26438",
+    "top_comments": [
+        {
+            "comment": "congrats to those who watched from start to finish",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Slow news day, huh?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.30000000000000004,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "comment": "This is great.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "The \"greatest artist of all time\"? Please calm down dude!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3685185185185185,
+            "subjectivity": 0.6796296296296296
+        },
+        {
+            "comment": "Velvet underground still a classic Lou Reed is a legend rip Andy Warhol your name will live on forever",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1515151515151515,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "comments_since_last_sample": []
+}

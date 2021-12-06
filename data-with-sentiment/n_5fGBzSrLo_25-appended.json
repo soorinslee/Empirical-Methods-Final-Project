@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-03 23:43:13",
+    "ups": "32118",
+    "downs": "471",
+    "views": "631179",
+    "top_comments": [
+        {
+            "comment": "vid idea: i was thinking you should do a 4v4 4 gcs and 4 diamonds or plats if the diamonds/plats score the gc team needs to vote out a member that member can not play anymore the diamonds/plats win when the entier gc team is out. like if you think sunless should do this for a vid",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "can you do guese the rank but its their first game of the day?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3166666666666667,
+            "subjectivity": 0.5444444444444444
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lol just a video of missing open nets. Now that\u2019s horrifying",
+            "polarity": -0.07499999999999998,
+            "subjectivity": 0.5625
+        },
+        {
+            "body": "can you do guese the rank but its their first game of the day?",
+            "polarity": -0.3166666666666667,
+            "subjectivity": 0.5444444444444444
+        },
+        {
+            "body": "I am a silver and I can 180 flik",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'd like to see if a pro could play with an offset hitbox 1 car length in front of their car.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "When are you gonna do mafia again",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

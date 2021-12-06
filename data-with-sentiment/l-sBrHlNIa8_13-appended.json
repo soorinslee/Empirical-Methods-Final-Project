@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-01 22:15:45",
+    "ups": "2773",
+    "downs": "25",
+    "views": "66621",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 54,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Galing mo Gigi sana maging international star ka.Yong smiles moy stress reliever.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "PLSS SING DEFYING GRAVITY \nTHAT IS THE FIRST SONG THAT I'VE HEARD YOU SING IN TV\nIYAN DIN KUNG BAKIT TILL NOW NAKA SUBAYBAY PA DIN AKO SAYO HERE IN YOUTUBE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "comment": "What a beautiful voice but  a bad accompaniment and ugly arrangement of instruments that destroyed the beautiful song...a combination of a beautiful voice but with a very poor instruments..",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.10500000000000002,
+            "subjectivity": 0.9077777777777777
+        },
+        {
+            "comment": "Whewww.. ito yong pang-hallowen, nakaka panindig-balahibo, nakakakilabot at halimaw sa husay\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Someday magka concert to sila sa aranita or sa arena..God knows \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4fbless you all",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Unstoppable Gigi, she is the newly famous Filipino singer.",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

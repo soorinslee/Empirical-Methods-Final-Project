@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-03 23:42:58",
+    "ups": "27039",
+    "downs": "611",
+    "views": "462272",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udc4d\ud83c\udffb\ud83d\ude16",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "GJJJJJJJJJJB\nSOOOOOOONG\n\nLOVE FROM RAJASTHAN",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Very nice",
+            "polarity": 0.78,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83d\udc4d\ud83c\udffb\ud83d\ude16",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

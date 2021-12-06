@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-03 19:36:29",
+    "ups": "12664",
+    "downs": "1565",
+    "views": "1360759",
+    "top_comments": [
+        {
+            "comment": "Thanks so much for this video.  \u2665  39:22",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.4666666666666666,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment": "Can i take that back?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is gold. thanks  \u2665  36:21",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Haha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "\ud83d\ude01\ud83d\ude01\ud83d\ude06\ud83d\ude06\ud83d\ude05\ud83d\ude05",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

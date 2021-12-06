@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=ZBA8GnxtggU",
+    "time_now": "2021-11-06 01:10:20",
+    "ups": "2811",
+    "downs": "319",
+    "views": "273336",
+    "top_comments": [
+        {
+            "comment": "Poor os awsm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Pretty  cool \nPart too  needed \n.y h uh aww u",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.85
+        }
+    ],
+    "comments_since_last_sample": []
+}

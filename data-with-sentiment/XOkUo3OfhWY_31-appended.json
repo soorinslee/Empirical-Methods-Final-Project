@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:08:00",
+    "url": "https://www.youtube.com/watch?v=XOkUo3OfhWY",
+    "time_now": "2021-11-05 00:26:04",
+    "ups": "2513",
+    "downs": "54",
+    "views": "59962",
+    "top_comments": [
+        {
+            "comment": "What an wonderful idea for saving the seas, you are a genius Branzy. Keep up the good work dude <3\n#teamseas",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.9,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "comment": "3:48 THIS IS SUPER BLESSING :D",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "comment": "#Teamseas #Teamseas",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Same thieves",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "3:48 THIS IS SUPER BLESSING :D",
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "#teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

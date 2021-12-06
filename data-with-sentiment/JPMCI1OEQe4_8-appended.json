@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 14:00:05",
+    "url": "https://www.youtube.com/watch?v=JPMCI1OEQe4",
+    "time_now": "2021-11-01 01:39:59",
+    "ups": "27441",
+    "downs": "580",
+    "views": "582907",
+    "top_comments": [
+        {
+            "comment": "0:28 \ud83e\udd28 what did you say freshy boi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Your so good at fortnite good job",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "Happy Halloween fresh up you are having a great day",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6333333333333334,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "0:28 \ud83e\udd28 what did you say freshy boi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I got the cube queen 1 day after it came out",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

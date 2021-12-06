@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-04 16:11:12",
+    "ups": "44410",
+    "downs": "79",
+    "views": "239879",
+    "top_comments": [
+        {
+            "comment": "ATTENTION to all Plorys, Tomoons, and Moomoos. Please don't be lazy with str3aming. Unfortunately this is the reality of K-pop nowadays. Vi3ws count. Otherwise it's back of the line again for them while the groups with big agencies and fanbases takes the cake. No matter how talented our groups are.",
+            "likes": 7,
+            "number_of_replies": 2,
+            "polarity": -0.010000000000000009,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Purple kiss rookies of the year",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My rookie of the year **gives trophy**",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ROOKIE OF THE YEAR!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I SUPER LOVE THIS VERSION",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.41666666666666663,
+            "subjectivity": 0.6333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This version is so good !!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "2:37 WOW !!!",
+            "polarity": 0.1953125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "since there\u2019s summer comeback queens, can purplekiss become the halloween comeback queens \ud83e\udd7a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I like purple kiss's concept, dark concepts are so good, they pull it really well",
+            "polarity": 0.25,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "purple kiss is kinda underrated, they're so talented and pretty too",
+            "polarity": 0.475,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "THIS VERSION HITS HARD!",
+            "polarity": -0.36458333333333337,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "the only kpop group who understood the Halloween assignment lol",
+            "polarity": 0.4,
+            "subjectivity": 0.85
+        },
+        {
+            "body": "This is fireee",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This REALLY needs to be a b-side, on their next release.",
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        }
+    ]
+}

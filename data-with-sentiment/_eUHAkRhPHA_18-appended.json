@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-11-02 18:52:28",
+    "ups": "2464",
+    "downs": "10",
+    "views": "30370",
+    "top_comments": [
+        {
+            "comment": "It's a sure thing with Lisa, she's definitely the hostess with the mostess. A designer who makes our world finer. A self given saint who teaches us how to pick the right paint. The lady with her own grove, with a great channel on YouTube !  Love ya \ud83d\udc95",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.48095238095238096,
+            "subjectivity": 0.7124338624338624
+        },
+        {
+            "comment": "I would add some coasters, a box of tissues, bottled water and a small trash can.  Great video!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "I look at my guest rooms as if I am going to stay there: is it comfortable, is the light within easy reach when reading in bed, etc etc. Thank you for the tips, I am missing the comfy throw! \ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.24583333333333335,
+            "subjectivity": 0.5958333333333333
+        },
+        {
+            "comment": "Love this video! Thank you! I also have 2 nice luggage racks I can put out for guests. People always tell me how much they love having a luggage rack!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5515625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Awesome",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

@@ -1,0 +1,59 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-03 03:06:46",
+    "ups": "7844",
+    "downs": "220",
+    "views": "207832",
+    "top_comments": [
+        {
+            "comment": "For me it's unacceptable on gen 5 to have to choose between 4k 30 and 1080p kinda 60. There are already launched games that prove they can do better.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Good game but poor optimisation, lazy developer, wait for patch or on sale.",
+            "polarity": -0.08750000000000002,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Me: see you in Game Pass in 6 months!\n\nGuardians of the Galaxy Game: ok.",
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "1440p 60? these consoles have the power and weve seen it in other games , trash devs",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "but what about the ps4 and Xbox 1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Leaves us with an unfinished game at release, getting more common.",
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "body": "No God darn reason why we still have 30 fps modes on ps5 and series X. Smfh lazy devs. There's many many ways they could've hit that 60 foster and stay above 1080p",
+            "polarity": 0.1875,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "there 2 things i know about games  1080p is unplayable 2 30fps is unplayable!!!! \r\n if this company cant at least manage 1440p at 60 fps then they are armature subpar developers and should not be credited at all  with any kind of praise. People didn't upgrade to ps5 series x to play in 1080p -1080p shouldn't even be mentioned at all on a 2021 system the same with 30fps. 1080p 60 wtf that what a damn xbox one x did -",
+            "polarity": -0.26276041666666666,
+            "subjectivity": 0.6375
+        },
+        {
+            "body": "I simply refuse to play anything not 60 fps,, for many people like me.. 30 fps makes our eyes bleeding..\nI made some exceptions for the PS4.. but any 30 fps-only on Ps5 is a no buy for me..",
+            "polarity": 0.25,
+            "subjectivity": 0.4285714285714286
+        }
+    ]
+}

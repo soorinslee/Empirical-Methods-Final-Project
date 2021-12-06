@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-03 03:06:33",
+    "ups": "39403",
+    "downs": "273",
+    "views": "568613",
+    "top_comments": [
+        {
+            "comment": "If he wants to add light to get rid of mob spawns, he can create small cracks in the wall and add amethyst. It would also make the cliff look really cool in my opinion.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.17500000000000002,
+            "subjectivity": 0.4625
+        },
+        {
+            "comment": "The only real issue I have with the mob spawn changes is it's so extreme. It makes the game far closer to playing on peaceful setting. Finding inventive and nice looking ways to mob proof your base is half of minecraft really.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.03257575757575757,
+            "subjectivity": 0.6878787878787879
+        },
+        {
+            "comment": "I recommend you add little amethyst geodes around the walls indented into the walls or some form of fungi like mushrooms growing out of little cliff side off the walls :) :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15625,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Nice :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You should start calling the entrance \u201cCreeper chasm\u201d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm just wondering if you Will finish this , unlike the OMEGA Tree from season 7. If unfinished I'll unsub. Sry.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "VPN has gotten iskall85, xisuma, keralis and bdubs - if you don\u2019t take 4 hermits word for it, what are you doing? \n\nLove you guys\u263a\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I recommend you add little amethyst geodes around the walls indented into the walls or some form of fungi like mushrooms growing out of little cliff side off the walls :) :)",
+            "polarity": 0.15625,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "You could always have some massive tree roots coming from the cliff faces of the enchanted little forest ravine thingy",
+            "polarity": -0.09375,
+            "subjectivity": 0.75
+        }
+    ]
+}

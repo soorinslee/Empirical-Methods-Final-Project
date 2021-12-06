@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-10-31 17:25:34",
+    "ups": "1884",
+    "downs": "8",
+    "views": "20530",
+    "top_comments": [
+        {
+            "comment": "This is the best thing I learned regarding the guest room. You don't just tell us what to do but explain why as well in a so confident way. So nice to hear advices from a real expert. You're the best Liza. Thanks a lot dear \ud83d\ude18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5833333333333334,
+            "subjectivity": 0.48888888888888893
+        },
+        {
+            "comment": "I ask my guests/family while they stay to let me know if there is anything I need to add or change to help in their stay. I make a list to get or do if it doesn\u2019t happen while they are here. Then the next time when someone stays it is much better. \nThat\u2019s when I learned about the tissues, fans, and the tub drain that wasn\u2019t draining well.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Another SUPERB video!! Well, done! I can't wait to get started in my guest house!!! :) Thank you for the helpful tips!",
+            "polarity": 0.8125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "White linen all the way \ud83d\ude00",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lisa, I love this video. Quick question: how big should the throw blanket or extra blanket be for a queen size bed? Should it be queen size as well? Most decorative throws seem smaller. \n\nBTW, I have a friend who comes into town for work once a month. She used to stay at an AirB&B, even though I always offered my guest bedroom. She finally took me up on my offer and now she always stays with me when she\u2019s in town because she loves how comfortable and at home she feels when she\u2019s my guest. Now that I\u2019ve seen your video, I found a couple of things I can do better that will blow her mind! Can\u2019t wait to implement them on her next visit! (She may not want to leave \ud83d\ude02). \ud83d\ude42\ud83d\ude42",
+            "polarity": 0.23583333333333334,
+            "subjectivity": 0.4600000000000001
+        },
+        {
+            "body": "Great video. Living out of a suitcase is horrible when visiting!  You hit all the comforts that I like to have  to my guests. I did add a reading lamp with a USB on the base. I realized that when my daughter started running wires all over the place on the guest room! \nFabulous video has always. Need to get on to your your new design club. \ud83d\ude0d",
+            "polarity": -0.13272727272727272,
+            "subjectivity": 0.8409090909090908
+        },
+        {
+            "body": "It's a sure thing with Lisa, she's definitely the hostess with the mostess. A designer who makes our world finer. A self given saint who teaches us how to pick the right paint. The lady with her own grove, with a great channel on YouTube !  Love ya \ud83d\udc95",
+            "polarity": 0.48095238095238096,
+            "subjectivity": 0.7124338624338624
+        }
+    ]
+}

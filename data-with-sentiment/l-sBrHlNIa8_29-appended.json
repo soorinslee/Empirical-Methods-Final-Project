@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-04 16:11:17",
+    "ups": "4033",
+    "downs": "44",
+    "views": "109816",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 134,
+            "number_of_replies": 4,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Ang galing talaga ninyong lahat... pag naumpisahan ko manuod ng youtube channel nyo di kona mapigilan kahit paulit ulit kong panuodin/pakinggan ang galing lang talaga. Nakaka gigi vibes talaga! Kudos to gigi and the band!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Imma fan's of morisette but there's is something about gigi I couldn't exactly explain and she's stole my heart",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Rock on lupet",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hats off once again \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-06 09:24:22",
+    "ups": "20003",
+    "downs": "409",
+    "views": "1313010",
+    "top_comments": [
+        {
+            "comment": "i think i should grow it in my backyard ;) i love elaichi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "It should .....as it takes lot of hard work ,time and patience......so it worth that expensiveness.....\ud83d\ude0e",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.004166666666666652,
+            "subjectivity": 0.3208333333333333
+        },
+        {
+            "comment": "90% of it is grown in Guatemala, but they cut to India.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "card da mom\n\n\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff\ud83d\uddff",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Cardamon, ginger, thyme, black tea, lemons, and cinnamon put it in a pot and boil great for colds and flu",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3166666666666667,
+            "subjectivity": 0.5916666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "i think i should grow it in my backyard ;) i love elaichi",
+            "polarity": 0.375,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "It should .....as it takes lot of hard work ,time and patience......so it worth that expensiveness.....\ud83d\ude0e",
+            "polarity": 0.004166666666666652,
+            "subjectivity": 0.3208333333333333
+        }
+    ]
+}

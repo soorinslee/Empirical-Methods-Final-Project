@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:30:10",
+    "url": "https://www.youtube.com/watch?v=2E8KgPJ5XlE",
+    "time_now": "2021-11-06 09:24:05",
+    "ups": "2057",
+    "downs": "53",
+    "views": "70474",
+    "top_comments": [
+        {
+            "comment": "Dude is missing a few shots. Kinda refreshing to see, given how long the game is, it'd be impossible to perfect every section of it, especially with somewhat volatile enemy Ai to contend with.",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": -0.002083333333333326,
+            "subjectivity": 0.6187499999999999
+        },
+        {
+            "comment": "32:48\n\nListening to this with no headphones lol...people would definitely wonder what you're watching.\ud83d\ude05",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Tomb Raider (2013) & Rise of the Tomb Raider were both amazing games.",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Did any one else notice how Lara's face expressions and body animation reminds of old prince of Persia games, literary dejavu moment.",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "comment": "40:27 \"Something about being on the radio lets Lara fly.\" \nThat's just how Sam makes her feel.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": []
+}

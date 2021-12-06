@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-03 23:43:04",
+    "ups": "30749",
+    "downs": "5030",
+    "views": "6807974",
+    "top_comments": [
+        {
+            "comment": "Sad To Know This Beautiful Girl Died At The Age Of 19 \ud83d\ude25",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.175,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Nice song",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "All Time Blockbuster \ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Men kabhi ise jiyada Beautiful girl nehi dekha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I love song",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Very hit romantic Song",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Very amazing voice and good song hit music \ud83d\udc83\ud83d\udd7a\ud83d\udc4d\ud83d\udc4c\ud83d\udc9c\ud83d\udc9c\ud83d\ude0a\ud83d\ude00",
+            "polarity": 0.74,
+            "subjectivity": 0.8
+        }
+    ]
+}

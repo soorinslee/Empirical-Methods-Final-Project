@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-06 01:10:20",
+    "ups": "4602",
+    "downs": "74",
+    "views": "100906",
+    "top_comments": [
+        {
+            "comment": "Amazingly amazing! How simple yet scientific, how spiritual yet rational answers were..!! Very profound...!! Thank you!",
+            "likes": 18,
+            "number_of_replies": 1,
+            "polarity": 0.2403971354166667,
+            "subjectivity": 0.5976190476190476
+        },
+        {
+            "comment": "Virus is not living",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Why would you ask a non-scientific person these questions. I just don't understand what's going on here",
+            "likes": 1,
+            "number_of_replies": 3,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "It is mind blowing knowledge \ud83d\ude07\ud83d\ude4f\ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "the knowledge contained within guruji...its honestly just hard to fathom. he is definitely an enlightened  being",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.10277777777777776,
+            "subjectivity": 0.6472222222222223
+        }
+    ],
+    "comments_since_last_sample": []
+}

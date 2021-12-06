@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 14:30:06",
+    "url": "https://www.youtube.com/watch?v=ijkvTYX1eAc",
+    "time_now": "2021-10-31 17:25:10",
+    "ups": "4086",
+    "downs": "23",
+    "views": "64475",
+    "top_comments": [
+        {
+            "comment": "Lucario: \"Not yet, Ash! I can do this!\"",
+            "likes": 391,
+            "number_of_replies": 7,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "srsly I don\u2019t care abt location that much just bring back greninja!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Us: come on Ash, use Gengar and Dragonite\n\nAsh: Bold of you to expect me to use Gengar and Dragonite",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Your intro is so good \ud83d\udc4d",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I really have a question can ash use mega lucario and ash greyninja form at the same time cause ash greyninja need an mega stone.... \ud83e\udd14\ud83e\udd14\ud83e\udd14",
+            "polarity": 0.1,
+            "subjectivity": 0.1625
+        },
+        {
+            "body": "a request \ncan u plzz do review 10 words or less in all pokemon",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "All the interactions before the battle was great to watch but I don't like battle part where it seems the tension was forced like after electro web strategy Ash was just going with brute force rather than using his brain and Bea is actually using her brain just to build the tension also Ash just letting Lucario take all the hits (did he even tell Lucario to dodge?) and didn't recall Lucario or how Sky attack charge so quickly really make me think writers forcing the tension rather than putting good writing.",
+            "polarity": 0.27999999999999997,
+            "subjectivity": 0.37
+        },
+        {
+            "body": "Where you can see Pok\u00e9mon journeys?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Can you help do a 10 words or less review on all Pok\u00e9mon movies, Zac?",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "Us: come on Ash, use Gengar and Dragonite\n\nAsh: Bold of you to expect me to use Gengar and Dragonite",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Where can I watch al episodes in the UK?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

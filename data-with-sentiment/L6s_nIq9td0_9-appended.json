@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 12:02:50",
+    "url": "https://www.youtube.com/watch?v=L6s_nIq9td0",
+    "time_now": "2021-11-01 05:47:16",
+    "ups": "1465",
+    "downs": "96",
+    "views": "58354",
+    "top_comments": [
+        {
+            "comment": "If they dress up as Native Americans, crybabies will explode",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "In America, Halloween is more like carnival actually.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Savannah is holding her own. Sunny looks great. That Cardi B costume is a fab idea.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.875
+        },
+        {
+            "comment": "Al Roker wins best costume hands down lol \ud83d\ude4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4861111111111111,
+            "subjectivity": 0.37222222222222223
+        },
+        {
+            "comment": "all good 2021  Halloween costumes lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Bernie is backkk",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-04 16:11:09",
+    "ups": "39078",
+    "downs": "539",
+    "views": "831413",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I like that song\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm a new artist and I need constructive criticism\n\nhttps://youtu.be/5uSUUjJqUHg",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "They need to come out with a Kodak Black award - for a real one with a crazy work ethic who drops fire weekly regardless of getting chastised by the media",
+            "polarity": -0.18888888888888888,
+            "subjectivity": 0.5444444444444444
+        }
+    ]
+}

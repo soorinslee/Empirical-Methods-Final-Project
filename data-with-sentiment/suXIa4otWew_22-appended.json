@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 09:14:41",
+    "url": "https://www.youtube.com/watch?v=suXIa4otWew",
+    "time_now": "2021-11-03 11:20:49",
+    "ups": "157802",
+    "downs": "1474",
+    "views": "1745847",
+    "top_comments": [
+        {
+            "comment": "As an indian,I can't unhear it",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uc804\uc18c\ubbf8 \uc131\uaca9 \uc9c4\uc9dc \ub3c5\ud2b9\ud558\uace0 \ube44\uc8fc\uc5bc\ub3c4 \uc88b\uace0 \uc804\uc18c\ubbf8 \uc815\uc2e0",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "0:2",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Need to do \u26ab\ud83d\udd3a\u2b1b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This OUTFIT IS THE CUTEST \ud83e\udd70\ud83e\udd70\ud83e\udd70",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "When you realize how simple the normal tiktok dances are...\nThis is supposed to be easy but the emojis at the left are literally so confusing lmao",
+            "polarity": 0.14722222222222223,
+            "subjectivity": 0.540079365079365
+        },
+        {
+            "body": "UWU so cute\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c my somi \ud83d\ude0d\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Others be like : wow the song of sumi xoxo is great and her dance \nIndians be like : did we listen a abused word or our ears got damaged",
+            "polarity": 0.45,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "Ngl this dance&song kinda boring compared to dumb dumb. This really looked like a dance made for tiktok",
+            "polarity": -0.3875,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Then - dumb dumb \nNow - Xoxo",
+            "polarity": -0.375,
+            "subjectivity": 0.5
+        }
+    ]
+}

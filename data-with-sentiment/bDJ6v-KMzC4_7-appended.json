@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 15:46:40",
+    "url": "https://www.youtube.com/watch?v=bDJ6v-KMzC4",
+    "time_now": "2021-10-31 21:32:22",
+    "ups": "1910",
+    "downs": "31",
+    "views": "39803",
+    "top_comments": [
+        {
+            "comment": "cant wait to main ash",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This new season is going to be the best season since ive started playing which is like season 8",
+            "polarity": 0.5681818181818181,
+            "subjectivity": 0.37727272727272726
+        },
+        {
+            "body": "Yo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Im glad Gibby is being given just that little buff. Its rough sometimes with some placements but that extra height is gonna do nicely.",
+            "polarity": 0.1625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "The rat from the finisher is the best part of ash",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "This is sick I don't use valk or Gibby but I might try them out a little more",
+            "polarity": -0.13392857142857142,
+            "subjectivity": 0.6190476190476191
+        },
+        {
+            "body": "Hello",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "lets gooo so ready for season 11, will try to play as much as possible",
+            "polarity": 0.1,
+            "subjectivity": 0.75
+        }
+    ]
+}

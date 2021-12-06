@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-03 23:43:30",
+    "ups": "8493",
+    "downs": "323",
+    "views": "491204",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Atleast he accepted Christian",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "the cam shutter noise is irritating!",
+            "polarity": -0.5,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Bachara modi ka face to dhakooo \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

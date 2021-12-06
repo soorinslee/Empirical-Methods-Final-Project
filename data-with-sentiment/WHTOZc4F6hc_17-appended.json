@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 13:20:41",
+    "url": "https://www.youtube.com/watch?v=WHTOZc4F6hc",
+    "time_now": "2021-11-02 14:45:03",
+    "ups": "547",
+    "downs": "30",
+    "views": "52271",
+    "top_comments": [
+        {
+            "comment": "CAUGH LACKING FUCKING SHIT BRO\ud83d\udd25\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\ude08",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Never trust young dudes walking around with masks on knowing dam well they dont need the masks and want to wear the masks lol...",
+            "polarity": 0.45,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "These boys can not shoot, they almost took each other\u2019s heads off. Spent about 8 rounds and hit him in the knee once. Take these guns off these streets \ud83e\udd26\u200d\u2642\ufe0f",
+            "polarity": -0.1125,
+            "subjectivity": 0.2375
+        },
+        {
+            "body": "Imagine he hit the dude that was wit em look how close they are firing \ud83e\udd26\u200d\u2642\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes we see EXACTLY well gun control and no stop and frisk works for criminals",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Let\u2019s go Brandon!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

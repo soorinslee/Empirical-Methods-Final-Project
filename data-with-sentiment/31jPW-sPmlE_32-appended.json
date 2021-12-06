@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-05 04:33:28",
+    "ups": "8717",
+    "downs": "339",
+    "views": "519896",
+    "top_comments": [
+        {
+            "comment": "\"Your prayer always given me strength \" heart touching word by our prime minister.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Why the fcuk has Mudi G visited Popeye?\nWe are not getting a damn thing from Popeye not even an appology for torture of natives in Goa Inquisition. This while Popeye goes around the world appologising to everyone else.\nMudi is going too far down the road of appeasement \nRemember 370 and Ram Mandir was good but not enough to satisfy Hindus.\nRemember u r winning only and only because we don't have any other party or you can say other parties are worse not because you have done enough",
+            "polarity": 0.04494949494949494,
+            "subjectivity": 0.6353535353535353
+        },
+        {
+            "body": "Jai modi and the pope..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

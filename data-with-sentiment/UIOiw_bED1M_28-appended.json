@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-04 12:04:25",
+    "ups": "8070",
+    "downs": "230",
+    "views": "215472",
+    "top_comments": [
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This joins my list of 'to be played on ps5 pro Console. I'm not picking up this 1080p 60fps game for a ps5 I bought for 1200 dollars. \nI'll get it for 5 dollars for my ps5 pro in November 2023.",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

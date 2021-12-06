@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-05 21:02:20",
+    "ups": "12435",
+    "downs": "51",
+    "views": "183416",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 237,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "YOU COULD HAVE USED WATERLOGGED TRAPDOORS!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I can\u2019t tell if achach wood is a joke lol 13:55",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Great episode as ever and special appreciation for the way you give some love to other Hermits\u2019 builds each episode in such an entertaining way.",
+            "polarity": 0.33869047619047626,
+            "subjectivity": 0.5827380952380952
+        }
+    ]
+}

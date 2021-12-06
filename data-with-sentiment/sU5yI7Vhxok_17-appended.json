@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-02 14:44:17",
+    "ups": "7708",
+    "downs": "69",
+    "views": "67288",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 1012,
+            "number_of_replies": 27,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "These are getting better and better all the time!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\"You as the viewer.\" Yay, I finally made it to the credits of a music video!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

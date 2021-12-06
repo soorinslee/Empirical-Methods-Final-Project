@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-03 03:07:03",
+    "ups": "12734",
+    "downs": "191",
+    "views": "569509",
+    "top_comments": [
+        {
+            "comment": "JESSE! WE NEED TO COOK!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Reminds me of Breaking Bad",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "That's funny, if they inhale so stuff they shouldnt and die. Guess we will just have to look the other way.",
+            "polarity": 0.0625,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "I\u2019ve seen it all now \ud83d\udc80\ud83d\udc80 wtf",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "People been doing this wtf you expect in this new generation",
+            "polarity": -0.18181818181818182,
+            "subjectivity": 0.7272727272727273
+        },
+        {
+            "body": "So heartbreaking \ud83e\udd7a\ud83d\udc94",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-11-06 09:24:39",
+    "ups": "2486",
+    "downs": "48",
+    "views": "155810",
+    "top_comments": [
+        {
+            "comment": "Thea asking \"how am i doing guys\" after people cheer for Trevor is so cringy....",
+            "likes": 50,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love Claudio's reaction at having food thrown on him xD\n\nAny person's reaction : \"You clumsy moron, look at what you've done you donut!!!\" \nClaudio's reaction : *YUM!* xD",
+            "likes": 20,
+            "number_of_replies": 1,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "My man Eric smiles upsidw down LMAOO",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "comment": "Jennifer is THE best chef to ever be on Masterchef. They are a mad genius in the best possible way.",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.34375,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Eating 5 dollar pizza watching 5 star quality food",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

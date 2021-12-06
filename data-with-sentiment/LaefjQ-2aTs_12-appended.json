@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 13:58:43",
+    "url": "https://www.youtube.com/watch?v=LaefjQ-2aTs",
+    "time_now": "2021-11-01 18:08:51",
+    "ups": "1364",
+    "downs": "350",
+    "views": "283287",
+    "top_comments": [
+        {
+            "comment": "Why no one is talking about Kerala the Only state which is having over 6000 cases per day and more than  50%  of totall country wide cases",
+            "likes": 11,
+            "number_of_replies": 3,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "Corona cases never came down due to NDTV's favourite state \"KERALA\"",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": -0.14027777777777778,
+            "subjectivity": 0.3319444444444445
+        },
+        {
+            "comment": "1st Dose late hi public ne mask use karna chod sa diya hai.. koi mask nahi lgara hai..its very danger.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.033333333333333326,
+            "subjectivity": 0.3222222222222222
+        },
+        {
+            "comment": "Taranagar jain mandir in Bikaner",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Well done for your courage. For other information: Valneva has successfully completed phase 3, the 1st French Covid vaccine, traditional safe technology with inactivated virus, very few side effects, resistant to variants, ask for it to be ordered by France and the EU; -). Care also exists (Vit.D, IVM ...) cf. site: c early 19",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.051666666666666666,
+            "subjectivity": 0.5561111111111111
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Just commenting on the title: do wave ke beech to case kam hi hoga na..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Petrol 112.....new infections will increase to 200",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "NDTV corona ka new variant hai. Inse bacho. Ye dalal gang hai.dadhiwala Roy.English bolkar desh ko barbad karne wala.",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Let the lockdown be dropped again\ud83d\ude4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u091c\u092c\u0924\u0915 \u0915\u094b\u0930\u094b\u0928\u093e \u0915\u0947\u0930\u0932 \u0914\u0930 \u092e\u0939\u093e\u0930\u093e\u0937\u094d\u091f\u094d\u0930 \u0924\u0915 \u0938\u0940\u092e\u093f\u0924 \u0925\u093e \u0924\u092c\u0924\u0915 \u20b9nd tV \u091a\u0941\u092a \u0930\u0939\u093e, \u0928\u094b \u0928\u094d\u092f\u0942\u091c\u0964 \u0905\u092c \u0932\u0917\u0924\u093e \u0939\u0948 \u092c\u093f\u0939\u093e\u0930 \u092f\u0942\u092a\u0940 \u092e\u0947\u0902 \u090f\u0915 \u0926\u094b \u0915\u0947\u0938 \u092e\u093f\u0932\u0928\u0947 \u0932\u0917\u093e \u0939\u0948 \u0924\u092d\u0940 \u0924\u094b \u20b9\u0923\u094d\u0921\u0940 \u091f\u0940\u0935\u0940 \u0915\u093e \u0928\u094d\u092f\u0942\u091c \u091a\u093e\u0932\u0942\u0964",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "get vaccinated",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

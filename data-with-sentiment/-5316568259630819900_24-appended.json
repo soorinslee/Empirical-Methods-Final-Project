@@ -1,0 +1,110 @@
+{
+    "post_url": "https://www.reddit.com/r/LifeProTips/comments/qijssn/lpt_if_youre_running_a_meeting_or_set_of_meetings/",
+    "time_posted": "2021-10-29 14:58:24",
+    "time_now": "2021-11-03 19:42:06",
+    "ups": 44,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hijqxlc",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hijrj23",
+            "body": "To add to this. \nIf you schedule an hour and finish early, stop the meeting. Do not let it carry on as a fee for all catch up/ gossip. \n\nI hate it when people insist on making the meeting last the scheduled time.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.23333333333333336,
+            "subjectivity": 0.4222222222222222
+        },
+        {
+            "comment_id": "hijst9c",
+            "body": "Make sure someone takes minutes\n\nSimple Minutes: Attendees, Decisions, Updates, Assignments.\n\nEverything not on topic goes to parking lot. Parking lot chat is last 10 minutes of meeting. If no parking lot chat, everyone gets to leave early!\n\nBook 55 minutes, not 60.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.15625,
+            "subjectivity": 0.4031746031746032
+        },
+        {
+            "comment_id": "hilvn9k",
+            "body": "After meeting notes are great as reference material if a project gets neglected or priorities change. Even dot points are enough to jog the memory of what was discussed, issues, opportunities, who was supposed to do what and why",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.625
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hijqxlc",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hijrj23",
+            "body": "To add to this. \nIf you schedule an hour and finish early, stop the meeting. Do not let it carry on as a fee for all catch up/ gossip. \n\nI hate it when people insist on making the meeting last the scheduled time.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.23333333333333336,
+            "subjectivity": 0.4222222222222222
+        },
+        {
+            "comment_id": "hijst9c",
+            "body": "Make sure someone takes minutes\n\nSimple Minutes: Attendees, Decisions, Updates, Assignments.\n\nEverything not on topic goes to parking lot. Parking lot chat is last 10 minutes of meeting. If no parking lot chat, everyone gets to leave early!\n\nBook 55 minutes, not 60.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.15625,
+            "subjectivity": 0.4031746031746032
+        },
+        {
+            "comment_id": "hilvn9k",
+            "body": "After meeting notes are great as reference material if a project gets neglected or priorities change. Even dot points are enough to jog the memory of what was discussed, issues, opportunities, who was supposed to do what and why",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.625
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hijqxlc",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hijrj23",
+            "body": "To add to this. \nIf you schedule an hour and finish early, stop the meeting. Do not let it carry on as a fee for all catch up/ gossip. \n\nI hate it when people insist on making the meeting last the scheduled time.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.23333333333333336,
+            "subjectivity": 0.4222222222222222
+        },
+        {
+            "comment_id": "hijst9c",
+            "body": "Make sure someone takes minutes\n\nSimple Minutes: Attendees, Decisions, Updates, Assignments.\n\nEverything not on topic goes to parking lot. Parking lot chat is last 10 minutes of meeting. If no parking lot chat, everyone gets to leave early!\n\nBook 55 minutes, not 60.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.15625,
+            "subjectivity": 0.4031746031746032
+        },
+        {
+            "comment_id": "hilvn9k",
+            "body": "After meeting notes are great as reference material if a project gets neglected or priorities change. Even dot points are enough to jog the memory of what was discussed, issues, opportunities, who was supposed to do what and why",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.625
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-03 23:42:56",
+    "ups": "8645",
+    "downs": "87",
+    "views": "81445",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 1117,
+            "number_of_replies": 27,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Who would have thought pop-funk would translate to metal so well! The riffage! The three of you together is quite something! Making Phil Collins creepy...Hotel California... just...wow! MORE!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\"You as the viewer.\" Yay, I finally made it to the credits of a music video!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "These are getting better and better all the time!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5625,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Awesome video and vocals.",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I honestly never thought I would say this but, this version is probably 100x better than Ozzy's cover",
+            "polarity": 0.1,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "\u043c\u043e\u043b\u043e\u0434\u0435\u0446 \u0443\u043c\u043d\u0438\u0446\u0430 \u0442\u0430\u043a \u0434\u0435\u0440\u0436\u0430\u0442\u044c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

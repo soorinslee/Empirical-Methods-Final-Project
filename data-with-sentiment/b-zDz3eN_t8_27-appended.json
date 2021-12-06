@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-04 07:57:20",
+    "ups": "6192",
+    "downs": "269",
+    "views": "679886",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "do you know he add them blue lips",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "So much blue that the peoples mouths are blue",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I fuckin hate this tho the way they screwed over the Indian man",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "You should of made the players jackets pink and the guards blue",
+            "polarity": -0.05,
+            "subjectivity": 0.2
+        }
+    ]
+}

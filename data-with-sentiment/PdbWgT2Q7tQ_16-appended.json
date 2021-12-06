@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-02 10:37:19",
+    "ups": "15847",
+    "downs": "138",
+    "views": "194038",
+    "top_comments": [
+        {
+            "comment": "Major performance girls! Congrats!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09765625,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "One of Cimorelli's best covers\u2665",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Amy should go to the voice and WIN!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "its like Disney version",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have a question for your next video - between the ages of 16 and your current age when we\u2019re you the most distant/fearful and how did it affect your relationship with your sisters?",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "They'll be standing there like they're being hostage at the outro \ud83d\ude02\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

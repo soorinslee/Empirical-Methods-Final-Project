@@ -1,0 +1,69 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-02 02:23:30",
+    "ups": "10699",
+    "downs": "103",
+    "views": "127253",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 180,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The whole game is just rock paper scissors, with cards and with a pay to win mechanic.",
+            "polarity": 0.20000000000000004,
+            "subjectivity": 0.4000000000000001
+        },
+        {
+            "body": "So you mean everything is buyback.",
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "is Banding kicker or horsemanship? actually.... could you explain banding?",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Oh my god. Been playing since Urza's block and my mind has been blown. Couldn't believe I never saw the pay extra cost, take additional action as kicker. This is genius lol!",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Rebound isn't kicker.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Also, I would argue that Cleave is inverted kicker",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "trample ?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "double strike ?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "First strike ?",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Hilarious",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-04 16:11:12",
+    "ups": "20130",
+    "downs": "199",
+    "views": "261860",
+    "top_comments": [
+        {
+            "comment": "so amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "amy making me cry \ud83e\udd7a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lisa voice is so powerful \ud83e\udd0d\nBut I wished to have  Christina voice more \ud83e\udd0d\ud83e\udd0d\ud83e\udd0d",
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "This is better, than the original.",
+            "polarity": 0.4375,
+            "subjectivity": 0.625
+        }
+    ]
+}

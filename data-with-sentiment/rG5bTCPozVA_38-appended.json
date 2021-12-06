@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-11-06 05:17:44",
+    "ups": "560",
+    "downs": "5",
+    "views": "12242",
+    "top_comments": [
+        {
+            "comment": "Powerful job. Your attention to detail means the end result is top class.",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "OMG! you must be psychic! I need to do this and other roof jobs before winter THANK YOU!",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Another excellent video Charlie. A real masterclass. Anyone with cast iron rainwater good should watch this video. Btw, loving the Discord chatter!",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.6625,
+            "subjectivity": 0.7125
+        },
+        {
+            "comment": "Simply listing the products required already convinced me ripping off and replacing with PVC is better.",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": 0.25,
+            "subjectivity": 0.4285714285714286
+        },
+        {
+            "comment": "Awesome video Charlie. This will be me next year on our gutters. What are your thoughts on linseed paint? Would that not work really well too",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.39999999999999997
+        }
+    ],
+    "comments_since_last_sample": []
+}

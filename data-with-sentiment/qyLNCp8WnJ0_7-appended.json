@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-10-31 21:32:58",
+    "ups": "4169",
+    "downs": "114",
+    "views": "88620",
+    "top_comments": [
+        {
+            "comment": "Is Rao's better  choice than the ORGANIC brand????",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Did Bobby move to Florida? I\u2019ve been away from this channel for a while.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I just watched a special on Chinese tomatoes. Label doesn\u2019t have to say where tomatoes are grown just where processed (at least here in Canada). China has poor reputation for abusing workers. I wonder about Rao\u2019s.",
+            "polarity": -0.08571428571428572,
+            "subjectivity": 0.39285714285714285
+        },
+        {
+            "body": "What do you think about certain doctors saying that fructose in fruit is really bad for you.",
+            "polarity": -0.24285714285714277,
+            "subjectivity": 0.6190476190476191
+        },
+        {
+            "body": "Where is the link to try thrive market?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rao's is the best. In San Diego it's available at all the warehouses I've been.",
+            "polarity": 0.7,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "Just curious, how do u feel about produce from other countries labeled organic? I\u2019m at a loss in the produce departments.",
+            "polarity": -0.1125,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "I love costco deals but staffs are so rude.  I guess they treat customers at discount rate.",
+            "polarity": 0.1,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Did Bobby move to Florida? I\u2019ve been away from this channel for a while.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

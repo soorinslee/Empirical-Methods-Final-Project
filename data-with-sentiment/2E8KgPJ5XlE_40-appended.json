@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 15:30:10",
+    "url": "https://www.youtube.com/watch?v=2E8KgPJ5XlE",
+    "time_now": "2021-11-06 13:31:03",
+    "ups": "2063",
+    "downs": "53",
+    "views": "70810",
+    "top_comments": [
+        {
+            "comment": "32:48\n\nListening to this with no headphones lol...people would definitely wonder what you're watching.\ud83d\ude05",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Dude is missing a few shots. Kinda refreshing to see, given how long the game is, it'd be impossible to perfect every section of it, especially with somewhat volatile enemy Ai to contend with.",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": -0.002083333333333326,
+            "subjectivity": 0.6187499999999999
+        },
+        {
+            "comment": "Tomb Raider (2013) & Rise of the Tomb Raider were both amazing games.",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "40:27 \"Something about being on the radio lets Lara fly.\" \nThat's just how Sam makes her feel.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "when u have 55 minutes left before going to bed",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This reminded me how great the first two tomb raiders were\nAnd how absolute dogshit shadow was...",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.6611111111111111
+        }
+    ]
+}

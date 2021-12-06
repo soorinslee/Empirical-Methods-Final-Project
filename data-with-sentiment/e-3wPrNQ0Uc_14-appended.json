@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:54:01",
+    "url": "https://www.youtube.com/watch?v=e-3wPrNQ0Uc",
+    "time_now": "2021-11-02 02:23:41",
+    "ups": "5745",
+    "downs": "26",
+    "views": "56195",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udd1chttps://youtu.be/7OC9a2Q7YDc",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I was always against the wars and we destroyed whatever little respect we had before.\nThe thought that these countries are  conspiring/consulting with China and Russia is terrible and nothing good will come out of this.\nIt's been happening for a while now and I feel that is one of the main reason that Biden had to finally pull us out of Afghanistan. \nThings are bad and it looks like it's getting worse.",
+            "polarity": -0.20297619047619048,
+            "subjectivity": 0.6714285714285715
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-04 12:04:08",
+    "ups": "7036",
+    "downs": "384",
+    "views": "604306",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I like how N.O.R.E. quickly redefined and changed the word 'gall' to 'Gualtieri'. If you're a Sopranos' fan you'd know how much sense that made \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "Dave Chappelle is from DC. Hell is initials are DC but Wale is more famous? Ok",
+            "polarity": 0.5,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "No hands is my issshhh!  \ud83d\ude4c\ud83c\udffe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "NORE & I twins \ud83c\udf7b w the ALC!  \ud83d\ude02\ud83d\ude02\ud83d\ude06",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

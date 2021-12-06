@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-10-31 13:17:50",
+    "ups": "4857",
+    "downs": "39",
+    "views": "32552",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 634,
+            "number_of_replies": 21,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "As a Respiratory Therapist that frequently has to do CPR, thank you for giving me an awesome cover of this song to keep my rhythm of compressions to. \ud83e\udd18\ud83c\udffb",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You guys are killing it! Lol Wicked cover and Violet is always awesome!",
+            "polarity": 0.9,
+            "subjectivity": 0.85
+        },
+        {
+            "body": "I don't think that's what 1st aid instructor had in mind when he told us how to do cpr \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udda4\ud83d\udda4\ud83d\udda4 video",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That's a great riff guys, very metalcore.",
+            "polarity": 0.5,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "I'm dead. \ud83d\ude06",
+            "polarity": -0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "One or your best songs ! U three are genius !",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "You were right. This sog is epic. \\m/",
+            "polarity": 0.19285714285714284,
+            "subjectivity": 0.46785714285714286
+        },
+        {
+            "body": "I see little choice but to report you to the relevant authorities for false advertising. The start of this video claimed it would contain \"a good amount of epicness\", but I have found the levels of epicness to exceed my recommended daily intake. Moreover, the unaddressed addictive nature of the sheer quality has seen me reach for the \"Replay\" button on multiple occasions already. This is dangerously good.",
+            "polarity": 0.13472222222222222,
+            "subjectivity": 0.5388888888888889
+        }
+    ]
+}

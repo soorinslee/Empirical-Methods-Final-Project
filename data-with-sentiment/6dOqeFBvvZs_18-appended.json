@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-02 18:51:59",
+    "ups": "38919",
+    "downs": "272",
+    "views": "558493",
+    "top_comments": [
+        {
+            "comment": "If you're using azalea bushes on the floor maybe try melons?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "More coal at 22:23 haha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Should add some glow lychen around",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If he wants to add light to get rid of mob spawns, he can create small cracks in the wall and add amethyst. It would also make the cliff look really cool in my opinion.",
+            "polarity": 0.17500000000000002,
+            "subjectivity": 0.4625
+        },
+        {
+            "body": "For texturing the stone walls, you could carve in two blocks and put deepslate and have a border of tuff thats one block in, then detail the transition to tuff with stone slabs/stairs. Could give it a really cool weathered/torn look with the contrast of the exposed deepslate veins. Would help give the walls some depth.",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "It needs some magical particles in that area. Would a spore blossom be too much?",
+            "polarity": 0.35,
+            "subjectivity": 0.6
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 16:00:08",
+    "url": "https://www.youtube.com/watch?v=F8_uSacJwzU",
+    "time_now": "2021-10-31 05:04:18",
+    "ups": "3374",
+    "downs": "39",
+    "views": "50215",
+    "top_comments": [
+        {
+            "comment": "So everybody\u2019s just going to ignore the ending ??? Lmao ok",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Schoome \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udcaa\ud83c\udffe\ud83d\ude08\ud83e\udd85",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Straight Gas!!!!! Broward County stand up!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Just needs wizdawizard. Rip",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That nigga at the end crazy as hell \ud83d\ude02\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "So nobody tlking how kodak flame up d riddim from d start of d verse to d finish",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So everybody\u2019s just going to ignore the ending ??? Lmao ok",
+            "polarity": 0.55,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

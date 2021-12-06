@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-03 19:36:17",
+    "ups": "12890",
+    "downs": "191",
+    "views": "577282",
+    "top_comments": [
+        {
+            "comment": "Funny that the thief is tip toeing as if he's trying not to wake the homeowner when he knows damn well it's empty",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.075,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "OMG BREAKING BAD REAL",
+            "polarity": -0.24999999999999992,
+            "subjectivity": 0.48333333333333334
+        },
+        {
+            "body": "saul probably has these guys numbers",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "accountable i would never leave my jewelry   out,  and blame  Terminix when all one had to do was secure there belongs",
+            "polarity": 0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Funny that the thief is tip toeing as if he's trying not to wake the homeowner when he knows damn well it's empty",
+            "polarity": 0.075,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Joggers",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I heard from someone who worked in an emergency room a couple years back that two guys came in claiming they had tried to rob a place under an exterminator tent, but had to come in to the hospital because they had become gravely ill.  They both died over the next few hours.  Don't mess with the poisons in those tents.",
+            "polarity": -0.175,
+            "subjectivity": 0.255
+        },
+        {
+            "body": "She should\u2019ve know her neighborhood better",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

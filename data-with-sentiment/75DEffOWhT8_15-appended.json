@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-02 06:30:25",
+    "ups": "25559",
+    "downs": "85",
+    "views": "227332",
+    "top_comments": [
+        {
+            "comment": "I feel like queen would say \"he angy\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nerd Rage",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I did that once",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "0:46 The Tyler1 scream is the cherry on top",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Berdly becomes 4chan mode",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "And this is why berdly is not coming back to the Dark World",
+            "polarity": -0.075,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "someone should check on berdly to see if he didn't destroy the town",
+            "polarity": -0.2,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "chapter 3's looking great",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ]
+}

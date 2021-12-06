@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-11-03 15:28:24",
+    "ups": "3172",
+    "downs": "49",
+    "views": "79447",
+    "top_comments": [
+        {
+            "comment": "During your upcoming emulation test, would you consider trying out \u201cHot Wheels: Ultimate Racing\u201d for the PSP?\nI\u2019ve been looking for a way to play that game on the go, and this new PowKiddy handheld seems like the right way to go (price notwithstanding).",
+            "likes": 3,
+            "number_of_replies": 3,
+            "polarity": 0.0544155844155844,
+            "subjectivity": 0.648051948051948
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I watched your video out of curiosity, but I advise you to revisit the emulators and their settings. I recommend the Victor Iemini channel on youtube to see the videos they are making about this console, as they are achieving excellent results with the Game Cube and 3DS and achieving a satisfactory result in a large part of the Wii and PS2 library.",
+            "polarity": 0.2714285714285714,
+            "subjectivity": 0.6095238095238095
+        },
+        {
+            "body": "If you\u2019re into modern wall mounted arcade cabinets, I do a pretty neat build for Umbrella Arcades. There\u2019s a gaming PC inside with 28,000 games for over 60 systems. It plays most of gaming history right out of the box, from Atari to Switch. The Switch emulator can run games at 1440p resolution and 60 FPS.",
+            "polarity": 0.30892857142857144,
+            "subjectivity": 0.5839285714285715
+        }
+    ]
+}

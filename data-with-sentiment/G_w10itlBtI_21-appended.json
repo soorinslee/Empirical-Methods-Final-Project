@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-03 07:14:24",
+    "ups": "13609",
+    "downs": "175",
+    "views": "221039",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 36,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "bit late but have a look at a kitchen working triangle",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm imagining Twitch or TY live streams in the future after you made that comment about filming in the kitchen. Could be some good money if you streamed once or twice a week.",
+            "polarity": 0.27878787878787875,
+            "subjectivity": 0.4083333333333334
+        },
+        {
+            "body": "I don't see a vent hood in the final design. Downdraft vents _can_ work if you have to have that clean/minimalist look, but they also can be _loud_ since they have to move a lot more air to be as effective as one directly over the cooktop. \n\nAnd please don't try to go without. I don't know if you are doing a gas range, but if you are, you absolutely can't go without. Cooking with natural gas can be nice, but it is terrible for indoor air quality, so you _have_ to be able to vent the unburnt hydrocarbons, carbon monoxide, etc. that are produced.",
+            "polarity": 0.17,
+            "subjectivity": 0.7424999999999999
+        }
+    ]
+}

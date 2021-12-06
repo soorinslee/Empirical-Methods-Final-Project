@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 08:05:14",
+    "url": "https://www.youtube.com/watch?v=abePylCLJb0",
+    "time_now": "2021-10-31 05:04:30",
+    "ups": "900",
+    "downs": "59",
+    "views": "111390",
+    "top_comments": [
+        {
+            "comment": "Monster Mash: 0:00 \nAddam's Family: 3:10 \nI put a spell on you 3:52 \nGhost busters: 5:56 \nThis is Halloween: 9:03\nTime Warp: 11:52\nSpooky scary skeletons: 15:08\nWerewolves of London: 18:12\nThriller: 21:30\nRunnin' With the devil: 25:17\nPet Sematary: 29:02\nWitch doctor: 31:58\nOogie Boogie's song: 35:05\nDisturbia: 38:26\n(my fav) Killer klowns: 42:40\nFeed my Frankenstein: 44:55\nSomebody's watching me: 48:26\nEdit: I hope i get likes bc this took me awhile tbh.",
+            "likes": 27,
+            "number_of_replies": 3,
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "What's your favorite Halloween song? Let me know below! \ud83d\udc47\nSubscribe for the best playlists for EVERY Holiday! - http://www.youtube.com/c/HolidayMusic?sub_confirmation=1",
+            "likes": 13,
+            "number_of_replies": 5,
+            "polarity": 0.8125,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "My favourite song was spooky scary skeletons \ud83d\udc80",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\ud83d\ude39\ud83e\udd23\ud83d\udc7b\ud83d\udc80\u2620\ud83d\udca9",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Lol I live in a Christian small town and they celebrate Halloween early because they don't wanna celebrate on a Sunday so I needed this early thanks man",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.1551948051948052,
+            "subjectivity": 0.3428571428571429
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Pokemon is on this? Haha",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I love tons of these songs",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "YESSS TMRS HALLOWEEN",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Best music evrrrrrrrrrrrrr!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Today is Halloween and it's my favourite festival but I am not a Christian",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

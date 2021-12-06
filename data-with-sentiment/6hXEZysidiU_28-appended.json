@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-04 12:04:52",
+    "ups": "4351",
+    "downs": "66",
+    "views": "88965",
+    "top_comments": [
+        {
+            "comment": "Amazingly amazing! How simple yet scientific, how spiritual yet rational answers were..!! Very profound...!! Thank you!",
+            "likes": 11,
+            "number_of_replies": 1,
+            "polarity": 0.2403971354166667,
+            "subjectivity": 0.5976190476190476
+        },
+        {
+            "comment": "Ultimate conversation \ud83d\udc4c  imp for  everyone....",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude4f\ud83e\ude94",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How to get photographic memory?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-01 01:40:21",
+    "ups": "5601",
+    "downs": "289",
+    "views": "78937",
+    "top_comments": [
+        {
+            "comment": "LET'S GO BRANDON",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Everything he said not to wear in this vid is what he told us were never gonna go out of style 2 years ago\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The flannel and bomber alternative r nice finally I don't have to look lik the rest of the flock at thr club",
+            "polarity": 0.3,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Chelsea boots are timeless!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Honestly that puffer jacket is ugly as shit. You look like the marshmallow man. I'll stick to the bomber but I can see how people may think it's played out.",
+            "polarity": -0.09999999999999999,
+            "subjectivity": 0.9
+        }
+    ]
+}

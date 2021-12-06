@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-03 03:06:16",
+    "ups": "6503",
+    "downs": "73",
+    "views": "85125",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 338,
+            "number_of_replies": 43,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "Probably the best Male cover so far. You never fail to nail songs\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3375,
+            "subjectivity": 0.42499999999999993
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wowwwww",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "all of Alex's covers are my favo!!\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

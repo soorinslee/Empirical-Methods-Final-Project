@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-05 00:26:29",
+    "ups": "4937",
+    "downs": "201",
+    "views": "214191",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 32,
+            "number_of_replies": 31,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "He even print porm hub?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "0:39 I think BRIGHT SIDE was Typo, it should be written \"Unknown\" not \"Uncnown\".",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "why dont use robots ? They wont get tired and do the work quite quicker than humans",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": []
+}

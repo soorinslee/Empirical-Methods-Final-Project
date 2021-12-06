@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-02 22:59:03",
+    "ups": "17233",
+    "downs": "56",
+    "views": "179688",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2423,
+            "number_of_replies": 13,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "And now we how deeply Jungkook means when he says that he will either live with passion or he won't live !",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.10227272727272725,
+            "subjectivity": 0.4666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Please do more reactions to his  solo songs Jungkook like  Still With You .. or  decalcomania ...He is really a great singer and superstar. I hope he will have more chances to be recognized worldwide and to show his solo talent.",
+            "polarity": 0.6,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "what type of kitten do you have ?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

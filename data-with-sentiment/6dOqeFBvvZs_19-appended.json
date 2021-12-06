@@ -1,0 +1,98 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-02 22:59:14",
+    "ups": "39203",
+    "downs": "272",
+    "views": "563976",
+    "top_comments": [
+        {
+            "comment": "More coal at 22:23 haha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "The only real issue I have with the mob spawn changes is it's so extreme. It makes the game far closer to playing on peaceful setting. Finding inventive and nice looking ways to mob proof your base is half of minecraft really.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.03257575757575757,
+            "subjectivity": 0.6878787878787879
+        },
+        {
+            "comment": "Nice :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "at this point hermitcraft itself is sponsored by ExpressVPN",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Great progress maybe you can make a redstone bridge somehow that can get activated and withdrawn to the tunnel entrance of your base. Perhaps a stable and lighthouse.",
+            "polarity": 0.0,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "You could use green wools in your build.not sure if that might make it more lively, just a suggestion I thought of ?",
+            "polarity": 0.2340909090909091,
+            "subjectivity": 0.5472222222222223
+        },
+        {
+            "body": "iskall u need to put a water fall over ur enchanted entrance also ur a very good creater",
+            "polarity": 0.9099999999999999,
+            "subjectivity": 0.7800000000000001
+        },
+        {
+            "body": "I wonder if you did what @PB_OB said and added spore blodsoms to the area, but also a larger custom tree(s) along the path? Like Keralis always says \"add some booshes\"",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Turning a biome into a bi-home \ud83d\ude0c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Iskall discovering the Power of Attraction with the trees today",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice :)",
+            "polarity": 0.55,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Iskall, you have outdone yourself sir :)\nIt's not even finished yet, and It looks so cool :)\nI can't wait to see what it looks like when it's done :)",
+            "polarity": 0.4625,
+            "subjectivity": 0.9125
+        },
+        {
+            "body": "Evil cool cat with purple eyes!!!",
+            "polarity": -0.158203125,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "Delicious moss....",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The only real issue I have with the mob spawn changes is it's so extreme. It makes the game far closer to playing on peaceful setting. Finding inventive and nice looking ways to mob proof your base is half of minecraft really.",
+            "polarity": 0.03257575757575757,
+            "subjectivity": 0.6878787878787879
+        },
+        {
+            "body": "Iskall: has a guardian farm\nAlso Iskall: I'll use big amount of glowstone to light up an elevator",
+            "polarity": 0.2,
+            "subjectivity": 0.39999999999999997
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-04 07:57:50",
+    "ups": "23461",
+    "downs": "1712",
+    "views": "591000",
+    "top_comments": [
+        {
+            "comment": "As a Christian I'm happy to see you modi ji with our pope",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u091c\u092f\u0939\u093f\u0902\u0926!! \u091c\u092f \u091c\u092f \u092a\u094d\u0930\u0927\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940 \u091c\u0940!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Paise dekar mila hoga nautanki dikha rha h",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kitne paise de diye",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

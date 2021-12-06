@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-05 21:02:24",
+    "ups": "18273",
+    "downs": "186",
+    "views": "411288",
+    "top_comments": [
+        {
+            "comment": "9:50 I think that they wanted the stream of casings coming up from the gun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "American guns when a bit of mud falls in it : DED\nRussian guns after you smother them in mud: STRONK",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

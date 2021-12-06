@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-10-31 17:25:16",
+    "ups": "2044",
+    "downs": "47",
+    "views": "33048",
+    "top_comments": [
+        {
+            "comment": "I want to wish James and everyone who reads this a wonderful,safe and spooky halloween",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "1:05 the other zig-zag floor pattern looks veeeery similar to the one inside the Red Room from Twin Peaks\u2026",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.041666666666666664,
+            "subjectivity": 0.25833333333333336
+        },
+        {
+            "comment": "Woo! Love these vids man!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Number one is not a secret since it's obviously placed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "0:54 Wait, who is our? There are clones of you???",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "U really like that miles morales intro music huh",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "The Metroid one is lame. \u201cSUPER\u201d secret? Everyone knows about it and the game barely just came out.",
+            "polarity": -0.18333333333333332,
+            "subjectivity": 0.5233333333333332
+        },
+        {
+            "body": "That bit at the beginning where he's like \"Where are the Cheetos?\" \nSome people don't know that skit was written by Dan Harmon. They just kinda gloss over the credits shown in the full video of it / game it's from.",
+            "polarity": -0.025000000000000022,
+            "subjectivity": 0.47500000000000003
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-05 00:26:02",
+    "ups": "16692",
+    "downs": "274",
+    "views": "409952",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1795,
+            "number_of_replies": 139,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Mikey chose his games very wisely.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.9099999999999999,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "R.I.P Mickey's DEEZ",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Mikey chose his games very wisely.",
+            "polarity": 0.9099999999999999,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\u00dc\u00fc\u00fc\u00fc\u00fc\u00fb\u00fc",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mikey: OH OH OH\nCliffe: *staring profusely into his screen*\nMikey: I, just won\nPokemen7: *absolutely clueless just about to catch ho oh* WHAT DO YOU MEAN\nMikey: santalune forest... the captures are garrunteed\nPokemen7 : *absolutely confused* WHAT NO WAIT WAIT WAIT\nMikey: one\nTwo\nThree other is finished\nPokemen7:*literally almost catches ho oh right after he won*",
+            "polarity": -0.07035714285714285,
+            "subjectivity": 0.6396428571428571
+        },
+        {
+            "body": "We need more of these videos!!!",
+            "polarity": 0.9765625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "12:14 is the best moment in video history",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "These are so caotic, I love them",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\ud83d\udc41\ud83d\udc44\ud83d\udc41",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Poging poging poging",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The biggest plot twist of pokemonn",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i was scrolling down my yt when I found this channel and BAYBE THAT'S THE BEST CHANNEL OF EVER",
+            "polarity": 0.4222222222222222,
+            "subjectivity": 0.29444444444444445
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-03 15:28:44",
+    "ups": "3701",
+    "downs": "495",
+    "views": "202412",
+    "top_comments": [
+        {
+            "comment": "We cannot say koweit, emiratis and saoudis people are not responsible of the heat : they are rich from oil and produce more carbon than anyone in the world",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25833333333333336,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I bet VAMPIRES would hate this place.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Anybody know about trees in the desert ?  How long would it take for the roots to reach the ground water so its becoming self sufficient and stay alive ?  Watering million of trees with desalinated water is otherwise a waste of time and a massive waste of fossil fuel. Desalination requires enormous amounts of fossil fuels to keep the desalination plants going",
+            "polarity": 0.014285714285714282,
+            "subjectivity": 0.5071428571428571
+        },
+        {
+            "body": "The person you have chosen for the interview is not appropriate representative of those who really face that heat and have survive it.",
+            "polarity": -0.024999999999999994,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "BBC didn't do justice in translating the woman's words.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What a lot of bs.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The 1st lady with the kids seems to be there just to show her home and lavish life, and complaining about the heat, while the other lady's actually out there trying to take part in help solve the problem, without a single complaint. I find it pointless interviewing the1st lady.",
+            "polarity": -0.1492857142857143,
+            "subjectivity": 0.27785714285714286
+        },
+        {
+            "body": "My opinion doesn't matter much, but I think we are past the point of no return with climate change. We should have been researching alternatives a century ago. Not now.",
+            "polarity": -0.024999999999999994,
+            "subjectivity": 0.225
+        },
+        {
+            "body": "ascia is so rotten, like a spoilt junkie child",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Fuck kuwait",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I\u2019m from Kuwait and it\u2019s not that hot",
+            "polarity": 0.25,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "body": "If you are so pissed off by the temperature then \"talk less and plant more\" \ud83d\ude0a",
+            "polarity": 0.16666666666666669,
+            "subjectivity": 0.2833333333333333
+        }
+    ]
+}

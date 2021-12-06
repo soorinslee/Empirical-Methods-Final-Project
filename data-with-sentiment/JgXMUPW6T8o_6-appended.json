@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-10-31 17:25:35",
+    "ups": "2007",
+    "downs": "23",
+    "views": "27629",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 126,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Well done, mate!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bro, you are a mini painter endorsing taking non-painted minis to an event? Kitchen table and off camera, do what you want, but I can\u2019t understand why you would advertise something like this. When I spend countless hours assembling, priming, and painting my minis to play with others in public, I get mouthy with opponents who haven\u2019t painted their models. It\u2019s just disrespectful in my opinion.",
+            "polarity": 0.0,
+            "subjectivity": 0.2833333333333333
+        },
+        {
+            "body": "Your enthusiasm for Ice and Fire is a great advert, you\u2019ve got me wanting to give it a try!",
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        }
+    ]
+}

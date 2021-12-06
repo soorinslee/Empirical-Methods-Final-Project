@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 11:30:13",
+    "url": "https://www.youtube.com/watch?v=j6ezLQnc1Kk",
+    "time_now": "2021-11-01 05:47:17",
+    "ups": "2142",
+    "downs": "58",
+    "views": "103558",
+    "top_comments": [
+        {
+            "comment": "You know what I was in a holding cell once and I would have loved one if those dorms in comparison, get out of your ivory tower Hayes!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.875,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Will the students produce honey\ud83e\udd9e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hate angst and grievances",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I agree, were into dangerous territory here at home.\nThe law didn't out a stop to it and neither did the republicans.\nI foresee another civil war.\nThe corruption is too deep, to spread out and too rooted \nWelcome to this Sht-H country.",
+            "polarity": 0.0666666666666667,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "It\u2019s neo feudalism Chris. Where corp overlords own and control our government and we are forced to give up tax money. I think we need to defund senate to start with. End electoral college and ban corp lobbyists and dark money in all forms of politics. They are bribes",
+            "polarity": 0.04999999999999998,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "\ud83d\ude02\ud83d\ude02\ud83d\ude05",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "VOTE  \ud83d\uddf3.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Don't leave Adam \ud83d\ude22.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

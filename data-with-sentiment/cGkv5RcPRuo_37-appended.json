@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-06 01:09:35",
+    "ups": "28982",
+    "downs": "659",
+    "views": "531705",
+    "top_comments": [
+        {
+            "comment": "This is the last ncs 10 release I hope 10 years later will release ncs 20 release!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.03333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "2:41 HOOOOOOOOOOOOOOOOOOOOOOOOOLY SHIT",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        }
+    ]
+}

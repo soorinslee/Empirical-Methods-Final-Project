@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-04 07:57:15",
+    "ups": "11660",
+    "downs": "406",
+    "views": "369380",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 47,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "No rishi no jasmine without tarang music so all credit goes to the music channel and team for make such a wonderful track for us \ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Jasmine di and Rishi bro \ud83d\udc95\ud83d\udc9e\ud83d\udc6b\nBest song I love tarang music\ud83c\udfb6\nOdisha's no 1 music platform \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "So sweet music \ud83c\udfb6\ud83c\udfb6\ud83c\udfb6\ud83c\udfb6\ud83c\udfb6 nice video \ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.475,
+            "subjectivity": 0.825
+        },
+        {
+            "comment": "Both r superb\ud83d\udc4c\ud83d\udc4c\ud83e\udd29\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Super",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Best song",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Super song",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

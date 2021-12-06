@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-05 21:02:12",
+    "ups": "41235",
+    "downs": "293",
+    "views": "606890",
+    "top_comments": [
+        {
+            "comment": "Use sea lanterns in the elevator",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Am I the only one that hears \u201cunderside\u201d every time Iskall says: \u201cAndesite\u201d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Hello",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Glad Etho haven't found out about the thing yet...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "FINLAAAAAAND TERVE PERKELE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Iskall, if you need more green blocks, you can also use melons",
+            "polarity": 0.15,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "\"Dear Tree, I love your nose\" -iskall",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

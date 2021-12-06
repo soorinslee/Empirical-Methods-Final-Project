@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-04 12:04:17",
+    "ups": "9607",
+    "downs": "40",
+    "views": "116735",
+    "top_comments": [
+        {
+            "comment": "#PAYINTHEBARREL",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "you could clone netherite",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thanks you enyertain me",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Maybe put a sign pointing to the barrel bc it may not be as obvious to them where the barrel is. If the hermits can't see that then they're barrel blind and you can hide things by putting them in barrels\nEdit: I've also heard that a good marketing trick is to convince others that you're product of what they want is the best, instead of trying to get them to buy things they don't need",
+            "polarity": 0.3,
+            "subjectivity": 0.5166666666666666
+        },
+        {
+            "body": "Free coupons are a mistake. Buy one get one makes more sense.",
+            "polarity": 0.45,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "If you watch the latest Keralis video, you'll understand it has nothing to do with the signs. ;-)",
+            "polarity": 0.375,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "Reword the barrel sign to say \"PAY IN THIS BARREL!\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

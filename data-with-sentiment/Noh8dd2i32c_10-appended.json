@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-01 09:54:14",
+    "ups": "2648",
+    "downs": "19",
+    "views": "44711",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I am totally going to look for a nice rug for my bedroom! I am never going to have more pillows on my bed than needed - maybe that's very european of me.\nBut i do want my space to feel a bit more cozy!",
+            "polarity": 0.25,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "Pet peeve in guest bedrooms is no bedside light, doesn\u2019t have to be extravagant but it\u2019s so necessary.",
+            "polarity": 0.2,
+            "subjectivity": 0.85
+        }
+    ]
+}

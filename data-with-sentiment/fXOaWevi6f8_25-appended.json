@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-03 23:43:27",
+    "ups": "15678",
+    "downs": "290",
+    "views": "919219",
+    "top_comments": [
+        {
+            "comment": "The price tag is really confusing me because I have like 500 green cardamom at my house and they did not cost that much \ud83d\udc40",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.09999999999999999,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "i feel bad for ms saba",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The price tag is really confusing me because I have like 500 green cardamom at my house and they did not cost that much \ud83d\udc40",
+            "polarity": -0.09999999999999999,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Tanks God, we have rows of cheap labour around ready to pick it.",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "He speaks tamizh. Semmozhiyaam engal tamil mozhi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I truly respect these workers.this job is tedious work. Thank you for your work.",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Its all Starbucks' fault",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lies\u2026 Stop lying to people. Cardamom is all over warm counties.. We have it even in the Caribbean. Plus it is a common bush, now you people wanna used it to scam peopel about price hikes!! Lies, Lies\u2026 My grandmother used the bush to made tea too not only the seeds for curry.",
+            "polarity": 0.04374999999999999,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Wait a minute! That's a spice??? Here in Zimbabwe it grows everywhere, I grew up thinking it was a weed, I had to get rid of the lawn in my front yard because it was growing everywhere \ud83d\ude05 now I know",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i feel bad for ms saba",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

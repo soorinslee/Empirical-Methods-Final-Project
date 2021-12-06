@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-11-04 12:04:28",
+    "ups": "67726",
+    "downs": "2374",
+    "views": "3308568",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 657,
+            "number_of_replies": 166,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "the other huggy is kissy missy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Huggy is so cute and wuggy I love him\ud83c\udf1a\u2764\nCan we just appreciate how cute the huggy's and thier voice are?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.8666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sheesh two huggys pink and blue",
+            "polarity": -0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "but that's kissy missy-",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "huggy wuggy and kissy missy\n\n\n*chefs kiss*\n\n\n\n\n\n*perfection*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "the other huggy is kissy missy",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Huggy is so cute and wuggy I love him\ud83c\udf1a\u2764\nCan we just appreciate how cute the huggy's and thier voice are?",
+            "polarity": 0.5,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "body": "That pink huggy name is Kissy missy",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-02 22:59:49",
+    "ups": "13370",
+    "downs": "173",
+    "views": "215927",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 36,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "bit late but have a look at a kitchen working triangle",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Push",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "quick suggestion--did you consider cantilevering the island countertop to creat a seating area opposite of the range?  You could fit 5 or 6 counter height stools there so people could sit at the island while someone cooks.",
+            "polarity": 0.24444444444444446,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "bit late but have a look at a kitchen working triangle",
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "This is going to look amazing. That CNC is so cool. \nI was considering getting some cabinets for my game room instead of trying to source furniture. Looking forward to the next video!m",
+            "polarity": 0.1375,
+            "subjectivity": 0.48750000000000004
+        },
+        {
+            "body": "Both push to open and pulls of course (if its possible).",
+            "polarity": 0.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Can\u2019t wait for the next video. I\u2019m excited to see your kitchen completed!",
+            "polarity": 0.234375,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "I think the push gives it that extra touch Of modern. But either way i know you\u2019ll knock this outta the park!",
+            "polarity": 0.125,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Push to open!",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Oh man. I was doing CAD work, and REVIT modeling for several years, and I have 2 thoughts. 1. I really wish I had the doublewide monitor, and 2, I can't imagine spending all that design work, and then building it too. I'd get frustrated, and just start building.",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.13333333333333333
+        },
+        {
+            "body": "I work as a cabinet/furniture maker and can say that the blum tip on (push up) is not that great.. sure, u can get them to work but every time i use them they seem to give me a headache. extremely fidelity. I am very exited about the kitchen! good work so far :)",
+            "polarity": 0.3892857142857143,
+            "subjectivity": 0.7912698412698412
+        },
+        {
+            "body": "If my wife ever wants new cabinets, this could be a good justification for getting a 4x8 CNC.",
+            "polarity": 0.34545454545454546,
+            "subjectivity": 0.38484848484848494
+        },
+        {
+            "body": "Where did u get the CNC machine.  It looks huge.",
+            "polarity": 0.4000000000000001,
+            "subjectivity": 0.9
+        }
+    ]
+}

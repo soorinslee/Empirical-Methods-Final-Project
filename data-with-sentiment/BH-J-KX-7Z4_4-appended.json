@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 12:45:00",
+    "url": "https://www.youtube.com/watch?v=BH-J-KX-7Z4",
+    "time_now": "2021-10-31 09:12:01",
+    "ups": "1097",
+    "downs": "17",
+    "views": "10544",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Love them all!\u2764",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Hi Christina, your Christmas flips were awesome, I love them all, you have such a creative talent.  Those knitted stars would make a lovely bunting as well.  Thanks for sharing.",
+            "polarity": 0.45,
+            "subjectivity": 0.6749999999999999
+        },
+        {
+            "body": "I loved all of these! The paper wreath in a slightly larger scale would also make a great advent calendar. Just punch a hole in the top of the round part and the flappy top part of each cone, feed some thread through the holes, fill the cone with a piece of candy and tie the thread. Then write the numbers on the closed \"lids\" with a marker.",
+            "polarity": 0.33928571428571425,
+            "subjectivity": 0.5071428571428571
+        },
+        {
+            "body": "Absolutely brilliant thrift flips. I loved them all \ud83d\ude0d. Thank you \ud83d\ude0a",
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I\u2019ve ever noticed that you use that little tiny glue gun before. I rarely use one, but have one of those rechargeable battery glue guns. Sounds like a Christmas request?",
+            "polarity": 0.0375,
+            "subjectivity": 0.6333333333333333
+        }
+    ]
+}

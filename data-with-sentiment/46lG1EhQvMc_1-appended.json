@@ -1,0 +1,142 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-10-30 20:51:30",
+    "ups": "15386",
+    "downs": "457",
+    "views": "566197",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 158,
+            "number_of_replies": 48,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "WOW THIS IS SOO COOL\n<3",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": 0.48333333333333334,
+            "subjectivity": 0.8833333333333333
+        },
+        {
+            "comment": "2   WOW",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "OMG",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": ":o",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That is huggy wuggy and kissy missy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The huggy wuggy couple",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WOW THIS IS SOO COOL\n<3",
+            "polarity": 0.48333333333333334,
+            "subjectivity": 0.8833333333333333
+        },
+        {
+            "body": "2   WOW",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "OMG",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "BF boyfriend beep!? Huggy: you friends",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": ":o",
+            "polarity": 0.05,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Pink huggy and blue huggy means kissy missy and huggy wuggy",
+            "polarity": -0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Notice how his profile picture is still puppet from FNAF, even thou he quited fandom.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think their sibling\ud83e\udd14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Fun fact the pink buggy\u2019s name is kissy missy",
+            "polarity": 0.09999999999999999,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Why did they take his side? 3:14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gio",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Godzilla",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Godzilla",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pink huggy wuggy is named kissy missy",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "The staircase part is just Mid Fight Masses charting",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Uhm it says not play at the top",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Huggy wuggy&kissy missy!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-04 03:50:03",
+    "ups": "7300",
+    "downs": "81",
+    "views": "100996",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 358,
+            "number_of_replies": 45,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "beautiful cover",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "i love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Nice cover ! Is he already out of the closet ?",
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I noticed that all your covers have a faster tempo than the originals, is it easier for you to sing faster?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

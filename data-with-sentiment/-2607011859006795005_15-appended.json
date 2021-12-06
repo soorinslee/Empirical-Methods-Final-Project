@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj0kkv/most_popular_rock_band_formed_after_the_2000s/",
+    "time_posted": "2021-10-30 08:34:11",
+    "time_now": "2021-11-02 06:31:28",
+    "ups": 10,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himyqbu",
+            "body": "The Black Keys",
+            "ups": 14,
+            "downs": 0,
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment_id": "hin1cuk",
+            "body": "My Chemical Romance formed shortly after 9/11.",
+            "ups": 14,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment_id": "hin0gdo",
+            "body": "Arctic Monkeys",
+            "ups": 13,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin8gqn",
+            "body": "The Killers, I've loved them since 2003.\n\nAdding Muse as well.",
+            "ups": 11,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "himzz41",
+            "body": "Arcade Fire started in 2001\n\nOr are you saying bands formed after 2010?",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hin1cuk",
+            "body": "My Chemical Romance formed shortly after 9/11.",
+            "ups": 13,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment_id": "hin8gqn",
+            "body": "The Killers, I've loved them since 2003.\n\nAdding Muse as well.",
+            "ups": 13,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "himyqbu",
+            "body": "The Black Keys",
+            "ups": 14,
+            "downs": 0,
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment_id": "hin6xz4",
+            "body": "Bring me the Horizon",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin0gdo",
+            "body": "Arctic Monkeys",
+            "ups": 14,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hin1cuk",
+            "body": "My Chemical Romance formed shortly after 9/11.",
+            "ups": 14,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment_id": "hin8gqn",
+            "body": "The Killers, I've loved them since 2003.\n\nAdding Muse as well.",
+            "ups": 13,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "himyqbu",
+            "body": "The Black Keys",
+            "ups": 14,
+            "downs": 0,
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment_id": "hin6xz4",
+            "body": "Bring me the Horizon",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin0gdo",
+            "body": "Arctic Monkeys",
+            "ups": 14,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

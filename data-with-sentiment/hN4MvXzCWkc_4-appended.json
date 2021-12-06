@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 22:25:47",
+    "url": "https://www.youtube.com/watch?v=hN4MvXzCWkc",
+    "time_now": "2021-10-31 09:11:17",
+    "ups": "186",
+    "downs": "2",
+    "views": "20831",
+    "top_comments": [
+        {
+            "comment": "Beautiful songs",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Beautiful songs",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "sweet song When we will dance friend",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        }
+    ]
+}

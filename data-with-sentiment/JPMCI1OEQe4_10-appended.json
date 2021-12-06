@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 14:00:05",
+    "url": "https://www.youtube.com/watch?v=JPMCI1OEQe4",
+    "time_now": "2021-11-01 09:53:55",
+    "ups": "27915",
+    "downs": "588",
+    "views": "598637",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween fresh up you are having a great day",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6333333333333334,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Your so good at fortnite good job",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "0:28 \ud83e\udd28 what did you say freshy boi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "He cheated in the challenge and I don't see you using combat shotgun fresh now that you did the video so yep you didnt know mechs were not coming or what",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "He cheated in the challenge and I don't see you using combat shotgun fresh now that you did the video so yep you didnt know mechs were not coming or what",
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Your a week late",
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "You had 3 minies and picked up 3 and got 6",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Fresh:my cube city is so damn big\nCube queen:what are you say",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Cheater XD",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That last guy was the one that was taking the L\ud83d\ude02 little did he know he was foreshadowing his taking the L dance\ud83d\ude02",
+            "polarity": -0.09375,
+            "subjectivity": 0.2833333333333333
+        }
+    ]
+}

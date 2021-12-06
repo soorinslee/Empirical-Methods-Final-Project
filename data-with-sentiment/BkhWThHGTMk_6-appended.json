@@ -1,0 +1,64 @@
+{
+    "time_posted": "2021-10-30 12:24:22",
+    "url": "https://www.youtube.com/watch?v=BkhWThHGTMk",
+    "time_now": "2021-10-31 17:25:29",
+    "ups": "6180",
+    "downs": "333",
+    "views": "494596",
+    "top_comments": [
+        {
+            "comment": "Jab ALLAH hai sath to darny ki kiya BAAT.\ud83e\udd17",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Aj iski baat sach ho gai india jeety ha nhi nhi nhi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Paakistaaan merrti jaan",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jan RAB sath ho to koi ni hra skta",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pakistan is always father\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pakistan win",
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Muhammed Shami shall be kicked out, he is putting Kohli in trouble",
+            "polarity": -0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Muhammed Shami shall be kicked out, he is putting Kohli in trouble",
+            "polarity": -0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "This shows how sick these people are with gutter class of humanity, you are present there as a commentator so do your job for what you are being paid for not siding just one team... grow up will u?",
+            "polarity": -0.35714285714285715,
+            "subjectivity": 0.42857142857142855
+        },
+        {
+            "body": "Are chutiyon commentry sune bina nhi nhi nhi ka matlab mat nikalo\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

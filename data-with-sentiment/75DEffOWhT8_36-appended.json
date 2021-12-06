@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-05 21:02:12",
+    "ups": "29410",
+    "downs": "96",
+    "views": "281093",
+    "top_comments": [
+        {
+            "comment": "Plot twist: the reason he left was because his mom walked in on him screaming. I think you know what happens next :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "0:27 wtf berdley just went rage mode",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Berdly rage quits life",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

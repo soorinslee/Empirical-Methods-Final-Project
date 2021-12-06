@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 15:07:55",
+    "url": "https://www.youtube.com/watch?v=St9Xip1_9Us",
+    "time_now": "2021-11-02 22:59:47",
+    "ups": "3121",
+    "downs": "82",
+    "views": "68917",
+    "top_comments": [
+        {
+            "comment": "Stephen really has her van neat and organized. I would have liked her to show the complete shower set up. Also, would hVe liked to see her show the full extent of the canopy. Lost me with the portable toilet in the kitchen cupboard area. Yuk!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3013888888888889,
+            "subjectivity": 0.4583333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I am a woman, alone in my van.  I have been looking for an awning and was wondering about your thoughts about your awning.  You said you could take it out part way?  Is it electric?  Does it drain the water well in rain? Does it hold well in wind?  Do you like it?  Your looks short in length; would one fit over your back doors?   \nI appreciate your input particularly since you use your van as a part of your outdoor life.  Thanks.",
+            "polarity": 0.15333333333333332,
+            "subjectivity": 0.24666666666666665
+        },
+        {
+            "body": "Steph, you have a really nice built out van, its  remarkable you are just missing washer/ dryer .  I like it a lot",
+            "polarity": 0.38333333333333336,
+            "subjectivity": 0.6
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-05 00:25:56",
+    "ups": "9877",
+    "downs": "41",
+    "views": "121226",
+    "top_comments": [
+        {
+            "comment": "Looks like some kind of crazy chalk cliffs. Love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "comment": "Thanks you enyertain me",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The pay in the barrel issue is due to the fact the hermits can't see an obvious barrel. You covered the barrels up with signs; they blend in too much with the display.",
+            "polarity": 0.025000000000000005,
+            "subjectivity": 0.35833333333333334
+        },
+        {
+            "body": "Woah! That octagon is definitely my fav building from this season!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        }
+    ]
+}

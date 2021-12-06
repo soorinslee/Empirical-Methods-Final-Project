@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-03 23:43:43",
+    "ups": "13946",
+    "downs": "178",
+    "views": "227721",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 36,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "If you are looking for a kitchen hood. I work for an architectural metalworking company in town and we make a lot of custom hoods and other interior/exterior metalworking.",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "I work at an kitchendealer, and i advice to NOT to the choose push to open (pto). Besides the fingerprints, pto can get weak and it will be annoying to open the drawers and cabinates greetingz from the netherlands.",
+            "polarity": -0.29375,
+            "subjectivity": 0.63125
+        },
+        {
+            "body": "That looks like a great design and very cool machine! I'm excited to see how everything turns out.",
+            "polarity": 0.5812499999999999,
+            "subjectivity": 0.7816666666666667
+        },
+        {
+            "body": "Not judging but ... HOW DO YOU NOT OWN A PICK UP TRUCK ???  Sorry I've just never owned a car in my life.  This whole project I've yelled at the TV a dozen times for you to get a freakin truck !!! Diesel 1 tonne !!!  Beautiful brand new actual real truck ... sigh...\n\nOh yeah sorry ... Matte Black pulls for the win.  \ud83d\udc96\ud83e\udd23\ud83d\udc96\ud83e\udd23\ud83d\udc96\ud83e\udd23\ud83d\udc96",
+            "polarity": 0.12826364228219694,
+            "subjectivity": 0.6087878787878789
+        },
+        {
+            "body": "I love the whole build so far! I'd say go for the little pull that hangs over the top, as  a Mom I know the work you're going to be spending allot of time wiping down those cupboards! Thank goodness you didn't go for the MDF, even veneered it isn't waterproof!",
+            "polarity": 0.14907407407407405,
+            "subjectivity": 0.5481481481481482
+        }
+    ]
+}

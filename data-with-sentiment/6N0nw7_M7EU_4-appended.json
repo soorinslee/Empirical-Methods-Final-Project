@@ -1,0 +1,64 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-10-31 09:11:56",
+    "ups": "3438",
+    "downs": "39",
+    "views": "63993",
+    "top_comments": [
+        {
+            "comment": "I love how you say drink responsibly before you just put a straw in the whole thing. That is epic.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.24999999999999997,
+            "subjectivity": 0.48749999999999993
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What happen to your voice?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Thats sick.\n\n\n\nI meen your sick",
+            "polarity": -0.7142857142857143,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "body": "What happent 2 your voice bro\ud83e\udd72",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is this talent ?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That is so cool! \ud83e\udde1\ud83e\uddca\ud83d\udcad\ud83d\udca5\n\ud83d\ude31\ud83c\udf4a\ud83c\udf4f\ud83c\udf77\ud83c\udf7b\ud83e\udd43\ud83d\udca8\ud83c\udf83\u2665\ufe0f",
+            "polarity": 0.4375,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "I thought dry ice wasn't consumable...\ud83d\ude15\ud83d\ude15\ud83d\ude15",
+            "polarity": -0.06666666666666665,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "he is congested",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "what happened to your voice",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bro do you taste the sh*t that you put together or you just pour random stuff into bowls and call it a day?",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

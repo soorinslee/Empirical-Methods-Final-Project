@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 12:04:22",
+    "url": "https://www.youtube.com/watch?v=RqnFN8W8Ygs",
+    "time_now": "2021-10-31 21:32:45",
+    "ups": "323",
+    "downs": "61",
+    "views": "33748",
+    "top_comments": [
+        {
+            "comment": "Kung si Pacquiao siguro ang nangunguna sa survey, maniniwala sa survey si Atienza.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Puede nman yun kunin mo yun pera iboto kung ano ang nsa concencya kya lng wag nila takutin o bantayan yun mga binigyan nila",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pag ibig at pag mamahal, pero  pinipili lang ang pinatatawad. A bunch of a hypocrite. Mr. KP representative, your mind is out of this world. Wake up and look around.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Binabaluktot na natin ang prinsipyo alang alang sa politiko.  Walang rason para i promote ang vote buying.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hayy this Atienza another \" trapo \". Puro salita , kulang sa gawa. Nag uuto lang .",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hahaha record show daw. \ud83e\udd23",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "How d Philippines look like before 2016 disgusting no matter what u will say now is no effect to people of d Philippines sorry BBM d President 2022\ud83d\udc4d\ud83d\udc4f\ud83d\udc4f",
+            "polarity": -0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Pag ibig at pag mamahal, pero  pinipili lang ang pinatatawad. A bunch of a hypocrite. Mr. KP representative, your mind is out of this world. Wake up and look around.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hayy this Atienza another \" trapo \". Puro salita , kulang sa gawa. Nag uuto lang .",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "nice point KP.. may sariling botante si leni... hindi sya ordinaryong VP na tulad sa america ay magaabang lang na matigok si kanor or magresign..",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "atienza marami tao nagaattnd kasi may hawak hawak pera",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

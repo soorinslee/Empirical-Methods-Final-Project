@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-01 22:15:53",
+    "ups": "24340",
+    "downs": "80",
+    "views": "214289",
+    "top_comments": [
+        {
+            "comment": "Imagine a omega berdly.....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "John Brain \u0442\u044b \u043b\u0438 \u044d\u0442\u043e?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "0:46 A-",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This is now one of my favorite videos and I\u2019ve never even played nor seen a play through of deltarune 2",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

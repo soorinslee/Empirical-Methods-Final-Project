@@ -1,0 +1,108 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-05 04:33:26",
+    "ups": "18005",
+    "downs": "341",
+    "views": "1116046",
+    "top_comments": [
+        {
+            "comment": "Any malayalis?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Those hard working ladies should be rewarded generously.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment": "we Indians throw cardamom into everything from tea to rice without realising how expensive it is \ud83e\udd23\ud83e\udd23\ud83e\udd23 I myself didn\u2019t know that it was so expensive",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lost me at \"climate crisis\".",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Any malayalis?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i am from jordan and almost all jordanian dishes have cardamom in it, we value this seed so much rich in flavour. all respect to the farmers",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "we Indians throw cardamom into everything from tea to rice without realising how expensive it is \ud83e\udd23\ud83e\udd23\ud83e\udd23 I myself didn\u2019t know that it was so expensive",
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Reports: Netflix CEO gets BUSTED with 13,000 files of CHILD PORNOGRAPHY..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "In Hyderabad super markets we get green cardamom for an average of 350 INR per 100grams. 1kg of that is 3500 INR. Where these farmers selling 1kg for less than 1600 INR. Almost double priced for us by retailing companies",
+            "polarity": -0.03666666666666667,
+            "subjectivity": 0.2866666666666666
+        },
+        {
+            "body": "Cardmom is only produced in our district. Idukki is the only district.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "All spices are wonderous.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Every thing is expensive... Except Human being \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "polarity": -0.25,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "Expensive products, cheap labour. Real farmers suffer losses while middlemen make merry.",
+            "polarity": 0.03333333333333335,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "body": "All that work for $22 a kilogram. Wow.",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bc8\u0baf\u0bbe \u0b87\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0b9f\u0bbe !",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i like it so much",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "These farmers need to make fair market value for their crops.",
+            "polarity": 0.7,
+            "subjectivity": 0.9
+        }
+    ]
+}

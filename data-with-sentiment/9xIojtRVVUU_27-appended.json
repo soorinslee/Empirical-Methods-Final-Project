@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-04 07:57:02",
+    "ups": "11356",
+    "downs": "19",
+    "views": "94047",
+    "top_comments": [
+        {
+            "comment": "That dance group was awesome!! Go Team Wang!!",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Jackson\u9664\u4e86\u5531\u6b4c\uff0c\u8df3\u821e\u4e5f\u662f\u4e00\u7edd\u5440\uff0c\u8981\u591a\u8df3\uff0c\u770b\u4e0d\u591f\uff01",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Love it when he dances!! SWAG !",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Jackson Wang & Panthepack added spiciness & fire to the show. How I love Jackson's dance, very smooth yet powerful, and full of swag, loved it!!\ud83d\udd25\ud83d\udd25\ud83d\udc95",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.47400000000000003,
+            "subjectivity": 0.72
+        },
+        {
+            "comment": "HERE CRAZY FANGIRL FROM AUSTRALIA OF AVATAR JACKSON WANG!!!\ud83d\udd4a\ufe0f",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "OMG ..... it's amaizing ... my new favorite team !!!!!",
+            "polarity": 0.5681818181818181,
+            "subjectivity": 0.7272727272727273
+        },
+        {
+            "body": "why was this performance not inside the actual street dance of china final episode?",
+            "polarity": 0.0,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "I feel like a proud mom, I literally watched this man grow from a boy to this wonderful, talented, passionate and hard working person",
+            "polarity": 0.43166666666666675,
+            "subjectivity": 0.8583333333333334
+        }
+    ]
+}

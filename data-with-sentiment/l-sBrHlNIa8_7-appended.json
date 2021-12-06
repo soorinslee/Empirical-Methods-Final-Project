@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-10-31 21:32:13",
+    "ups": "2190",
+    "downs": "16",
+    "views": "46274",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Uuuyyy grabe nman bebe..\nGinalingan mo n nman!!!!\nHaAmazing voice at 3:23:-)",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Better than Charice.  David Forster, you've got a new world class talent.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.4772727272727273
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Cryptocurrency has come to stay. So many people doubted the Bitcoin yet it still is making people rich.",
+            "polarity": 0.4375,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Gigi\ud83d\ude32\ud83c\udfa7\ud83d\ude4c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "May pahabol pa ako RIP charice pengpengco",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Isang salita lang masasabi ko dito EXCELLENT!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

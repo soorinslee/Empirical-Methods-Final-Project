@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-05 08:40:30",
+    "ups": "17051",
+    "downs": "239",
+    "views": "640430",
+    "top_comments": [
+        {
+            "comment": "Don't Starve shipwrecked dry season moment",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.06666666666666665,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "It\u2019s involving",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This is what my poop looks like after eating spicy food.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It\u2019s cool and hot at the same time",
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "Worst case scenerio its a Centralia situation... Absolutely horrible scenerio.... Another Pompeii... I hope everyone there is okay and stays okay....",
+            "polarity": -0.25,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Me: damn I forgot my lighter in the car \u2026.\nVolcano bomb rolling up to me: \ud83e\udea8\u2026..\nMe:SWEET ! Time to spark this blunt !",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is this the worlds dangerous volcano \ud83c\udf0b",
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Stupid. If it don't blow up it ain't a bomb.",
+            "polarity": -0.7999999999999999,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "00:45 satan",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sometimes Lava bomb has diamond inside it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No lie thought it was gunna explode \ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

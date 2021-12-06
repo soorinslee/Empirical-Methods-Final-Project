@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 17:35:27",
+    "url": "https://www.youtube.com/watch?v=mmrEn8tavTk",
+    "time_now": "2021-10-31 21:32:22",
+    "ups": "1703",
+    "downs": "53",
+    "views": "45018",
+    "top_comments": [
+        {
+            "comment": "i wish roblox would come backkkkkkkkkkkkk",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ashley: \u201cFixing her hair\u201d\nMe: \u201cStarts fixing my hair\u201d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ash: \u201cIt\u2019s back???\u201d\nMe: Heart stops",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I want to work on my bloxburg mansion",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "where do you live Ashley???",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ROBLOX IS BACK YALL",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i wish roblox would come backkkkkkkkkkkkk",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "where do you live Ashley???",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "ROBLOX IS FREAKING BACK WOW",
+            "polarity": 0.05,
+            "subjectivity": 0.5
+        }
+    ]
+}

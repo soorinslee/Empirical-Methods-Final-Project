@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 12:56:54",
+    "url": "https://www.youtube.com/watch?v=pF-adaZ55zE",
+    "time_now": "2021-11-02 02:24:05",
+    "ups": "3625",
+    "downs": "43",
+    "views": "35006",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I feel like they still make the covergirl eyeshadow palette I used to wear in highschool I should revisit it \ud83e\udd17 I think the covergirl foundation looks very pretty on you \ud83d\ude18\ud83d\ude18",
+            "polarity": 0.325,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I wish your camera focused easier/faster.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Omg Covergirl Clean liquid foundation takes me BACK!",
+            "polarity": 0.18333333333333335,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "body": "Dear Emily, I enjoyed the Charlotte Tilbury so much and know this one will be just as great. Good morning Violetta hope you have a great day, a fellow makeup junkie too.",
+            "polarity": 0.6,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Emily, I just wanted you to know that I watch all your videos and I also read all your descriptions and I still love your profound and random thought.  Just wanted you to know that I read and appreciate your thoughts! Lots of love from England x\ud83d\ude18",
+            "polarity": 0.11458333333333334,
+            "subjectivity": 0.675
+        }
+    ]
+}

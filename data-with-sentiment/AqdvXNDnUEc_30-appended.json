@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-04 20:18:25",
+    "ups": "39281",
+    "downs": "550",
+    "views": "846804",
+    "top_comments": [
+        {
+            "comment": "I feel bad for that boi Jack\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "ong dis chitt hard asf",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Give yak his flowers",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "He expressing how all then fake niggas folded not under pressure but over money take yo position and enjoy never envy and see to the light success beats all haters \ud83c\udfa7\ud83c\udfb5\ud83c\udfb6",
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "I knew the perc was fake but I still ate cause I'm a gremlin!!!!!!",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "ong dis chitt hard asf",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 12:30:41",
+    "url": "https://www.youtube.com/watch?v=PV6zc5ljhiE",
+    "time_now": "2021-11-01 05:46:46",
+    "ups": "466",
+    "downs": "73",
+    "views": "76031",
+    "top_comments": [
+        {
+            "comment": "\u0bb9\u0bbf\u0ba8\u0bcd\u0ba4\u0bbf \u0ba4\u0bbf\u0ba9\u0bbf\u0baa\u0bcd\u0baa\u0bc8 \u0b8e\u0ba4\u0bbf\u0bb0\u0bcd\u0baa\u0bcd\u0baa\u0ba4\u0bc6\u0bb2\u0bcd\u0bb2\u0bbe\u0bae\u0bcd \u0b9a\u0bb0\u0bbf, \u0ba8\u0bae\u0bcd\u0bae \u0b8a\u0bb0\u0bcd\u0bb2 \u0ba4\u0bae\u0bbf\u0bb4\u0bc7 \u0b9a\u0bb0\u0bbf\u0baf\u0bbe \u0baa\u0bc7\u0b9a\u0b95\u0bcd\u0b95\u0bbe\u0ba3\u0bae\u0bc7 \u0b87\u0ba8\u0bcd\u0ba4 \u0b85\u0bb5\u0bb2\u0ba4\u0bcd\u0ba4\u0bc8 \u0b8e\u0ba9\u0bcd\u0ba9\u0ba9\u0bc1 \u0b9a\u0bca\u0bb2\u0bcd\u0bb2\n \u0baa\u0bbe\u0b9f\u0bcd\u0b9f\u0bc1\u0bae\u0bcd \u0bb0\u0bca\u0bae\u0bcd\u0baa \u0b9a\u0bc1\u0bae\u0bbe\u0bb0\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd",
+            "likes": 2,
+            "number_of_replies": 3,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Omg! \u2764\ufe0f\ud83d\udd25\ud83d\udd25 Hats off. Pravin mani rocked and the team \u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u0b9a\u0bc6\u0bb2\u0bcd\u0bb2\u0bae\u0bcd \u2763\ufe0f\ud83d\ude0d\u2763\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Rocking one \ud83d\udd25\ud83d\udd25\ud83d\udd25 .. Goosebumps all over after listening.. Thanks team for coming up with this great work. Navin your lyrics can resonate deep inside \ud83d\ude4f\ud83c\udffc\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.45
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83e\udd29",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Dislike panna pullingo ellam hindi karanunga",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Direction Superb master \ud83d\ude0d\nAll term \ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Tharam! \ud83d\udd25\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

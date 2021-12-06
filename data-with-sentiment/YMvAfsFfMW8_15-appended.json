@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 12:51:02",
+    "url": "https://www.youtube.com/watch?v=YMvAfsFfMW8",
+    "time_now": "2021-11-02 06:31:05",
+    "ups": "4634",
+    "downs": "539",
+    "views": "387408",
+    "top_comments": [
+        {
+            "comment": "What hacks do your parents use?\ud83d\ude0f",
+            "likes": 59,
+            "number_of_replies": 21,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "What\u2019s wrong with your annoying mom",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.65,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "How to Play with THE FLUFFIEST SLIME \r\nhttps://youtu.be/xTymLtmi3H0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love you so much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Your videos are so se bhi so much super cute and Beautiful \ud83d\ude18\ud83e\udd29\ud83e\udd70\ud83e\udd29\ud83c\udf89",
+            "polarity": 0.561111111111111,
+            "subjectivity": 0.8888888888888888
+        }
+    ]
+}

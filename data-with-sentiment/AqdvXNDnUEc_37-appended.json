@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-06 01:09:29",
+    "ups": "40491",
+    "downs": "602",
+    "views": "934042",
+    "top_comments": [
+        {
+            "comment": "Jackboy diss",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Rip jackboy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "van sam wam bam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Just dropped https://youtu.be/A-XBoa3wau8",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

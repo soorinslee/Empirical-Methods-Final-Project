@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-04 07:57:28",
+    "ups": "16267",
+    "downs": "258",
+    "views": "394664",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1753,
+            "number_of_replies": 137,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "The end of the video is like when the protagonist is about to lose and they somehow win",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hey John...\nConspiracies \nFossils\n\nYou remember what you did..\n\nAltaria and Tornadus remember",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I almost cried when Purple Cliffee revealed his costume",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I didn't know that the captures in Santalune were guaranteed. That's mental. 500 IQ play from Mikey there, Good Game.",
+            "polarity": 0.06666666666666665,
+            "subjectivity": 0.4000000000000001
+        }
+    ]
+}

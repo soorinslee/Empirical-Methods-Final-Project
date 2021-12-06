@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-05 21:02:51",
+    "ups": "14453",
+    "downs": "184",
+    "views": "240204",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 40,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Awesome fun watching the cabinets being cut out and assembled ! Looking forward to seeing the next video \ud83d\udcf9! \ud83d\ude0a\ud83d\udc4d\ud83d\udc95\ud83d\udc95\ud83d\udc95",
+            "polarity": 0.4583333333333333,
+            "subjectivity": 0.39999999999999997
+        }
+    ]
+}

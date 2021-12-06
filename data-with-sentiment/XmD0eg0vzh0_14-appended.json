@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:00:14",
+    "url": "https://www.youtube.com/watch?v=XmD0eg0vzh0",
+    "time_now": "2021-11-02 02:24:04",
+    "ups": "6222",
+    "downs": "48",
+    "views": "120082",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Beautiful new phase RV and then the new house",
+            "polarity": 0.3742424242424242,
+            "subjectivity": 0.6363636363636364
+        },
+        {
+            "body": "Good luck with the move and getting settled into the new place. Also Happy National Adoption Awareness Month.",
+            "polarity": 0.5454545454545454,
+            "subjectivity": 0.6848484848484849
+        },
+        {
+            "body": "You  explain very well\nLove to your family \ud83d\udc96\ud83d\udc96\ud83d\udc96",
+            "polarity": 0.35,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "body": "Brazil love's Jude \u2665\ufe0f\ud83c\udde7\ud83c\uddf7\ud83c\udde7\ud83c\uddf7",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

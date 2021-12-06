@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-10-31 21:32:49",
+    "ups": "1980",
+    "downs": "8",
+    "views": "22083",
+    "top_comments": [
+        {
+            "comment": "This is the best thing I learned regarding the guest room. You don't just tell us what to do but explain why as well in a so confident way. So nice to hear advices from a real expert. You're the best Liza. Thanks a lot dear \ud83d\ude18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5833333333333334,
+            "subjectivity": 0.48888888888888893
+        },
+        {
+            "comment": "I ask my guests/family while they stay to let me know if there is anything I need to add or change to help in their stay. I make a list to get or do if it doesn\u2019t happen while they are here. Then the next time when someone stays it is much better. \nThat\u2019s when I learned about the tissues, fans, and the tub drain that wasn\u2019t draining well.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "... and the mother in law will never leave again!! \ud83d\ude12 just kidding!! Thanks for the great tips, Lisa!! \ud83e\udd70\ud83e\udd70",
+            "polarity": 0.6,
+            "subjectivity": 0.475
+        },
+        {
+            "body": "I know this is random but would you give tips for a buy to rent home.we have a 2 bed that we are renovating from the brickwork out new electrics etc to rent to tenants.  I would love some help with decor or feel ideas.",
+            "polarity": 0.04545454545454545,
+            "subjectivity": 0.5181818181818182
+        },
+        {
+            "body": "Lisa you are totally a rock star.",
+            "polarity": 0.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Loved the welcome basket and the robes idea! I love these tips LISA!!! Thanks for sharing all your knowledge. LOVE from Argentina!",
+            "polarity": 0.7003125000000001,
+            "subjectivity": 0.6200000000000001
+        }
+    ]
+}

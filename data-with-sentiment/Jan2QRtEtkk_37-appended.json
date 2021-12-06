@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 13:00:08",
+    "url": "https://www.youtube.com/watch?v=Jan2QRtEtkk",
+    "time_now": "2021-11-06 01:10:08",
+    "ups": "46114",
+    "downs": "1177",
+    "views": "1214676",
+    "top_comments": [
+        {
+            "comment": "No one saved chill pill girl because the guy was black and everyone's got s**t to do and places to go",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment": "Whats in it for men to risk themselves for random women. Seriously why?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.41666666666666663,
+            "subjectivity": 0.5833333333333333
+        },
+        {
+            "comment": "I feel like they make the assumption you can't have both masculinity and feelings. Even the toughest of men can break down, we are all human. Masculinity is not inherently toxic just like femininity, however like anything there can be extremes of everything. For example, we have seen instances of toxic feminism but you don't see that being talked about. This is just one of those scenarios where a few bad cops labels all of them, but instead, a few bad toxic men creates a \"toxic masculinity\" issue that really isn't even there.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25079365079365074,
+            "subjectivity": 0.30317460317460315
+        },
+        {
+            "comment": "Be careful!  The bible says, \"Fathers..... DO NOT exasperate, abuse your children .....because they will become downhearted (depressed!)\"!!   The worst kind of men are the caveman (uggh!) types,, and even football is  in many ways, a very false notion,,   that knocking another boy, or man down actually means something in real-life!?!?!  That's fugged up!!!   I was always a very strong young man, and was on the wrestling team, gymnastics team, and track & field team!  But, I NEVER abused anyone of my classmates in the SLIGHTEST WAY!!!   I was fortunate to have had 10 years of bible study that made me sensitive to the feelings of others, and Christs teachings firmly affected my view(s) on life!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.012458043981481473,
+            "subjectivity": 0.6601851851851852
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Go to church. Start a mens group, and get a trade.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That's the feminist ideology, and they manipulate and use the idiots, intellectually disavantaged people and narcissist men to gain influence and make their garbage society project take over.",
+            "polarity": -0.25,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I'm sorry to say I wouldn't stop to help . Not now days are over females brought it to themselves I like lots of men are afraid to get involved  don't want the false accusations",
+            "polarity": -0.5000000000000001,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "Where the men gone? I am right here. The question is where have all the women gone? Why are women crazier today than any other time in modern history?",
+            "polarity": 0.12023809523809524,
+            "subjectivity": 0.4035714285714285
+        }
+    ]
+}

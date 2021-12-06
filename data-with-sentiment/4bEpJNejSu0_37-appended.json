@@ -1,0 +1,80 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-06 01:09:39",
+    "ups": "7796",
+    "downs": "445",
+    "views": "763200",
+    "top_comments": [
+        {
+            "comment": "*NORE trying to apologize for what he said of wale* \nEFN - \u201cyou said that?\u201d \nNORE - \u201cyou was there \ud83d\ude10\u201d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "*\u201dI\u2019ve never seen N.O.R.E. that quiet at the end like that.. like the last half hour after Nore was zooted & booted\u201d - MELL DUNEY 616*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05555555555555555,
+            "subjectivity": 0.18888888888888888
+        },
+        {
+            "comment": "*\u201dwhere was Wale going with that?\u201d - MELL DUNEY 616 **#Timestamp** @ **2:11:00*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "*\u201dwatchu wanna dew, watchu wanna dew\u201d N.O.R.E. was slizzard off da goose, he went to go throw up, never seen him like that, THIS IS BEYOND ME! - MELL DUNEY 616 **#TimeStamp** @ **2:08:00*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "should have asked him if him and meek going to come out with any music and if not, why",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1:10:32",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nore got fucked up!!!!!! Classic \ud83d\ude02\ud83d\ude02\ud83e\udd23\ud83e\udd23\ud83d\ude02\ud83d\ude02\ud83e\udd23",
+            "polarity": -0.4166666666666667,
+            "subjectivity": 0.4333333333333333
+        },
+        {
+            "body": "Wale got nore number fr fr he know how to play that game surgically \ud83d\ude4c\ud83c\udfff\ud83d\ude4c\ud83c\udfff",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Loveeee Wale!! Love everything Wale!! This was awesome!! Hilarious. Thank you!! \ud83d\ude4c\u2764\ud83d\udc4c\ud83d\udd25",
+            "polarity": 0.8541666666666666,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "body": "He shoulda kept his ass home if he didn\u2019t wanna be there lol dude is a weirdo with his attitude I see why people treat him the way they do now \ud83d\ude02",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Peace and Love! Nore, Biggie passed in 1997. 2Pac passed in 1996. Correction on the year Biggie passed.",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Damn wale insecure",
+            "polarity": -0.5,
+            "subjectivity": 0.875
+        }
+    ]
+}

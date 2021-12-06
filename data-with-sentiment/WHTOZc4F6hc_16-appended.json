@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 13:20:41",
+    "url": "https://www.youtube.com/watch?v=WHTOZc4F6hc",
+    "time_now": "2021-11-02 10:37:53",
+    "ups": "544",
+    "downs": "30",
+    "views": "52055",
+    "top_comments": [
+        {
+            "comment": "The old New York is back,, damn. Thank you Democrats.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.07878787878787878,
+            "subjectivity": 0.21818181818181817
+        },
+        {
+            "comment": "If Barack Hussein had two sons...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Searching for the usual suspect",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "CAUGH LACKING FUCKING SHIT BRO\ud83d\udd25\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\ude08",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": []
+}

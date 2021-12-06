@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-02 18:52:01",
+    "ups": "4417",
+    "downs": "192",
+    "views": "463304",
+    "top_comments": [
+        {
+            "comment": "1:20 you missed the some other guards",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Mr beast....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Way better then real squid game",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.4000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Mr beast....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "by the way, WHAT THE HELL ITS ENGLISH WHY",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It's fake \ud83e\udd25",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Bruh player 67 her lips in blue and bruh and player 456 honey comb us BEAST BURGER BOI GET THAT OUT",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Waiting for part 3 \ud83d\ude01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Good one",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

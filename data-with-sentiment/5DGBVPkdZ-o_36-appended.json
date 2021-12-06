@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 10:00:13",
+    "url": "https://www.youtube.com/watch?v=5DGBVPkdZ-o",
+    "time_now": "2021-11-05 21:02:08",
+    "ups": "24320",
+    "downs": "196",
+    "views": "251882",
+    "top_comments": [
+        {
+            "comment": "Hope soon collab again with james\u2665\u2665\u2665",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "subscribed. because of this song! im really impressed",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "A QUEEN INDEED!! \ud83d\ude0d\ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love music \u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "My JaDine heart \ud83d\udc9c\ud83d\udc94\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "fantastic Nadz :)",
+            "polarity": 0.45,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "subscribed. because of this song! im really impressed",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "wow! felt it so much. Thanks Nadine",
+            "polarity": 0.1625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Ang galing \ud83d\udc4f\ud83c\udffb",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "<3",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I love music \u2764",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

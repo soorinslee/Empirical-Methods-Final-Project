@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 16:00:08",
+    "url": "https://www.youtube.com/watch?v=F8_uSacJwzU",
+    "time_now": "2021-11-06 13:30:46",
+    "ups": "5212",
+    "downs": "66",
+    "views": "118318",
+    "top_comments": [
+        {
+            "comment": "How is this song only just getting 100k views, this is slept on hard frrr",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.14583333333333334,
+            "subjectivity": 0.7708333333333333
+        },
+        {
+            "comment": "Hard\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "How is this song only just getting 100k views, this is slept on hard frrr",
+            "polarity": -0.14583333333333334,
+            "subjectivity": 0.7708333333333333
+        }
+    ]
+}

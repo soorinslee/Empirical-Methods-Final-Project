@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-11-01 14:01:24",
+    "ups": "2838",
+    "downs": "44",
+    "views": "65866",
+    "top_comments": [
+        {
+            "comment": "Waiting for steam deck. I have a good feeling that one will finally fill the hole in my life.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "To answer the question, no.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Waiting for the Mi Pad 5/Pro review..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Not going to bother with that one.\n\nWe've waited for so long to get handhelds with more power than the currently used chipsets that I'm not going to spend a ton of money on a device that's just barely better than the current generation. \n\nI'll wait until we see some reliable performance upgrades in new devices instead of getting yet another unit that is just slightly better but still not enough and will likely be overtaken by other stuff in 2 or 3 months.",
+            "polarity": 0.14613636363636365,
+            "subjectivity": 0.5029545454545454
+        },
+        {
+            "body": "Lineage os?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I've a stack aside in case the pi 5 shows up.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

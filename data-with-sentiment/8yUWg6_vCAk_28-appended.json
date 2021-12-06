@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=8yUWg6_vCAk",
+    "time_now": "2021-11-04 12:04:17",
+    "ups": "3085",
+    "downs": "313",
+    "views": "71718",
+    "top_comments": [
+        {
+            "comment": "These massively open maps are not going to get me to drop BF4.",
+            "likes": 9,
+            "number_of_replies": 3,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "I'll say it again, another game that they had a great opportunity to be a fantastic game, and every trailer I see the more dissapointed I get (not to mention the bf beta) the only beautifull thing I see in this game are the maps",
+            "likes": 6,
+            "number_of_replies": 2,
+            "polarity": 0.07142857142857142,
+            "subjectivity": 0.6214285714285713
+        },
+        {
+            "comment": "Playstation \ud83d\udc99 Battlefield",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "BETA/GAME = TRASH on ps4",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "It looks worse than CoD",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'll wait till next year, once the fix the bugs/messy gameplay and bring back classes and add more maps.",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.16666666666666666
+        }
+    ]
+}

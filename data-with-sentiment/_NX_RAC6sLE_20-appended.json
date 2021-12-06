@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-03 03:06:21",
+    "ups": "17544",
+    "downs": "56",
+    "views": "182874",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2485,
+            "number_of_replies": 13,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "And now we how deeply Jungkook means when he says that he will either live with passion or he won't live !",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.10227272727272725,
+            "subjectivity": 0.4666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "OMG I'M NOT SURE HOW MUCH OF THAT WAS Love ly",
+            "polarity": 0.15,
+            "subjectivity": 0.5629629629629629
+        },
+        {
+            "body": "Can I just say when I first heard Junkook\u2019s version I had goosebumps everywhere. He is such an AMAZING talent with a BEAUTIFUL and ANGELIC voice..",
+            "polarity": 0.42500000000000004,
+            "subjectivity": 0.6833333333333333
+        },
+        {
+            "body": "hey, Motley kitty! uwu I'm in love \ud83d\ude0d\ud83d\ude3b",
+            "polarity": 0.625,
+            "subjectivity": 0.75
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-11-04 03:50:52",
+    "ups": "2051",
+    "downs": "33",
+    "views": "18765",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Looks. I\u2019ve.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love seeing when you try new things. Turned out beautiful but I definitely like the natural washes the most!",
+            "polarity": 0.3685606060606061,
+            "subjectivity": 0.5757575757575758
+        },
+        {
+            "body": "I love white. But l am going to try the black.",
+            "polarity": 0.11111111111111112,
+            "subjectivity": 0.3444444444444444
+        }
+    ]
+}

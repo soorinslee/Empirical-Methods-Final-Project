@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-04 20:19:20",
+    "ups": "7431",
+    "downs": "427",
+    "views": "113297",
+    "top_comments": [
+        {
+            "comment": "I didn\u2019t  see a single dude wearing Chelsea boots when I went out last weekend lol. Idk maybe it\u2019s because I\u2019m from dallas lol. We rock cowboy boots here . \ud83e\udd20",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3821428571428572,
+            "subjectivity": 0.4202380952380952
+        },
+        {
+            "comment": "White Air Force 1 are played out. Everyone has of shoes now.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Cheap Chelsea boot maybe out of style but not a nice JM Weston, Church\u2019s, John Lobb, Testoni, Edward Green....Never take men\u2019s shoes advice from Americans who love ugly shoes like Johnson and Murphy, Aldo, etc...",
+            "polarity": -0.024999999999999967,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "This video contradicts everything u have said in the past.the jeans looks bad bulky on the bottom make u look shorter.the boots I understand. But u loved chealse boots.the jacket for chubby people make the look even fatter",
+            "polarity": 5.551115123125783e-17,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "As a woman, I\u2019m just here to say Chelsea boots and especially turtlenecks still look so good on a man. Don\u2019t throw it out.\n\nBut the bombers have to go though lol.",
+            "polarity": 0.5,
+            "subjectivity": 0.7666666666666666
+        },
+        {
+            "body": "The relaxed fit jeans he had on will never look good with boots.  They would swallow up the boot.  Too much material at the bottom!",
+            "polarity": 0.45,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "yeah this dude has no idea  what he is saying.. come on  bomber jackets are out of style ya... go   somewhere with this",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

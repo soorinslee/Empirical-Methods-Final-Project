@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:28:29",
+    "url": "https://www.youtube.com/watch?v=GK0J6xd6XNc",
+    "time_now": "2021-10-31 17:24:57",
+    "ups": "2835",
+    "downs": "186",
+    "views": "141785",
+    "top_comments": [
+        {
+            "comment": "Spotify Playlist \u27a4 https://sptfy.com/gangstercity",
+            "likes": 25,
+            "number_of_replies": 11,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nice",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "POUSO ALTO-SP\ud83c\udde7\ud83c\uddf7\ud83d\udee3\ufe0f\ud83d\ude98\ud83c\udfb6\ud83d\udd7a\ud83c\udffb",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u2728\u2728\u2728\u2728",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

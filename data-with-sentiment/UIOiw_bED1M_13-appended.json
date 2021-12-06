@@ -1,0 +1,83 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-01 22:16:03",
+    "ups": "7487",
+    "downs": "207",
+    "views": "191055",
+    "top_comments": [
+        {
+            "comment": "I'm playing the game on my PS5 and the graphic is very good.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16999999999999996,
+            "subjectivity": 0.5266666666666667
+        },
+        {
+            "comment": "Guardians of the Galaxy PS5 in Quality Mode uses a dynamic resolution with the highest resolution found being 3840x2160 and the lowest resolution found being 2880x1620.\nXbox Series X in Quality Mode uses a dynamic resolution with the highest resolution found being 3840x2160 and the lowest resolution found being 3200x1800.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "Damn, I played through the e tire game and didn't even realize it had a quality or performance mode. Lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Trashgen",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Running at what a ps5 can handle \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23 upscaled 1080p and 1080p respectively....... \ud83d\ude2d\ud83d\ude02\ud83d\ude02\ud83d\ude02 XBOX BETTER.",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Finally some game with 1080p mode. I have 1080p tv and it was annoying that all games were forcing me to waste power of my console for playing in higher resolutions (and yes, 1080p players still exists and there is a lot of us)",
+            "polarity": -0.23000000000000004,
+            "subjectivity": 0.5599999999999999
+        },
+        {
+            "body": "Consoles are great easy to use gaming machines for but I really hope we aren't seeing gaming innovation held back by consoles, the PS5 is already a weak machine by today's standards and so rare i'm not even sure they are real",
+            "polarity": 0.2572916666666667,
+            "subjectivity": 0.5621527777777777
+        },
+        {
+            "body": "What are DF talking about? There is no difference in quality between the 4K mode and 1080p mode. If anything, 1080p looks sharper due to the doubled frame rate.",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Another games whose consoles versions have no ray tracing unlike on pc?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Guardians of the Galaxy PS5 in Quality Mode uses a dynamic resolution with the highest resolution found being 3840x2160 and the lowest resolution found being 2880x1620.\nXbox Series X in Quality Mode uses a dynamic resolution with the highest resolution found being 3840x2160 and the lowest resolution found being 3200x1800.",
+            "polarity": 0.0,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Can you do a PC equivalent settings video and performance study? Also what about the Gen8 consoles?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I just finished this over the weekend on Series X and man VRR, I never saw the frame drops during my playthrough. I played it mostly on Performance as it felt so good. but the Quality mode is definitely one to use for the screenshots for sure.",
+            "polarity": 0.425,
+            "subjectivity": 0.6222222222222222
+        },
+        {
+            "body": "Think about this:  game runs 1080p60 on Series X and 1080p30 on Series S. That implies Series X is only twice as powerful as Series S. This is not the case by any metric. And changing from 1080p to 4K is more than twice as demanding. They could do better than 1080p60 on PS5 & XSX if they spent more time optimizing.",
+            "polarity": 0.1857142857142857,
+            "subjectivity": 0.5714285714285714
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-11-03 03:07:19",
+    "ups": "3460",
+    "downs": "19",
+    "views": "45575",
+    "top_comments": [
+        {
+            "comment": "Thank you so much for listing the recipe in grams. Will be baking these tomorrow. Just bought 25lbs of pecans from the farm today.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Very nice\ud83d\ude4f\ud83c\udffbThank you for this video, I prefer walnuts over pecans \n\u2026 because of my Armenian /Persian background\u2026also leaned walnuts have more protein and I love the taste \ud83d\udcaa\ud83c\udffbso we\u2019ll definitely going make some now, \nsince it\u2019s a big walnut season here in Glendale, CA \u270c\ud83c\udffb",
+            "polarity": 0.24,
+            "subjectivity": 0.4
+        }
+    ]
+}

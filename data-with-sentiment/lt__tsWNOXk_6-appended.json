@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-10-31 17:25:39",
+    "ups": "5279",
+    "downs": "260",
+    "views": "71886",
+    "top_comments": [
+        {
+            "comment": "Most of this list is still more stylish than 'trendy items'. Trends come and go, classic staples stay around for a long time",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.36944444444444446,
+            "subjectivity": 0.5777777777777777
+        },
+        {
+            "comment": "LET'S GO BRANDON",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My guy I've been watching your videos and changed my style \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23what the hell Im not watching your videos on style again no way .",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lol, Jose the only guy to recommend an item one day and then prop it down the next\ud83e\udd78",
+            "polarity": 0.21481481481481482,
+            "subjectivity": 0.662962962962963
+        },
+        {
+            "body": "Josh:- our brand is better than those cheap H&M\nAlso Josh:- H&M is your go to!",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "None of them are out of style but u get it when he's doing the PR for h&m",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Thr moment something goes out of fashion, thats when it\u2019s actually fire",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Next year he\u2019ll say everything on the list is back in style",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "LET'S GO BRANDON",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bomber still ok, chelsea not ok for muscle and bigger guy, flannel always ok, ripped jeans never ok, jogger should be comfy not tight",
+            "polarity": 0.09821428571428571,
+            "subjectivity": 0.46428571428571425
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-06 09:23:52",
+    "ups": "20875",
+    "downs": "69",
+    "views": "234106",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 3051,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "TXT - In My Blood (Shawn Mendes) is incredible!!!!!!! check it!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "JK\u2019s cover of Falling has full of emotions. The moment I heard of this cover, I really felt the pain thru his voice. Super love this cover of JK. He is really an amazing singer. \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.39666666666666667,
+            "subjectivity": 0.5833333333333333
+        },
+        {
+            "body": "JK!!!!\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4d\ud83c\udfbc\ud83c\udfb6\ud83c\udfb6\ud83d\udcaa\ud83d\udc07\ud83d\ude18\ud83d\ude0d\ud83d\udc93\ud83d\udc9c\u270c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Both versions are so good Harry and JK",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Sounds beautiful hayzzz\ud83d\udc9c\u2764\ud83d\udc9c",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        }
+    ]
+}

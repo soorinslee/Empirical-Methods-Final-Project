@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-11-02 22:59:51",
+    "ups": "1962",
+    "downs": "34",
+    "views": "114628",
+    "top_comments": [
+        {
+            "comment": "I love how Claudio just didn\u2019t say anything and complemented the soup when it poured on him.",
+            "likes": 47,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Thea asking \"how am i doing guys\" after people cheer for Trevor is so cringy....",
+            "likes": 17,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love Claudio's reaction at having food thrown on him xD\n\nAny person's reaction : \"You clumsy moron, look at what you've done you donut!!!\" \nClaudio's reaction : *YUM!* xD",
+            "likes": 10,
+            "number_of_replies": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "No there is a hard dish that takes like 3 days it\u2019s a Indian dish called sadhiya",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment": "I felt that instinctually when her soup fell on Claudio.",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Eating 5 dollar pizza watching 5 star quality food",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You know Claudio didn\u2019t want Eric to win\u2026\u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

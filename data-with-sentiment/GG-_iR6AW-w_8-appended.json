@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 13:30:27",
+    "url": "https://www.youtube.com/watch?v=GG-_iR6AW-w",
+    "time_now": "2021-11-01 01:40:09",
+    "ups": "2319",
+    "downs": "44",
+    "views": "66370",
+    "top_comments": [
+        {
+            "comment": "Just want to remind my fellow Indians that their is no permanent friend or foe in geo politics .\nIt is all about the interest of the nations",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "We love France \ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Roman's are for soldiers & Catholics are for peace & love\ud83c\udf39",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "*INDIAN MAKHI MAR ARMY \ud83e\udd9fIndia's mosquito killer army\ud83e\udd9f poonch Kashmir zindabad*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Modi ji is very good leader for us indians.",
+            "polarity": 0.9099999999999999,
+            "subjectivity": 0.7800000000000001
+        }
+    ]
+}

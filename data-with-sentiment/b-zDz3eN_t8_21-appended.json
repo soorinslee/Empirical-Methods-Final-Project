@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-03 07:13:52",
+    "ups": "4958",
+    "downs": "214",
+    "views": "538321",
+    "top_comments": [
+        {
+            "comment": "Mr beast....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I like how the lips are just blue.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "CAN'T STOP LAUGHING AT THE LIGHT BLUE LIPS \ud83e\udd23\ud83d\ude02\ud83e\udd23",
+            "polarity": 0.2,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "This is Photoshop because I see pink outline that means he was the edit it",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Nice but it\u2019s very hard",
+            "polarity": 0.11041666666666664,
+            "subjectivity": 0.8520833333333333
+        },
+        {
+            "body": "They have blue lips lol",
+            "polarity": 0.4,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "Fakeeeeeerrrrrr",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*b l u e l i p s*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

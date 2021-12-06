@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-05 04:33:44",
+    "ups": "11064",
+    "downs": "895",
+    "views": "628966",
+    "top_comments": [
+        {
+            "comment": "Cool make up for Halloween.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "If you like the video - don't forget to share it with your friends! We're really appreciate your support.\nYou'll definitely like these videos:\nhttps://youtu.be/NXVlesZhUiU?list=PLy0LaulZe0vT6X9trmizSZHLzF5r9C2TI&playnext=1\n\u2605 Let's be friends: \nFacebook | https://www.facebook.com/troomhands \nPinterest | https://www.pinterest.com/troomtroom \nInstagram: https://www.instagram.com/troomtroom",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.35
+        },
+        {
+            "comment": "Wow that's great news about the job search",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.875
+        },
+        {
+            "comment": "I saw 4 cookies!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "11:50  omoooo \ud83d\ude31 she looks like Jennie from Black Pink\nBecause the hair was inspired by Jennie \ud83d\udc9c",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.3666666666666667
+        }
+    ],
+    "comments_since_last_sample": []
+}

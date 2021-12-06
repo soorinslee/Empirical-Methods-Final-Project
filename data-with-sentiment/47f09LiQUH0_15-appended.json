@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-11-02 06:30:43",
+    "ups": "7599",
+    "downs": "328",
+    "views": "162720",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Dad is an absolute weirdo",
+            "polarity": 0.2,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I thought their dress was gonna catch on fire",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

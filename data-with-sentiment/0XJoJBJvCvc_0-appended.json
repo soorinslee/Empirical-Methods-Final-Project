@@ -1,0 +1,75 @@
+{
+    "time_posted": "2021-10-30 14:45:00",
+    "url": "https://www.youtube.com/watch?v=0XJoJBJvCvc",
+    "time_now": "2021-10-30 16:46:08",
+    "ups": "84",
+    "downs": "11",
+    "views": "3297",
+    "top_comments": [
+        {
+            "comment": "Wesh",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u091d\u093e\u0908\u092f\u094b\u0902, \u092e\u0941\u0901\u0939\u093e\u0938\u094b, \u0926\u093e\u0917-\u0927\u092c\u094d\u092c\u094b \u0915\u094b \u0938\u093e\u092b \u0915\u0930\u0928\u0947 \u0915\u093e \u0924\u0930\u0940\u0915\u0947\ud83d\ude0a\ud83d\udc4d.\u0964\n\ud83d\udc49 https://youtu.be/02UEOwbkD6Q\n\ud83d\udc49 https://youtu.be/Fh6bCGhF4T0\n\ud83d\udc49 https://youtu.be/BFAetisesuc\n\ud83d\udc49  https://youtu.be/nGSFdk67Kxg\nCoffee powder face pack ...\u0964\u0964\u0964...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "You are amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Thanks",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Maja aa gaya",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You are amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "\u091d\u093e\u0908\u092f\u094b\u0902, \u092e\u0941\u0901\u0939\u093e\u0938\u094b, \u0926\u093e\u0917-\u0927\u092c\u094d\u092c\u094b \u0915\u094b \u0938\u093e\u092b \u0915\u0930\u0928\u0947 \u0915\u093e \u0924\u0930\u0940\u0915\u0947\ud83d\ude0a\ud83d\udc4d.\u0964\n\ud83d\udc49 https://youtu.be/02UEOwbkD6Q\n\ud83d\udc49 https://youtu.be/Fh6bCGhF4T0\n\ud83d\udc49 https://youtu.be/BFAetisesuc\n\ud83d\udc49  https://youtu.be/nGSFdk67Kxg\nCoffee powder face pack ...\u0964\u0964\u0964...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Segunda\ud83d\ude44\ud83d\udc85",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wesh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

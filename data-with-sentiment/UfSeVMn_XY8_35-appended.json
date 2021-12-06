@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-11-05 16:55:32",
+    "ups": "6533",
+    "downs": "496",
+    "views": "435581",
+    "top_comments": [
+        {
+            "comment": "Good morning teacher and she said she will be there for you through ups and down the road to recovery and chair for kids girl sale for the people who are always welcome to come to my house and lot",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4481481481481482,
+            "subjectivity": 0.5962962962962964
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Love your videos wasted all my bandwidth watching Your videos \ud83d\ude0d\ud83e\udd70\ud83e\udd23\ud83d\ude02\ud83d\ude05 could you do a video of Ron\u2019s gone wrong please me will subscribe if you do can\u2019t wait for your next video!",
+            "polarity": -0.05,
+            "subjectivity": 0.375
+        }
+    ]
+}

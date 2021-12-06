@@ -1,0 +1,171 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj3dtv/is_popular_music_becoming_sadder/",
+    "time_posted": "2021-10-30 11:07:55",
+    "time_now": "2021-10-30 16:46:29",
+    "ups": 6,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinmbcs",
+            "body": "Maybe to some degree, but I think it just changes a lot. Some years are going to have happier pop music than others. I don't think it's really a big trend or anything though.",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment_id": "hinm9wb",
+            "body": "I hear people saying music is becoming happier. It is both imo",
+            "polarity": 0.45,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "comment_id": "hingxox",
+            "body": "That's what happens when you attack the writer who doesn't want to write. Popular music isn't getting sadder anymore, it's gone, for good.",
+            "polarity": 0.6499999999999999,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hingr93",
+            "body": "Popular because the population is sad.",
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "hingc0h",
+            "body": "It is true. Also it is getting less and less creative with countless songs being just beats with little to no melody. Also often the beats are the same in multiple songs.",
+            "polarity": 0.041145833333333326,
+            "subjectivity": 0.36354166666666665
+        },
+        {
+            "comment_id": "hing13z",
+            "body": "Unless that article was from the mid 70s, not really",
+            "polarity": -0.05,
+            "subjectivity": 0.1
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hingc0h",
+            "body": "It is true. Also it is getting less and less creative with countless songs being just beats with little to no melody. Also often the beats are the same in multiple songs.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.041145833333333326,
+            "subjectivity": 0.36354166666666665
+        },
+        {
+            "comment_id": "hingr93",
+            "body": "Popular because the population is sad.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "hingxox",
+            "body": "That's what happens when you attack the writer who doesn't want to write. Popular music isn't getting sadder anymore, it's gone, for good.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6499999999999999,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hinm9wb",
+            "body": "I hear people saying music is becoming happier. It is both imo",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "comment_id": "hinmbcs",
+            "body": "Maybe to some degree, but I think it just changes a lot. Some years are going to have happier pop music than others. I don't think it's really a big trend or anything though.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hingc0h",
+            "body": "It is true. Also it is getting less and less creative with countless songs being just beats with little to no melody. Also often the beats are the same in multiple songs.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.041145833333333326,
+            "subjectivity": 0.36354166666666665
+        },
+        {
+            "comment_id": "hingr93",
+            "body": "Popular because the population is sad.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "hingxox",
+            "body": "That's what happens when you attack the writer who doesn't want to write. Popular music isn't getting sadder anymore, it's gone, for good.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6499999999999999,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hinm9wb",
+            "body": "I hear people saying music is becoming happier. It is both imo",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "comment_id": "hinmbcs",
+            "body": "Maybe to some degree, but I think it just changes a lot. Some years are going to have happier pop music than others. I don't think it's really a big trend or anything though.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hingc0h",
+            "body": "It is true. Also it is getting less and less creative with countless songs being just beats with little to no melody. Also often the beats are the same in multiple songs.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.041145833333333326,
+            "subjectivity": 0.36354166666666665
+        },
+        {
+            "comment_id": "hingr93",
+            "body": "Popular because the population is sad.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "hingxox",
+            "body": "That's what happens when you attack the writer who doesn't want to write. Popular music isn't getting sadder anymore, it's gone, for good.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6499999999999999,
+            "subjectivity": 0.75
+        },
+        {
+            "comment_id": "hinm9wb",
+            "body": "I hear people saying music is becoming happier. It is both imo",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "comment_id": "hinmbcs",
+            "body": "Maybe to some degree, but I think it just changes a lot. Some years are going to have happier pop music than others. I don't think it's really a big trend or anything though.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

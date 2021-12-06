@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 13:00:24",
+    "url": "https://www.youtube.com/watch?v=pTIz3Mu59fE",
+    "time_now": "2021-10-30 16:46:16",
+    "ups": "202",
+    "downs": "7",
+    "views": "2463",
+    "top_comments": [
+        {
+            "comment": "Hi Amanda, I hope that your day got better. The cake looks really good! Also, I loved your daughter's comment at the end. \ud83d\udc96",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.6916666666666668,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "comment": "Amanda you are as real as the first cup of coffee.  Don\u2019t we all have bad days but how many have the guts to face the camera.  As they say, You Go Girl. From a Big 52 Fan\ud83d\ude4f\ud83c\udffd",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.05000000000000003,
+            "subjectivity": 0.38
+        },
+        {
+            "comment": "This is refreshing. It is exactly how I cook. Leaning in to read the recipe",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "Like 14 wow that looks delicious cake and very tasty thanks for sharing my dear sister stay connected \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc48\ud83d\udc48\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "This is a stunning Cake \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That salad though",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Everything about you, Amanda, is real and you are breath of fresh air.  How lucky you are to have Miss Addison goofing around with you in the kitchen - I miss those days with my daughters.  The cake looks amazing.",
+            "polarity": 0.35833333333333334,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "body": "This is refreshing. It is exactly how I cook. Leaning in to read the recipe",
+            "polarity": 0.375,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "why are the edited in comments so snarky tho",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Amanda you are as real as the first cup of coffee.  Don\u2019t we all have bad days but how many have the guts to face the camera.  As they say, You Go Girl. From a Big 52 Fan\ud83d\ude4f\ud83c\udffd",
+            "polarity": 0.05000000000000003,
+            "subjectivity": 0.38
+        },
+        {
+            "body": "This is a stunning Cake \ud83d\ude0d",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "this book looks ridiculous, I fell in love at first sight",
+            "polarity": 0.1388888888888889,
+            "subjectivity": 0.6444444444444445
+        },
+        {
+            "body": "Hi Amanda, I hope that your day got better. The cake looks really good! Also, I loved your daughter's comment at the end. \ud83d\udc96",
+            "polarity": 0.6916666666666668,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "body": "Hi Amanda.  I really enjoy watching you bake/coke. Specially the side comments are funny.",
+            "polarity": 0.3357142857142857,
+            "subjectivity": 0.6904761904761904
+        },
+        {
+            "body": "Like 14 wow that looks delicious cake and very tasty thanks for sharing my dear sister stay connected \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc48\ud83d\udc48\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83c\udf3c",
+            "polarity": 0.375,
+            "subjectivity": 0.625
+        }
+    ]
+}

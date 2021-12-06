@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-04 16:11:28",
+    "ups": "9711",
+    "downs": "41",
+    "views": "118123",
+    "top_comments": [
+        {
+            "comment": "#PAYINTHEBARREL",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "you could clone netherite",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thanks you enyertain me",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ethoslab: whoever shovels sand is a sucker, use TNT instead",
+            "polarity": -0.3,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "The billboard in boaten village is visual pollution.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How about this...if someone wants infinit sand in their inventory, they cam load Up the spot with full shulkerboxes that are automatically set up and taken down when empty. \nSince they only rent out the show item spot, they have to provide their own material, right? \nBut if you makd the system specifically for shulkerboxes and they also have to provide their own shulkerboxes, then people will buy more of them from you too.",
+            "polarity": 0.2533509700176367,
+            "subjectivity": 0.6082892416225749
+        }
+    ]
+}

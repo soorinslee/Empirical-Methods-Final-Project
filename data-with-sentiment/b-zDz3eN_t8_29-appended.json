@@ -1,0 +1,81 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-04 16:11:27",
+    "ups": "6575",
+    "downs": "292",
+    "views": "719385",
+    "top_comments": [
+        {
+            "comment": "Gg",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The editing in this video is insane",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hlo Sir plz help me",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I know the lips I was going to say about that",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "@mrbeast lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "#",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The editing in this video is insane",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

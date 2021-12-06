@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-03 07:14:19",
+    "ups": "23123",
+    "downs": "1676",
+    "views": "572566",
+    "top_comments": [
+        {
+            "comment": "\"Leaf is short thing\" \n\"Mother and God is everything\" \n\"Support is everything\".\u2764\ufe0f\ud83d\udc9c\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Bharat. Mata ki Jai",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Very good",
+            "polarity": 0.9099999999999999,
+            "subjectivity": 0.7800000000000001
+        },
+        {
+            "body": "Do Jesus know about the petrol and diesel hike in india ohh I get it he never used a vehicle before..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The poop wil call out Islamophobia, Hinduphobia, buddhaphobia, catholicphobia but not call out christophobia.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

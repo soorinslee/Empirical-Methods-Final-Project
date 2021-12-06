@@ -1,0 +1,62 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qittqu/instagram_group_chat_for_artists_producers_and/",
+    "time_posted": "2021-10-30 00:20:32",
+    "time_now": "2021-11-05 16:56:27",
+    "ups": 1,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hilzf9o",
+            "body": "hello",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiql92h",
+            "body": "mmmxkay",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hilzf9o",
+            "body": "hello",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiql92h",
+            "body": "mmmxkay",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hilzf9o",
+            "body": "hello",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiql92h",
+            "body": "mmmxkay",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

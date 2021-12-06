@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-02 22:59:02",
+    "ups": "17192",
+    "downs": "158",
+    "views": "212453",
+    "top_comments": [
+        {
+            "comment": "I was kind of hoping that because they\u2019re all adults now they would let go of the \u201cclean\u201d image where they don\u2019t say any curse words. It\u2019s so boring tbh.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.011111111111111108,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "comment": "Love this!!\ud83e\udd8b",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Omg yess lisaaaaa backckck",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love this!!\ud83e\udd8b",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "SO SO TALENTED!! I completely understand and respect that y\u2019all change the lyrics but idk there is just something about cursing in this song that is so therapeutic. Either way I still LOVED this",
+            "polarity": 0.6,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Yes Amy! \ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Que le paso a Cimorelli?\nya no tienen el toque de lo que tenian antes... Me da mucha pena que ahora suenen asi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "that's amazing omg",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "AMY. \ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I was kind of hoping that because they\u2019re all adults now they would let go of the \u201cclean\u201d image where they don\u2019t say any curse words. It\u2019s so boring tbh.",
+            "polarity": -0.011111111111111108,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "body": "Its too bad Katherine was not there she would have KILLED it with her soothing voice!",
+            "polarity": -0.4749999999999999,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

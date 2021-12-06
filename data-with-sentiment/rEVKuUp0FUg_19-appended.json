@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-02 22:59:56",
+    "ups": "6795",
+    "downs": "51",
+    "views": "87371",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 548,
+            "number_of_replies": 152,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Can\u2019t wait to try this I always want to be as flexible as you Anna ! Lot of love for you \ud83d\udc96",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "And make the video in comments",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I am 11 year old i am your big fan i am a girl",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "comment": "I can't do that all sretches",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Anna",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You are nice \ud83d\ude0a",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

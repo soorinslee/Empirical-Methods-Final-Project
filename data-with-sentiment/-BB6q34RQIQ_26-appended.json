@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-04 03:50:49",
+    "ups": "632",
+    "downs": "169",
+    "views": "61080",
+    "top_comments": [
+        {
+            "comment": "Cases are going down for the same reason they went down after the first wave. Delta rolled through, infected tons of people, then the cases went down. It's the exact same thing that will happen when the next variant rolls through.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.004166666666666655,
+            "subjectivity": 0.21250000000000002
+        },
+        {
+            "comment": "I'm afraid in some cities, masks will never go away, because, Hey, after all, its the safe and nice thing to do. Eventually I will literally move outta Los Angeles just because of the masks. I hate them so much",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": -0.020000000000000007,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Not the jab. Lol.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Not the jab. Lol.",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I'm afraid in some cities, masks will never go away, because, Hey, after all, its the safe and nice thing to do. Eventually I will literally move outta Los Angeles just because of the masks. I hate them so much",
+            "polarity": -0.020000000000000007,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Folks. Hey! This is the real world. Get hired to speak for NBC news only if you walk the line of the producers. This doctor, whom many people trust, and other doctors in positions of trust, do, and will, continue to do, sell themselves out to the highest bidder - the dollar. It's a free market capitalist society baby. That is how they go to bed at night; telling their consciousness, the next doctor in line would be willing do the same thing. For CASH $$$$$$.",
+            "polarity": 0.153125,
+            "subjectivity": 0.48124999999999996
+        },
+        {
+            "body": "Just here to say, Let's Go Brandon!  FJB",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "People still die of something everyday",
+            "polarity": -0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "yea, all of a sudden natural immunity  is being considered. always late.",
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.5
+        }
+    ]
+}

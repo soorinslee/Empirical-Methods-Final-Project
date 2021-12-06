@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=5C3uUlBSYY0",
+    "time_now": "2021-11-02 22:59:50",
+    "ups": "2600",
+    "downs": "190",
+    "views": "167079",
+    "top_comments": [
+        {
+            "comment": "Claim your \u201chere within an hour\u201d ticket right here\ud83c\udfc6",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "comment": "I was shocked by Melissa wiping lipstick on her dads T-shirt oh Melissa of course she regrets it \ud83d\ude00",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.39999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Yeah !\nThis story so funny and cute \ud83e\udd70 \nVery good \ud83d\udc4f",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5533333333333333,
+            "subjectivity": 0.9266666666666667
+        },
+        {
+            "comment": "Troom troom is the best\ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Like the video? Share with your friends! ;-) \nYou'll definitely like these videos:\nhttps://youtu.be/4ELElSATkYg?list=PLStfTQaLmLwgNIPT7UKfSMX7NPt7dCBYv&playnext=1\n\u2605 Let's be friends:\nFacebook | https://www.facebook.com/troomhands\nPinterest | https://www.pinterest.com/troomtroom\nInstagram: https://www.instagram.com/troom_select",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.125,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": []
+}

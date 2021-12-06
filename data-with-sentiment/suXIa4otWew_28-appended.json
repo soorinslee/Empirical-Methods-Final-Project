@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 09:14:41",
+    "url": "https://www.youtube.com/watch?v=suXIa4otWew",
+    "time_now": "2021-11-04 12:04:13",
+    "ups": "167885",
+    "downs": "1508",
+    "views": "1888726",
+    "top_comments": [
+        {
+            "comment": "The trauma I get Every time I listen to this song ......\ud83d\ude36\ud83d\ude36\nOnly Indian armys can understand \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "U did amazing somi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "My Indian mom wont lemme hear this master piece\ud83d\ude16",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Somi te amooooo\ud83d\udc9c\ud83d\udc9c mereces m\u00e1s reconocimiento, eres lo m\u00e1ximo te amoo\ud83d\ude3b\ud83d\udc9c\ud83d\udc9c\ud83c\udf08\ud83d\udc51\ud83d\udc51",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u041b\u0443\u0447\u0448\u0430\u044f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u274c\u2b55\u274c\u2b55",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "U did amazing somi",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ]
+}

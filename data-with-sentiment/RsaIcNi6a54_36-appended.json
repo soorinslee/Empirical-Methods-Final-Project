@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 15:10:23",
+    "url": "https://www.youtube.com/watch?v=RsaIcNi6a54",
+    "time_now": "2021-11-05 21:02:31",
+    "ups": "421",
+    "downs": "20",
+    "views": "23828",
+    "top_comments": [
+        {
+            "comment": "Fawad ko nasihat ha ky Taqaat or wazarat hmesha nahi rehti ... Insan ka acha akhlaq insan ko azeem bnata ha",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "We love ulma e kram",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "We love TLP \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83c\uddf5\ud83c\uddf0\u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Allah Pak Ap ko Salamat rakhy Khan Sahab",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

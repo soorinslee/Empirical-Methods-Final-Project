@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-06 13:30:50",
+    "ups": "16151",
+    "downs": "360",
+    "views": "209065",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 875,
+            "number_of_replies": 21,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "am supposed to be working. happened onto YT and seen this new one.  HAD TO CHECK IT OUT.  Love Phil for years.  This was a great cover Ms. Orlandi!. Just wish there was that amazing Phil drum beats in this too :P",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5972727272727273,
+            "subjectivity": 0.740909090909091
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Great harder cover of a great song.  You nailed it.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "\u0428\u0438\u043a\u0430\u0440\u043d\u043e!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

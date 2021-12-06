@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj3o2e/pop_music_is_dead/",
+    "time_posted": "2021-10-30 11:22:30",
+    "time_now": "2021-11-03 07:14:40",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinkp5d",
+            "body": "Thanks, I'm sure everyone will listen to you.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.5444444444444444
+        },
+        {
+            "comment_id": "hinl0ch",
+            "body": "As long as there are commercials there will be pop music.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hip1ua3",
+            "body": "Didn\u2019t Taylor Swift just win Album of the year?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hinhkeo",
+            "body": "Thank god long live Rock!",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.06022727272727272,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinsy0w",
+            "body": "They were and are popular with those who don't know anything about music. They were never relevant. Also, rock is here to stay.",
+            "ups": -2,
+            "downs": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.9
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinkp5d",
+            "body": "Thanks, I'm sure everyone will listen to you.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.5444444444444444
+        },
+        {
+            "comment_id": "hinl0ch",
+            "body": "As long as there are commercials there will be pop music.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hip1ua3",
+            "body": "Didn\u2019t Taylor Swift just win Album of the year?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hinhkeo",
+            "body": "Thank god long live Rock!",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.06022727272727272,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinsy0w",
+            "body": "They were and are popular with those who don't know anything about music. They were never relevant. Also, rock is here to stay.",
+            "ups": -3,
+            "downs": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.9
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinkp5d",
+            "body": "Thanks, I'm sure everyone will listen to you.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.5444444444444444
+        },
+        {
+            "comment_id": "hinl0ch",
+            "body": "As long as there are commercials there will be pop music.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hip1ua3",
+            "body": "Didn\u2019t Taylor Swift just win Album of the year?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hinhkeo",
+            "body": "Thank god long live Rock!",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.06022727272727272,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinsy0w",
+            "body": "They were and are popular with those who don't know anything about music. They were never relevant. Also, rock is here to stay.",
+            "ups": -4,
+            "downs": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.9
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-02 06:30:11",
+    "ups": "5600",
+    "downs": "63",
+    "views": "69394",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 310,
+            "number_of_replies": 40,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "love youuuuuuuuuuuuuuuu!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Your voice is beautiful and so relaxing. Keep up the astounding work <3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8166666666666668,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Linda voz e m\u00fasica \ud83d\udc4dsucesso a cada dia \ud83c\udde7\ud83c\uddf7",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wow\ud83e\udd7amy fav \ud83d\ude16\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That was the best version of the song I\u2019ve heard.",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "omg i love this song soooo much specially alexander",
+            "polarity": 0.4285714285714286,
+            "subjectivity": 0.5857142857142856
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-11-01 01:40:22",
+    "ups": "1438",
+    "downs": "29",
+    "views": "75350",
+    "top_comments": [
+        {
+            "comment": "Nice vid mate!!! \u2764\ufe0f \nThe cost of living is getting higher per sec...People are complaining about employee wages and it's the more reason to start your own business. Even if its something small, make yourself your own ceo... \n\nNevertheless passive income (Gold, stocks, real estate, crypto, buy shares) are easy ways to accumulate money.",
+            "likes": 23,
+            "number_of_replies": 35,
+            "polarity": 0.41666666666666674,
+            "subjectivity": 0.6916666666666667
+        },
+        {
+            "comment": "I like how Beccy wasn't just strategizing her appetizer, but the whole course meal.",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "I love how Claudio just didn\u2019t say anything and complemented the soup when it poured on him.",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\"This dish is like my grandpa on a plate\"\nMe who is confused, \"Ok.... Nice dish..... Good cooking... umm....\"",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "comment": "LOVING how active the channel has become the past fortnight or so!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.051388888888888894,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nice vid mate!!! \u2764\ufe0f \nThe cost of living is getting higher per sec...People are complaining about employee wages and it's the more reason to start your own business. Even if its something small, make yourself your own ceo... \n\nNevertheless passive income (Gold, stocks, real estate, crypto, buy shares) are easy ways to accumulate money.",
+            "polarity": 0.41666666666666674,
+            "subjectivity": 0.6916666666666667
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-04 20:18:30",
+    "ups": "15397",
+    "downs": "333",
+    "views": "190101",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 840,
+            "number_of_replies": 19,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lmao i don't know what i love the most, the cover or the relationship with chucky.  Really good job adapting the song",
+            "polarity": 0.575,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "Oh please cover 'Turning Japanese' with a serious metal twist.",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Is it just me or becomes Violet more and more gothic and dark?",
+            "polarity": 0.2833333333333333,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "body": "Hello V,...could you do \"dark paradise\"(lana del rey) in the near future?",
+            "polarity": -0.016666666666666663,
+            "subjectivity": 0.30833333333333335
+        },
+        {
+            "body": "This was my dad's favorite song",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Strong and creative!!",
+            "polarity": 0.6072916666666667,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "body": "I love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

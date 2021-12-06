@@ -1,0 +1,118 @@
+{
+    "time_posted": "2021-10-30 12:30:09",
+    "url": "https://www.youtube.com/watch?v=IkgahqXvk5I",
+    "time_now": "2021-10-30 16:46:18",
+    "ups": "179",
+    "downs": "17",
+    "views": "16088",
+    "top_comments": [
+        {
+            "comment": "1",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83c\uddf5\ud83c\uddf0 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0632\u0646\u062f\u06c1 \u0628\u0627\u062f \ud83c\uddf5\ud83c\uddf0,,",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Amazing \ud83e\udd70\ud83e\udd29\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Beautiful \ud83d\udc4c",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\u092c\u0939\u0941\u0924 \u0938\u0941\u0902\u0926\u0930",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Beautiful \u2764\ufe0f",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "What an idea \ud83d\udca1 OMG fabulous \ud83d\ude18\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "polarity": 0.4,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Very very beautiful",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Very nice and simple",
+            "polarity": 0.39,
+            "subjectivity": 0.6785714285714286
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83c\uddf5\ud83c\uddf0 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0632\u0646\u062f\u06c1 \u0628\u0627\u062f \ud83c\uddf5\ud83c\uddf0,,",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Superb",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\u0623\u0646\u0627 \u064a\u062a\u064a\u0645\u0629 \u0627\u0644\u0623\u0628 \u0648\u0627\u0644\u0623\u0645 \u0639\u0645\u0631\u064a15 \u0628\u062a\u0645\u0646\u0649 \u062a\u062f\u0639\u0645\u0648\u0646\u064a \u0644\u062d\u062a\u0649 \u0623\u0642\u062f\u0631 \u0643\u0628\u0631 \u0642\u0646\u0627\u062a\u064a \u0648\u0627\u0646\u0634\u0647\u0631 \u2764\ufe0f\ud83e\udd70",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Woooow \u2665\ufe0f\ud83c\udf39",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Keep up \ud83d\ude0d\ud83d\udd1d\ud83d\udd1d\ud83d\udd1d\ud83d\udd1d\ud83d\udd1d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Amazing \ud83e\udd70\ud83e\udd29\ud83d\udc4c",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Biiig first lk \ud83d\udca5\u2764\ud83d\udc4c",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Super \ud83d\udc4c\ud83c\udffb \ud83d\udc4d\ud83c\udffb \ud83d\ude0d \ud83e\udd70 \ud83d\ude18 \u263a \ud83d\udc4c\ud83c\udffb \ud83d\udc4d\ud83c\udffb",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:00:08",
+    "url": "https://www.youtube.com/watch?v=Jan2QRtEtkk",
+    "time_now": "2021-11-05 16:54:53",
+    "ups": "46088",
+    "downs": "1176",
+    "views": "1213670",
+    "top_comments": [
+        {
+            "comment": "Where have the men gone? Girl, have you listened to yourself lately?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Bunch of bloody crybabies.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "I don't exist to defend young women I don't even know. If it were a family member, or a senior or child than yes.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Whats in it for men to risk themselves for random women. Seriously why?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.41666666666666663,
+            "subjectivity": 0.5833333333333333
+        },
+        {
+            "comment": "They turned gender and now they watch cnn",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My wife asks this all the time and I tell her, spend more time at home and less time at work around pussies",
+            "polarity": 0.16666666666666669,
+            "subjectivity": 0.2833333333333333
+        }
+    ]
+}

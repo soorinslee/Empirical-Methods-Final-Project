@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-11-03 23:43:18",
+    "ups": "14027",
+    "downs": "246",
+    "views": "264733",
+    "top_comments": [
+        {
+            "comment": "Nice ",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Play gmod with Trevor Henderson/ things like siren head",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Can we all just see that josh funny",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "LOL ",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Gg",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

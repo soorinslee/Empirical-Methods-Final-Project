@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-03 11:20:47",
+    "ups": "30263",
+    "downs": "4959",
+    "views": "6694406",
+    "top_comments": [
+        {
+            "comment": "This song will be heard for 1000 years to come",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Sad To Know This Beautiful Girl Died At The Age Of 19 \ud83d\ude25",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.175,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Bhai ye gana kabhi purana nahi hota, jab suno tab lagta hai kal hi release hua hai.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nice song",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Most fav song ever \ud83e\udd29",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Mera feared songs\ud83c\udfb5\ud83c\udfb5",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

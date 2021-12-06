@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 13:00:33",
+    "url": "https://www.youtube.com/watch?v=t3hbVyF9VyE",
+    "time_now": "2021-11-01 09:54:07",
+    "ups": "11889",
+    "downs": "119",
+    "views": "120620",
+    "top_comments": [
+        {
+            "comment": "Thanks Grimoire Weiss for your support on Patreon! We couldn\u2019t do this show without your support and the support of our other viewers. If you like the show and want to see it continue, head over  https://www.patreon.com/ChinaUncensored\nhttps://chinauncensored.locals.com",
+            "likes": 151,
+            "number_of_replies": 87,
+            "polarity": 0.0625,
+            "subjectivity": 0.2875
+        },
+        {
+            "comment": "For the algoooorithm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "#fuCCP",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Chris:CCP runs an organ harvesting ring\nXi: Oh bother......",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Breaking news..https://youtu.be/BUuqDq8LHsw",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Today they are claiming Korean culture tomorrow they will claim korean land \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "For the algoooorithm",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Based Chris acknowledging Battle Royale when half the Squidbrains don't even know it exists (for the record I did like Squid Game)",
+            "polarity": -0.2833333333333333,
+            "subjectivity": 0.2833333333333333
+        },
+        {
+            "body": "lmao, I come from mainland China",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "China can't make good TV show because they only knows how copy from others after the cultural revolution.",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.5666666666666668
+        },
+        {
+            "body": "So the organ harvesting is chinese version of  universal health care?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

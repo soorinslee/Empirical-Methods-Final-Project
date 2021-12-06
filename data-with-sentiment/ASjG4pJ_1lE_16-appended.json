@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-02 10:38:00",
+    "ups": "4131",
+    "downs": "173",
+    "views": "169968",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 12,
+            "number_of_replies": 17,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "The question is. There's still have storage for downloading the video why would you panic to print out the document? Does it Sound easy to download the file and just save it rather than have to print it out one by one? \nI don't know what's the problem with ya... Is the Internet gone? The storage, Signal, or the web. (what exactly the definition is this)",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.36111111111111116,
+            "subjectivity": 0.49444444444444446
+        },
+        {
+            "comment": "74 Zettabytes Is 74 Trillion Gigabytes\nOne Gigabyte Is 22 Feet Of Stacked Paper\n74 Trillion x 22 = 1 Quadrillion 628 Trillion Feet Of Stacked Paper\n1 Quadrillion 628 Trillion Divided By 5,280 = 308,333,333,333 Miles Tall Of Stacked Paper\n308,333,333,333 Divided By 25,000 = 12,333,333 Times That Stack Of Paper Would Circle Around The Earth\n12,333,333 Divided By 7 = 2.913 Weeks = The Amount Of Time The Speed Of Light Would Have To Cover That Stack Of Paper\nM I N D  E X P L O S I O N\nEdit: Did you know that the amount of data on the internet in 2021 would reach the moon and back 645,440 times? Correct me if I\u2019m flawed\u2026",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.35
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "when printed all the internet:",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The question is. There's still have storage for downloading the video why would you panic to print out the document? Does it Sound easy to download the file and just save it rather than have to print it out one by one? \nI don't know what's the problem with ya... Is the Internet gone? The storage, Signal, or the web. (what exactly the definition is this)",
+            "polarity": 0.36111111111111116,
+            "subjectivity": 0.49444444444444446
+        },
+        {
+            "body": "Hope internet will never disappear cuz I love BRIGHT SIDE, BLACKPINK and ITZY",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.7
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-11-03 03:06:49",
+    "ups": "61010",
+    "downs": "2093",
+    "views": "2877510",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 595,
+            "number_of_replies": 143,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "This guy is overrated",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "but final destination plays 9 keys:",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "2 hEAD bOPPING TOGETHER 3:06",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i love this song",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Ngl bf is wired",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Looking hard but i beat it",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "this seems like this could be cool for the phase 2 tbh",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "This guy is overrated",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "it is unbelievable",
+            "polarity": -0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I think her name is kissy wissy idk",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Her name is Huggy kissy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hello",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Botplay",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Huggy wuggy her voice is very nice much nice",
+            "polarity": 0.69,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Yo.  Wtf",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "]:",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ggg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WOW",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-31 02:03:03",
+    "url": "https://www.youtube.com/watch?v=WZ-bP9ITT04",
+    "time_now": "2021-11-05 21:02:43",
+    "ups": "2613",
+    "downs": "109",
+    "views": "112328",
+    "top_comments": [
+        {
+            "comment": "#release mallanna garu \u0c2a\u0c4d\u0c30\u0c1c\u0c32 \u0c06\u0c15\u0c3e\u0c02\u0c15\u0c4d\u0c37 \u0c2e\u0c47\u0c30\u0c15\u0c47 \u0c2a\u0c4b\u0c30\u0c3e\u0c1f\u0c02 \u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28 \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28 \u0c17\u0c3e\u0c30\u0c41",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Jai mallanna jai etla",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u0c1c\u0c48 \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28\u0c3e \u0c2c\u0c3f\u0c17\u0c4d \u0c2b\u0c4d\u0c2f\u0c3e\u0c28\u0c4d \u0c05\u0c2b\u0c4d \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Jai BJP",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Rip trs",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

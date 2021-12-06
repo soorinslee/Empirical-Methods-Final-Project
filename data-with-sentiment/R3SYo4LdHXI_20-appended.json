@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-03 03:06:15",
+    "ups": "6384",
+    "downs": "73",
+    "views": "148137",
+    "top_comments": [
+        {
+            "comment": "This shit garbage my boy",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Syko sound like a uninterested Florida boii lol \ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "Sykobob got duH best verse",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.44999999999999996
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Old Kodak better , new Kodak music kinda dark an depressing",
+            "polarity": -0.0027272727272727336,
+            "subjectivity": 0.4909090909090909
+        },
+        {
+            "body": "sniper gang always poppin new shit,LEGENDARY \ud83d\udca4D \u2b06\ufe0fTO THE \ud83e\uddb6\ud83e\uddb6\u2b06\ufe0f",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

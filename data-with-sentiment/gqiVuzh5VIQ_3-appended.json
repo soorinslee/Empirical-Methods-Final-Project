@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 15:00:33",
+    "url": "https://www.youtube.com/watch?v=gqiVuzh5VIQ",
+    "time_now": "2021-10-31 05:04:34",
+    "ups": "7288",
+    "downs": "108",
+    "views": "112866",
+    "top_comments": [
+        {
+            "comment": "What should I react to next...?",
+            "likes": 123,
+            "number_of_replies": 51,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The market will be very favourable now due to the rapid growth of Bitcoin. The rich won't disclose it so don't be fooled, it's right time to invest, Christmas is on the way\ud83c\udf84",
+            "likes": 9,
+            "number_of_replies": 27,
+            "polarity": 0.18392857142857144,
+            "subjectivity": 0.49017857142857146
+        },
+        {
+            "comment": "12:53 Bford relief of the century.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Next video if Akinator can guess the footballer :) you keep the player",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Do 2020 Tranfers vs 2021 Tranfers",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bford gets demonized us mission passed (gta sa  theme song plays out of no where)",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Can you do most expensive players in every position in Epl  vs most expensive in the other leagues",
+            "polarity": -0.025,
+            "subjectivity": 0.5549999999999999
+        },
+        {
+            "body": "Make a video where you use a 5 star club, and get 7 signing to build a team to play everyday",
+            "polarity": -0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Need to do just normal tick toks",
+            "polarity": 0.15,
+            "subjectivity": 0.6499999999999999
+        },
+        {
+            "body": "9:05 bit sus",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

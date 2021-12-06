@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-11-02 22:59:56",
+    "ups": "3422",
+    "downs": "19",
+    "views": "44929",
+    "top_comments": [
+        {
+            "comment": "Woww\ud83d\ude0d\ud83d\ude0bit looks so delicious \ud83d\ude0b Thank you for the recipe \ud83d\ude0b\ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Thank you so much for listing the recipe in grams. Will be baking these tomorrow. Just bought 25lbs of pecans from the farm today.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Thank you so much for listing the recipe in grams. Will be baking these tomorrow. Just bought 25lbs of pecans from the farm today.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Super taste",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

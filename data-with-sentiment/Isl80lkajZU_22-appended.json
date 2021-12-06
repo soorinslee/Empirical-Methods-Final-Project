@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:00:11",
+    "url": "https://www.youtube.com/watch?v=Isl80lkajZU",
+    "time_now": "2021-11-03 11:20:43",
+    "ups": "13202",
+    "downs": "219",
+    "views": "175421",
+    "top_comments": [
+        {
+            "comment": "SIGN UP FOR MY FREE MASTERCLASS: How to Turn Video-Making Into $100k/yr Career\nhttps://bit.ly/3vK6tUe",
+            "likes": 174,
+            "number_of_replies": 41,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Jordan\u2026. They badly CG\u2019ed Lisa in the group shots\u2026 \ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "sounds very much like a copy of Taki Taki with Selena Gomez and that video was really way better\nalso apparently in the group shot she was edit well consider my shocked I didn\u2019t know",
+            "polarity": 0.06200000000000001,
+            "subjectivity": 0.42200000000000004
+        },
+        {
+            "body": "Definitely a boring video and honestly the song didn't grab me either. Megan and Lisa's parts were great but not enough for me to want to listen to the whole song. Such a shame when Taki Taki was so good.",
+            "polarity": 0.18571428571428572,
+            "subjectivity": 0.6642857142857144
+        }
+    ]
+}

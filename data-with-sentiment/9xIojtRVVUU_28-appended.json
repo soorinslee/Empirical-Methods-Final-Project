@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-04 12:04:00",
+    "ups": "11402",
+    "downs": "20",
+    "views": "95035",
+    "top_comments": [
+        {
+            "comment": "Jackson\u9664\u4e86\u5531\u6b4c\uff0c\u8df3\u821e\u4e5f\u662f\u4e00\u7edd\u5440\uff0c\u8981\u591a\u8df3\uff0c\u770b\u4e0d\u591f\uff01",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Love it when he dances!! SWAG !",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Perfect as always \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Panthepack ...YAY !!!!",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Jackson Wang & Panthepack added spiciness & fire to the show. How I love Jackson's dance, very smooth yet powerful, and full of swag, loved it!!\ud83d\udd25\ud83d\udd25\ud83d\udc95",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.47400000000000003,
+            "subjectivity": 0.72
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jackson is all in one!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Man that dance solo\u2026\u2026. Divine! \nJackson is ridiculously talented! Soooooooo good \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.7875,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "The dance break is SWAG !!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jackson you are the BEST !!!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Not me trying to spot iamdancerJF from the pretty please video. lmao He pops in the frame the last second.",
+            "polarity": 0.2125,
+            "subjectivity": 0.5166666666666667
+        }
+    ]
+}

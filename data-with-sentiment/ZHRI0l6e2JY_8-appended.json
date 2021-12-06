@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:00:15",
+    "url": "https://www.youtube.com/watch?v=ZHRI0l6e2JY",
+    "time_now": "2021-11-01 01:40:19",
+    "ups": "278",
+    "downs": "6",
+    "views": "9169",
+    "top_comments": [
+        {
+            "comment": "Sorry, but Emily's painting looked like something a preschooler produced and she moved at a snails pace. I did like the other two shortlisted pieces and how both focused on completely different aspects of the landscape. Made it hard to choose between them but I liked that Tom won. I felt his piece represented the overall landscape better.",
+            "likes": 6,
+            "number_of_replies": 1,
+            "polarity": 0.026190476190476177,
+            "subjectivity": 0.5452380952380952
+        },
+        {
+            "comment": "New judges, please.",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment": "I think the wild card was really the winner \ud83e\udd2d",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "Personally, I loved the submission painting of Emily\u2019s. It was naive but extremely charming and intricate. However, when she chose to change mediums, her canvas didn\u2019t grab me by the shoulder\u2019s and say\u2026that\u2019s it! Thanks so much for the post as we wait weekly for it\u2019s appearance!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.345,
+            "subjectivity": 0.64
+        },
+        {
+            "comment": "The wildcard winner created by far my favourite painting\u2014brilliant!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "is there an easy way of finding a photo of each site used? i know one can pause the episode and hit :print screen: etc.... but is there an easier way? I was thinking it would be fun to 'have a go' with these over coffee. Just great fun watching.",
+            "polarity": 0.45833333333333337,
+            "subjectivity": 0.49583333333333335
+        },
+        {
+            "body": "I loved the salute to the line-up of wild card contenders! PS - I would like to commend the judges for having refrained from saying, \"new and fresh\", and, \"a little gem\", this episode (although, the one judge did have to say, \"jewel-like works\").",
+            "polarity": 0.21477272727272725,
+            "subjectivity": 0.530909090909091
+        }
+    ]
+}

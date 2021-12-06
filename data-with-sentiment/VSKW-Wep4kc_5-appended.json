@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 13:20:40",
+    "url": "https://www.youtube.com/watch?v=VSKW-Wep4kc",
+    "time_now": "2021-10-31 13:18:25",
+    "ups": "6348",
+    "downs": "357",
+    "views": "304603",
+    "top_comments": [
+        {
+            "comment": "\u27bd Subscribe to BOL News \u27bd https://bit.ly/2Qs5SQH \ud83d\udd14\r\nWatch BOL News Live: https://www.bolnews.com/live",
+            "likes": 21,
+            "number_of_replies": 2,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\u0627\u0644\u0644\u06c1 \u062a\u0639\u0627\u0644\u06cc\u0670 \u0633\u06cc\u0645\u06cc \u0627\u0628\u0631\u0627\u06be\u06cc\u0645 \u06a9\u0648 \u0627\u062c\u0631 \u0639\u0638\u06cc\u0645 \u0639\u0637\u0627 \u0641\u0631\u0645\u0627\u0626\u06d2\u06d4",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "U.  TURN.   HAKUMAT.   DUBLE.  POLICE.  SE.  KAM.  NA.  LAY.  ES.  SARI.  SURAT  HAL.  KI.  ZAIMA DAR.  HAKUMAT.  WAQAT.   HI.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ye to kl ki baat h",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0627\u0644\u0644\u06c1 \u0627\u067e \u06a9\u0648 \u0633\u0644\u0627\u0645\u062a \u0631\u06a9\u06be\u06d2 \u06c1\u0645 \u0628\u06be\u0631 \u067e\u0648\u0631 \u06a9\u0645\u067e\u06cc\u0646 \u0686\u0644\u0627\u0646\u06d2 \u0644\u06af\u06d2 \u06c1\u06d2 \u0627\u067e \u06a9\u06d2 \u062e\u0644\u0627\u0641 \u062c\u0648 \u067e\u06cc\u0645\u0631\u0627 \u0646\u06d2 \u0628\u063a\u0631 \u0646\u0648\u0679\u0633 \u0628\u06cc\u0646 \u06a9\u06cc\u0627 \u0627\u0646\u0634\u0627 \u0627\u0644\u0644\u06c1 \u0641\u062a\u062d \u06c1\u0645\u0634\u06c1 \u062d\u0642 \u06a9\u06cc \u06c1\u0648\u0678\u06cc \u0627\u0648\u0631 \u0627\u06af\u06d2 \u0628\u06be\u06cc \u06c1\u0648 \u06af\u06cc",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Next PM Saad Rizvi jindabad\u2764\u2764\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Always lier",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Unbelievable terrorists are telling Pakistan government what to do",
+            "polarity": -0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Unfair pressure on government because of media Thieves sit in jail\u2019s and demand things that\u2019s the effect of the media",
+            "polarity": -0.3,
+            "subjectivity": 0.5
+        }
+    ]
+}

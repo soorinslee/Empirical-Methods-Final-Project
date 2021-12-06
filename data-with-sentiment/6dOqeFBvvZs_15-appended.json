@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-02 06:30:25",
+    "ups": "37768",
+    "downs": "263",
+    "views": "536046",
+    "top_comments": [
+        {
+            "comment": "If you're using azalea bushes on the floor maybe try melons?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "AND MORE ISKALLIUM!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "If you're using azalea bushes on the floor maybe try melons?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Dye the panes for fancy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "turning the biome into a bi(h)ome",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think an arch look for the elevator entrance would look pretty cool",
+            "polarity": 0.3,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "What about endrods instead of glass panes to contain the water? that may have a cool lighting effect.",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Very cool video Iskall!",
+            "polarity": 0.56875,
+            "subjectivity": 0.8450000000000001
+        },
+        {
+            "body": "The road gradient looks great!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "AND MORE ISKALLIUM!!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "pog",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

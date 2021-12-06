@@ -1,0 +1,107 @@
+{
+    "time_posted": "2021-10-30 15:00:34",
+    "url": "https://www.youtube.com/watch?v=qJ2IP7O7sPc",
+    "time_now": "2021-11-05 04:33:11",
+    "ups": "101651",
+    "downs": "1655",
+    "views": "641070",
+    "top_comments": [
+        {
+            "comment": "Kaztro",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Kaztro",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Kaztro\ud83d\udc99",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "KAZTro\ud83d\udc99",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Bgmi lite",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bgmi lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bgmi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bgmi lite \ud83e\udd70\ud83e\udd70\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc99\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kaztro\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WE Need bgmi lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "KAZTro\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bgmi next time please call nade clan(Antaryami Gaming)",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jod",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ketan\ud83e\udd23\ud83e\udd23 tata ta tata ta\ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mextren n\u00e0. Kya bigaada Hy \ud83d\ude01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

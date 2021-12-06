@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-11-03 23:43:45",
+    "ups": "2134",
+    "downs": "36",
+    "views": "128751",
+    "top_comments": [
+        {
+            "comment": "I love how Claudio just didn\u2019t say anything and complemented the soup when it poured on him.",
+            "likes": 70,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Thea asking \"how am i doing guys\" after people cheer for Trevor is so cringy....",
+            "likes": 31,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love Claudio's reaction at having food thrown on him xD\n\nAny person's reaction : \"You clumsy moron, look at what you've done you donut!!!\" \nClaudio's reaction : *YUM!* xD",
+            "likes": 13,
+            "number_of_replies": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "I felt that instinctually when her soup fell on Claudio.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Jeremy's overconfident cost him the final",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

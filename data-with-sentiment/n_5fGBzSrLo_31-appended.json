@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-05 00:25:59",
+    "ups": "33058",
+    "downs": "479",
+    "views": "660768",
+    "top_comments": [
+        {
+            "comment": "can you do guese the rank but its their first game of the day?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3166666666666667,
+            "subjectivity": 0.5444444444444444
+        },
+        {
+            "comment": "Sunless is the funniest man alive",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Sometimes i wish i had good teamates in gold rank",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.050000000000000044,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "not cool bro no dabbing in 2021",
+            "polarity": -0.175,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Hey pin me!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I\u2019m d1 and I feel like my mechanics are really good for my rank",
+            "polarity": -0.050000000000000044,
+            "subjectivity": 0.75
+        }
+    ]
+}

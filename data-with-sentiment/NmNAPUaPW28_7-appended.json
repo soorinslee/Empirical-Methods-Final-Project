@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-10-31 21:32:59",
+    "ups": "2744",
+    "downs": "16",
+    "views": "33106",
+    "top_comments": [
+        {
+            "comment": "I love your videos, I'm a chef and I love making cooking videos!\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Oh waw..so amazing\nThank you my dear sweet and smiley John for this great recipe.\nYou always make my day and I am grateful I found your channel through the pandemic because I gett happy when I watch you cook and hear your nice comforting voice\ud83c\udf3a\ud83c\udf3c\u2763\ud83c\udf41",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.63,
+            "subjectivity": 0.86
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Omg these are my favorite cookies of all time",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "My daughter and I love the Preppy Kitchen. It makes me want to start cooking and baking.",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Be sure to use European Unsalted butter, or buy unsalted butter WITHOUT water.  Makes a difference in all desserts.",
+            "polarity": 0.325,
+            "subjectivity": 0.7222222222222222
+        },
+        {
+            "body": "Thanks but I think you need to spend more time",
+            "polarity": 0.35,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "mmmm lov it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Keebler Pecan Sandies and Vanilla icecream was my jam growing up. I'm going to make this for Thanksgiving. Thanks for the recipe!",
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj4g8m/end_of_the_world/",
+    "time_posted": "2021-10-30 12:01:11",
+    "time_now": "2021-10-30 16:46:21",
+    "ups": 1,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinmsr2",
+            "body": "It\u2019s the End of the World as we Know it (And I feel fine) - R.E.M.",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hinmsr2",
+            "body": "It\u2019s the End of the World as we Know it (And I feel fine) - R.E.M.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinmsr2",
+            "body": "It\u2019s the End of the World as we Know it (And I feel fine) - R.E.M.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinmsr2",
+            "body": "It\u2019s the End of the World as we Know it (And I feel fine) - R.E.M.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        }
+    ]
+}

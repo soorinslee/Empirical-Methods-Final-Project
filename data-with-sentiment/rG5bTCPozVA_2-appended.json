@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-10-31 00:58:32",
+    "ups": "292",
+    "downs": "3",
+    "views": "4000",
+    "top_comments": [
+        {
+            "comment": "Wrong video I know, but your \"how to change a toilet fill valve and flush valve\" video was a great help, so thank you \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udcaa\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0888888888888889,
+            "subjectivity": 0.5499999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Love the style and approach you continue to make material with. Thanks. \nYou mention chemical anchors almost in passing and I realised you would be the right guy so review some aspect of this space. I took a look over your videos and did not see one yet. \nMy particular problem involves cavity blocks in a gate post. I have electric gates that seem to have worked their bracket bolts loose. However, as many of the fixings are finding cavities I feel I need to tread carefully when fixing this. \nChemical anchors come up as a solution but which product ? And how do I get it right first time as there is likely no attractive second try with this technology. ? \nThanks in advance. \nKeep doing what your do. \nFred.",
+            "polarity": 0.13932093547478164,
+            "subjectivity": 0.5005635390250774
+        },
+        {
+            "body": "Awesome video!!!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Simply listing the products required already convinced me ripping off and replacing with PVC is better.",
+            "polarity": 0.25,
+            "subjectivity": 0.4285714285714286
+        },
+        {
+            "body": "Great vid, thanks! Was it difficult to get in to the back of the pipes that remained on the wall? For the seals, you can still use rope and a bitumen sealant (used to be lead); the rope makes the whole thing a bit more solid. Hargreaves sell the rope and sealant, I made a tool from 22mm copper pipe to fit it :)",
+            "polarity": 0.23888888888888887,
+            "subjectivity": 0.4833333333333333
+        }
+    ]
+}

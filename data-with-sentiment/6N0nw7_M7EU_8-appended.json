@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-11-01 01:40:24",
+    "ups": "4052",
+    "downs": "48",
+    "views": "86658",
+    "top_comments": [
+        {
+            "comment": "everybody needs this guy on the party ....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "was he joking about that $1500 bottle wine?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Did he... ahh nevermind.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That 99 shit bad sister died drinking that bs",
+            "polarity": -0.44999999999999996,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "Perfect voice for this video",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:00:11",
+    "url": "https://www.youtube.com/watch?v=Isl80lkajZU",
+    "time_now": "2021-11-05 21:02:04",
+    "ups": "14242",
+    "downs": "244",
+    "views": "193272",
+    "top_comments": [
+        {
+            "comment": "SIGN UP FOR MY FREE MASTERCLASS: How to Turn Video-Making Into $100k/yr Career\nhttps://bit.ly/3vK6tUe",
+            "likes": 188,
+            "number_of_replies": 41,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I hate his video he cuts and speak so much",
+            "polarity": -0.30000000000000004,
+            "subjectivity": 0.55
+        }
+    ]
+}

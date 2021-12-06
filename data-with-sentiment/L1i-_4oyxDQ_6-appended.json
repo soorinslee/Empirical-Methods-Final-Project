@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-10-31 17:25:36",
+    "ups": "1316",
+    "downs": "18",
+    "views": "10040",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "So pretty, love it!",
+            "polarity": 0.4375,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Great video! What safety gear are you using?",
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Wow, great idea to remove the scalloping. Beautiful piece. I love paint wash redos",
+            "polarity": 0.5625,
+            "subjectivity": 0.8375
+        },
+        {
+            "body": "I love them all",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Beautiful as always!!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Beautiful! Can that top coat go over Annie Sloan paint that has had wax already applied? It\u2019s a dining table and want the top to be useable.",
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "The piece came out beautiful, color & hardware. I grew up with so much dark furniture I'll probably stick with a beachy whitish wash for my own furniture.\ud83c\udf37\ud83e\udd80\ud83c\udf37",
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "Gorgeous \u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.7,
+            "subjectivity": 0.9
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-05 00:26:27",
+    "ups": "652",
+    "downs": "175",
+    "views": "63200",
+    "top_comments": [
+        {
+            "comment": "Not the jab. Lol.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "see    WELCOME TO THE DEFENDER   CHILDREN'S HEALTH DEFENCE?????????????????",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Covid is a plandemic. Plain and simple. Only idiots believe covid is real now. If asked 2 years ago, 100% of people would've not agreed to take part in medical experiments with a \"vaccine\" that was developed in a couple months. But the vaccine advertising is really strong. If you tell a lie enough times, it will be believed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.031216931216931223,
+            "subjectivity": 0.48306878306878304
+        },
+        {
+            "comment": "Florida now has the LOWEST number of Covid cases in the US ... but you won't hear that on NBC \"news\". And what did Florida do? Not much, Florida's Governor let people have freedom, live their lives and makes their own choices. \nNBC is nothing but a Democrat owned propaganda outlet.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1340909090909091,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "Dont mind me I'm just taking a turd in the litter box, dont look",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Probably bc everyone has had it duh",
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Covid is a plandemic. Plain and simple. Only idiots believe covid is real now. If asked 2 years ago, 100% of people would've not agreed to take part in medical experiments with a \"vaccine\" that was developed in a couple months. But the vaccine advertising is really strong. If you tell a lie enough times, it will be believed.",
+            "polarity": -0.031216931216931223,
+            "subjectivity": 0.48306878306878304
+        },
+        {
+            "body": "Because people are getting it then gaining real natural immunity.",
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

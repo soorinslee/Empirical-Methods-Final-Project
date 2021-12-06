@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-03 15:28:17",
+    "ups": "39782",
+    "downs": "274",
+    "views": "576450",
+    "top_comments": [
+        {
+            "comment": "Only swedish and finnish will know what EI SAA PEITT\u00c4\u00c4 means.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I recommend you add little amethyst geodes around the walls indented into the walls or some form of fungi like mushrooms growing out of little cliff side off the walls :) :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15625,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "We need stained tinted glass",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hmmm.... If I watch Hermitcraft while keeping an eye on a vault-hunters stream am I getting double the recommended dosage of Iskalium?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

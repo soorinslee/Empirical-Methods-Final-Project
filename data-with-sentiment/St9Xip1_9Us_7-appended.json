@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:07:55",
+    "url": "https://www.youtube.com/watch?v=St9Xip1_9Us",
+    "time_now": "2021-10-31 21:32:52",
+    "ups": "2391",
+    "downs": "66",
+    "views": "47985",
+    "top_comments": [
+        {
+            "comment": "2 propane tanks underneath with rubber hose lines? Mounted lower than the muffler? First thing that gets hit when you bottom out? You can't do that. Oh for God sakes !!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.390625,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "comment": "Nicely done but why not put the toilet in the shower area then you can also have privacy plus free up space in the cabinets. Just seems like there is plenty of space to put the toilet in the shower area. Then just move the toilet if you need too... \nWith the curtain across the shower the toilet and the other things would be out of sight. give a real bathroom feeling to the area.\nJust a thought but maybe your way works better for you... I do love the van.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.19416666666666665,
+            "subjectivity": 0.3575
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Previous van owner obviously put priority of shower over a bathroom toilet since there isn't one (I assume since it wasn't mentioned)",
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.2222222222222222
+        },
+        {
+            "body": "I don't like your promotion/ad at the beginning of video! Save it for the end.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc9c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have that same Cribbage Board. Mine is about 30+ years old though!  LoL",
+            "polarity": 0.30833333333333335,
+            "subjectivity": 0.3416666666666666
+        }
+    ]
+}

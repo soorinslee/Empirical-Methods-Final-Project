@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-10-31 05:04:58",
+    "ups": "1600",
+    "downs": "8",
+    "views": "22183",
+    "top_comments": [
+        {
+            "comment": "Why does no one ever mention how tall your night stand should be? Beds and night stands come in all different heights. What's the ideal height pairing?",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "I wish I was rich enough to have a bed that looked like any of these pictures and the time to rearrange pillows but I'm a shift working medical professional so I'll just have to hope I don't die before I retire and achieve this level of 'bed goals' one day \ud83d\ude43\ud83d\udc4d\ud83c\udffb",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.11875,
+            "subjectivity": 0.3375
+        },
+        {
+            "comment": "Hey Nick, during your asymmetry bit, I was hoping to see an asymmetrical bedroom. But I saw symmetrical bedrooms with touches of asymmetry. I\u2019d love for you to do some truly asymmetrical bedrooms, as I have one by room size necessity, and am curious how my design fares with the experts.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "So I know rugs on carpet is a faux pas, but how do you feel about a rug on carpet in a bedroom?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Loved the sheet set till I got to the pillows and only option was DOWN. \ud83d\ude29 you don\u2019t have to be vegan to know you don\u2019t want to sleep on feathers ripped out of geese",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.18148148148148147,
+            "subjectivity": 0.6962962962962963
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Finally, a sponsor where I can probably buy something lol.",
+            "polarity": 0.4,
+            "subjectivity": 0.85
+        },
+        {
+            "body": "Love the photo example of Too many pillows on the bed, hahaha. Liked your guidance on balance versus symmetrical.",
+            "polarity": 0.44999999999999996,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "Thanks for the video.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "There are actually two pendants on both sides in that black bedroom, they just line up, you can see two wires.",
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.26666666666666666
+        },
+        {
+            "body": "So I know rugs on carpet is a faux pas, but how do you feel about a rug on carpet in a bedroom?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You see \"To many pillows in a bed\" as mistake!? Where is the \"Unsubscribe\" button! I shall press it twice to show you how angry I am :-D",
+            "polarity": 0.4270833333333333,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "Affordable linens with a luxury feel,  \nI like Costco's linens. \nA Queen set w 4 pillow cases $90.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "At 9:41 there's a photo of a bedroom with with some lovely lamps on the nightstands. Do you know where I could get them? They look fab!",
+            "polarity": 0.625,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Love Brooklinen! Have their sheets on all our beds.",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "how do i get my brooklinen linen sheets & duvet cover from pilling?? it is insane!!!! i simply walk by them and any dark clothes are covered linen dust! help!",
+            "polarity": -0.4114583333333333,
+            "subjectivity": 0.5857142857142857
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:13:19",
+    "url": "https://www.youtube.com/watch?v=jVixdD4ABIk",
+    "time_now": "2021-11-03 07:13:37",
+    "ups": "15495",
+    "downs": "52",
+    "views": "186321",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Keep 'em coming!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes LOVE this type of video - anything that introduces us to new music is amazing",
+            "polarity": 0.4121212121212121,
+            "subjectivity": 0.6515151515151515
+        },
+        {
+            "body": "Top 10 underrated composers please",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "epic! think each of these pieces can find its place in my collection",
+            "polarity": 0.125,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Good job, guys. Great list!",
+            "polarity": 0.85,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "Wow, never thought I would see La Sapin on here! I've played the piece and it's a really beautiful piece, the other pieces in this \"suite\" are also really beautiful.",
+            "polarity": 0.425,
+            "subjectivity": 0.84375
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 15:00:34",
+    "url": "https://www.youtube.com/watch?v=qJ2IP7O7sPc",
+    "time_now": "2021-11-04 20:18:47",
+    "ups": "101273",
+    "downs": "1650",
+    "views": "638828",
+    "top_comments": [
+        {
+            "comment": "Kaztro",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The one and only kaztro \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Kaztro",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "First take action against hakers",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.175,
+            "subjectivity": 0.21666666666666667
+        },
+        {
+            "comment": "We need BGMI LITE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Bgmi lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kaztro",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kaztro",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "First take action against hakers",
+            "polarity": 0.175,
+            "subjectivity": 0.21666666666666667
+        },
+        {
+            "body": "We need BGMI LITE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bgmi  lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

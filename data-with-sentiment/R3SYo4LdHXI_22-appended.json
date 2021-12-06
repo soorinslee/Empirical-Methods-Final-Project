@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-03 11:20:34",
+    "ups": "6491",
+    "downs": "77",
+    "views": "152952",
+    "top_comments": [
+        {
+            "comment": "Syko sound like a uninterested Florida boii lol \ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "Jesus is your way to heaven Believe in him and you will have life after death. He shed his blood for your sins to be forgiven.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Sykobob got duH best verse",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.44999999999999996
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Syko!!!!\ud83c\uddef\ud83c\uddf2\ud83d\udcaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I\u2019m fuck with them so bad\ud83d\udcaf\ud83d\udcaf this vibes is fire \ud83d\udd25",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Rip wiz\ud83e\udd26\u200d\u2642\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

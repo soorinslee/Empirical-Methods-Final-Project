@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:52",
+    "url": "https://www.youtube.com/watch?v=Cw3iymiv9P0",
+    "time_now": "2021-11-05 04:33:45",
+    "ups": "844",
+    "downs": "10",
+    "views": "15786",
+    "top_comments": [
+        {
+            "comment": "It's amazing \ud83d\udc4d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Amazing work \u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Fantastice amazing art",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Such excellent instructions, really helps with learning how to draw using perspective. Thank you",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "comment": "Thank you for this awesome lesson. It's really helpfull. Thank you!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": []
+}

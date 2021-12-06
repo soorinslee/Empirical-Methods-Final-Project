@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-02 18:51:42",
+    "ups": "36695",
+    "downs": "465",
+    "views": "692681",
+    "top_comments": [
+        {
+            "comment": "The best thing Trump ever did was giving us our boy back",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.15
+        },
+        {
+            "comment": "Kodak has really grown",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "https://youtu.be/Kd7p8mXd2HM",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Kodak #1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What sample is this",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The best thing Trump ever did was giving us our boy back",
+            "polarity": 0.5,
+            "subjectivity": 0.15
+        },
+        {
+            "body": "Kodak has really grown",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Yak for a Grammy \ud83c\udfc6",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Best beat this mans than sled \ud83d\udef7 \ud83d\udca8 on\ud83d\udd25\ud83d\udd25",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ]
+}

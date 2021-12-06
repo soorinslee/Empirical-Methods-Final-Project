@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-03 19:36:19",
+    "ups": "23301",
+    "downs": "1692",
+    "views": "583914",
+    "top_comments": [
+        {
+            "comment": "As a Christian I'm happy to see you modi ji with our pope",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Pop was asking to modi pray for me Great full to modi Jayaho Bharath",
+            "polarity": 0.575,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "As a Christian I'm happy to see you modi ji with our pope",
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "People are praising Christianity in the comment section and persecuting and spread hatred against Christians in reality.. what an irony!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pakistani agents are burning with jealousy.\nGod bless my India and our P.M. \nAmen.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

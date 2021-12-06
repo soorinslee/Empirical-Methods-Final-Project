@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-01 05:46:39",
+    "ups": "4423",
+    "downs": "44",
+    "views": "44067",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 263,
+            "number_of_replies": 39,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "One of the Best male version so far. \ud83d\udc9b \ud83d\udc9b \ud83d\udc9b",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "body": "Loveit frm Indonesia",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Soo good!! I did cover too\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 1.0,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

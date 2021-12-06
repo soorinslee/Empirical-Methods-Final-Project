@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-02 14:44:13",
+    "ups": "36423",
+    "downs": "450",
+    "views": "675879",
+    "top_comments": [
+        {
+            "comment": "https://youtu.be/8nOt-KkVaBg",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This song fire af",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "niggas really be jockin durks style. ( flow , beats , edits, melody etc ) shit is comedy lol",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "comment": "damn jackboy kmmfsl",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "https://youtu.be/Kd7p8mXd2HM",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I swear every time I get over a hard time Kodak drop some shit like he writing my story\ud83d\udcaf\ud83d\udcaf\ud83d\udd7a\ud83c\udffb\ud83d\udd7a\ud83c\udffb\ud83e\udd75",
+            "polarity": -0.24583333333333335,
+            "subjectivity": 0.6708333333333334
+        },
+        {
+            "body": "Ou\u00e7a \"GPS!\"\nhttps://youtu.be/kQsMPkmW1Uw",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Damn jackboy over wit why u do that boy like that yak haha \ud83d\ude02",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "https://youtu.be/xoL1dK7VeUE\ncollab",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

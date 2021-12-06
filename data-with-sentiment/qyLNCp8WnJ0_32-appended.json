@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-05 04:33:46",
+    "ups": "6484",
+    "downs": "177",
+    "views": "176010",
+    "top_comments": [
+        {
+            "comment": "Question: Are Cisco Pasture raised eggs for real? The yolks are not bright orange like most other Pasture raised i can get even at Aldi.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.056249999999999994,
+            "subjectivity": 0.49375
+        },
+        {
+            "comment": "We have Rao's at Costco in NC. Planning on going this weekend, so I hope it's on sale!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Come to Denver and shop Costco. We don't have everything you have. December... bring jacket.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I don't eat oats..... except these orange ones.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "U = BS ALOT !",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why dont you eat grains?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Keeping kids sick is a business that is real.\ud83d\ude14",
+            "polarity": -0.7142857142857143,
+            "subjectivity": 0.8571428571428571
+        }
+    ]
+}

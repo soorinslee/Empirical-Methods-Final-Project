@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 17:35:27",
+    "url": "https://www.youtube.com/watch?v=mmrEn8tavTk",
+    "time_now": "2021-10-31 17:25:06",
+    "ups": "1691",
+    "downs": "53",
+    "views": "44332",
+    "top_comments": [
+        {
+            "comment": "I\u2019m going to sue if we have to start all over again imagine all that money you wasted on roblox.!?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ashley: \u201cFixing her hair\u201d\nMe: \u201cStarts fixing my hair\u201d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ash: \u201cIt\u2019s back???\u201d\nMe: Heart stops",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I want to work on my bloxburg mansion",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm so bored its gone I don't know what to so I only have YouTube and roblox my real name is Jesse and I'm 7 years old",
+            "polarity": -0.049999999999999996,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "I'm. Crying I want it back ;c",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I\u2019m going to sue if we have to start all over again imagine all that money you wasted on roblox.!?",
+            "polarity": -0.25,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ashley if you go to roblox discover there will be a button that says \"Random games.\"",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "It will be undown in november 1 so just wait",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

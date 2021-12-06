@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj34k4/music_recommendations/",
+    "time_posted": "2021-10-30 10:55:39",
+    "time_now": "2021-11-05 08:41:13",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinjbpp",
+            "body": "Try some Pink Floyd\n\n\u2018Wish you were here\u2019 is a good place to start",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.45000000000000007
+        },
+        {
+            "comment_id": "hindpgj",
+            "body": "I recommend LP",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinmjs1",
+            "body": "Figure 8 by Elliott Smith",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinjbpp",
+            "body": "Try some Pink Floyd\n\n\u2018Wish you were here\u2019 is a good place to start",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.45000000000000007
+        },
+        {
+            "comment_id": "hindpgj",
+            "body": "I recommend LP",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinmjs1",
+            "body": "Figure 8 by Elliott Smith",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinjbpp",
+            "body": "Try some Pink Floyd\n\n\u2018Wish you were here\u2019 is a good place to start",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.45000000000000007
+        },
+        {
+            "comment_id": "hindpgj",
+            "body": "I recommend LP",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinmjs1",
+            "body": "Figure 8 by Elliott Smith",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

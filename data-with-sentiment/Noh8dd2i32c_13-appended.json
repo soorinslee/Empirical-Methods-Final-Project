@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-01 22:16:26",
+    "ups": "2951",
+    "downs": "22",
+    "views": "50674",
+    "top_comments": [
+        {
+            "comment": "This might not be a design mistake but people often setting up two-way switches that operate room lights as you enter the room as well as can be switched off when in bed.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I am totally going to look for a nice rug for my bedroom! I am never going to have more pillows on my bed than needed - maybe that's very european of me.\nBut i do want my space to feel a bit more cozy!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "comment": "If I have my labradoodle lie on my bed that adds texture, right?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "From the \"Oh, sweetie, no.\" to the creepy doll trapped in the mountain of chintz, I love it.",
+            "polarity": -0.06666666666666665,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "Great video!!\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Until recently we've always stored things under our queen size bed - mostly out of season clothing, and clothing that no longer fit but that I couldn't bring myself to get rid of. Several months ago we got a new queen bed frame. This time it's goodbye dust ruffle/bedskirt hiding who-knows-what under the bed, and hello mid-century modern with the bedspread neatly tucked in around the mattress and the wood legs showing - goodbye years of unworn clothes hiding under the bed. I cannot tell you how freeing this was, to get rid of the literal crap under the bed. The few out of season clothing items I kept are easily stored in my closet. The clothes that didn't fit and never were going to fit again were donated to a thrift store, and are no longer taunting me. It's been a breath of fresh air to get rid of all that stuff. The new bed frame has a lower profile, and we don't need a box spring with it, and now the room looks so much bigger. The only down side is our cats had to find new places to hide.",
+            "polarity": 0.11099227569815806,
+            "subjectivity": 0.44916815210932853
+        }
+    ]
+}

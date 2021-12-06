@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 08:30:09",
+    "url": "https://www.youtube.com/watch?v=c8sD8q3h--0",
+    "time_now": "2021-10-31 00:57:38",
+    "ups": "7105",
+    "downs": "887",
+    "views": "176958",
+    "top_comments": [
+        {
+            "comment": "Rvcj post dekke  kon kon aaya hai?\ud83d\ude02\ud83d\ude02",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ye absolutely welcome after seeing rvcj post with virat kohli",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Rvcj ki maki aankh",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "6th class ke bache se likhwaye hai lyrics",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Jai ho Shravan sa ki",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nice video song \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Bkwass",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kaise kaise logo ko lunch kr dete ho zee music ji \ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Awesome",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Not best song come this year I\u2019m all time searching \ud83d\ude44\ud83e\udd74",
+            "polarity": -0.5,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Welcome Instagram se aane walo berozgaar Alone Nalle logo",
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        }
+    ]
+}

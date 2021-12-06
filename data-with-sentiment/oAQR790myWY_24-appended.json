@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:15:40",
+    "url": "https://www.youtube.com/watch?v=oAQR790myWY",
+    "time_now": "2021-11-03 19:36:04",
+    "ups": "13147",
+    "downs": "229",
+    "views": "181953",
+    "top_comments": [
+        {
+            "comment": "Frank\u0131 \u00f6ld\u00fcrmemen  b\u00fcy\u00fck Adaml\u0131k :)",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "i luv the song is so perfect",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\ud83e\udd1d\ud83d\udc4d\ud83c\udffb\ud83d\ude0e",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "No comment",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "You know Cryingman?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Kan je ook Nederlands",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

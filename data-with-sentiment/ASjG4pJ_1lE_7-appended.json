@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-10-31 21:32:50",
+    "ups": "3337",
+    "downs": "138",
+    "views": "128657",
+    "top_comments": [
+        {
+            "comment": "Imagine the narrator just says:\njust kidding!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "How am I watching this if YouTube runs on internet and there's no internet?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "what about the people that refuse to work like that and just take off , do you hunt them down and send them to paper processing concentration camps ? , lol",
+            "polarity": 0.32222222222222224,
+            "subjectivity": 0.49444444444444446
+        },
+        {
+            "body": "Explain how  am I still on the internet after the vid",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "people with data- nah im still watching youtube and tiktok and stuff",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "they should have downloaded the data first and printed it later",
+            "polarity": 0.125,
+            "subjectivity": 0.16666666666666666
+        }
+    ]
+}

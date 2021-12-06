@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-06 13:31:14",
+    "ups": "18536",
+    "downs": "189",
+    "views": "419677",
+    "top_comments": [
+        {
+            "comment": "Please have this man do COD Vanguard. He\u2019ll have a heart attack when he sees those guns.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Firearms of Receiver 2!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Putting the comment on his presentation and commentary on the technical aspects aside (which is undoubtedly phenomenal), Jonathan's presence alone is so wholesome. The guy is  such a joy to watch. His enthusiasm shows while he is talking and I love it. \n\nMORE JONATHAN PLEASE. \n\nAlso despite all these positive words for him, I want him to react to Vanguard guns. :D",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.44090909090909086,
+            "subjectivity": 0.49318181818181817
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I've been there it's great.",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "21:10 best 10 seconds of the episode",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "That 45  degree cant aiming  when none of them have 45 deg cant sights really annoy the heck out of me. So much that I not gonna buy the game, even though I like co-op zed games",
+            "polarity": 0.0,
+            "subjectivity": 0.26666666666666666
+        }
+    ]
+}

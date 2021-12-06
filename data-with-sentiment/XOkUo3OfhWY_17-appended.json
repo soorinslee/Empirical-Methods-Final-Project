@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 14:08:00",
+    "url": "https://www.youtube.com/watch?v=XOkUo3OfhWY",
+    "time_now": "2021-11-02 14:44:44",
+    "ups": "2206",
+    "downs": "47",
+    "views": "50682",
+    "top_comments": [
+        {
+            "comment": "Oh and btw you forgot a ocelot there should be $130 donated not $125 it\u2019s good that you donated but you got a misscount",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "A smart Creeper I see",
+            "polarity": 0.21428571428571427,
+            "subjectivity": 0.6428571428571429
+        },
+        {
+            "body": "#team trees #teamseas now",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oh and btw you forgot a ocelot there should be $130 donated not $125 it\u2019s good that you donated but you got a misscount",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "TEAMSEAS",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#teamseas go go go",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#TeamSeas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

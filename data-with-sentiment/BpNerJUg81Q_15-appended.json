@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:00:07",
+    "url": "https://www.youtube.com/watch?v=BpNerJUg81Q",
+    "time_now": "2021-11-02 06:30:46",
+    "ups": "2260",
+    "downs": "54",
+    "views": "71249",
+    "top_comments": [
+        {
+            "comment": "Biden=destruction of America",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Democrats are the enemy of the TAX paying American Citizen, just send those criminals packing in 2022...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Dems want your money to support the illegal voters they're importing. $100 billion for immigration????",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

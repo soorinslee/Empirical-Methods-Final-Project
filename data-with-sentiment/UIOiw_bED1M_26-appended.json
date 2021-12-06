@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-04 03:50:30",
+    "ups": "8023",
+    "downs": "228",
+    "views": "215789",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Absolutely shit development. Other developers have no problem. How much freaking power do these hacks need? Yet another hard pass for me.",
+            "polarity": -0.10416666666666667,
+            "subjectivity": 0.47916666666666663
+        },
+        {
+            "body": "A lot of these \u201clittle quirks\u201d that drive the digital foundry guys nuts don\u2019t even get noticed by the majority of the general gaming public. They look for it so it adds up to why it would bother them. I\u2019m my play through on PS5 I have not noticed many of the hiccups they have pointed out at all.",
+            "polarity": 0.07250000000000001,
+            "subjectivity": 0.31333333333333335
+        },
+        {
+            "body": "At least with the Series S, it\u2019s usually impressive, whereas the X and PS5 are always disappointing for what \u2018seems\u2019 like so much more powerful consoles.",
+            "polarity": 0.18,
+            "subjectivity": 0.72
+        }
+    ]
+}

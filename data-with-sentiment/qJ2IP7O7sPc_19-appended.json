@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:00:34",
+    "url": "https://www.youtube.com/watch?v=qJ2IP7O7sPc",
+    "time_now": "2021-11-02 22:59:18",
+    "ups": "93166",
+    "downs": "1546",
+    "views": "572212",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "The tree house resort??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need bgmi lite \ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need bgmi lite \ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need bgmi lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We don't need bgmi light \ud83d\ude42\u270c\ufe0f",
+            "polarity": 0.4,
+            "subjectivity": 0.7
+        }
+    ]
+}

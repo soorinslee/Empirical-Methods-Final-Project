@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 11:00:05",
+    "url": "https://www.youtube.com/watch?v=C_9OkNrp6Ps",
+    "time_now": "2021-11-01 18:09:06",
+    "ups": "3001",
+    "downs": "124",
+    "views": "211981",
+    "top_comments": [
+        {
+            "comment": "This was a nice change for MSNBC. Great piece! Except the British food comment. There are plenty of great English dishes. It\u2019s kind of like saying rap sucks. There\u2019s some decent rap if you look hard enough.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25750000000000006,
+            "subjectivity": 0.5408333333333333
+        },
+        {
+            "comment": "and the GOP is doing the same to this country, sadly",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.5625
+        },
+        {
+            "comment": "My guy Ari calling out England on it's food\ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23 You know he was fed something that left an impact on him. AND he loves candy corn. I mean I keep finding new things to love about him",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08096590909090909,
+            "subjectivity": 0.43551136363636367
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Trump suing the media over lies and a lack of fact checking is the absolute height of irony. It's like emperor Palpatine complaining that the Jedi have too much power.",
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Fox news has EVERYTHING to do with ACTUAL MALICE.",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "If the (highly unprofessional) conservative Supreme Court members rule in favor of conservatives complaining about the media, then they darn well better do the same against Fox News in their lawsuits!  Their lies are provable.",
+            "polarity": 0.22,
+            "subjectivity": 0.38833333333333336
+        },
+        {
+            "body": "Since trump/russia/ and others who think like them, may their own words be taken from them as well. Remember when trump made a viable threat that he could demise someone on any given street? To me who is a regular citizen of the United States of America that had people serve and die plus some of my own children currently servicing to protect those rights that I learn in 9th-grade civic class. I felt my own life was in danger. Right here in America. Listen the Forefathers are literally spinning in their graves, wondering about our generation, and I mean the Boomer, X-er, Y-s, Millennials, and future generation. They are spearheading the demise of the very foundation of America. It's a SAD day to see this continue. Maybe Queen Elizabeth will show mercy to the US when Our forefathers broke from her Ancestors. See how ridiculous that sounds, That is how the red party/Coates sound to me with the picking apart of the USA constitution. History lesson anyone?",
+            "polarity": 0.11845238095238092,
+            "subjectivity": 0.578856720202874
+        },
+        {
+            "body": "WELL THIS TIME AROUND BLACK ACTIVISTS WILL BE TRYING ANOTHER STRATEGY. SORRY WE TRIED IT THE FAIR WAY.",
+            "polarity": 0.011111111111111108,
+            "subjectivity": 0.7777777777777778
+        }
+    ]
+}

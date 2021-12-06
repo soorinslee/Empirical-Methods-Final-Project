@@ -1,0 +1,76 @@
+{
+    "time_posted": "2021-10-30 10:00:13",
+    "url": "https://www.youtube.com/watch?v=5DGBVPkdZ-o",
+    "time_now": "2021-11-04 20:18:39",
+    "ups": "23124",
+    "downs": "187",
+    "views": "225505",
+    "top_comments": [
+        {
+            "comment": "Sakit naman nkakaiyak \ud83d\ude2d\ud83d\ude2dhindi PA ako nakamove on sa kanila dumagdag PA ang kantang toh\ud83d\ude22\ud83d\ude2d\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Palaos na ba ?? 216k in 5 days \ud83d\ude05\ud83d\ude05\u2026 sa IG lang ata to sikat kasi hubadera. Auto tune pa more",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Tama na ok go on na nadz wag na lingon Kay James ayaw na mi James may Ina ka na pakasal ka na Kay CB ok",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "BAT GANUN SOBRANG SAKIT NONG SONG\ud83d\ude22RAMDAM NA RAMDAM MO BAWAT LYRICS NG KANTA",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sakit naman nkakaiyak \ud83d\ude2d\ud83d\ude2dhindi PA ako nakamove on sa kanila dumagdag PA ang kantang toh\ud83d\ude22\ud83d\ude2d\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I actually love her new song. International vibe \ud83c\udfb6\u2764\ufe0f",
+            "polarity": 0.21212121212121213,
+            "subjectivity": 0.3515151515151515
+        },
+        {
+            "body": "My New favorite song of NADINE!",
+            "polarity": 0.3806818181818182,
+            "subjectivity": 0.7272727272727273
+        },
+        {
+            "body": "I love this song! i hope Nadine make more songs like this \u2764\u2764\u2764 Love you Nadine from Florida!",
+            "polarity": 0.5833333333333334,
+            "subjectivity": 0.5666666666666668
+        },
+        {
+            "body": "this song hurts but sounds so perfectly!! congrats our naddie \u2764\ufe0f\u2764\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb pang international level!!",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Music video is great, Nadine looks so good.",
+            "polarity": 0.75,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "\ud83d\udda4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love Nadine so much....you are fearless!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        }
+    ]
+}

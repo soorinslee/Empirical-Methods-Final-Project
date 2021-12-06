@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-02 02:23:09",
+    "ups": "10218",
+    "downs": "11",
+    "views": "73225",
+    "top_comments": [
+        {
+            "comment": "If you want a *PERFORMANCE* , the one to call is Jackson Wang",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "https://youtu.be/jWa1fS41Ckk\n\nJackson \ud83d\udc51street dance 4 official",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\uded0J.Sheon & Karencici\ud83d\uded0",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "To watch him dance again.. Wow, it bring all the memories back again.. I remembered the first time I fell in love with him, it's when I saw him dance.. but then I fell in love with his voice too.. And now, everything about him, all the positive energy that he always brings..",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2628787878787879,
+            "subjectivity": 0.5131313131313131
+        },
+        {
+            "comment": "\ud83d\uded0Ice & Jackson\ud83d\uded0",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*They put their heart and soul into this performance.* \u2665",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\u0e02\u0e2d\u0e1e\u0e39\u0e14\u0e41\u0e1a\u0e1a\u0e2b\u0e22\u0e32\u0e1a\u0e46 \u0e42\u0e04\u0e15\u0e23\u0e40\u0e17\u0e48\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-01 22:16:28",
+    "ups": "9873",
+    "downs": "73",
+    "views": "186821",
+    "top_comments": [
+        {
+            "comment": "you in the bar with all the college boys lmaoooo love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I cannot BELIEVE I was not in Bloomington the same time as you I\u2019m upset \ud83d\ude2d hope you had a wonderful time\u2764\ufe0f\ud83e\udd0d",
+            "polarity": 0.5,
+            "subjectivity": 0.5625
+        },
+        {
+            "body": "Lexi is so pretty!!!\ud83d\udc97\ud83d\udc96\ud83d\udc98 Loving the Indiana vlog/vibes/everything!!!\ud83d\udc8b",
+            "polarity": 0.6,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "I usually never comment on videos but I have to say this has been one of my fav videos so far. TK is just so so so awesome, she brings the best out of Alisha!!",
+            "polarity": 0.55625,
+            "subjectivity": 0.6375
+        },
+        {
+            "body": "YAY WELCOME TO INDIANA!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "your nails are such a pretty color! perfect for fall! and the way they matched your white fox top is everything \ud83d\ude0d",
+            "polarity": 0.3625,
+            "subjectivity": 0.6
+        }
+    ]
+}

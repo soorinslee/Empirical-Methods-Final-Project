@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 07:52:22",
+    "url": "https://www.youtube.com/watch?v=n7Q5KyPXGGU",
+    "time_now": "2021-11-01 14:01:15",
+    "ups": "73837",
+    "downs": "123",
+    "views": "426264",
+    "top_comments": [
+        {
+            "comment": "let's fighting. don't forget to stre4ming and vote.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "TAEYONG OPPA GANTENG BANGETTTTT\nMON MAAP NIH OPPA, BOLEH MINTA WAKTUNYA SEUMUR HIDUP GA? \u0ca5\u203f\u0ca5",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My favorite 'Favorite' stage. The outfits, visuals, set, camera work.. everything's aesthetic \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "wow, the ending is a masterpiece.",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "My favorite 'Favorite' stage. The outfits, visuals, set, camera work.. everything's aesthetic \ud83d\ude0d",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Haechan \ud83d\ude29\ud83d\ude2b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "HAECHAN COCOK BNGT SMA OUTFITNYA AAA KEREN DH POKONYA",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "TAEIL MASYAALLAH",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Keren",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "sumpaaahhh wow kece banget sih ini",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "It's the \"sheee\" for me. Gets me every time.\nNgl I had to listen to this song 4 times until I got addicted to it. \nANd now I'm so proud of them.  I'm not crying, no I'm not!!",
+            "polarity": 0.18541666666666667,
+            "subjectivity": 0.7333333333333334
+        }
+    ]
+}

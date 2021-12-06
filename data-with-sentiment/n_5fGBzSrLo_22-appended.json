@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-03 11:20:57",
+    "ups": "31336",
+    "downs": "455",
+    "views": "610863",
+    "top_comments": [
+        {
+            "comment": "Scare",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Scare\ud83e\udd2c\u2620\ufe0f\ud83d\udc80\ud83d\ude40\ud83d\ude39",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "lmao their reactions were sooo funny. Proper sunless type vid!",
+            "polarity": 0.2833333333333333,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "I am gold and I can do speed flip it's easy pissy",
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "These videos just get worse and worse. Like the quality of junk food.",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        }
+    ]
+}

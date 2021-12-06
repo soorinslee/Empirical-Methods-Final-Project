@@ -1,0 +1,75 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj3nzz/competitive_gaming_would_be_way_less_toxic_if/",
+    "time_posted": "2021-10-30 11:22:24",
+    "time_now": "2021-10-30 16:47:18",
+    "ups": 2,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hiniqqm",
+            "body": "I think toxicity in competitive gaming occurs regardless of players' consciousness of winrate and their rank. We tend to think of it as a phenonmenon isolated to online games, especially MOBAs, but I remember back in high school, the same thing would occur in sports games between kids in P.E. (I, for one, got flamed by my classmates a lot for being terrible at catching and throwing despite being an athletic runner. \ud83d\ude01) But also, flaming of teammates happens frequently in unranked games among players who never rank as well.",
+            "polarity": -0.060000000000000005,
+            "subjectivity": 0.6294444444444445
+        },
+        {
+            "comment_id": "hinhsf7",
+            "body": "Hey devs, can you please just turn on the machine learning ranking algorithm? Thanks",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hinhsf7",
+            "body": "Hey devs, can you please just turn on the machine learning ranking algorithm? Thanks",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hiniqqm",
+            "body": "I think toxicity in competitive gaming occurs regardless of players' consciousness of winrate and their rank. We tend to think of it as a phenonmenon isolated to online games, especially MOBAs, but I remember back in high school, the same thing would occur in sports games between kids in P.E. (I, for one, got flamed by my classmates a lot for being terrible at catching and throwing despite being an athletic runner. \ud83d\ude01) But also, flaming of teammates happens frequently in unranked games among players who never rank as well.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.060000000000000005,
+            "subjectivity": 0.6294444444444445
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinhsf7",
+            "body": "Hey devs, can you please just turn on the machine learning ranking algorithm? Thanks",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hiniqqm",
+            "body": "I think toxicity in competitive gaming occurs regardless of players' consciousness of winrate and their rank. We tend to think of it as a phenonmenon isolated to online games, especially MOBAs, but I remember back in high school, the same thing would occur in sports games between kids in P.E. (I, for one, got flamed by my classmates a lot for being terrible at catching and throwing despite being an athletic runner. \ud83d\ude01) But also, flaming of teammates happens frequently in unranked games among players who never rank as well.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.060000000000000005,
+            "subjectivity": 0.6294444444444445
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinhsf7",
+            "body": "Hey devs, can you please just turn on the machine learning ranking algorithm? Thanks",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hiniqqm",
+            "body": "I think toxicity in competitive gaming occurs regardless of players' consciousness of winrate and their rank. We tend to think of it as a phenonmenon isolated to online games, especially MOBAs, but I remember back in high school, the same thing would occur in sports games between kids in P.E. (I, for one, got flamed by my classmates a lot for being terrible at catching and throwing despite being an athletic runner. \ud83d\ude01) But also, flaming of teammates happens frequently in unranked games among players who never rank as well.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.060000000000000005,
+            "subjectivity": 0.6294444444444445
+        }
+    ]
+}

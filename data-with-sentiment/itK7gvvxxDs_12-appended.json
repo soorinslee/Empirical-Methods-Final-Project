@@ -1,0 +1,127 @@
+{
+    "time_posted": "2021-10-30 15:00:32",
+    "url": "https://www.youtube.com/watch?v=itK7gvvxxDs",
+    "time_now": "2021-11-01 18:08:33",
+    "ups": "81221",
+    "downs": "773",
+    "views": "1350815",
+    "top_comments": [
+        {
+            "comment": "Ashe really needs a update :(",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": -0.275,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "1:33 Hey! Thats an Assault Rifle from Halo!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Its imposible to not like Piltover characters theme , If Camilles theme was a masterpiece , this goes at the same level",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "comment": "Music is awesome.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "How can I play the game against Pool Party Caitlyn?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "When is the rework out ??????",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Widowmaker Caitlyn",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Its imposible to not like Piltover characters theme , If Camilles theme was a masterpiece , this goes at the same level",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "Music is awesome.",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "How can I play the game against Pool Party Caitlyn?",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Why so much censorship?",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Chill guys its all about Caitlyn coming wild rift",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "\ud2f0\ubaa8\ub3c4 \ud574\uc8e0.. \ub354 \uadc0\uc5fd\uace0 \ub354 \ube75\ube75\ud558\uace0 \ub354 \ubcf5\uc2e4\ubcf5\uc2e4\ud558\uac8c \ud574\uc8e0..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Finally \u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "1:33 Hey! Thats an Assault Rifle from Halo!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Perfect, but you should add her to wild rift becouse she is great, but it's on you, but i will love it if you will add her.",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "Ms. Caitlyn COULD get it tho...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "holy smokes, this is beautiful! I guess i have a new main :)",
+            "polarity": 0.45075757575757575,
+            "subjectivity": 0.696969696969697
+        },
+        {
+            "body": "Ok, give a raise to whoever's over there running the music department.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Camille: less hat, more pants Caitlyn: and I took that personally.",
+            "polarity": 0.11111111111111112,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "I think your music is stolen from Einaudi's pieces, like divenire. I hope you get sued by him. But you stole a model's face for Irelia (Aya Chalkar), corporate thievery.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

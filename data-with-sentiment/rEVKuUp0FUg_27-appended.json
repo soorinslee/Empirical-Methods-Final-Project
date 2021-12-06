@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-04 07:58:03",
+    "ups": "7371",
+    "downs": "59",
+    "views": "102669",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 571,
+            "number_of_replies": 156,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "I am super duper exited to try this . Anna u make my day good and awesome by uploading ur videos . Thank u Anna for making this video .",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6777777777777777,
+            "subjectivity": 0.7555555555555555
+        },
+        {
+            "comment": "Hello I am 10 yrs old from India\ud83c\uddee\ud83c\uddf3 and I know that you are so kind and sweet I wish I could meet u and ur so flexible and ur room is gorgeous I love it can I get a heart\u2764\ud83d\udc96\ud83d\udc95 please \ud83d\ude4f how do I get a stretch band I can't get it anywhere",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi Anna i am a really big fan of you i learned morning kinds of tricks for you now i am able to do alot just because of you and one motre thing love your outfit\ud83d\ude17\ud83d\ude17",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.44166666666666665
+        },
+        {
+            "body": "I am super duper exited to try this . Anna u make my day good and awesome by uploading ur videos . Thank u Anna for making this video .",
+            "polarity": 0.6777777777777777,
+            "subjectivity": 0.7555555555555555
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-05 00:26:14",
+    "ups": "16525",
+    "downs": "233",
+    "views": "613675",
+    "top_comments": [
+        {
+            "comment": "Unless you're part of the energy or agriculture sector, how do people end up buying homes next to a natural timebomb ?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "On your daily dose of internet",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It\u2019s involving",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Heh. Reminds me of How To Train Your Dragon movies where the Dragon eggs actually explodes when they hatch",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "That bomb was a dud.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Anything for click baits...hahaha",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "damn I wonder how their lungs look",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jesus warned of how the end times would be",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

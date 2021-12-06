@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-04 07:57:07",
+    "ups": "27458",
+    "downs": "618",
+    "views": "474613",
+    "top_comments": [
+        {
+            "comment": "TOKYO MACHINE - SLASH [NCS10 RELEASE]",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "HEY NCS10",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udc4d\ud83c\udffb\ud83d\ude16",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What a mysterious sound\ud83d\ude31\ud83d\ude31\nThis is magic!!!",
+            "polarity": 0.48828125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Starts really cool. But not this gorgeous further.",
+            "polarity": 0.3499999999999999,
+            "subjectivity": 0.6833333333333332
+        },
+        {
+            "body": "TOKYO MACHINE - SLASH [NCS10 RELEASE]",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "HEY NCS10",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

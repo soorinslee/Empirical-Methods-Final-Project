@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-05 04:33:18",
+    "ups": "8138",
+    "downs": "231",
+    "views": "218833",
+    "top_comments": [
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I wish the Avengers game by Square Enix had been like this Guardians of the Galaxy game! The games as a service ruined the Avenger game, what a huge loss. Also Deus Ex was stopped because of that live service game so that is another strike. Please support these single player games because we need more of them .",
+            "polarity": -0.09188311688311687,
+            "subjectivity": 0.4642857142857143
+        },
+        {
+            "body": "I have really no idea what I'm doing wrong but the performance mode looks MUCH worse than In this video on my LG C1 TV on PS5. Its all blurry..\n\nThe 30 fps 4k plays like slomo but looks amazing and the 60 fps 1080p is smooth but looks horrible and blurry. They should add at least a 1440p 60 fps mode just like Spiderman Miles Morales has.",
+            "polarity": -0.1857142857142857,
+            "subjectivity": 0.6428571428571429
+        }
+    ]
+}

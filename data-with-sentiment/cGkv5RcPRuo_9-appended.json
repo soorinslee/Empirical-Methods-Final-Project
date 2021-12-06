@@ -1,0 +1,118 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-01 05:46:43",
+    "ups": "20055",
+    "downs": "470",
+    "views": "264006",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "SICK!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8928571428571429,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "comment": "nice music",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "nice music",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "SICK!",
+            "polarity": -0.8928571428571429,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "body": "Wohoooooooooo!!   This song is so Amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Happy Halloween",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "NCS Congrats! You're almost about to reach 1,000 Vids! You give us music from the outside world that maybe were never heard of, and bringing them to the spotlight! thanks for calming my childhood a little, while I'm still in it actually. I hope you have a good luck :)",
+            "polarity": 0.2020833333333333,
+            "subjectivity": 0.4083333333333334
+        },
+        {
+            "body": "Can we put this in our video?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yar thanks alot much love",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "great music, there will be many people like it like me!",
+            "polarity": 0.7125,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Happy Halloween",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Great",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Thanks bro\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "\u2764\u2764\u2764Amazing \u2764\u2764\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-05 04:33:33",
+    "ups": "13102",
+    "downs": "194",
+    "views": "589014",
+    "top_comments": [
+        {
+            "comment": "Praise Jesus Christ lord",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It's tenant responsibility for their own belongings. Why blame on termite company that trying to make money. Must be ignorant people as usual.",
+            "polarity": 0.175,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "So common sense didn\u2019t tell you to put away those valuable things ? You really outhere blaming the company for your carelessness",
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "This is nothing new. Thieves have been doing this for decades. lol.",
+            "polarity": 0.4681818181818182,
+            "subjectivity": 0.5772727272727273
+        },
+        {
+            "body": "Darn what a pos hope karma gets him",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

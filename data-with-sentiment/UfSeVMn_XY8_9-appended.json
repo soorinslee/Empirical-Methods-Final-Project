@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-11-01 05:47:30",
+    "ups": "4347",
+    "downs": "325",
+    "views": "262575",
+    "top_comments": [
+        {
+            "comment": "Inspired by Lalilu,  I made an investigation thriller video \ud83d\ude0e",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I thought that penny wise was a boy.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "And also anyways eats Georgie and Georgie guys so do you not do that ever again",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy helloween\ud83e\udd21\ud83c\udf6c\ud83d\udc79\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83 trick N treats \ud83c\udf83\ud83c\udf83\ud83c\udf6c\ud83c\udf6c\ud83c\udf6c\ud83c\udf6c\ud83d\udc79\ud83d\udc79\ud83d\udc79\ud83e\udd21\ud83d\udc7b lalilu.  I like your channel very much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.53,
+            "subjectivity": 0.63
+        },
+        {
+            "comment": "I\u2019m not sure \ud83e\udd14",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.8888888888888888
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Happy Halloween \ud83c\udf88\ud83c\udf88",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

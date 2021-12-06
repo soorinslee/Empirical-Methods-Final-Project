@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 13:00:32",
+    "url": "https://www.youtube.com/watch?v=jbJCpCPOpUk",
+    "time_now": "2021-10-31 21:33:01",
+    "ups": "2819",
+    "downs": "29",
+    "views": "29925",
+    "top_comments": [
+        {
+            "comment": "Girl, you\u2019re so talented and gifted! God bless you! You have no idea how brilliant your ideas are\u2026amaazinggg!!!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.8270833333333334,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "comment": "It\u2019s Beautiful \u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "You are just amazing wow\u2763\nIt looks very pretty, but it is not my style of living.\n\n\ud83d\udc49You got talent\ud83d\udc48",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4625,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "This tablet is beautiful than the picture used for the request. Thanks for sharing your talents with us. I absolutely love this table.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5166666666666667,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\ud83d\ude18",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This tablet is beautiful than the picture used for the request. Thanks for sharing your talents with us. I absolutely love this table.",
+            "polarity": 0.5166666666666667,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "WoW! Beautiful. I agree with everyone else, you need your own T.V. Show! I absolutely love watching your videos because they are DYI projects, but they are in budget. Can't go wrong with Dollar Tree, Thank you so much, Be Blessed!",
+            "polarity": 0.32916666666666666,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "body": "Awesome as always \ud83d\ude4f. I like yours much better than the original version \ud83d\udc4d\ud83e\udd17\u2764\ufe0f",
+            "polarity": 0.625,
+            "subjectivity": 0.75
+        }
+    ]
+}

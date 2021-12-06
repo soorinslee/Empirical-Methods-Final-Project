@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj0aa0/bruh/",
+    "time_posted": "2021-10-30 08:15:36",
+    "time_now": "2021-11-03 07:16:20",
+    "ups": 28,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himwaia",
+            "body": "TLDR?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin6vrz",
+            "body": "I uninstalled background process Ubisoft Connect, stuttering is gone but the game not starting anymore...\n\nHELP /s",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "hinqsoq",
+            "body": "At one point they triple stacked anti-piracy, two extras on top of Denuvo, and it still did almost nothing (except cripple performance).  \n\n\nMake it easy to access and simple and people will still buy the game. The people that will pirate were never intending to buy it anyway.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.5226190476190476
+        },
+        {
+            "comment_id": "hiqnn30",
+            "body": "You mean the times whenever the screen randomly goes black for like half a millisecond it\u2019s really annoying",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.38916666666666666,
+            "subjectivity": 0.5375
+        },
+        {
+            "comment_id": "hioyuzh",
+            "body": "It isn't Denuvo.\n\nDenuvo has literally never been proven to cause any issues, ever, in any game except for *one* time when a developer discovered Denuvo was causing issues but not because Denuvo was working as intended. It was because something caused like 5000 function calls per second for Denuvo to check in with its servers and it was murdering performance.\n\nThat was one game, like 3 years ago. I can't even find the article although I know it was from dsogaming.\n\nNot once has a single game been proven to have any DRM related issues from third party sources like Denuvo or SecuROM. Just because some pirated games like RE8 work better after removing it doesn't mean it was causing \"issues.\" any differently than other things running would cause issues. RE8 had nothing to do with Denuvo either - it was RENET. RE2 Remake literally had the same problem - crippling microstutters so bad that it would desync controllers. and it was because the game *constantly* uploaded to RENET unless you turned that off.",
+            "ups": -4,
+            "downs": 0,
+            "polarity": -0.1539285714285714,
+            "subjectivity": 0.3667857142857143
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himwaia",
+            "body": "TLDR?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin6vrz",
+            "body": "I uninstalled background process Ubisoft Connect, stuttering is gone but the game not starting anymore...\n\nHELP /s",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "hinqsoq",
+            "body": "At one point they triple stacked anti-piracy, two extras on top of Denuvo, and it still did almost nothing (except cripple performance).  \n\n\nMake it easy to access and simple and people will still buy the game. The people that will pirate were never intending to buy it anyway.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.5226190476190476
+        },
+        {
+            "comment_id": "hiqnn30",
+            "body": "You mean the times whenever the screen randomly goes black for like half a millisecond it\u2019s really annoying",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.38916666666666666,
+            "subjectivity": 0.5375
+        },
+        {
+            "comment_id": "hioyuzh",
+            "body": "It isn't Denuvo.\n\nDenuvo has literally never been proven to cause any issues, ever, in any game except for *one* time when a developer discovered Denuvo was causing issues but not because Denuvo was working as intended. It was because something caused like 5000 function calls per second for Denuvo to check in with its servers and it was murdering performance.\n\nThat was one game, like 3 years ago. I can't even find the article although I know it was from dsogaming.\n\nNot once has a single game been proven to have any DRM related issues from third party sources like Denuvo or SecuROM. Just because some pirated games like RE8 work better after removing it doesn't mean it was causing \"issues.\" any differently than other things running would cause issues. RE8 had nothing to do with Denuvo either - it was RENET. RE2 Remake literally had the same problem - crippling microstutters so bad that it would desync controllers. and it was because the game *constantly* uploaded to RENET unless you turned that off.",
+            "ups": -4,
+            "downs": 0,
+            "polarity": -0.1539285714285714,
+            "subjectivity": 0.3667857142857143
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himwaia",
+            "body": "TLDR?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin6vrz",
+            "body": "I uninstalled background process Ubisoft Connect, stuttering is gone but the game not starting anymore...\n\nHELP /s",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "hinqsoq",
+            "body": "At one point they triple stacked anti-piracy, two extras on top of Denuvo, and it still did almost nothing (except cripple performance).  \n\n\nMake it easy to access and simple and people will still buy the game. The people that will pirate were never intending to buy it anyway.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.5226190476190476
+        },
+        {
+            "comment_id": "hiqnn30",
+            "body": "You mean the times whenever the screen randomly goes black for like half a millisecond it\u2019s really annoying",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.38916666666666666,
+            "subjectivity": 0.5375
+        },
+        {
+            "comment_id": "hioyuzh",
+            "body": "It isn't Denuvo.\n\nDenuvo has literally never been proven to cause any issues, ever, in any game except for *one* time when a developer discovered Denuvo was causing issues but not because Denuvo was working as intended. It was because something caused like 5000 function calls per second for Denuvo to check in with its servers and it was murdering performance.\n\nThat was one game, like 3 years ago. I can't even find the article although I know it was from dsogaming.\n\nNot once has a single game been proven to have any DRM related issues from third party sources like Denuvo or SecuROM. Just because some pirated games like RE8 work better after removing it doesn't mean it was causing \"issues.\" any differently than other things running would cause issues. RE8 had nothing to do with Denuvo either - it was RENET. RE2 Remake literally had the same problem - crippling microstutters so bad that it would desync controllers. and it was because the game *constantly* uploaded to RENET unless you turned that off.",
+            "ups": -3,
+            "downs": 0,
+            "polarity": -0.1539285714285714,
+            "subjectivity": 0.3667857142857143
+        }
+    ]
+}

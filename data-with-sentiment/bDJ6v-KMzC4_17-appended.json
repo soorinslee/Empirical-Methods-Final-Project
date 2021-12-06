@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 15:46:40",
+    "url": "https://www.youtube.com/watch?v=bDJ6v-KMzC4",
+    "time_now": "2021-11-02 14:44:35",
+    "ups": "2074",
+    "downs": "33",
+    "views": "45517",
+    "top_comments": [
+        {
+            "comment": "I love it when horizon revives ash she says get up you unhearted toaster",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Now my thick boy gibby has a bigger home hell yeah luv ya \ud83d\udda4",
+            "polarity": -0.15000000000000002,
+            "subjectivity": 0.4875
+        },
+        {
+            "body": "\"down below\"",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        }
+    ]
+}

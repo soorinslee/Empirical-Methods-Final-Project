@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:20:41",
+    "url": "https://www.youtube.com/watch?v=WHTOZc4F6hc",
+    "time_now": "2021-11-06 13:31:26",
+    "ups": "606",
+    "downs": "34",
+    "views": "55652",
+    "top_comments": [
+        {
+            "comment": "These boys can not shoot, they almost took each other\u2019s heads off. Spent about 8 rounds and hit him in the knee once. Take these guns off these streets \ud83e\udd26\u200d\u2642\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1125,
+            "subjectivity": 0.2375
+        },
+        {
+            "comment": "CAUGH LACKING FUCKING SHIT BRO\ud83d\udd25\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\ude08",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So many families lost someone because of these people. The saddest part is many never got justice. And the murderers are set free after a short time. You\u2019d think we\u2019d solve these types of problem in today\u2019s world where we are in such a time period...but primitive hunting/execution are just used with handy-down pistols.",
+            "polarity": 0.27999999999999997,
+            "subjectivity": 0.52
+        }
+    ]
+}

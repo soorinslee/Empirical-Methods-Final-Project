@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 15:33:28",
+    "url": "https://www.youtube.com/watch?v=mMc1hosXplE",
+    "time_now": "2021-11-04 07:57:38",
+    "ups": "1912",
+    "downs": "38",
+    "views": "52753",
+    "top_comments": [
+        {
+            "comment": "kashmir ko bacha lo mera bhaiyo hindu haivanoo sa",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "New India\u2764\ufe0f",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        }
+    ]
+}

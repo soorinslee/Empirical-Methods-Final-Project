@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-05 08:39:56",
+    "ups": "11616",
+    "downs": "21",
+    "views": "98907",
+    "top_comments": [
+        {
+            "comment": "The dance break is SWAG !!!!",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Man that dance solo\u2026\u2026. Divine! \nJackson is ridiculously talented! Soooooooo good \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.7875,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Jackson\u2019s dance performance is always NEXT level.. can\u2019t have enough of it \ud83d\udcaf\ud83d\udcaf Panthepack slays the stage too as always \ud83d\udd25\ud83d\udd25",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "The BEST <3",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Wow Jackson I love you \ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83c\udde8\ud83c\uddf7\ud83c\udde8\ud83c\uddf7\ud83d\udc9a\ud83d\udc9a\ud83d\udc24\ud83d\udc24\ud83d\udc24",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The dance break .... that's the Jackson I missed MOST ! SWAG ! Love it so much !",
+            "polarity": 0.5104166666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "OMG !!!! this is so good ! Love your new group Jackson !",
+            "polarity": 0.5151515151515151,
+            "subjectivity": 0.5515151515151516
+        }
+    ]
+}

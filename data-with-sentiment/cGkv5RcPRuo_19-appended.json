@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-02 22:59:03",
+    "ups": "25496",
+    "downs": "582",
+    "views": "411245",
+    "top_comments": [
+        {
+            "comment": "Amazing!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "\ud83d\udd25\ud83d\udd25\ud83d\udcab",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "And with this, the amazing era of NCS10 has sadly... come to an end.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.050000000000000044,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Oh yhia \ud83d\udd25\ud83d\udd25\ud83e\udd18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "i swear doesn\u2019t Toki only have two NCS releases? he needs to appear here more",
+            "polarity": 0.25,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "\u041d\u0443 \u043d\u043e\u0440\u043c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "QUE PRO",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This one is *insane* \ud83d\udd25",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

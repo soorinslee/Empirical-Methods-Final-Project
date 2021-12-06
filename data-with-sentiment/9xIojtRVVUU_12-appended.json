@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-01 18:08:12",
+    "ups": "10015",
+    "downs": "10",
+    "views": "70478",
+    "top_comments": [
+        {
+            "comment": "Jackson Wang can make everything sold out",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If you want a *PERFORMANCE* , the one to call is Jackson Wang",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "https://youtu.be/jWa1fS41Ckk\n\nJackson \ud83d\udc51street dance 4 official",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "To watch him dance again.. Wow, it bring all the memories back again.. I remembered the first time I fell in love with him, it's when I saw him dance.. but then I fell in love with his voice too.. And now, everything about him, all the positive energy that he always brings..",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2628787878787879,
+            "subjectivity": 0.5131313131313131
+        },
+        {
+            "comment": "\ud83d\uded0\ud83d\uded0\ud83d\uded0\ud83d\uded0\ud83d\uded0",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f.. teamWANG.. \ud83d\udc97\ud83d\udc97\ud83d\udc97 so talented Jackson \ud83e\udd70\ud83e\udd70\ud83e\udd70.. not bad to be hardworking.. but always stay safe and healthy \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+            "polarity": 0.5125,
+            "subjectivity": 0.6416666666666666
+        },
+        {
+            "body": "\u5609\u5609\u6bcf\u6b21\u7684\u7f16\u821e\u90fd\u662f\u8207\u773e\u4e0d\u540c\u7684\uff0c\u6211\u5c0d\u821e\u7a2e\u4e0d\u7b97\u8a8d\u8b58\uff0c\u9019\u6b21\u8df3\u7684\u662f\uff1f\u89ba\u5f97\u8df3\u5f97\u5f88\u597d\u770b\uff0c\u7de8\u821e\u5e2b\u4ea6\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

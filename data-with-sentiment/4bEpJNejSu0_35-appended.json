@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-05 16:54:22",
+    "ups": "7649",
+    "downs": "438",
+    "views": "740961",
+    "top_comments": [
+        {
+            "comment": "Peoples Champ - Wale, One of The Greatest Rappers in our Generation.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Wale Is Pressed",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "*he reminds me of MELL DUNEY 616 a lot*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Man that YE interview was classic!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "What comparison does Lizzo share with Alchemist, it's just music? \ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What comparison does Lizzo share with Alchemist, it's just music? \ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "so yall just don't break down the time sections anymore",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "If you was the right age at the right time you know wale that guy. I was in high school, them niggas was it on the mainstream side.",
+            "polarity": 0.2438095238095238,
+            "subjectivity": 0.537142857142857
+        },
+        {
+            "body": "@wale really just a cap artist you up here pretending to be KD friend and its publicly known that he smokes weed ...",
+            "polarity": 0.1,
+            "subjectivity": 0.13333333333333333
+        },
+        {
+            "body": "This the drunkest I ever seen Nore \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*he reminds me of MELL DUNEY 616 a lot*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Man that YE interview was classic!",
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Like in songs where we have classics, this is a classic interview and would go on in future as a pointer to greatness and what we can be as a people. The frequency Ye is on is different we all need to be infected my this virus. I\u2019m infected...",
+            "polarity": 0.05555555555555555,
+            "subjectivity": 0.2972222222222222
+        },
+        {
+            "body": "Why do I feel like a lot of the views on this episode are autoplay off Kanye\u2019s episode\u2620\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I hope y'all at drank champs don't invite wale back. He's just too sensitive for this show imo he don't know how to just chill and roll really threw the whole vibe of the show off. I gave this one a thumbs down and I've never done that for this show.",
+            "polarity": 0.06888888888888889,
+            "subjectivity": 0.3577777777777778
+        }
+    ]
+}

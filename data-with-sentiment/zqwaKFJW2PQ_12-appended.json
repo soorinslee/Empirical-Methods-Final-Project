@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=zqwaKFJW2PQ",
+    "time_now": "2021-11-01 18:08:51",
+    "ups": "188",
+    "downs": "42",
+    "views": "19719",
+    "top_comments": [
+        {
+            "comment": "Bye RINO...LMFAO!!!\nLets go Brandon!!!",
+            "likes": 10,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "He betrayed the trust of the voting public. Not seeking reelection was a brilliant move by comparison.",
+            "likes": 3,
+            "number_of_replies": 2,
+            "polarity": 0.45,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "comment": "REPUBLICANS ARE DRAINING THE SWAMP!!!!!   MAGA",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "F u Biden, go Branden, and Adam crybaby.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That piece of trash sat next to a Halliburton billionaire, and helped cover up FBI culpability in the Jan 6 sham.",
+            "polarity": -0.1,
+            "subjectivity": 0.15
+        },
+        {
+            "body": "He knows he is not getting reelected. He knows he is finished.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

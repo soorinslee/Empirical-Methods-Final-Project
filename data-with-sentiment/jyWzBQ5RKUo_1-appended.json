@@ -1,0 +1,125 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-10-30 20:51:26",
+    "ups": "5367",
+    "downs": "18",
+    "views": "55799",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 91,
+            "number_of_replies": 1,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "You can use waterlocked trapdoors instead of pistons. That allows the water to flow one block further, making the spawning platforms bigger. This is a simpler and cheaper solution for all kinds of flushing farms.",
+            "likes": 7,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "0:18\nThe Hermits are responsible for climate change",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "17:15 um\u2026",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Moving a waterlogged stair removes the water?! How the heck does Doc's tunnel bore work, then?!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "0:18\nThe Hermits are responsible for climate change",
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "I would have said you could use waterlogged trapdoors.\nThat gives you one more block range compared to the piston trick, and just needs wood (or iron if you want to be fancy).",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "You could say that you are getting ready for Christmas with the snow",
+            "polarity": 0.2,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "The Kingdom of Red Sand has been founded.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "On the contrary, \"Founded\" IS a proper word, as the past tense of the verb \"found,\" whose definitions are:\n1. to set up or establish on a firm basis or for enduring existence\n2. to lay the lowest part of (a structure) on a firm based or ground\n3. to base or ground (usually followed by \"on\" or \"upon\")\n4. to provide a basis or ground for\n\n...Why, no, I don't have a life, why do you ask?",
+            "polarity": -0.29047619047619044,
+            "subjectivity": 0.41428571428571426
+        },
+        {
+            "body": "foundend means to make a country: I founded Romania.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If red sand has been taken, it's most likely cubfan135",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Cool putting the new Minecraft 1.18 music in the background!",
+            "polarity": 0.2602272727272727,
+            "subjectivity": 0.5522727272727272
+        },
+        {
+            "body": "Great to see another use for target blocks",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I think it's tragic that you can't craft red sand with normal sand and red dye \ud83d\ude29 just one more little thing Mojang needs to add \ud83e\udd37\u200d\u2642\ufe0f",
+            "polarity": -0.04791666666666666,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "Mojang: Yeah we\u2019re taking away bundles\nDoc: Fine, I\u2019ll fix that problem myself\n\ud83d\ude02",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "14:57 the laugh of your average gamer who plays several hours a day",
+            "polarity": 0.049999999999999996,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "if only vanilla tweaks had a red sand recipe like it does for red sandstone!",
+            "polarity": 0.0,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Season 8 reminds me of season 4 with all the terraforming projects\nBoatem mountains,cubfan\u2019s canyon,welsknight floating island,big eye mountain,the northern swamp, etc.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You can use waterlocked trapdoors instead of pistons. That allows the water to flow one block further, making the spawning platforms bigger. This is a simpler and cheaper solution for all kinds of flushing farms.",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "17:15 um\u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

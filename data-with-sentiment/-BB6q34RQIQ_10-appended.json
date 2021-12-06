@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-01 09:54:12",
+    "ups": "509",
+    "downs": "122",
+    "views": "46723",
+    "top_comments": [
+        {
+            "comment": "After every wave numbers drop and they knew exactly when",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "Lets go Brandon!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Get them all agent orange as soon as possible.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Covid-19 cases are dropping because people are dying from breakthrough infections.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bla bla bla.I CANT HEAR YOU.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "no more fear mongers",
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Lets go Brandon!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "my guess is less testing as they don't want to know how many vaccinated are infected. CDC said they wouldn't track vaccinated cases, so there is your answer.",
+            "polarity": 0.16666666666666669,
+            "subjectivity": 0.2833333333333333
+        },
+        {
+            "body": "Good news this what we all like to hear",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

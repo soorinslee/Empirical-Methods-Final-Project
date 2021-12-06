@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 12:02:50",
+    "url": "https://www.youtube.com/watch?v=L6s_nIq9td0",
+    "time_now": "2021-10-31 05:04:54",
+    "ups": "1203",
+    "downs": "81",
+    "views": "40852",
+    "top_comments": [
+        {
+            "comment": "I'm dressing up as a streaker.",
+            "likes": 4,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "In America, Halloween is more like carnival actually.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "If they dress up as Native Americans, crybabies will explode",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "They were \ud83e\udd21 mask 24/7 365 \nnothin new here",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment": "nice costumes",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Al Roker wins best costume hands down lol \ud83d\ude4c",
+            "polarity": 0.4861111111111111,
+            "subjectivity": 0.37222222222222223
+        },
+        {
+            "body": "I don't even know what i am going to be cooking",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

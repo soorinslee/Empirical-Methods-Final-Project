@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-06 13:31:02",
+    "ups": "41479",
+    "downs": "294",
+    "views": "612140",
+    "top_comments": [
+        {
+            "comment": "Use sea lanterns in the elevator",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "FINLAAAAAAND TERVE PERKELE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The thing i love the most is how iskall and etho never meet, but leave each other gifts and messgaes, a really wholesome relationship, reminds me of a penpal",
+            "polarity": 0.26875,
+            "subjectivity": 0.41875
+        },
+        {
+            "body": "19:59 Spamton? Now's Your Chance To Be A [BIG SHOT]?",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Wiw",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Did you need some shroom lights!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Add 4 little water drop chutes in the 4 corners of the glass elevator, than you can get down easier, or guests in the NWC.",
+            "polarity": -0.17152777777777778,
+            "subjectivity": 0.3944444444444445
+        }
+    ]
+}

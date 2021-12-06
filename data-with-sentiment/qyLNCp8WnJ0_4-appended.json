@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-10-31 09:11:57",
+    "ups": "3536",
+    "downs": "93",
+    "views": "71240",
+    "top_comments": [
+        {
+            "comment": "You're too picky and fancy .  I buy what I like and that crap you're talking , you can just can it .  You're not the Continental , wow wee wow wow !",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.11875000000000002,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "This is not about food or Costco (love Costco).\nWhat concerns me is seeing all those people not wearing masks. Florida had approx 13,000 Covid cases in the last week and about 870 deaths. My 90 yr old father recently moved there and I am worried about him living there. I'm afraid to go visit.  So, how can you feel safe not wearing a mask?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.41944444444444445
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ive  never heard of Laird I\u2019m so excited to buy from them . I worked at Costco for almost 12 years I so love these videos I\u2019m glad they are allowing you to record . Thank you for always having a positive impact on people\u2019s lives \u2764\ufe0f",
+            "polarity": 0.4005681818181818,
+            "subjectivity": 0.7238636363636364
+        },
+        {
+            "body": "Question....How are the sardines Bobby approved if they're processed in Vietnam? Does that mean the fish were caught in those waters as well? Just wondering.",
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "\"Organic \" extra Virgin olive oil",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I think if you want dried fruit make it your self",
+            "polarity": -0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "those sardines are really good in the primal kitchen buffalo sauce. i hate the taste of sardines but eat them bc theyre so dang healthy. always looking for ways to mask the flavor",
+            "polarity": 0.1333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Thanks, Bobby for0 this video.  Funny thing is, I didn't go to Costco, but hurried to or from Laird .  I can't wait to get my  oatmeal \ud83e\udd38\u200d\u2640\ufe0f",
+            "polarity": 0.225,
+            "subjectivity": 0.6
+        }
+    ]
+}

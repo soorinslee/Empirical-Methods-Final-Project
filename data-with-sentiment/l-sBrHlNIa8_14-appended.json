@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-02 02:23:16",
+    "ups": "2842",
+    "downs": "27",
+    "views": "68221",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 61,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "What a beautiful voice but  a bad accompaniment and ugly arrangement of instruments that destroyed the beautiful song...a combination of a beautiful voice but with a very poor instruments..",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.10500000000000002,
+            "subjectivity": 0.9077777777777777
+        },
+        {
+            "comment": "This should be illegal its way too good \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Miss you Gigi De Lana, miss na namin makita ka sa live. Excited na kami mapanuod ang series mo na Hello Heart \ud83d\udc9c\ud83d\udc95\u2764\ufe0f",
+            "polarity": 0.2556818181818182,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Grabe ang galingggg, nakaka goosebumps.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This should be illegal its way too good \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Wow! Wow! Wow! And this was LIVE.",
+            "polarity": 0.1278409090909091,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "Love that smoky jazz rendition. The perfect compliment with a bottle of Bourbon. Just discovered Almira Cercado of 4th Impact's version as well. Both are equally good, though Almira's is done in her high arcing tone and hews closer to the original Eric Carmen version.",
+            "polarity": 0.547,
+            "subjectivity": 0.6980000000000001
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "time_posted": "2021-10-30 19:54:21",
+    "url": "https://www.youtube.com/watch?v=wyuzWVBaP0U",
+    "time_now": "2021-10-31 17:25:18",
+    "ups": "149090",
+    "downs": "2117",
+    "views": "1146587",
+    "top_comments": [
+        {
+            "comment": "Gyan bhai request le lo",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Gyan bhai request le lo",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "2428954516 gyan bhai request huta lo",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Gyan bhai tum bhanban ho",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Vai mataji ronaldo thati mara id3503854803",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sir lol emond gift kar do",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Please please please sir kar do",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sir mare I'd pr lol emond gift kar do",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Gaming channel Rajasthan Noble number ka game kya tha Itna ghatiya Rishta",
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Gyan bhai mare id hake ho gaya",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Badiul \ud83d\ude2d\ud83d\ude2dd j",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "gyan bhai ak phone do pleased please please",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Gyan bhai tum bhanban ho",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2428954516 gyan bhai request huta lo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gyan bhai request le lo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gyan bhai request le lo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

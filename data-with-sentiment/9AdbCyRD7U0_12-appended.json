@@ -1,0 +1,90 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-01 18:08:48",
+    "ups": "7188",
+    "downs": "120",
+    "views": "286133",
+    "top_comments": [
+        {
+            "comment": "Its a Volcano's tonsil stone",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Even the volcanos shooting this year",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This  channel   never  uses  click baits.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Where's the explosion?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So why is this called a bomb? I thought it was gonna explode",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How\u2019s that air quality",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think that was a sing to get out",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "A bomb?! Really Insider!!!  Sensationalizing much",
+            "polarity": 0.2953125,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "some terraria reference lmao.",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I want to pour water on it, so badly.",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Uuuuuuhhh isn\u2019t that like extremely bad for the environment?",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "I think 52 active volcanos around the world now \ud83e\udd14",
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Good thing it did not explode.",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "But the Hell is much more hotter than this",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

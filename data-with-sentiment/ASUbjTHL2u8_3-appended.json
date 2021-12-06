@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 15:05:08",
+    "url": "https://www.youtube.com/watch?v=ASUbjTHL2u8",
+    "time_now": "2021-10-31 05:04:33",
+    "ups": "1683",
+    "downs": "25",
+    "views": "34749",
+    "top_comments": [
+        {
+            "comment": "the more i see ash, the more excited i get for this season. the map is super cool looking and seems higher tier like olympus is. the car is cool too but ash is the highlight of the season for me. her design is amazing and abilities look so good!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.4592592592592592,
+            "subjectivity": 0.6351851851851852
+        },
+        {
+            "comment": "4:26 TGM: \"How have i not found a Backpack yet?\"\n4:13 *litteraly first Supply Bin has an Backpack and he walks away from it*",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "comment": "This is stupid, now you kill animals! This game is getting worse.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "The mirage was hacking i saw he had a lifeline ult for a moment!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Question..does the AI only attack the team that triggers them, or any nearby player? If I'm being chased or wanting to push in the right area, can I shoot the eggs with a team close by to get them attacked?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.14285714285714285,
+            "subjectivity": 0.7678571428571428
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "God tier bamboozler",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So who won the punch off? \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The loba at the end was Typho lol, she ended up boxing the mirage and won",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I saw that killing the prowlers upgraded your echo but does it count towards overall damage",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "13:57 in this video is the same moment as 8:59 in this Staycation video: https://www.youtube.com/watch?v=L72DkjEYuwQ",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "Congrats on 600k subs",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Between 9:40 and 9:42 it was actually tgm teammate that shot the enemy and killed them because tgm ran out of ammo in the mag and yet he still got the kill watch it in slo mo",
+            "polarity": -0.1,
+            "subjectivity": 0.05
+        }
+    ]
+}

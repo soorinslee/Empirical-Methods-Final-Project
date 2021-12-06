@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-11-01 18:08:37",
+    "ups": "2884",
+    "downs": "44",
+    "views": "67659",
+    "top_comments": [
+        {
+            "comment": "To answer the question, no.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "If a Super Famicom and a Legion 5 Pro had their own 3DS handheld baby.",
+            "polarity": 0.4666666666666667,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "During your upcoming emulation test, would you consider trying out \u201cHot Wheels: Ultimate Racing\u201d for the PSP?\nI\u2019ve been looking for a way to play that game on the go, and this new PowKiddy handheld seems like the right way to go (price notwithstanding).",
+            "polarity": 0.0544155844155844,
+            "subjectivity": 0.648051948051948
+        },
+        {
+            "body": "for that price I could buy and mod a new Nintendo 2ds. pass",
+            "polarity": 0.16818181818181818,
+            "subjectivity": 0.42727272727272725
+        }
+    ]
+}

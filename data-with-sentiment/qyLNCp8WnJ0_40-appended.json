@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-06 13:31:44",
+    "ups": "6724",
+    "downs": "181",
+    "views": "186453",
+    "top_comments": [
+        {
+            "comment": "What part of the ocean are they caught?  Could be near Japan's  contamination from nuclear power plant.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Have watched your videos fro a while and love when you cook with Rose. Gonna give you some motherly scolding after seeing the November Costco video. You need to wear a mask inside a public place . You could pass Covid to that beautiful little girl!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3167578125,
+            "subjectivity": 0.6233333333333333
+        },
+        {
+            "comment": "I wish we can replace Dr Fauci for Bobby , his like the only one that doesn\u2019t want us to die lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.85
+        }
+    ],
+    "comments_since_last_sample": []
+}

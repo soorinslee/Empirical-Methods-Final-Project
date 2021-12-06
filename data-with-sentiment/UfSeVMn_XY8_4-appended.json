@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-10-31 09:11:59",
+    "ups": "3437",
+    "downs": "245",
+    "views": "187151",
+    "top_comments": [
+        {
+            "comment": "Inspired by Lalilu,  I made an investigation thriller video \ud83d\ude0e",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "do jumanji",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "happy you  halloween\n--------------    --------------",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What \ud83c\udf83 h\ud83c\udf83 said that \nHalloween",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Inspired by Lalilu,  I made an investigation thriller video \ud83d\ude0e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "And also anyways eats Georgie and Georgie guys so do you not do that ever again",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Georgie didn\u2019t make his paper boat his brother did",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Can you make a new one that is red light green light the doll is the mom and the dad is the gaurd and the baby is the player",
+            "polarity": 0.14727272727272728,
+            "subjectivity": 0.43090909090909085
+        },
+        {
+            "body": "Ha",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "OKSO is a hkdkhjdjhdkdhyggdjdhdhdhdjd and the game \ud83d\ude2d\u2763\ufe0f\ud83d\ude21",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "happy you  halloween\n--------------    --------------",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

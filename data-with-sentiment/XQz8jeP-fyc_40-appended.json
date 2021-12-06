@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-06 13:31:10",
+    "ups": "113064",
+    "downs": "2431",
+    "views": "2933312",
+    "top_comments": [
+        {
+            "comment": "feel me NOW \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 who ever reads this comment will get a fire hart (PLS show it put 20 \ud83d\udd25)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Pancakes are better than waffles",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I am afk",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

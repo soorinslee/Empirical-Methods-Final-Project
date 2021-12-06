@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 12:45:00",
+    "url": "https://www.youtube.com/watch?v=BH-J-KX-7Z4",
+    "time_now": "2021-11-01 05:47:32",
+    "ups": "1610",
+    "downs": "26",
+    "views": "20329",
+    "top_comments": [
+        {
+            "comment": "So many good DIY projects \ud83d\udc4f\u2665 I really liked the mason jars and napkins holder!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "comment": "\u2764\u2764\u2764\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The French horn and the book stack are my favs!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hello I am thrilled to have found your channel, looking forward to seeing more videos \nAll the best \nSandra \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f\ud83c\uddec\ud83c\udde7\ud83c\udde8\ud83c\udde6",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Nice easy crafting, Christina \ud83d\ude0a I especially liked the sweet little stars! I did the 3 Christmas book idea a couple of years ago for a friend of mine who reads alot. Looking forward to all of your  holiday videos coming out! \ud83d\udd4a",
+            "polarity": 0.4180729166666667,
+            "subjectivity": 0.7966666666666666
+        }
+    ]
+}

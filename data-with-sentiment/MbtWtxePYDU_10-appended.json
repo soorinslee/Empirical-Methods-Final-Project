@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 12:00:21",
+    "url": "https://www.youtube.com/watch?v=MbtWtxePYDU",
+    "time_now": "2021-11-01 09:53:40",
+    "ups": "4700",
+    "downs": "25",
+    "views": "76000",
+    "top_comments": [
+        {
+            "comment": "LA OMG!????? ZACK I LOVE YOUR VOICE \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "GRACIOUS GOD LA ILY",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice song\ud83e\udd70\ud83e\udd70\ud83e\udd70",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "LA \ud83d\ude0d Jusko yung puso ko kakilig \u263a\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

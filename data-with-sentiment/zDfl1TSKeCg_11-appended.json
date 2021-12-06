@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 15:31:04",
+    "url": "https://www.youtube.com/watch?v=zDfl1TSKeCg",
+    "time_now": "2021-11-01 14:01:48",
+    "ups": "10148",
+    "downs": "126",
+    "views": "102797",
+    "top_comments": [
+        {
+            "comment": "\ud83c\udfa7 \u0938\u0941\u0928\u093f\u090f #TheRanveerShow \u0939\u093f\u0902\u0926\u0940 Spotify \u092a\u0930:\r\nhttps://open.spotify.com/episode/6OOFcnr13qIFp2N9T1stLf\n\n\u0939\u092e\u093e\u0930\u093e Telegram Community Join \u0915\u0930\u0947\u0902 - https://t.me/beerbicepsguy",
+            "likes": 73,
+            "number_of_replies": 5,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Now that's the real motivation i needed for No Nut November",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "I was scared from the competition but now I see these dumb heads\nLol can't even control simple urges",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1416666666666667,
+            "subjectivity": 0.5190476190476191
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I was scared from the competition but now I see these dumb heads\nLol can't even control simple urges",
+            "polarity": 0.1416666666666667,
+            "subjectivity": 0.5190476190476191
+        },
+        {
+            "body": "O my god.. The most ever value packed content with deep insights. Bro tumne kitna help kiya and kitna logo ko kar rhe ho kya batau.. Keep guidinh us be with us",
+            "polarity": 0.25,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "13 yr is a perfect example bhaiya I stopped this after watching your videos at age 15 with spritual growth",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Now that's the real motivation i needed for No Nut November",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "One of the best podcast for me\ud83d\udc4c",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Informative \ud83d\udcac",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

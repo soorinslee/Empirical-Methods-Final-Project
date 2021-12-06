@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 15:00:32",
+    "url": "https://www.youtube.com/watch?v=itK7gvvxxDs",
+    "time_now": "2021-11-03 19:35:51",
+    "ups": "86368",
+    "downs": "839",
+    "views": "1499992",
+    "top_comments": [
+        {
+            "comment": "She looks so slick,im actually excited to play the champ more now",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "I wish they stopped making new champions for like 3 years or something and just did reworks like this to keep the game fresh and let the game balance easier to manage.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.09090909090909093,
+            "subjectivity": 0.4386363636363636
+        },
+        {
+            "comment": "1:07 This part always gives me chills",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I like the imperfectness that was in Caitlyn's desing. It was kind of a challenge: Cait seemed to never care about what others think of her hilarious hat (because it's a TROPHY that proves her mastery in sniper shots) and also that weird gun (because it was a CHEAP ONE, her dad could not afford something more than that, but even so, she cherished and used it even when she became the one able to buy any gun she wanted). League becomes less about legends, more about fancy fantasy world, coooool stories and coooool designs. Call me conservative, but I loved that old League",
+            "polarity": 0.3121212121212122,
+            "subjectivity": 0.5719696969696969
+        },
+        {
+            "body": "So refined, yet still so inquisitive, feels like you're just putting all the pieces together...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I wish they stopped making new champions for like 3 years or something and just did reworks like this to keep the game fresh and let the game balance easier to manage.",
+            "polarity": -0.09090909090909093,
+            "subjectivity": 0.4386363636363636
+        },
+        {
+            "body": "Congrats, riot, this is Amazing.",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Emocionado demais q esse grande dia chegou",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice :)",
+            "polarity": 0.55,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "1:32 Robocop reference",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

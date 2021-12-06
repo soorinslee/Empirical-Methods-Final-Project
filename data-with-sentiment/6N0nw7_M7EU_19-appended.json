@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-11-02 22:59:53",
+    "ups": "4865",
+    "downs": "63",
+    "views": "118929",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Yeaaah! The greatest wunschpunsch! I like it! =)",
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "As he says \u201cit\u2019s gorgeous\u201d it looks like dude is about to cry horribly from the lies he putting out with that much alcoholism intent",
+            "polarity": -0.03333333333333335,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Dude next to my liver this dudes liver\nMust b on crack",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "He definitely trying to kill people.",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        }
+    ]
+}

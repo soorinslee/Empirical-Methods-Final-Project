@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 13:00:24",
+    "url": "https://www.youtube.com/watch?v=pTIz3Mu59fE",
+    "time_now": "2021-11-03 19:36:35",
+    "ups": "771",
+    "downs": "33",
+    "views": "49225",
+    "top_comments": [
+        {
+            "comment": "Amanda you are as real as the first cup of coffee.  Don\u2019t we all have bad days but how many have the guts to face the camera.  As they say, You Go Girl. From a Big 52 Fan\ud83d\ude4f\ud83c\udffd",
+            "likes": 20,
+            "number_of_replies": 1,
+            "polarity": 0.05000000000000003,
+            "subjectivity": 0.38
+        },
+        {
+            "comment": "This is refreshing. It is exactly how I cook. Leaning in to read the recipe",
+            "likes": 12,
+            "number_of_replies": 1,
+            "polarity": 0.375,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "Everything about you, Amanda, is real and you are breath of fresh air.  How lucky you are to have Miss Addison goofing around with you in the kitchen - I miss those days with my daughters.  The cake looks amazing.",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": 0.35833333333333334,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "Everything about this was comforting!",
+            "likes": 5,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The combination of Amanda\u2019s self-deprication and the editor\u2019s comments on the side are hysterical.",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Is there a bookstand for this puppy? It is a 5 pound book of 1k pages. Also, how would you cut the recipe for a 4-person cake, and what size pan would you use? Btw, I love that you mess up in the kitchen while baking. I am like the anal-retentive chef and when I taught myself to bake, it all had to be perfect. Now I am able to relax, and you are the reason why. Baking is more fun, and I\u2019ve gotten over my \u201cperfect cake\u201d hysteria. \ud83d\ude31Thank you. \ud83d\ude4f\u2764\ufe0f",
+            "polarity": 0.5178571428571429,
+            "subjectivity": 0.5857142857142856
+        }
+    ]
+}

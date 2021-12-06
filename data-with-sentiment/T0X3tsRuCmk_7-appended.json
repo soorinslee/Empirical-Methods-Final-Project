@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=T0X3tsRuCmk",
+    "time_now": "2021-10-31 21:32:36",
+    "ups": "1958",
+    "downs": "102",
+    "views": "89172",
+    "top_comments": [
+        {
+            "comment": "Subscribe to our channel so you never miss any news updates http://bit.ly/3e0SwKP",
+            "likes": 6,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Mobeen gobol ko add Karo \ud83d\ude4f love from India Punjab",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Haroon tum nay bhe dosray sahafion ki tarha fazool or jhoot bakwas shoro kardi hai, show kay shoro main jo tum nay batain ki hain kya wo tum ary k against bol sakty ho ? Pori dunya main ary ki zalalat hoi hai lakin Tum bas sabqa govt k against he kuttay ki tarha bhonko gay but such nahi bakwas karo gay.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.23333333333333334,
+            "subjectivity": 0.4666666666666667
+        },
+        {
+            "comment": "Very great show \ud83d\udc4f \ud83d\udc4d\ud83c\udffc \ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.9750000000000001
+        },
+        {
+            "comment": "Stay happy $ healthy pakistan \ud83c\uddf5\ud83c\uddf0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Very great show \ud83d\udc4f \ud83d\udc4d\ud83c\udffc \ud83d\udc4c",
+            "polarity": 1.0,
+            "subjectivity": 0.9750000000000001
+        },
+        {
+            "body": "G sir ap se hi puch rahe ke America me jo bacha mojza lene geya tha kon se saal ki baat ha hor kab ki q ke edar to medical ha hi free. To ap ne  kaha tha ek bache ke cancer ke operation ki fees nhi thi to us ki behn  ne ek \u0688\u0627\u0644\u0631 diya doctr. Ko. Kab hor kaha diya kis sal ki baat ha",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Program Song segment ky sath upload kia kary thanks",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "I love this show",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

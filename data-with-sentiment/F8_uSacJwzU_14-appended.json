@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 16:00:08",
+    "url": "https://www.youtube.com/watch?v=F8_uSacJwzU",
+    "time_now": "2021-11-02 02:23:08",
+    "ups": "4706",
+    "downs": "58",
+    "views": "92739",
+    "top_comments": [
+        {
+            "comment": "\"Oh you sleeping now I might creep at night\"\ud83d\udc0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hard shit",
+            "polarity": -0.24583333333333335,
+            "subjectivity": 0.6708333333333334
+        }
+    ]
+}

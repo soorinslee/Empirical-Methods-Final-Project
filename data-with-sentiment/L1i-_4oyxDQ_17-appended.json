@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-11-02 14:45:12",
+    "ups": "1812",
+    "downs": "27",
+    "views": "15596",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I like this color . It came out great",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I didn\u2019t think I\u2019d like the black wash, but I love it!  What a difference!",
+            "polarity": 0.3072916666666667,
+            "subjectivity": 0.5166666666666666
+        },
+        {
+            "body": "19:21 L\u00e0 \u0111\u00e0n \u00f4ng ph\u1ea3i c\u00f3 ch\u1ed7 \u0111\u1ee9ng v\u00e0 c\u1ee9ng ch\u1ed5 \u0111\u00f3 :D",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

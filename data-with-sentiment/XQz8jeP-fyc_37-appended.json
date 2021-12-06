@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-06 01:09:53",
+    "ups": "112063",
+    "downs": "2409",
+    "views": "2896146",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": ":-( :-)",
+            "polarity": -0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "You should do a video with giving someone a hundred million dollars I will not be in the challenge and the person has to win the game",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "My best friend luvs your vids you make my day",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Hi Preston since my last comment you may be wondering am I a boy or a girl because I am a boy just saying bye Preston",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "the person who spawned in the green :(",
+            "polarity": -0.475,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "MrMcbiscuit prob legit did alt+f4 lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "who are acuatly the enforcers?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i hate ads",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Hi I am Six yirs old",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        }
+    ]
+}

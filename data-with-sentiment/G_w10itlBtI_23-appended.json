@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-03 15:28:52",
+    "ups": "13739",
+    "downs": "176",
+    "views": "223724",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 36,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "bit late but have a look at a kitchen working triangle",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Get real handles for all of your doors. This is a kitchen. You will have greasy fingers at some point.\nYou want to open the doors and draws as easy as possible even if you have something in your hand.",
+            "polarity": 0.15833333333333333,
+            "subjectivity": 0.6583333333333333
+        },
+        {
+            "body": "Its hard to wait a month for a video.... oh boy! here we go again!",
+            "polarity": -0.45572916666666674,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "no pull! especially if you're getting all that hardware for free!",
+            "polarity": 0.25,
+            "subjectivity": 0.9
+        }
+    ]
+}

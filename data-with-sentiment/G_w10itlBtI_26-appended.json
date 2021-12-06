@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-04 03:50:55",
+    "ups": "14024",
+    "downs": "179",
+    "views": "229763",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 37,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Push to open is awesome",
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "For the minimalist look, no pulls---I'd ho with the push ones.  Also, pulls tend to snag flowy clothing that women frequently like to wear.\n\nOn a side note:  dude!  Your hair.  Seriously.  Get some mousse and when you get out of the shower, work it in.  ...then leave it.  Don't brush.  Curls are hot.  Frizz and a hair visor are seriously dorky.",
+            "polarity": -0.07291666666666666,
+            "subjectivity": 0.6208333333333333
+        },
+        {
+            "body": "Your videos have gotten better with higher production value.  Visually interesting insomuch that the shots that are always static.  You're using your hands to describe the topic more and not just to move you hands.  One question I have, though and hope to get a response among the 1K+.  What do you use to get sweeping shots as in the camera dolly-ing left to right, up and down either on table top or from the floor?  This is what has enhanced your production on value immensely probably single handedly.",
+            "polarity": 0.2553391053391053,
+            "subjectivity": 0.49444444444444446
+        }
+    ]
+}

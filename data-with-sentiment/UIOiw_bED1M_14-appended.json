@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-02 02:23:33",
+    "ups": "7543",
+    "downs": "208",
+    "views": "194306",
+    "top_comments": [
+        {
+            "comment": "Damn, I played through the e tire game and didn't even realize it had a quality or performance mode. Lol",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "I'm playing the game on my PS5 and the graphic is very good.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16999999999999996,
+            "subjectivity": 0.5266666666666667
+        },
+        {
+            "comment": "Guardians of the Galaxy PS5 in Quality Mode uses a dynamic resolution with the highest resolution found being 3840x2160 and the lowest resolution found being 2880x1620.\nXbox Series X in Quality Mode uses a dynamic resolution with the highest resolution found being 3840x2160 and the lowest resolution found being 3200x1800.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.16666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You get what you pay for. A $500 console comes with many sacrifices. A $1500-2000 PC will easily handle anything you throw at it, and do a million other things. Peasants need to get jobs and join the master race.",
+            "polarity": 0.26944444444444443,
+            "subjectivity": 0.5694444444444445
+        },
+        {
+            "body": "Dang, rift apart\u2019s rt performance mode is locked 60 fps at 1440p with ray tracing.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "But I thought new consoles would be able to do 8k...",
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.5397727272727273
+        },
+        {
+            "body": "The worst optimized game ever (intentionally) to get 30 fps down from the release  version that was running at 60 fps in series s and same fps in 4k for series x",
+            "polarity": -0.3888888888888889,
+            "subjectivity": 0.4534722222222222
+        },
+        {
+            "body": "We\u2019re only in the early years of these consoles and it seems as if their already hitting their limits\u2026maybe a rock solid 4k60fps is still to big a challenge for this gen.",
+            "polarity": 0.025,
+            "subjectivity": 0.37500000000000006
+        },
+        {
+            "body": "Hello 30 FPS. Again\ud83e\udd26\u200d\u2642\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

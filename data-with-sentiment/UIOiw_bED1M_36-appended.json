@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-05 21:02:22",
+    "ups": "8181",
+    "downs": "233",
+    "views": "219914",
+    "top_comments": [
+        {
+            "comment": "I wish the Avengers game by Square Enix had been like this Guardians of the Galaxy game! The games as a service ruined the Avenger game, what a huge loss. Also Deus Ex was stopped because of that live service game so that is another strike. Please support these single player games because we need more of them .",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.09188311688311687,
+            "subjectivity": 0.4642857142857143
+        },
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "PS4 and Xbox one left out of these comparisons yet again.\nDisappointing.",
+            "polarity": -0.3,
+            "subjectivity": 0.35
+        }
+    ]
+}

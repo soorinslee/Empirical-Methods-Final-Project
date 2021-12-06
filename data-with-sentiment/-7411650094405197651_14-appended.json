@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj1bnt/at_times_it_can_be_tempting_but_let_us_not_stoop/",
+    "time_posted": "2021-10-30 09:18:31",
+    "time_now": "2021-11-02 02:25:40",
+    "ups": 57,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hin7jff",
+            "body": "*proceeds to break his neck*",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin4fxd",
+            "body": "Lucky me!!! I always play muted\ud83e\udd2a\ud83e\udd2a\ud83e\udd2a",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6510416666666665,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment_id": "hin3jyj",
+            "body": "I\u2019ve been using the freezers \u201capp eah OK bub\u201d and \u201coh my sweet summer child\u201d",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hin7jff",
+            "body": "*proceeds to break his neck*",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin4fxd",
+            "body": "Lucky me!!! I always play muted\ud83e\udd2a\ud83e\udd2a\ud83e\udd2a",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6510416666666665,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment_id": "hin3jyj",
+            "body": "I\u2019ve been using the freezers \u201capp eah OK bub\u201d and \u201coh my sweet summer child\u201d",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hin7jff",
+            "body": "*proceeds to break his neck*",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin4fxd",
+            "body": "Lucky me!!! I always play muted\ud83e\udd2a\ud83e\udd2a\ud83e\udd2a",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6510416666666665,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment_id": "hin3jyj",
+            "body": "I\u2019ve been using the freezers \u201capp eah OK bub\u201d and \u201coh my sweet summer child\u201d",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        }
+    ]
+}

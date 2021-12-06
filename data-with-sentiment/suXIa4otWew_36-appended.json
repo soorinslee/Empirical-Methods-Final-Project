@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 09:14:41",
+    "url": "https://www.youtube.com/watch?v=suXIa4otWew",
+    "time_now": "2021-11-05 21:02:09",
+    "ups": "177751",
+    "downs": "1581",
+    "views": "2050361",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "besy idol in my heart",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jesus te ama muito seja forte e corajoso vai ficar tudo bem com voc\u00ea ok ent\u00e3o se levante vc consegue superar isso ok vc especial e amado",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Jes\u00fas te ama tanto, s\u00e9 fuerte y valiente, estar\u00e1 bien contigo, est\u00e1 bien, as\u00ed que lev\u00e1ntate, puedes superarlo, est\u00e1 bien, eres especial y amado.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jesus loves you so much be strong and brave it will be fine with you ok so get up you can get over it ok you special and loved",
+            "polarity": 0.5295918367346939,
+            "subjectivity": 0.6578231292517006
+        }
+    ]
+}

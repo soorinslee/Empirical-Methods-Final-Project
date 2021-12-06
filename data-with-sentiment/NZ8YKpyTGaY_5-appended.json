@@ -1,0 +1,133 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-10-31 13:18:39",
+    "ups": "6651",
+    "downs": "531",
+    "views": "324285",
+    "top_comments": [
+        {
+            "comment": "today is helloween",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Lucy is amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "I \u2764\ufe0f love squid game",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83d\ude1d\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83d\ude00\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07\ud83d\ude07",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1 or 2",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Star",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i see 4 cookies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Squid game is a adult show and this is a kid channel Squid game has murder and blood",
+            "polarity": -0.23333333333333336,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "Coool",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "SQUID GAME",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "2",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What are you going to imagine to be for holloween",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "today date is 31",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "today is helloween",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I \u2764\ufe0f love squid game",
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Lucy is amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I saw one I think I saw one",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy Halloween Everyone I love squid game",
+            "polarity": 0.3,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "A love sqiut geme\n\ud83d\ude0d\ud83e\udd70\ud83d\ude0b\ud83e\udd73\ud83e\udd29\ud83e\udd23",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "What",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "3 Cookies?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

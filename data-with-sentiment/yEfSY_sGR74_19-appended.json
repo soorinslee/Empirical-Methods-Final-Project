@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-02 22:58:59",
+    "ups": "6403",
+    "downs": "71",
+    "views": "82630",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 335,
+            "number_of_replies": 41,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "Probably the best Male cover so far. You never fail to nail songs\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3375,
+            "subjectivity": 0.42499999999999993
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow I have no words 10/10 \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        }
+    ]
+}

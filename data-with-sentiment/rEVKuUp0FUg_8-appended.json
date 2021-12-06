@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-01 01:40:27",
+    "ups": "5582",
+    "downs": "39",
+    "views": "59220",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 483,
+            "number_of_replies": 140,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Anna just from doing this stretch for 2 days is really helping my progress I used to not be able to do a split but I\u2019m so close to doing one",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4125
+        },
+        {
+            "comment": "How many of you are also struggling to keep the balance whilst doing the stretch? Anna I would loved if you did a video on improving balance! \ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.6875,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Do you live on your own",
+            "likes": 1,
+            "number_of_replies": 3,
+            "polarity": 0.36818181818181817,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "You are the best and I wish that I could be as flexible as you. Are you going to dress up for Halloween if you are can you please tell me what you are going to be. Thank you for your time. Happy Halloween",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.9,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi Anna I became flexible just from you. Your amazing thanks so much hugs\ud83d\udc95\ud83d\udc95\ud83d\udc95",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Anna just from doing this stretch for 2 days is really helping my progress I used to not be able to do a split but I\u2019m so close to doing one",
+            "polarity": 0.35,
+            "subjectivity": 0.4125
+        },
+        {
+            "body": "Anna: absolutely no pain at all\nme: Arrrrrghhhhhhhhhhhhhhhhhh!",
+            "polarity": -0.125,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "\u27df use to be really flexible but \u27df lost it over 2020-2021 and just started again realizing I\u2019ve gone stif",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-04 07:57:49",
+    "ups": "3860",
+    "downs": "512",
+    "views": "210815",
+    "top_comments": [
+        {
+            "comment": "Influencer that  has 2.5M followers? that's all u got to say? Do nothing and keep complaining\nnow u know  Om Naief, help her  create a go fund me account,use your followers",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What an incredible lady, who insisted on planting the trees. And to the weatherman who is providing the best solution. Heroes.",
+            "polarity": 0.95,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Influencer that  has 2.5M followers? that's all u got to say? Do nothing and keep complaining\nnow u know  Om Naief, help her  create a go fund me account,use your followers",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is there a hardware that sells geysers in kuwait city?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "There are many varieties of plants that would grow on sandy soil,palm trees\ud83e\udd70",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Yup,plant trees",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That's how a civil servant should be \ud83d\udc93\ud83d\udc93\ud83d\udc93",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

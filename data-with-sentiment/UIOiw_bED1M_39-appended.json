@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-06 09:24:14",
+    "ups": "8203",
+    "downs": "233",
+    "views": "221174",
+    "top_comments": [
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I wish the Avengers game by Square Enix had been like this Guardians of the Galaxy game! The games as a service ruined the Avenger game, what a huge loss. Also Deus Ex was stopped because of that live service game so that is another strike. Please support these single player games because we need more of them .",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.09188311688311687,
+            "subjectivity": 0.4642857142857143
+        },
+        {
+            "comment": "This joins my list of 'to be played on ps5 pro Console. I'm not picking up this 1080p 60fps game for a ps5 I bought for 1200 dollars. \nI'll get it for 5 dollars for my ps5 pro in November 2023.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "This game is so well optimized for PC. I get 80 to 90 fps on 4k maxed out settings",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "The game is so much smoother at 60fps I\u2019m keeping it in performance mode.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.30000000000000004
+        }
+    ],
+    "comments_since_last_sample": []
+}

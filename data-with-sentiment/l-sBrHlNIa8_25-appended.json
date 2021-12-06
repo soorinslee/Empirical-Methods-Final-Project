@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-03 23:43:00",
+    "ups": "3656",
+    "downs": "39",
+    "views": "98572",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 115,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "3:23 napaka epic nito! Ilang beses ko inuulit ulit Ang angas nung nag sync ang boses ni Gigi sabay pagbagsak ng drums tapos may pagka metallic na high notes! ANG TINDI! ikaw lang Gigi! ikaw na!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2578125,
+            "subjectivity": 0.47
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "galing galing gidget.....nakakaproud",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

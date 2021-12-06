@@ -1,0 +1,105 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj0aa0/bruh/",
+    "time_posted": "2021-10-30 08:15:36",
+    "time_now": "2021-10-30 16:47:51",
+    "ups": 18,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinqsoq",
+            "body": "At one point they triple stacked anti-piracy, two extras on top of Denuvo, and it still did almost nothing (except cripple performance).  \n\n\nMake it easy to access and simple and people will still buy the game. The people that will pirate were never intending to buy it anyway.",
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.5226190476190476
+        },
+        {
+            "comment_id": "hin6vrz",
+            "body": "I uninstalled background process Ubisoft Connect, stuttering is gone but the game not starting anymore...\n\nHELP /s",
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "himwaia",
+            "body": "TLDR?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "himwaia",
+            "body": "TLDR?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin6vrz",
+            "body": "I uninstalled background process Ubisoft Connect, stuttering is gone but the game not starting anymore...\n\nHELP /s",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "hinqsoq",
+            "body": "At one point they triple stacked anti-piracy, two extras on top of Denuvo, and it still did almost nothing (except cripple performance).  \n\n\nMake it easy to access and simple and people will still buy the game. The people that will pirate were never intending to buy it anyway.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.5226190476190476
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himwaia",
+            "body": "TLDR?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin6vrz",
+            "body": "I uninstalled background process Ubisoft Connect, stuttering is gone but the game not starting anymore...\n\nHELP /s",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "hinqsoq",
+            "body": "At one point they triple stacked anti-piracy, two extras on top of Denuvo, and it still did almost nothing (except cripple performance).  \n\n\nMake it easy to access and simple and people will still buy the game. The people that will pirate were never intending to buy it anyway.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.5226190476190476
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himwaia",
+            "body": "TLDR?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin6vrz",
+            "body": "I uninstalled background process Ubisoft Connect, stuttering is gone but the game not starting anymore...\n\nHELP /s",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "comment_id": "hinqsoq",
+            "body": "At one point they triple stacked anti-piracy, two extras on top of Denuvo, and it still did almost nothing (except cripple performance).  \n\n\nMake it easy to access and simple and people will still buy the game. The people that will pirate were never intending to buy it anyway.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.5226190476190476
+        }
+    ]
+}

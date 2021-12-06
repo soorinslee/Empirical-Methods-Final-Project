@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-11-01 22:16:13",
+    "ups": "7202",
+    "downs": "307",
+    "views": "154684",
+    "top_comments": [
+        {
+            "comment": "I was waiting for something bad to happen",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "good thing there was no fire",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Congratulations nice video",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "1 Peter 5:7 \u201cTurn all your anxiety over to God because he cares for you.\u201d Jesus loves you dont give up on him!\u2764! Jesus is coming back soon , live and get closer to him. The kingdom of heaven is at hand \ud83d\ude4f\ud83c\udffd",
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Nothing blew up and no one got injured. A miracle for one of these \ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

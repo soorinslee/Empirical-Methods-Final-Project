@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-04 16:11:25",
+    "ups": "40617",
+    "downs": "284",
+    "views": "593917",
+    "top_comments": [
+        {
+            "comment": "Glad Etho haven't found out about the thing yet...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "hallloo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i think you should take the door off that water elevator at the bottom it would look cooler",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Am I the only one that hears \u201cunderside\u201d every time Iskall says: \u201cAndesite\u201d",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\"iDEa\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-02 10:38:03",
+    "ups": "12812",
+    "downs": "167",
+    "views": "206492",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 36,
+            "number_of_replies": 6,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "Love what your doing.  Very interesting and entertaining.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5499999999999999,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Brilliant work and thanks for sharing this with us take care",
+            "polarity": 0.55,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Push to open is so handy! We have it on some of our cabinets and its super cool since you can open stuff even with your hands full of dishes and so on!",
+            "polarity": 0.3118055555555555,
+            "subjectivity": 0.6277777777777778
+        },
+        {
+            "body": "Now mark I ain't gon lie push t2 open sounds quit fire I'm not gon lie",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "How old is 18 in cat years ???",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Push to open!",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Go with drawer pulls.\nI think putting a cooktop in an island wastes a lot of counter work space. I have a large island and it works great for large gatherings - buffet style meals, snacks, etc.  I made sure two electrical outlets were placed under the counter edge.  Christmas baking is great with the mixer on the counter, rolling out dough, and grandkids sitting on stools decorating cookies on cookie sheets.  Lots of space and fun.",
+            "polarity": 0.3755102040816326,
+            "subjectivity": 0.4922902494331066
+        },
+        {
+            "body": "both!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Do both handles and push-to-open. P2O for the ease of use. Handles for when you need to open a drawer quickly, or if the P2O mechanism breaks down mid-cookout.",
+            "polarity": 0.05925925925925924,
+            "subjectivity": 0.42962962962962964
+        }
+    ]
+}

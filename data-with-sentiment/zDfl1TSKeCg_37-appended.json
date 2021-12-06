@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 15:31:04",
+    "url": "https://www.youtube.com/watch?v=zDfl1TSKeCg",
+    "time_now": "2021-11-06 01:10:15",
+    "ups": "19133",
+    "downs": "256",
+    "views": "256163",
+    "top_comments": [
+        {
+            "comment": "\ud83c\udfa7 \u0938\u0941\u0928\u093f\u090f #TheRanveerShow \u0939\u093f\u0902\u0926\u0940 Spotify \u092a\u0930:\r\nhttps://open.spotify.com/episode/6OOFcnr13qIFp2N9T1stLf\n\n\u0939\u092e\u093e\u0930\u093e Telegram Community Join \u0915\u0930\u0947\u0902 - https://t.me/beerbicepsguy",
+            "likes": 130,
+            "number_of_replies": 10,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "30.25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Sub muthal bc \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Why your name is Ranveer allahabadi not Ranveer prayagraji \ud83e\udd23\ud83d\ude02 mazaq kerra hoon bhai badalna mt",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Why your name is Ranveer allahabadi not Ranveer prayagraji \ud83e\udd23\ud83d\ude02 mazaq kerra hoon bhai badalna mt",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-06 13:31:09",
+    "ups": "17398",
+    "downs": "293",
+    "views": "445365",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1877,
+            "number_of_replies": 145,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Do a Randomizer first to find a normal pokemon BUT! The pokemon are ALL SHINIES",
+            "polarity": 0.21875,
+            "subjectivity": 0.4916666666666666
+        },
+        {
+            "body": "React to Hipno\u2019s lullaby",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I want Cynthia to cru-\nPurplecliffe -2021",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u201ccastform is not stupid.\u201d \u201ci\u2019m batman.\u201d \u201cwOoOoOo!\u201d perfect description of the legendary pok\u00e9tuber trio",
+            "polarity": 0.8333333333333334,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "it sounds like he wasn't sponsered but want to be sponsered with his voice",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "First to catch a legendary Pokemon in every generation wins",
+            "polarity": 0.5166666666666667,
+            "subjectivity": 0.5111111111111111
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qiz7mi/how_do_i_start_an_online_band/",
+    "time_posted": "2021-10-30 07:03:01",
+    "time_now": "2021-10-30 16:46:45",
+    "ups": 2,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "himylj7",
+            "body": "Maybe whatsapp and a decent webcam? I have tried to play music with someone this way and it sortof worked.",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment_id": "himt7pr",
+            "body": "What kind of music ya plan on going for?",
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "himt7pr",
+            "body": "What kind of music ya plan on going for?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment_id": "himylj7",
+            "body": "Maybe whatsapp and a decent webcam? I have tried to play music with someone this way and it sortof worked.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himt7pr",
+            "body": "What kind of music ya plan on going for?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment_id": "himylj7",
+            "body": "Maybe whatsapp and a decent webcam? I have tried to play music with someone this way and it sortof worked.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himt7pr",
+            "body": "What kind of music ya plan on going for?",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment_id": "himylj7",
+            "body": "Maybe whatsapp and a decent webcam? I have tried to play music with someone this way and it sortof worked.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

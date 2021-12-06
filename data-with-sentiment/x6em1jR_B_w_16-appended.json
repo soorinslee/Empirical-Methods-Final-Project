@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-02 10:38:11",
+    "ups": "5155",
+    "downs": "284",
+    "views": "230739",
+    "top_comments": [
+        {
+            "comment": "this is amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Good\ud83c\udfb6",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

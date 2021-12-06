@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-31 00:57:31",
+    "url": "https://www.youtube.com/watch?v=Zdc8vZcCEeo",
+    "time_now": "2021-11-05 16:54:33",
+    "ups": "2212",
+    "downs": "19",
+    "views": "40962",
+    "top_comments": [
+        {
+            "comment": "I PRAY WHO EVER READING THIS BECOMES SUCCESSFUL IN LIFE",
+            "likes": 12,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Success in life is measured in how we live it, and knowing the lessons it teaches us.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.21818181818181817,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I would watch your streams every afternoon while I worked. Wondered if you were off Twitch for so long because you were doing a project. Just finding out today that you are streaming on Youtube haha",
+            "polarity": 0.07500000000000001,
+            "subjectivity": 0.35
+        }
+    ]
+}

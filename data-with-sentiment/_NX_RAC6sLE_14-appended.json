@@ -1,0 +1,80 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-02 02:23:13",
+    "ups": "15607",
+    "downs": "48",
+    "views": "155561",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2111,
+            "number_of_replies": 13,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Jungkook's song sounds more desperate.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "The thing I loved about Harry's version is how weary it is, you know? like he was feeling the end of that relationship, JK's has a different resonance to it, less weary and more confused. Harry's is more resigned to the end of the relationship, JK's isn't.\n\nWell, that's how their voices make me feel.  \n\nBoth versions are great and they both have excellent technique.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.6145833333333333
+        },
+        {
+            "comment": "do ed sheeran equals reaction plsss",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Plaintive",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jungkook's voice is so calming and angelic. His vocals was a perfect match for this song. This was such an incredible cover!!",
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "I love Jungkook and your reaction but I was distracted the whole time by that adorable kitty \ud83d\ude2d\ud83d\ude0d",
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "you should react to \"so what\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The thing I loved about Harry's version is how weary it is, you know? like he was feeling the end of that relationship, JK's has a different resonance to it, less weary and more confused. Harry's is more resigned to the end of the relationship, JK's isn't.\n\nWell, that's how their voices make me feel.  \n\nBoth versions are great and they both have excellent technique.",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.6145833333333333
+        },
+        {
+            "body": "Love your kitten",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Off subject: but Motley (sp) is soooooo cute...he watches your hands when you are talking...so cute!!",
+            "polarity": 0.4048611111111111,
+            "subjectivity": 0.7444444444444445
+        },
+        {
+            "body": "Jungkook's song sounds more desperate.",
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.75
+        }
+    ]
+}

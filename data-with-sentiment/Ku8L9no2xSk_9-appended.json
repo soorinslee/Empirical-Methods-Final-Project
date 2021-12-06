@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-01 05:46:54",
+    "ups": "7154",
+    "downs": "27",
+    "views": "77790",
+    "top_comments": [
+        {
+            "comment": "#PayInTheBarrel",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "maybe try switching the \"please pay in the barrel\" sign with the item frame with the item your selling. I see a lot of herrmits on stream go to your shop and just get confused as to witch barrel your talking about... or even better rename the item in the frame to \"pay here\".",
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I don't think it looks like snow. I think it looks like salty death \ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"5 diamonds per stack or 2 if you pay in the barrel.\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "great vid mate",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Anyone know where rens custom F3 cords thing can be found??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Live corals in the seas will help the story of the unsubmerged dead coral island",
+            "polarity": -0.03181818181818183,
+            "subjectivity": 0.45
+        }
+    ]
+}

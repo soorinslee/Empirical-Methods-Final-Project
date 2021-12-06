@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-03 07:14:25",
+    "ups": "6837",
+    "downs": "356",
+    "views": "101545",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Those puffers are better worn in cold climates like New York look out of place in dry hotter regions like SoCal",
+            "polarity": -0.007575757575757569,
+            "subjectivity": 0.6386363636363637
+        },
+        {
+            "body": "Alex Costa said that Bomber Jackets, Flannels, Chelsea Boots, Turtle necks never go out of style!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

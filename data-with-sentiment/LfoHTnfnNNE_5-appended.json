@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 15:26:03",
+    "url": "https://www.youtube.com/watch?v=LfoHTnfnNNE",
+    "time_now": "2021-10-31 13:18:19",
+    "ups": "558",
+    "downs": "12",
+    "views": "7589",
+    "top_comments": [
+        {
+            "comment": "A German friend called me yesterday. He was laughing about the UK and our so called shortages. ( They think we have nothing but empty shops. \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": -0.05,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "What brilliant words...thank you miss",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.9,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\ud83e\udd23 Take that Pepe.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The French have been stealing fish for year's that's why some boats don't have a licence because they were never registered,think how much fish that would amount to over the years they should be taken to court and fined",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nana Akua, do you recognise ENGLAND ?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "but it was going to great for Britain after brexit so you types kept saying so i don't get what your'e on about..",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Anyone who supports globalisation is a facist, one world dictatorship",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The EU cannot afford Britain to do well after Brexit because that will encourage other EU countries to leave.",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Well said",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "She's bang on with the fact that the trouble only occurred because \"We joined the EU\". If we'd remained free and independent we would have been much better off over all these years.",
+            "polarity": 0.13999999999999999,
+            "subjectivity": 0.525
+        }
+    ]
+}

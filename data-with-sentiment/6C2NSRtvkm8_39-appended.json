@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-06 09:24:15",
+    "ups": "18471",
+    "downs": "189",
+    "views": "417945",
+    "top_comments": [
+        {
+            "comment": "Firearms of Receiver 2!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Putting the comment on his presentation and commentary on the technical aspects aside (which is undoubtedly phenomenal), Jonathan's presence alone is so wholesome. The guy is  such a joy to watch. His enthusiasm shows while he is talking and I love it. \n\nMORE JONATHAN PLEASE. \n\nAlso despite all these positive words for him, I want him to react to Vanguard guns. :D",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.44090909090909086,
+            "subjectivity": 0.49318181818181817
+        },
+        {
+            "comment": "Please have this man do COD Vanguard. He\u2019ll have a heart attack when he sees those guns.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Please have him review the atrocity which is CoD Vanguard",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I super wanna see Jonathan Ferguson talk about the guns in Warframe (including and especially the melee gunblades)",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "This was a lot of fun! Lots of cool observations and info!",
+            "polarity": 0.40625,
+            "subjectivity": 0.42500000000000004
+        },
+        {
+            "body": "Can you do homefront revelation",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

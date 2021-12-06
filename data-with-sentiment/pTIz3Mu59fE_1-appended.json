@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 13:00:24",
+    "url": "https://www.youtube.com/watch?v=pTIz3Mu59fE",
+    "time_now": "2021-10-30 20:51:57",
+    "ups": "314",
+    "downs": "8",
+    "views": "4840",
+    "top_comments": [
+        {
+            "comment": "Amanda you are as real as the first cup of coffee.  Don\u2019t we all have bad days but how many have the guts to face the camera.  As they say, You Go Girl. From a Big 52 Fan\ud83d\ude4f\ud83c\udffd",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.05000000000000003,
+            "subjectivity": 0.38
+        },
+        {
+            "comment": "This is refreshing. It is exactly how I cook. Leaning in to read the recipe",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "Everything about you, Amanda, is real and you are breath of fresh air.  How lucky you are to have Miss Addison goofing around with you in the kitchen - I miss those days with my daughters.  The cake looks amazing.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35833333333333334,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "This is a stunning Cake \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "That salad though",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So just also.noticed that beautiful salad with eggs to your left !! What's that ?!  Ha \nThe cake looks  beautiful!!!",
+            "polarity": 0.6166666666666667,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "You shouldn\u2019t crack eggs into your main dish \ud83d\ude33\ud83d\ude31\ud83d\ude35\ud83e\udd74.",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "YAY!!!! It's Amanda. My Saturday just got THAT much better. BTW, Hope you feel better Amanda.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I knew I had my cook-double somewhere.  I found her.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The combination of Amanda\u2019s self-deprication and the editor\u2019s comments on the side are hysterical.",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I juat want to give you a hug....and to take the knife out of your hand! X",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

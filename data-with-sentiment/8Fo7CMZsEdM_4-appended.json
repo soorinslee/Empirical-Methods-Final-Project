@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 14:30:11",
+    "url": "https://www.youtube.com/watch?v=8Fo7CMZsEdM",
+    "time_now": "2021-10-31 09:11:24",
+    "ups": "1842",
+    "downs": "82",
+    "views": "22652",
+    "top_comments": [
+        {
+            "comment": "When is part 3 squid game?",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "1:43 THE DEMON FACE IS BACK",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Next animation swamp gene origin pls",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udda4\ud83d\udda4\ud83d\udda4",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My Best Frends Brawl Stars\ud83d\udc93",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I like you gammyanimation",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        }
+    ]
+}

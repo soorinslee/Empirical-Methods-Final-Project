@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-02 06:30:31",
+    "ups": "10781",
+    "downs": "105",
+    "views": "129394",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 182,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Let us now begin a deep ontological discussion about the distinction between \"lumpers\" and \"splitters\"!",
+            "polarity": 0.0,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I thought this was gonna be a preview video lol. Sad that WOTC doesn't like the fun skits",
+            "polarity": 0.20000000000000004,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "body": "Coven?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "the only one he's wrong on is the Phyrexian mana. Kicker is paid in addition to the CMC of the card while Phyrexian mana is either mana or 2 life for each mana.",
+            "polarity": -0.25,
+            "subjectivity": 0.95
+        }
+    ]
+}

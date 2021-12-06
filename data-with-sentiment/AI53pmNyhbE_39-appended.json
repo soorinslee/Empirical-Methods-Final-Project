@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-06 09:23:59",
+    "ups": "37630",
+    "downs": "6340",
+    "views": "8473454",
+    "top_comments": [
+        {
+            "comment": "International song of the Bollywood all over world..",
+            "likes": 13,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Toooo forward for those times. Music, clothes",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Divya , most gorgeous actress ever \ud83d\ude00\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "ever green song... aaj bhi waisa jaisy 20 saal pehly.. from pakistan",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "\u0996\u09c1\u09ac \u09b8\u09c1\u09a8\u09cd\u09a6\u09b0 \u09b2\u09be\u0997\u099b\u09c7",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "She is heavenly angel such a beautiful eyes and smile",
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "Divya , most gorgeous actress ever \ud83d\ude00\u2764",
+            "polarity": 0.6,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "nice \ud83d\udc4d\ud83d\udc4d",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Caryn.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "this is trending.....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0996\u09c1\u09ac \u09b8\u09c1\u09a8\u09cd\u09a6\u09b0 \u09b2\u09be\u0997\u099b\u09c7",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "very asum song and good conmpission wourld international song",
+            "polarity": 0.3,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "\ud83d\ude05\ud83d\ude05\ud83d\ude05 dance",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Iss gane ka v remake aana chahiye",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have never seen a  beauty like DivyaBharathi.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

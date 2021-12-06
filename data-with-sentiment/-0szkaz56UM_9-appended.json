@@ -1,0 +1,111 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-01 05:47:16",
+    "ups": "11275",
+    "downs": "167",
+    "views": "494602",
+    "top_comments": [
+        {
+            "comment": "security the culprits. ;D",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "It\u2019s common sense to get your valuables idiots.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.55,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "its like in Tangerine (The Book)",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This has been going on for years. When we did our house we were warned about this and the company also told us that sometimes they find dead body from someone breaking in and then \u2620\ufe0f",
+            "polarity": -0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "security the culprits. ;D",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Bro breaking bad moment",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "breaking bad",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Joggers \ud83c\udfc3\u200d\u2642\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "who keeps 70k worth of jewelry not locked up \ud83d\udc80",
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "It\u2019s common sense to get your valuables idiots.",
+            "polarity": -0.55,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "This reminds me of breaking bad",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "I mean, she should have still locked her doors. This is on her too.",
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "It happened to my sister house too. I think is  their own people. The second  house we tent, I slept in the car and in the driveway with a my gun.",
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Welcome to California!",
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Shouldn't have trusted anyone with that much jewelry..genius \ud83d\ude15",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Need to setup a motion sensor to the valve of the pest control tank...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It's the guys within the terminex company.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Looks like planned burglary... Well she got refunded, job done for free for her \ud83e\udd2d Who live 75k$ of jewelry in the open like that",
+            "polarity": 0.1787878787878788,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Terminex isn\u2019t to blame.  Common sense lady.",
+            "polarity": -0.3,
+            "subjectivity": 0.5
+        }
+    ]
+}

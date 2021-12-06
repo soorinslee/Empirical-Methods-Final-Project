@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-11-02 02:24:04",
+    "ups": "5048",
+    "downs": "392",
+    "views": "313855",
+    "top_comments": [
+        {
+            "comment": "L\u2764've it",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy helloween\ud83e\udd21\ud83c\udf6c\ud83d\udc79\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83 trick N treats \ud83c\udf83\ud83c\udf83\ud83c\udf6c\ud83c\udf6c\ud83c\udf6c\ud83c\udf6c\ud83d\udc79\ud83d\udc79\ud83d\udc79\ud83e\udd21\ud83d\udc7b lalilu.  I like your channel very much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.53,
+            "subjectivity": 0.63
+        },
+        {
+            "comment": "I don't like it by i",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I've never been able to do the crafts but I really wanted to and I will do it sometime",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4125
+        },
+        {
+            "comment": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I like your videos they're  awesome",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I\u2019m sorry \ud83d\ude1e for the one \u261d\ud83c\udffe coke",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

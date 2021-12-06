@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-05 12:47:05",
+    "ups": "20328",
+    "downs": "63",
+    "views": "224710",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2954,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The Best singer. I love his Voice.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "\u201cI\u2019m not surprised, but I\u2019m surprised you know\u201d\nYEAH we army can totally relate",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.016666666666666666,
+            "subjectivity": 0.85
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "your cat so cute >_<",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I think this a superb cover his voice lends itself to this song it may be thinner than Harrys but I love the quality of it and the vibrato. I dont think people who aren't army realise how really talented and skilled they all are. To have become popular worldwide whilst singing mainly at first in Korean is amazing anyway. He has obviously worked hard on his voice to improve it gain techniques etc an it shows. This is one of my favourites to play now more than Harry's even tho I love that too. Thanks for your reaction a new subscribet",
+            "polarity": 0.3995920745920747,
+            "subjectivity": 0.609965034965035
+        }
+    ]
+}

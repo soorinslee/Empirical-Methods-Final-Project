@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-10-31 09:11:07",
+    "ups": "4405",
+    "downs": "35",
+    "views": "28082",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 577,
+            "number_of_replies": 21,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Brilliant cover and adore the story telling.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.9,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "As a Respiratory Therapist that frequently has to do CPR, thank you for giving me an awesome cover of this song to keep my rhythm of compressions to. \ud83e\udd18\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm glad I actually listened all the way through. Was expecting this to be cringe, but this was epic. That solo was dope. Well done guys!",
+            "polarity": 0.20833333333333334,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Nice job \ud83d\udc4d",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "This was super clever and fun! I loved it!",
+            "polarity": 0.4375,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Never did I think I would ever think I like this song. This was sick",
+            "polarity": -0.7142857142857143,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "body": "\u041e\u0447\u0435\u043d\u044c \u043a\u0438\u043d\u043e\u043c\u043e\u0442\u0430\u0433\u0440\u0430\u0444\u0438\u0447\u043d\u043e. \u041e\u0440\u0430\u043d\u0436\u0438\u0440\u043e\u0432\u043a\u0430 \u043f\u043e\u0440\u0430\u0434\u043e\u0432\u0430\u043b\u0430. \u0412\u043e\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0440\u0442\u0438\u0435 \u043f\u0440\u044f\u043c \u043c\u0451\u0434\u043e\u043c \u043d\u0430 \u0441\u0435\u0440\u0434\u0446\u0435 \u043b\u0435\u0433\u043b\u0438.\n\u041d\u043e \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0438\u043b \u0442\u0440\u0435\u043a \u043d\u0430 \u0442\u0438\u0442\u0440\u0430\u0445 :)) \u043a\u0442\u043e \u0430\u0432\u0442\u043e\u0440, \u0433\u0434\u0435 \u043f\u043e\u043b\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f?",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Haha, omg you guys did it",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "As a Respiratory Therapist that frequently has to do CPR, thank you for giving me an awesome cover of this song to keep my rhythm of compressions to. \ud83e\udd18\ud83c\udffb",
+            "polarity": 0.55,
+            "subjectivity": 0.65
+        }
+    ]
+}

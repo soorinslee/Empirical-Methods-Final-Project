@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-03 15:28:27",
+    "ups": "7924",
+    "downs": "223",
+    "views": "211501",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "What's the view on AMD's Fidelity FX super resolution coming to these consoles? Could that be a realistic candidate to elevate the series S in the performance and visuals departments a little?",
+            "polarity": 0.10416666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Great, a Tom video...",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Yeah yeah but the optimization is fucking crap",
+            "polarity": -0.8,
+            "subjectivity": 0.8
+        }
+    ]
+}

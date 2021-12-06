@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-02 14:45:21",
+    "ups": "6571",
+    "downs": "47",
+    "views": "81283",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 538,
+            "number_of_replies": 151,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Hey anna i am your big fan you are so great",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.425
+        },
+        {
+            "comment": "I love your channels",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I can't do that all sretches",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I am 11 year old i am your big fan i am a girl",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.15000000000000002
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I tried them and reallly like it! I helped me improve ewerythink! Also, you helped me with an Aerial",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You are really great anna",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I love your channels",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "love you sm thank you kiksis",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Anna do not worry people who gave thumps down are  jealous because they are not able to get flexible. Love your videos so much.",
+            "polarity": 0.07361111111111111,
+            "subjectivity": 0.4284722222222222
+        }
+    ]
+}

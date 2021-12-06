@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 15:00:32",
+    "url": "https://www.youtube.com/watch?v=itK7gvvxxDs",
+    "time_now": "2021-11-05 00:25:58",
+    "ups": "86993",
+    "downs": "853",
+    "views": "1527464",
+    "top_comments": [
+        {
+            "comment": "Xayah: Whoever did your wardrobe, fire them immediately.\nNew Caitlyn: Just did, thanks love.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.2787878787878788,
+            "subjectivity": 0.41818181818181815
+        },
+        {
+            "comment": "0:33 dogo",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Just kinda weird how it looks like they changed her ethnicity",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "would love to see an update like this on sivir or ashe",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "OHGOSHMYLOVECAIT<3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "OH Caitlyn now is chinese, i see Riot trying to apeal the chinese market more and more",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "mommy..sorry...mommy?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "so exciting for this update that ill play league again after some time. i hope they make more updates like this, is so much more exciting than new champions honestly",
+            "polarity": 0.26233766233766237,
+            "subjectivity": 0.7077922077922078
+        },
+        {
+            "body": "Jinx and Vi theme: GET JINXED HERE COMES VIIII\nCaitlyn theme: Beethoven",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The music remeinds me of henging tree from hunger games",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

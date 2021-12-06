@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-02 06:31:02",
+    "ups": "5354",
+    "downs": "143",
+    "views": "125002",
+    "top_comments": [
+        {
+            "comment": "In a very recent video promoting Whole Foods sale prices, you specifically recommended a product, \"Four Sigmatic, Defend, Mushroom Blend Mix.\" On the can there's an explicit warning how this product can expose you to chemicals including lead, which is known in CA to cause birth defects or other reproductive harm. You express concerns about natural and artificial flavors. What's the deal here?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.08499999999999999,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Stop promoting your sponsored crud From other companies when your in Costco\u2026.that is so ghetto! Your are notorious for doing this.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Truvani protein mix? Has Prop 65 warning. Other protein mixes don't. What think of prop 65 warning? Why on truvani and not on others w same ingrdnts?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.0625,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "Illinois has it!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "We do have Rao\u2019s here in Eugene Oregon. Yummy stuff",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "RAO isn\u2019t organic.  Tomatoes are in the topic 12 list of toxic veggies/fruit or Dirty Dozen.  Don\u2019t agree with you that it is healthy.  Why do you approve of it, Bobby?",
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Costco in Merrillville Indiana has Raos on sale",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

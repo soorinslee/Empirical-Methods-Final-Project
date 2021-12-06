@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-03 15:28:56",
+    "ups": "1770",
+    "downs": "36",
+    "views": "22140",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I'd love to join the giveaway. I've never tried the original Acqua Di Gio. I do have Profumo and Profondo, and tried Profondo Lights",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.675
+        },
+        {
+            "comment": "Acqua Di Gio was my very first cologne I\u2019ve ever owned in high school and was my signature scent for quite a while until I got a couple more  fragrances to add to my collection and would alternate between them. I\u2019ve only ever bought that one bottle of Acqua but to me it\u2019s still a nostalgic scent.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08083333333333333,
+            "subjectivity": 0.5788888888888889
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'd like to be entered in the giveaway. ADG is to me like a more exclusive version of Ck one. it smells really clean and timeless.",
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I would like to be entered in the giveaway of ADG. I only smelled the ADG profumo and ADG absolu.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I've never tried Aqcua di Gio but would love to win a bottle.",
+            "polarity": 0.65,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I'd love to join the giveaway. I've never tried the original Acqua Di Gio. I do have Profumo and Profondo, and tried Profondo Lights",
+            "polarity": 0.4375,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "I'd like to be entered in the ADG giveaway.  Sorry to say that I've never rocked this one.  Had it in my hand and the sales gal at Macy's talked me into Allure Homme Sport, instead.",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Never owned it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I like but never have rocked Aqua di gio. Definitely have always liked . Definitely like to win the bottle.",
+            "polarity": 0.35,
+            "subjectivity": 0.55
+        }
+    ]
+}

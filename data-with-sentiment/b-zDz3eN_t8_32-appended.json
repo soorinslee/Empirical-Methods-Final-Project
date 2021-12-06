@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-05 04:33:08",
+    "ups": "7174",
+    "downs": "326",
+    "views": "796865",
+    "top_comments": [
+        {
+            "comment": "Oo: I love this UTS ginna be epic and I love the blue suits",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.275,
+            "subjectivity": 0.42500000000000004
+        },
+        {
+            "comment": "Gg",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is insane I love this video and the shape is mr beast logo it\u2019s so funny.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.8666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Imagine standing in front of the circle door and getting the MrBeast logo. #Trollface",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "why are they girls",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "There is a mrbeast burger too?? Haha",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        }
+    ]
+}

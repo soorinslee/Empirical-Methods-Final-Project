@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-03 19:36:20",
+    "ups": "622",
+    "downs": "163",
+    "views": "59758",
+    "top_comments": [
+        {
+            "comment": "This news station is definitely unhappy with the decrease in cases, especially in Florida.",
+            "likes": 9,
+            "number_of_replies": 1,
+            "polarity": -0.3,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Good news so we can stop wearing those stupid masks that don't work",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "According to nbc news,\n\n\"Younger, Southern, rural and white\" are getting covid-19.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "And this is bad?? What's with the tone and music of this story",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I take one to two tablets of albendazole niclosamide, pyramex ivermectin hydroxychloroquine a day, until I get better.\n 230 million people in Utah, India recover daily life with ivermectin",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "I hope they can ratchet up the numbers again before the election or the glorious triumph of socialism could be delayed.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lies all lies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "And this is bad?? What's with the tone and music of this story",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Natural immunity. So enough with the mandates.",
+            "polarity": 0.05,
+            "subjectivity": 0.45
+        }
+    ]
+}

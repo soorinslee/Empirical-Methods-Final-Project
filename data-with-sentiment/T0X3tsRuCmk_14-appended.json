@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=T0X3tsRuCmk",
+    "time_now": "2021-11-02 02:23:39",
+    "ups": "2232",
+    "downs": "118",
+    "views": "113646",
+    "top_comments": [
+        {
+            "comment": "Subscribe to our channel so you never miss any news updates http://bit.ly/3e0SwKP",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Very great show \ud83d\udc4f \ud83d\udc4d\ud83c\udffc \ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.9750000000000001
+        },
+        {
+            "comment": "Aftab Iqbal ki Copy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Copy of Aftab iqbal show Khabardar.. \ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Stay happy $ healthy pakistan \ud83c\uddf5\ud83c\uddf0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u0646\u06cc\u0679 \u0641\u0644\u06a9\u0633 \u062f\u06cc\u06a9\u06be\u06cc\u06ba \u06c1\u06cc \u06a9\u06cc\u0648\u06ba \u0627\u0648\u0631 \u06cc\u06c1 \u0628\u0627\u062a \u0628\u0644\u06a9\u0644 \u063a\u0644\u0637 \u06c1\u0626\u06d2 \u06a9\u06c1 \u0628\u0686\u06d2 \u0648\u06c1\u06cc \u06a9\u0631\u0626\u06d2 \u06c1\u06cc\u06ba \u062c\u0648 \u0628\u0691\u0648\u06ba \u06a9\u0648 \u06a9\u0631\u062a\u0627 \u062f\u06cc\u06a9\u06be\u062a\u06d2 \u06c1\u06cc\u06ba \u06d4 \u0628\u0631\u0627 \u06a9\u0627\u0645 \u0628\u0631\u06cc \u0635\u062d\u0628\u062a \u0645\u06cc\u06ba \u0628\u0686\u06d2 \u0633\u06cc\u06a9\u06be\u0646\u06d2 \u06c1\u06cc\u06ba",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Goga?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

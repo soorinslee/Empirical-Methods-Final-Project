@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-11-02 14:45:16",
+    "ups": "1869",
+    "downs": "34",
+    "views": "108602",
+    "top_comments": [
+        {
+            "comment": "I love how Claudio just didn\u2019t say anything and complemented the soup when it poured on him.",
+            "likes": 40,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Thea asking \"how am i doing guys\" after people cheer for Trevor is so cringy....",
+            "likes": 11,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love Claudio's reaction at having food thrown on him xD\n\nAny person's reaction : \"You clumsy moron, look at what you've done you donut!!!\" \nClaudio's reaction : *YUM!* xD",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "No there is a hard dish that takes like 3 days it\u2019s a Indian dish called sadhiya",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment": "Jeremy's overconfident cost him the final",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Marida is robbed. She should've won because just like chef alvin said she can cook any food & let out its elements.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

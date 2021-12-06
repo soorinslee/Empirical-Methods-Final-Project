@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-03 11:21:21",
+    "ups": "3614",
+    "downs": "490",
+    "views": "198895",
+    "top_comments": [
+        {
+            "comment": "We cannot say koweit, emiratis and saoudis people are not responsible of the heat : they are rich from oil and produce more carbon than anyone in the world",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25833333333333336,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I bet VAMPIRES would hate this place.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Influence\u2026 pfffff.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We cannot say koweit, emiratis and saoudis people are not responsible of the heat : they are rich from oil and produce more carbon than anyone in the world",
+            "polarity": 0.25833333333333336,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Put more heat into a desert and start bitching about the high temperatures.\nGeniuses.",
+            "polarity": 0.33,
+            "subjectivity": 0.52
+        },
+        {
+            "body": "\u0627\u0644\u0644\u0647 \u064a\u062d\u0645\u064a \u0627\u0644\u0643\u0648\u064a\u062a \u0648\u0633\u0627\u0626\u0631 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Climate change is the most profound existential crisis in human history. But the majority of  comments are annoyed by a young woman for being an influencer. This is why the human race is in deep, deep trouble.",
+            "polarity": 0.009259259259259257,
+            "subjectivity": 0.43333333333333335
+        }
+    ]
+}

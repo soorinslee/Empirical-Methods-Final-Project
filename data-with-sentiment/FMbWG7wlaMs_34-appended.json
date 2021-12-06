@@ -1,0 +1,85 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-05 12:47:47",
+    "ups": "40243",
+    "downs": "472",
+    "views": "863699",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1258,
+            "number_of_replies": 107,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "Ro has come such a long way. I'm so proud of this girl \ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "You\u2019re like a house mom",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I wish that was my house you are the best baker you\u2019re here or beautiful I wish I Was you you\u2019re so pretty like beautiful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7375,
+            "subjectivity": 0.825
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ro, this isn\u2019t a house\u2026 IT\u2019S A CASTLE!!! Omg, it\u2019s humongous!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "when her bathroom is bigger than your room\ud83d\udc41\ud83d\udc44\ud83d\udc41",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "IM COMING OVER RIGHT NOW. \ud83c\udfc3\u200d\u2640\ufe0f",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "Ro can we see Greyson in one of your videos please.\ud83e\udd70\ud83e\udd70Love you! \ud83d\udc96\ud83d\udc96\ud83d\udc97\ud83d\udc97\ud83d\udc97",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You\u2019re like a house mom",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I wish that was my house you are the best baker you\u2019re here or beautiful I wish I Was you you\u2019re so pretty like beautiful",
+            "polarity": 0.7375,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "I\u2019ve seen a couple of your videos here and there and I have to say your energy just made me smile, I can feel how much you love your home. Your happiness was contagious. Have a good day!",
+            "polarity": 0.515,
+            "subjectivity": 0.34
+        },
+        {
+            "body": "Ro you should show us a Christmas home tour",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I feel poor after so this",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        }
+    ]
+}

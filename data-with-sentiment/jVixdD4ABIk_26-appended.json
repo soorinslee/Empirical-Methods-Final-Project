@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:13:19",
+    "url": "https://www.youtube.com/watch?v=jVixdD4ABIk",
+    "time_now": "2021-11-04 03:50:04",
+    "ups": "15979",
+    "downs": "51",
+    "views": "193919",
+    "top_comments": [
+        {
+            "comment": "I just want to hang out with you two. I think your enthusiasm is infectious. I love your personal comments. I will bring the beer and listen to clips for an evening?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "Hey guys,  Last Night of the Proms \u201cJerusalem\u201d. Words William Blake/Milton n music Hubert Parry.  Check out the composition it\u2019s beautiful. Back in the 80\u2019s on the river in Cambridge, as the punt in front of us stopped under a bridge, a girl got up from the stern and sang Jerusalem. Phenomenal acoustics. It was a golden moment that still transports me to another world.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.33,
+            "subjectivity": 0.4133333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Mahler - Symphony No. 4 is the most beautiful one,  impressed me the most.",
+            "polarity": 0.7125,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I was driving this morning while listening to you guys. Then you mentioned Prokofiev and Yuja Wang and played my favourite piece... I never had my forehead, backhead, arm and back rised for that long, like, 10+ seconds. Such intense anticipation!\nAnd the Britton and Debussy and Mahler parts are  also interesting",
+            "polarity": 0.13999999999999999,
+            "subjectivity": 0.48
+        },
+        {
+            "body": "Wow that Kapustin!! And so glad to see recognition for some of Sibelius piano works",
+            "polarity": 0.328125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I just want to hang out with you two. I think your enthusiasm is infectious. I love your personal comments. I will bring the beer and listen to clips for an evening?",
+            "polarity": 0.25,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "body": "I liked the video. Sir C. Hubert H. Parry 1848-1918, wrote \"Jerusalem\", the UK's 2nd national anthem. Sullivan, Elgar, Parry, etc, all wrote exquisite little choral pieces, including church music.",
+            "polarity": 0.353125,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "I thought I'd respond as the obscure list proceeds to see how many I've heard and can recognize.\n1:20 Danse Sacre et Profane Debussy. I've heard it on Youtube and perhaps on the radio.\n3:30 Prokofiev Piano Concerto No. 3 - I'm not sure I've heard it before. I don't find his music memorable.\n5:50 Benjamin Britten I haven't heard him before.\n9:00 Mahler's 4th I don't think I\"ve heard it, but I like it.\n10:10 Sibelius I haven't heard it before.\n11:00 Schuman quartet New to me.\n12:00 Kapustin Never heard before.\n14:17 Parry New I like it.\n15:50 Debussy New I like it.\n\nJust 1 out of 10. How about you?",
+            "polarity": 0.1931818181818182,
+            "subjectivity": 0.6254208754208754
+        }
+    ]
+}

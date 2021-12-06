@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-05 00:26:05",
+    "ups": "8126",
+    "downs": "231",
+    "views": "218092",
+    "top_comments": [
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I don't get it the 30 fps 4k plays like slomo but looks amazing and the 60 fps 1080p looks horrible and blurry. They should add at least a 1440p 60 fps mode just like Spiderman Miles Morales did",
+            "polarity": -0.2333333333333333,
+            "subjectivity": 0.7666666666666666
+        },
+        {
+            "body": "I've heard the gameplay is good and the story and characters are charming. But I might wait to catch this after it receives some fixes, XSX should be able to play in quality at 60fps.",
+            "polarity": 0.6333333333333333,
+            "subjectivity": 0.7416666666666667
+        }
+    ]
+}

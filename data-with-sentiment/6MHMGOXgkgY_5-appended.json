@@ -1,0 +1,101 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-10-31 13:18:12",
+    "ups": "11635",
+    "downs": "215",
+    "views": "191831",
+    "top_comments": [
+        {
+            "comment": "You should name the squad the traffic lights kinda like how u named the earlier one robust. Like so he can see",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Slogo cool video!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jelly is short",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "You are funny \ud83d\ude0e",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Hi josh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Riley sire head is so scary plz  noooooo",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "If I where getting off that helicopter I would 360",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "pls slogo  play  valorant",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So do they have siren heads",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Day 1 of asking slogo to do a video of hardcore server",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2:22 josh got some rolly rolly",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You should name the squad the traffic lights kinda like how u named the earlier one robust. Like so he can see",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I laughed so hard that I nearly started coughing when they were getting out of the helicopter in the beggining",
+            "polarity": 0.16944444444444443,
+            "subjectivity": 0.38055555555555554
+        },
+        {
+            "body": "HOW YOU KILLED SIRENHEAD NICE KILL SIRENHEAD MAN NICE COMANDER THAT WAST FAST VID :(",
+            "polarity": 0.09,
+            "subjectivity": 0.72
+        },
+        {
+            "body": "That was fast",
+            "polarity": 0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I love it that the normal,earth and ice slogo is useles",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Pok\u00e9mon mod pls",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        }
+    ]
+}

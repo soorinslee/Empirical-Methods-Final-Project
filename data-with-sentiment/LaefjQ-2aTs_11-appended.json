@@ -1,0 +1,107 @@
+{
+    "time_posted": "2021-10-30 13:58:43",
+    "url": "https://www.youtube.com/watch?v=LaefjQ-2aTs",
+    "time_now": "2021-11-01 14:01:37",
+    "ups": "1305",
+    "downs": "367",
+    "views": "238286",
+    "top_comments": [
+        {
+            "comment": "Why no one is talking about Kerala the Only state which is having over 6000 cases per day and more than  50%  of totall country wide cases",
+            "likes": 9,
+            "number_of_replies": 1,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "Corona cases never came down due to NDTV's favourite state \"KERALA\"",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": -0.14027777777777778,
+            "subjectivity": 0.3319444444444445
+        },
+        {
+            "comment": "In many states in India especially North Indian States no one is wearing mask in public places",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.5222222222222223
+        },
+        {
+            "comment": "251 dislikers are  bhaktandus \ud83e\udd23\ud83d\ude02",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Taranagar jain mandir in Bikaner",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Close school and college",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "a bhaand or buffoon can tell that India have seen covid waves in only march April  time for past two years so this time around if 3rd wave ever came then it will in march and april month",
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.4166666666666667
+        },
+        {
+            "body": "The Most Noncence chanel of India.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Antinational",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hinduphobic news channel.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why schools are opening \ud83d\ude37\u2620\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Haan bhadvo.  Tumhara hi intezar tha Diwali mai.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why no one is talking about Kerala the Only state which is having over 6000 cases per day and more than  50%  of totall country wide cases",
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "body": "Corona cases never came down due to NDTV's favourite state \"KERALA\"",
+            "polarity": -0.14027777777777778,
+            "subjectivity": 0.3319444444444445
+        },
+        {
+            "body": "Well done for your courage. For other information: Valneva has successfully completed phase 3, the 1st French Covid vaccine, traditional safe technology with inactivated virus, very few side effects, resistant to variants, ask for it to be ordered by France and the EU; -). Care also exists (Vit.D, IVM ...) cf. site: c early 19",
+            "polarity": 0.051666666666666666,
+            "subjectivity": 0.5561111111111111
+        },
+        {
+            "body": "1st Dose late hi public ne mask use karna chod sa diya hai.. koi mask nahi lgara hai..its very danger.",
+            "polarity": -0.033333333333333326,
+            "subjectivity": 0.3222222222222222
+        },
+        {
+            "body": "Taranagar jain mandir in Bikaner",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

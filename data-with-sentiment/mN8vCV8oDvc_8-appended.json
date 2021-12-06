@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 11:00:18",
+    "url": "https://www.youtube.com/watch?v=mN8vCV8oDvc",
+    "time_now": "2021-11-01 01:39:45",
+    "ups": "1124",
+    "downs": "11",
+    "views": "18545",
+    "top_comments": [
+        {
+            "comment": "I loved the intro \ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Thanks Scott, always enjoy yours & the team's stuff. At one point when you were saying root 'n 5\n& root 'n 5, part of me was thinking go on say it - say it ... root 'n tootin' !\nl know, very sad.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.016666666666666646,
+            "subjectivity": 0.5666666666666667
+        }
+    ],
+    "comments_since_last_sample": []
+}

@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 12:30:41",
+    "url": "https://www.youtube.com/watch?v=PV6zc5ljhiE",
+    "time_now": "2021-11-02 18:51:52",
+    "ups": "543",
+    "downs": "82",
+    "views": "102899",
+    "top_comments": [
+        {
+            "comment": "Omg! \u2764\ufe0f\ud83d\udd25\ud83d\udd25 Hats off. Pravin mani rocked and the team \u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Love it! Congratulations Team!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.78125,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\u0ba4\u0bae\u0bbf\u0bb4\u0bcd \u0b92\u0bb0\u0bc1 \u0bae\u0bb2\u0bae\u0bcd",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u0bb5\u0ba9\u0bcd\u0b9c\u0b95\u0bae\u0bcd \u0b87\u0bb2\u0bcd\u0bb2\u0baa\u0bcd\u0baa\u0bbe \u201c\u0bb5\u0b9e\u0bcd\u0b9a\u0b95\u0bae\u0bcd\u201d. \u0b9c \u0bb5\u0b9f\u0bae\u0bca\u0bb4\u0bbf \u0b9a\u0bca\u0bb2\u0bcd",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

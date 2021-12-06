@@ -1,0 +1,108 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-05 00:26:31",
+    "ups": "39456",
+    "downs": "463",
+    "views": "841922",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1233,
+            "number_of_replies": 106,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "Bella the barista",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This looks so much like rebecca zamolo house",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Anyone else want to see Ro live in a tiny house for a week ?",
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "When is your next meet and greet",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i always wanted to ask\ndo yall get to keep ur ETN outfits??? and if you do do you still have them",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I would love to see a new fridge tour! \ud83d\ude0c\u270c\ufe0f",
+            "polarity": 0.3352272727272727,
+            "subjectivity": 0.5272727272727272
+        },
+        {
+            "body": "Your house is perfect \ud83d\ude0d",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Drinking game idea: take a drink every time she says \"modern\"",
+            "polarity": -0.1,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "Wow\u2026 I\u2019ve never had a cohesive idea of what my dream home would be but THIS IS IT!! So beautiful! Every. Single. Finish. Chef\u2019s kiss!! I am obsessed with the modern-meets-classic design!",
+            "polarity": 0.08779761904761907,
+            "subjectivity": 0.7380952380952381
+        },
+        {
+            "body": "But I LOVE YOUR HOUSE!!!!!!\u2764\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "You should name your coffee machine Frappuccino \ud83d\ude01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Did the light pink couch come with a Coconut?",
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I. LOVE THISSSSSS! OMG",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "We shoudl names the coffee machine sabrina",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You should name the coffee maker Cappie!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "For your coffee machine you should call her barista",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This was epic \ud83e\udd29 \ud83d\udc4f \ud83d\ude2e",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        }
+    ]
+}

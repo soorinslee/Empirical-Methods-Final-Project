@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 11:00:18",
+    "url": "https://www.youtube.com/watch?v=mN8vCV8oDvc",
+    "time_now": "2021-11-05 08:40:06",
+    "ups": "1571",
+    "downs": "17",
+    "views": "29292",
+    "top_comments": [
+        {
+            "comment": "There\u2019s an exercise 0, which is to play the roots only. There\u2019s a lot of folks who will benefit first from finding the roots in different spots in the neck.",
+            "likes": 19,
+            "number_of_replies": 0,
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.6444444444444444
+        },
+        {
+            "comment": "I had a jazz teacher tell me in college \"you gotta play more then the root and 5!\" but then as soon as I did he said it was too busy so then I went back to what I originally did and he was happy, I've had art teachers tell me I need to add more detail to a drawing so I'll go and sit down and pretend to work bring it back and get told perfect.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3604938271604939,
+            "subjectivity": 0.48209876543209873
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "when are you doing the song lists again?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

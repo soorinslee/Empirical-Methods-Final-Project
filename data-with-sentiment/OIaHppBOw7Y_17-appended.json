@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:20:42",
+    "url": "https://www.youtube.com/watch?v=OIaHppBOw7Y",
+    "time_now": "2021-11-02 14:44:18",
+    "ups": "9538",
+    "downs": "373",
+    "views": "913778",
+    "top_comments": [
+        {
+            "comment": "Ek like apni maa ki lambi Umar ke dedo \u2764",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "NOVEMBER PEOPLE GIVE UR ATTENDANCE \ud83d\ude02\u2764",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Still in love with this\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Pee Loon \ud83d\udda4",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

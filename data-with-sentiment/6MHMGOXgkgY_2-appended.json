@@ -1,0 +1,80 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-10-31 00:57:49",
+    "ups": "8964",
+    "downs": "157",
+    "views": "131082",
+    "top_comments": [
+        {
+            "comment": "Hi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Slogo Iight get a chanel like soon I do it right and if Ido can you feature me in your next vid when I have it.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.14285714285714285,
+            "subjectivity": 0.26785714285714285
+        },
+        {
+            "comment": "I liked the siren head that grab a rock then smash in the ground and when its nearly dead  it get 2 more new sirens and kill people when it screams.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25909090909090904,
+            "subjectivity": 0.5386363636363637
+        },
+        {
+            "comment": "Slogo you are my favourite youtuber and I want to met you one day or play a game with when I can reach you",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The Avatar the last Siren head..",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "Slogo your video's is  COOL\n(ITS SO COOOL)",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "I love how when slogo is the commander of jelly and jelly",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "The city jam is I don't no",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hey Slogoman I think you should go back into jelly hardcore world and see what happens ps love you slogoman",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I liked the siren head that grab a rock then smash in the ground and when its nearly dead  it get 2 more new sirens and kill people when it screams.",
+            "polarity": 0.25909090909090904,
+            "subjectivity": 0.5386363636363637
+        },
+        {
+            "body": "do a video mystry whell in minecraft",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "5:27 when im the smartest kid in class with an iq of 27",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

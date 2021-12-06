@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-06 05:17:40",
+    "ups": "8044",
+    "downs": "74",
+    "views": "123080",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 602,
+            "number_of_replies": 160,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "\ud83e\udd70\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I hate anna",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Thank you very much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26,
+            "subjectivity": 0.26
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udc4c\ud83d\udc4c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Your birthday is on 26 April and my birthday is 21 April",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi Anna will we be seeing you compete at Super Nationals March 19, & 20, 2022  in Anaheim Ca? My Daughter Brooklyn is competing there 1st year cheer, Because of you hun and is hoping to see you there!",
+            "polarity": 0.41666666666666663,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

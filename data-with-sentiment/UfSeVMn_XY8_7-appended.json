@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-10-31 21:33:00",
+    "ups": "4107",
+    "downs": "300",
+    "views": "242683",
+    "top_comments": [
+        {
+            "comment": "Inspired by Lalilu,  I made an investigation thriller video \ud83d\ude0e",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I thought that penny wise was a boy.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy helloween\ud83e\udd21\ud83c\udf6c\ud83d\udc79\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83 trick N treats \ud83c\udf83\ud83c\udf83\ud83c\udf6c\ud83c\udf6c\ud83c\udf6c\ud83c\udf6c\ud83d\udc79\ud83d\udc79\ud83d\udc79\ud83e\udd21\ud83d\udc7b lalilu.  I like your channel very much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.53,
+            "subjectivity": 0.63
+        },
+        {
+            "comment": "L\u2764've it",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I\u2019m not sure \ud83e\udd14",
+            "polarity": -0.25,
+            "subjectivity": 0.8888888888888888
+        },
+        {
+            "body": "L\u2764've it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I don't like it by i",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Georgie is really young!your shipping an adult clown and a young boy!?!?!?!?!?! You are really messed up!!!!",
+            "polarity": 0.292437744140625,
+            "subjectivity": 0.275
+        },
+        {
+            "body": "Sorry  if i didn't see the video yesterday \ud83d\ude25\ud83d\ude25\ud83d\ude25",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Happy halloween  \ud83d\udd77\ud83d\udd77\ud83d\udd78\ud83d\udd78\ud83d\udd78\ud83e\uddb4\ud83e\uddb4\ud83d\udde3\ud83d\udde3\ud83e\udde0",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-03 03:07:08",
+    "ups": "3309",
+    "downs": "33",
+    "views": "60341",
+    "top_comments": [
+        {
+            "comment": "If you do a follow up to this video I would really appreciate if you touched on how to style a bed with two separate duvets. I live in Germany and sharing one isn't common here and I can't imagine not having my own. My husband and I would be fighting over it every night.",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.1590909090909091,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "It seems like almost everyone puts a huge rug under the bed leaving it peeking out at the sides. I guess that works better with neutrals. I usually prefer a bolder color palette and like to put smaller rugs around the bed, usually one on each side. That way, I can appreciate the rugs in their entirety and they make more of a statement.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.48333333333333334
+        }
+    ],
+    "comments_since_last_sample": []
+}

@@ -1,0 +1,76 @@
+{
+    "time_posted": "2021-10-30 15:06:57",
+    "url": "https://www.youtube.com/watch?v=LP5XXi5TGF8",
+    "time_now": "2021-11-03 19:35:33",
+    "ups": "196992",
+    "downs": "224",
+    "views": "1381075",
+    "top_comments": [
+        {
+            "comment": "\ub3cc\uc558\ub098 \uc9c4\uc9dc \ubbf8\ucce4\ub2e4 \uc544\ub2c8 \ud83e\udd26\u200d\u2640\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "1:30 the way jun placed his arms away from dino and vernon is very satisfying",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "THEY LOOK SO GOOD WHAT THE FUK AND XU MING HAO XIAN SHENG PLEASE I-",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Kings \ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "damn hoshi has no business being this hot",
+            "polarity": 0.25,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "body": "Omg omg omg die kameraf\u00fchrung ist \u00fcbelst heftig",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I missed u Jun!!! \ud83d\udc9c\ud83d\udc9c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "10/31\u306b\u516c\u958b\u3063\u3066\u3053\u3068\u306f\u3001\u30cf\u30ed\u30a6\u30a3\u30f3\u306b\u639b\u3051\u3066\u308b\u306e\u304b\u306a\u3002",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Idk why my first question is\n\nAre they gonna audition for a spy movie?",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "I missed you Jun!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is soo lit \ud83d\udd25 seventeen deserved for the best performance this year!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "You don\u2019t understand how obsessed I am \ud83d\ude2d",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

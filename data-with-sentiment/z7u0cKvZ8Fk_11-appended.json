@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 14:45:05",
+    "url": "https://www.youtube.com/watch?v=z7u0cKvZ8Fk",
+    "time_now": "2021-11-01 14:01:50",
+    "ups": "1719",
+    "downs": "125",
+    "views": "136832",
+    "top_comments": [
+        {
+            "comment": "When it comes to the world of investing, most people don't know where to start. Fortunately, great investors of the past and present can provide us with guidance.*..",
+            "likes": 37,
+            "number_of_replies": 26,
+            "polarity": 0.2625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "ILove  it  good.... \nGood\ud83d\udc95\ud83d\udc95\u2763\ufe0f\ud83c\udf39\u2665",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "Happy Halloween\ud83e\udddf\u200d\u2642\ufe0f\ud83e\udd87\ud83d\udc7b\ud83e\udddb\u200d\u2640\ufe0f\ud83e\udddb\u200d\u2640\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Yes!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u041c\u043d\u0435 \u043d\u0435 \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u044d\u0442\u043e \u043d\u0438 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0442\u043d\u043e\u0435 \u0432\u0438\u0434\u0435\u043e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy Halloween \ud83c\udf83\ud83c\udf83\ud83c\udf83",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wow\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

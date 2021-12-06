@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-04 12:04:49",
+    "ups": "38120",
+    "downs": "448",
+    "views": "810359",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1190,
+            "number_of_replies": 105,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "IT'S SUCH A BEAUTIFUL HOUSE!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "I have a name for the barista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhat about\n\n\nautumn",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ro is so kind and the way she talk just explains herself! You're the Best youtuber ever Ro! Ur house is so beautiful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8666666666666667,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "This made me emotional\ud83d\ude2di first subscribed literally 10yrs ago. I am now 18 and your videos have inspired me to build a skill with baking. Nerdy Nummies will always have a special place in my heart\ud83e\udd7aso glad to see you grow!\ud83e\udd0d\ud83d\ude07",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.36904761904761907,
+            "subjectivity": 0.6349206349206349
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Kobe hobe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "o my gos such a huge house and so many colections",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "body": "Fridge tour pls!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have a name for the barista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhat about\n\n\nautumn",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Having your own home is truly a blessing. I really wish, hope and pray that nobody is homeless and everyone has their own home.",
+            "polarity": 0.4666666666666666,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "In her glam room hanging thing there is an orange dress which she wore in a baketopia am i right",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ]
+}

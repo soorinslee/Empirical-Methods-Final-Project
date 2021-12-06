@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-01 14:02:03",
+    "ups": "5958",
+    "downs": "40",
+    "views": "66234",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 507,
+            "number_of_replies": 143,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "But thank you so much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Hi Anna!\nplease make a Kpop music Workout, pleaseeeee \nlov u :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Hii love your videos \u2764\ufe0f\u2764\ufe0fand you have been here for 5 years \u2764\ufe0f\ud83d\udc4f\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Pls can u do a how to do splits but this video was really helpful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi Anna, i just made it to do the splits! But my back knee always slides to the side and i don't know how i can remove this. If you know what i could do please tell me. But i'm so happy that i made it! I love all your Videos, and you're my Idol about flexibility. Thank you so much",
+            "polarity": 0.425,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "Thanks Anna for stretch plans because i got my needle and front and middle splits",
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Hi Anna!\nplease make a Kpop music Workout, pleaseeeee \nlov u :)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Thanks Anna i can't wait to be flexible",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Hiii! Can u do a tutorial on how to do a backhandspring?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm learning from you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Can you do videos for the inflexible .",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Hii love your videos \u2764\ufe0f\u2764\ufe0fand you have been here for 5 years \u2764\ufe0f\ud83d\udc4f\ud83c\udffb",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-01 01:40:23",
+    "ups": "8330",
+    "downs": "674",
+    "views": "439475",
+    "top_comments": [
+        {
+            "comment": "This video is like the actual squid game it\u2019s self",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Happy Halloween!!!!!!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Did she shave her head for that",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I play squid game but I have a  costume from squid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Low,. W.k",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Will.  Not.  My.   Style.   More.   Style.  Please",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Aaaaand they ruined Squid Game.",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This video is like the actual squid game it\u2019s self",
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Alyssa",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I LOVE IT",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "There were four cookies in the video.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Uytr.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "There were free cookies in the video",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Hmm 200",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

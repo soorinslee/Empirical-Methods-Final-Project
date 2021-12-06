@@ -1,0 +1,62 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj2f3q/do_any_of_you_watch_stealthgamerbr/",
+    "time_posted": "2021-10-30 10:19:08",
+    "time_now": "2021-10-30 20:53:14",
+    "ups": 20,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hina9vk",
+            "body": "Damn he good",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "hincd2w",
+            "body": "OOOH I MISS THIS GAME! I am going to have to get my PS3 back from my little sister so I can play this again",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.22916666666666666,
+            "subjectivity": 0.3
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hina9vk",
+            "body": "Damn he good",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "hincd2w",
+            "body": "OOOH I MISS THIS GAME! I am going to have to get my PS3 back from my little sister so I can play this again",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.22916666666666666,
+            "subjectivity": 0.3
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hina9vk",
+            "body": "Damn he good",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "hincd2w",
+            "body": "OOOH I MISS THIS GAME! I am going to have to get my PS3 back from my little sister so I can play this again",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.22916666666666666,
+            "subjectivity": 0.3
+        }
+    ]
+}

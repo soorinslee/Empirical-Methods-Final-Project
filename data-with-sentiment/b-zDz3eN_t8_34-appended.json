@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-05 12:47:17",
+    "ups": "7464",
+    "downs": "340",
+    "views": "831044",
+    "top_comments": [
+        {
+            "comment": "Oo: I love this UTS ginna be epic and I love the blue suits",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.275,
+            "subjectivity": 0.42500000000000004
+        },
+        {
+            "comment": "This is insane I love this video and the shape is mr beast logo it\u2019s so funny.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.8666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "this is really amazing pls make 3",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Ppl be like: U WATCHED IT DUBBED!??!?!?!?!?!??! WATCH IT IN KOREAN NOW!!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

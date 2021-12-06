@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-04 07:57:21",
+    "ups": "9553",
+    "downs": "40",
+    "views": "115785",
+    "top_comments": [
+        {
+            "comment": "you could clone netherite",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The problem of the payment barrels isn't the signage indicating to use them, it's the location of the barrels themselves. For one thing, the barrels are further above, and away from, the product chests. Two, the barrels have two items frames, each with either a diamond or Derp Coin in it, further camoflaging the barrels.\n\nThey just don't look like something you're supposed to interact with, however, I think changing the location of the payment barrels to a more up-front, or parallel, location in regards to the product chests will increase their proper usage.\n\nThe octagon is amazing! First of its kind on Hermitcraft and just what I'd expect from a duo like you and DocM77!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.42592592592592593
+        },
+        {
+            "comment": "#PAYINTHEBARREL",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thanks you enyertain me",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Thanks you enyertain me",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

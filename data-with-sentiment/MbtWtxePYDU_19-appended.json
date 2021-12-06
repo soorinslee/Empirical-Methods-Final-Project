@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 12:00:21",
+    "url": "https://www.youtube.com/watch?v=MbtWtxePYDU",
+    "time_now": "2021-11-02 22:59:07",
+    "ups": "5369",
+    "downs": "31",
+    "views": "98103",
+    "top_comments": [
+        {
+            "comment": "Oh my goshhhh LA!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Perhaps, the Lost And calm me down are connected.... Two persons misunderstanding?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.07222222222222223,
+            "subjectivity": 0.5194444444444445
+        },
+        {
+            "comment": "LA \ud83d\ude0d Jusko yung puso ko kakilig \u263a\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "GRACIOUS GOD LA ILY",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Anong pangalan ng lalaki?",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

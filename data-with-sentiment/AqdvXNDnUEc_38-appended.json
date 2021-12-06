@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-06 05:16:40",
+    "ups": "40685",
+    "downs": "604",
+    "views": "950139",
+    "top_comments": [
+        {
+            "comment": "van sam wam bam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I know within 10 seconds in a song if I'll like it or not ... The last 10mins this been on repeat 5 times \ud83d\udc4c\ud83d\udd25\ud83d\udcaf!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "spe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"Still ate it because ima gremlin.\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kodak>>>>>>>>durk da baby lil baby.....only nigga giving yak a run is YB",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

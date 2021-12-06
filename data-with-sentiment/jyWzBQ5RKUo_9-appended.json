@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-01 05:47:00",
+    "ups": "9957",
+    "downs": "42",
+    "views": "135319",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 184,
+            "number_of_replies": 7,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "17:14 WHAATT!!?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hey X, I got a bunch of malware from vanilla tweaks. Do you know what\u2019s up with that?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "17:15 \"sex is required here\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Uhmm u also could use waterlogged trapdoors for the farm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hey X, I got a bunch of malware from vanilla tweaks. Do you know what\u2019s up with that?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You also could have used waterlogged trapdoors",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "what?!?! youre playing stoneblock? I hope you use your loo afk time, properly. ;p",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "\"Founded\" is a word, just not the way you used it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

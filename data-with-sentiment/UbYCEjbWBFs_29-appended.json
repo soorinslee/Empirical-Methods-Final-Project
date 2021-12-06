@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-04 16:11:53",
+    "ups": "3948",
+    "downs": "518",
+    "views": "214435",
+    "top_comments": [
+        {
+            "comment": "Influencer that  has 2.5M followers? that's all u got to say? Do nothing and keep complaining\nnow u know  Om Naief, help her  create a go fund me account,use your followers",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Excellent !",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "yeah it's in Algeria too",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Plant more trees.\nYou can reduce the amount heat in your area.\nI think she (ascia alshammiri) didn't even planted atleast one tree.\n\nBut the other women who planted tree's and watered it with her own money .. she is my hero.\n\nAscia Alshammiri just complaining abt the heat.\nBut she doesn't do anything for the land and people",
+            "polarity": 0.325,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "poor those street sweepers who are working under the death sun.",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Really, BBC? You couldn't find someone struggling with heat but a rich \"social media influencer\"? What about the foreign immigrants who work in construction sites and tea Cafeterias?\nOm Naief, God bless you ma'am. I hope your words and efforts land on some listening ears in government bureaus.",
+            "polarity": 0.12083333333333332,
+            "subjectivity": 0.28541666666666665
+        },
+        {
+            "body": "sorry but the so called \"influencer\" woman in a fully ventialted apartment doesn't suffer in this situation, it's the road workers, construction workers, people who pick up the garbage, homeless, people who work in facilities that are surrounded by metal (cuz of the heat it gets up to 80*c)",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

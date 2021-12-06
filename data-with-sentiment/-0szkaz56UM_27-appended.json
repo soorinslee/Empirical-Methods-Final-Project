@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-04 07:57:47",
+    "ups": "12990",
+    "downs": "191",
+    "views": "583213",
+    "top_comments": [
+        {
+            "comment": "Funny that the thief is tip toeing as if he's trying not to wake the homeowner when he knows damn well it's empty",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.075,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Praise Jesus Christ lord",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "When the Company we had tarp our home a guy stayed there all night. We came by after work and he was there with a tent and camping gear. Our children were amazed at his bow & arrow set up but he was there till the tarp was taken off.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why is the burglar tip toeing as if anyone is home and it's strange how gentle he is being and oddly on point with what he is grabbing and where from!.... \ud83d\ude44",
+            "polarity": -0.01944444444444443,
+            "subjectivity": 0.4000000000000001
+        }
+    ]
+}

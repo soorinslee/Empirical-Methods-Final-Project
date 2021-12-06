@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-05 08:40:48",
+    "ups": "40042",
+    "downs": "468",
+    "views": "858705",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1251,
+            "number_of_replies": 107,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "Ro has come such a long way. I'm so proud of this girl \ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.6333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hey Ro! You should get one of those rolling library ladders for your closet, then you could act out that scene from the book shop in Beauty and the Beast any time you want to get something out of storage! \ud83d\ude01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "a HUGE WOW! I super love your house! Way to go, Ro! :)",
+            "polarity": 0.42791666666666667,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "Omg Drew with the backpain \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The house is beautiful and also just a request but the first name that came to my mind for your coffee machine were Susie  and Dorthy .",
+            "polarity": 0.55,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "It\u2019s so fantastic to see this. Ro, you\u2019ve worked so hard, and I\u2019m so happy for you. I always get really excited when you post, keep up the epic work! <33",
+            "polarity": 0.2816666666666667,
+            "subjectivity": 0.7183333333333333
+        },
+        {
+            "body": "i haven't watched you for a very long time but here you are looking stunning and having a beautiful home. I'm so proud of you keep doing what your doing<3",
+            "polarity": 0.52125,
+            "subjectivity": 0.88
+        },
+        {
+            "body": "Yes I would like to see a new fridge RO",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        }
+    ]
+}

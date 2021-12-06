@@ -1,0 +1,147 @@
+{
+    "time_posted": "2021-10-30 13:56:42",
+    "url": "https://www.youtube.com/watch?v=BHFzRjpUh9g",
+    "time_now": "2021-11-05 08:40:01",
+    "ups": "210075",
+    "downs": "3600",
+    "views": "8433182",
+    "top_comments": [
+        {
+            "comment": "Algu\u00e9m que fala portugu\u00eas online? Kkk",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "10 milh\u00f5es de future me",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "comment": "\u0639\u0627\u0627\u0634\u0648",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "What's your favorite song?",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Good morning guys",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u0639\u0627\u0627\u0634\u0648",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oi povo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Vamos gente agente consegui",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tamo subindooooooooo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Future you future me\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "10 milh\u00f5es de future me",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "\u0623\u062d\u0628\u0643 \u064a\u0627 \u0646\u0648\u0631",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0628\u0627\u0627\u064a\u064a \u0628\u0631\u0648\u062d \u0642\u0648\u0646",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0627\u0644\u0646\u0634\u0628\u0629 \u0627\u0644\u0648\u062d\u064a\u062f\u0629",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0636\u062d\u0643\u062a\u0647\u0627\u0627 \u0643\u0630\u0627\u0627 \ud83e\udd7a \u0627\u0647\u0621",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0627\u062d\u0628 \u0635\u0648\u0641\u064a\u0627",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I feel like I'm live but I'm dEad",
+            "polarity": -0.03181818181818183,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "\u0633\u0646\u0635\u0644 \u0625\u0644\u0649 \u0627\u0644\u0647\u062f\u0641",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bom dia \ud83d\ude2d\nI remember sabina when I was it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Good morning guys",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "What's your favorite song?",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Algu\u00e9m que fala portugu\u00eas online? Kkk",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0627\u0645\u0633 \u0644\u0645\u0627 \u063a\u0627\u0631\u062a \u0639\u0644\u064a \u0645\u0646 \u0645\u064a\u0627 \u0633\u0645\u0627\u064a\u0644\u0644",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Eles madrugam por n\u00f3s, e n\u00f3s pra agradecer fazemos o mesmo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0627\u0628\u063a\u0649 \u0627\u062c\u064a\u0628 \u0647\u064a\u0627\u0645 \u0628\u0633 \u0634\u0643\u0644\u0647\u0627 \u0646\u0627\u064a\u0645\u0629",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

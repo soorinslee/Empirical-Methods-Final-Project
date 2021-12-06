@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 17:35:27",
+    "url": "https://www.youtube.com/watch?v=mmrEn8tavTk",
+    "time_now": "2021-11-01 01:39:50",
+    "ups": "1704",
+    "downs": "53",
+    "views": "45312",
+    "top_comments": [
+        {
+            "comment": "i wish roblox would come backkkkkkkkkkkkk",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ash: \u201cIt\u2019s back???\u201d\nMe: Heart stops",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "where do you live Ashley???",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "I\u2019m going to sue if we have to start all over again imagine all that money you wasted on roblox.!?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I want to work on my bloxburg mansion",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ROBLOX IS WORKING AGAIN PLSSSSSSSSS LISTEN TO ME",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ROBLOXXXXXX WORRKKKKKKSKSKSKKSKS",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "All ive been playing is Bloons td 6 and Minecraft!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ye I heard that aton of people had the Chipotle ad on there screen! I also heard that it broke it or the owner hacked Roblox and that it might shut down permanently!",
+            "polarity": -0.19444444444444448,
+            "subjectivity": 0.2888888888888889
+        }
+    ]
+}

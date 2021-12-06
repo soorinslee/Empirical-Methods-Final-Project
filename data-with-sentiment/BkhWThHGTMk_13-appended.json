@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 12:24:22",
+    "url": "https://www.youtube.com/watch?v=BkhWThHGTMk",
+    "time_now": "2021-11-01 22:16:20",
+    "ups": "8443",
+    "downs": "489",
+    "views": "743207",
+    "top_comments": [
+        {
+            "comment": "How prejudiced this commentator was who couldn't even applaud the batsman at one moment. All he uttered \"NAI NAI\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "0:18 To 1:10\nEndia Media\nShowing Hate On Live Tv Jo Dil Pay Wo Zubaa Pay",
+            "polarity": -0.33181818181818185,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Nhi nhi nhiiiiiiii \ud83d\ude00",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice video hai bohat zaberdast fantastic",
+            "polarity": 0.5,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "Jeet Pakistan ki in ko hazam ni hoti Allah jise Izzat dy use Koi by Izzat ni krsakta aor jisse  chae use zaleel ker dy to wo sambal b ni sakta is wqt India ka yhi Haal hai cricket ki dunya mn",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*Commentator\"ki Awaz main dukh hasad  aur zalalat saaf dikhai dy rhiii.. Tmhaary \" nahi nahi\" kehny sy ball ruky ghi thori.. Allah pak k karam sy hmsha esy   dushman ko  har medan mn zilat amaiz shikasat dety rhy ghy.. In sha Allah",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

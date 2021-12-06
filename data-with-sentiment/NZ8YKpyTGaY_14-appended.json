@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-02 02:24:01",
+    "ups": "9716",
+    "downs": "764",
+    "views": "533355",
+    "top_comments": [
+        {
+            "comment": "Yes",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love it !",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\u2b50\ud83d\udd35\ud83d\udd3c\u23f9\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy Halloween \ud83c\udf83 from Germany",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "1like =1 peace a hair. For the bald guy\ud83d\udc41\ud83d\udc44\ud83d\udc41",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2b50\ud83d\udd35\ud83d\udd3c\u23f9\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Two",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I saw two",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4 cookies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

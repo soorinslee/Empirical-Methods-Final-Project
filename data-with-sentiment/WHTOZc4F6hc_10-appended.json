@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 13:20:41",
+    "url": "https://www.youtube.com/watch?v=WHTOZc4F6hc",
+    "time_now": "2021-11-01 09:54:07",
+    "ups": "526",
+    "downs": "27",
+    "views": "50517",
+    "top_comments": [
+        {
+            "comment": "We need a description of the suspects.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Beautiful y\u2019all keep voting the same and this will continue so stop making this news and wasting our tax dollars arresting them only to be released within days .",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2833333333333333,
+            "subjectivity": 0.7083333333333334
+        },
+        {
+            "comment": "The old New York is back,, damn. Thank you Democrats.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.07878787878787878,
+            "subjectivity": 0.21818181818181817
+        }
+    ],
+    "comments_since_last_sample": []
+}

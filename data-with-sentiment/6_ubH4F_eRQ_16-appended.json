@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:23:10",
+    "url": "https://www.youtube.com/watch?v=6_ubH4F_eRQ",
+    "time_now": "2021-11-02 10:38:04",
+    "ups": "23681",
+    "downs": "1978",
+    "views": "2220823",
+    "top_comments": [
+        {
+            "comment": "Miss you Sir \ud83d\ude2d\ud83d\ude25",
+            "likes": 163,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Miss you sir",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u2764\ufe0f\ud83c\uddee\ud83c\uddf3\ud83e\udd7a\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\udc94\ud83d\udc94",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u092e\u093f\u0938 \u092f\u0942 \u092e\u093e\u092f \u092b\u0947\u0935\u0930\u0947\u091f \u0939\u0940\u0930\u094b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rip anbilibval yaar so sed punitsir",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Comment me taarif karne wale sab chutiye ho saalo. Marne se pehle kisine taarif nahi kiya aur ab kyu jab wo dekh nahi sakta.. sun nahi sakta",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rip Punit s",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

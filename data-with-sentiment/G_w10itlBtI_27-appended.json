@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-04 07:57:56",
+    "ups": "14083",
+    "downs": "178",
+    "views": "231073",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 37,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "Before you even mentioned the attachment for the slow close rails I was thinking \"man, push-to-open drawers would be slick\". \n\nThat gets my vote.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.275,
+            "subjectivity": 0.38749999999999996
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'd say so handels and the Push-mechanism. Both options have there pros and it doesn't cost mich extra",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "How on earth do you have that much in a single space in sketch up?! I have 3 bedrooms in a single space and it is laggy to the point of being unusable! You can\u2019t interact with anything while it saves (which\u2019s takes minutes each time) and moving stuff around is delayed which makes placing it almost impossible. And before anyone asks I\u2019m on a newer maxed out iMac so it\u2019s not a hardware issue.",
+            "polarity": -0.2817460317460317,
+            "subjectivity": 0.4761904761904762
+        },
+        {
+            "body": "I design kitchens/sell appliances and get that same question about pulls often. This is what I tell my clients:\n\n1) Pulls on all drawers and doors.\n2) Push-to-open on all functional cabinets such as hidden trash and tall pantry doors. This is great if you need to open a cabinet, but your hands are full (just use your foot to push it open).\n3) Any drawer over 24\" wide should have either oversized pulls or one pull on each side for easy opening. Also, on full-height pantry doors, use an oversized pull for easy access. \n4) Many clients are looking for a modern, clean look. The best way to do that is by using low-profile pulls like the ones you selected. As many others have commented, matte black shows many fingerprints, so pulls are necessary to keep the faces clean. Also, functionally, pulls are the easiest to use.\n\nThere are some other things that you should consider about the design:\n\n- The fridge may be a little far from the main work area. I would suggest moving it next to the opening on the wall and moving that pantry cabinet next to the other one. This would give you more space to put the items you take out of the fridge by utilizing that workspace.\n\n- The cooktop on the island is a great idea. This gives you plenty of room for food prep and allows you to serve from the cooktop to the seating at the island. I did this in my kitchen and loved it! However, the cooktop looks like it is too close to the beam, which may interfere with venting. I would suggest looking into a recirculating downdraft vent. Some models rise out of the countertop and recirculate into the room through the toe space on the cabinet. However, recirculating ventilation is not recommended for gas.\n\n- Instead of a double-stacked oven, I would recommend doing a single oven and convection microwave combo. These either come in combo oven models, that are one unit, or separate pieces stacked in the same cabinet. I opted for a KitchenAid built-in convection microwave, a separate KitchenAid single convection wall oven, and a KitchenAid warming drawer stacked in the same cabinet. This actually replaced my double wall oven and countertop microwave. I did this because I found that I was regularly using the lower oven, which was convection on my model for daily use, and the upper oven (which was a conventional oven on my model) only when our extended family came over for holidays. The rest of the year, it was used on the keep warm setting. The warming drawer actually can slow-cook, proof bread,  and keep food warm on a 15 amp circuit, which actually saves energy. When family comes over, and I really need that second oven, I just use the convection microwave and store the prepared food in the warming drawer. \n\nI'm not sure what brand of appliances you are looking at, but here are links to the items I was referring to (most brands will have similar items):\n30\" Warming Drawer - https://www.kitchenaid.com/major-appliances/warming-drawers/p.30-slow-cook-warming-drawer.kowt100ess.html?\n30\" Single Wall Oven - https://www.kitchenaid.com/major-appliances/wall-ovens/single-wall-ovens/p.30-single-wall-oven-with-even-heat-true-convection.kose500ess.html?\n30\" Built-in Microwave - https://www.kitchenaid.com/major-appliances/microwaves/built-in/p.30-built-in-microwave-oven-with-convection-cooking.kmbp100ess.html?\n30\" Combo Wall Oven - https://www.kitchenaid.com/major-appliances/wall-ovens/combination-wall-ovens/p.30-combination-wall-oven-with-even-heat-true-convection-lower-oven.koce500ess.html?\n36\" Telescoping Downdraft - https://www.kitchenaid.com/major-appliances/hoods-and-vents/retractable-downdraft/p.36-retractable-downdraft-ventilation-system.kxd4636yss.html?\nRecirculation kit - https://www.kitchenaid.com/major-appliances/cooktops/accessories/handles-and-knobs/p.ductless-downdraft-vent-kit.w10768190.html?\n--- These are just suggestions based off of my personal experience and what my clients typically ask for in their kitchens, but you should always select the appliances based off of your usecase.\n\nOverall your design is excellent and functional. The modern look is in style right now and is expected to stay in style for a while. Also, black has been the new white in kitchen design lately, with many clients requesting more use of black in their kitchens. Just remember that a black kitchen is actually harder to keep clean. Great job!",
+            "polarity": 0.16376129997453528,
+            "subjectivity": 0.4198196819520349
+        },
+        {
+            "body": "Handles due to fingerprints",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Before you even mentioned the attachment for the slow close rails I was thinking \"man, push-to-open drawers would be slick\". \n\nThat gets my vote.",
+            "polarity": -0.275,
+            "subjectivity": 0.38749999999999996
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "time_posted": "2021-10-30 14:00:16",
+    "url": "https://www.youtube.com/watch?v=ghKr3L094Jk",
+    "time_now": "2021-10-31 13:18:13",
+    "ups": "15355",
+    "downs": "430",
+    "views": "532633",
+    "top_comments": [
+        {
+            "comment": "HIIIIIIIIIIIIIIIIIIII Brianna I'm a big fan can you do more ROBLOX videos like adopt me",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "HIIIIIIIIIIIIIIIIIIIIIIIIIII",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "So cool",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "You right just be you",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You right just be you",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "So cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "HIIIIIIIIIIIIIIIIIIIIIIIIIII",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That's the voice of Baby Z",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be You!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you \ud83d\udc9c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "b u",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you,always love yourself :D",
+            "polarity": 0.75,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Be you!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you Bri",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you<3:)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Be you guys \ud83d\ude0a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you\u2713 :3",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I have like 3 friends",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Casper:I think the ''ghost'' is clear\nclowns:...\nclowns:WHO IS THIS????!!!! >:0",
+            "polarity": 0.24414062500000003,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "body": "Be  you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "HIIIIIIIIIIIIIIIIIIII Brianna I'm a big fan can you do more ROBLOX videos like adopt me",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        }
+    ]
+}

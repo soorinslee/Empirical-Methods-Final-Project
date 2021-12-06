@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-05 08:40:39",
+    "ups": "13106",
+    "downs": "196",
+    "views": "589683",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Vaminous",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "100k worth of jewelry shi",
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Probably cooking meth",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

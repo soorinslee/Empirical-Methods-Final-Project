@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-05 21:02:42",
+    "ups": "4234",
+    "downs": "538",
+    "views": "228279",
+    "top_comments": [
+        {
+            "comment": "Why don\u2019t you get the perspective of the labourers who have to face the heat head on rather than a snobby influencer who\u2019s always in AC buildings. Plus Kuwait weather isn\u2019t like this all the time,winter has the best weather and night time isn\u2019t that bad.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000008,
+            "subjectivity": 0.4833333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wear less?",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "I wish they had shown a workers experience instead of a influencers \u201cexperience\u201d.. maybe they wanted to show the citizens point of view and yes it is very hot here for everyone but to make this video better it would have been a good idea to ask/doccument workers experience.",
+            "polarity": 0.5083333333333333,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "The Airconditioning is set to 21\u00b0C , all those concrete and cars.....generate heat.  The desalinated water is used without thinking. 2 litres of sea water produces 1 litre of good water and 1 litre of brackish salty water pumped back into the sea. More salty sea increases water density and warmer seas. I dont know if we are getting more dumber.",
+            "polarity": 0.37,
+            "subjectivity": 0.38
+        },
+        {
+            "body": "This is nothing in comparison to jahanam the terrible hell fire. May Allah bless the woman ameen",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

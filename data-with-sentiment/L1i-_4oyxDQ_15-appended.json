@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-11-02 06:30:55",
+    "ups": "1775",
+    "downs": "25",
+    "views": "15091",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Beautiful",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I am in love with the black wash! you provide me with so much inspiration!",
+            "polarity": 0.18055555555555558,
+            "subjectivity": 0.41111111111111104
+        },
+        {
+            "body": "Beautiful!!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

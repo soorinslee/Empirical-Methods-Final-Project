@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:59:20",
+    "url": "https://www.youtube.com/watch?v=zHZnQn6D-2E",
+    "time_now": "2021-11-02 18:52:31",
+    "ups": "10587",
+    "downs": "157",
+    "views": "137052",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Excellent! My daughter is a huge fan !",
+            "polarity": 0.75,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "Love it !!!",
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Not to be aggressive or anything but Xico can get it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes! Small condo interior! Not easy to find video inspiration especially for home around this size. Most are for 500 sqft and above. My space were smaller like this. At least i get some inspo. Bravo!",
+            "polarity": -0.05773809523809524,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "This might be a design sandwich and I feel like you recognize it. Great Job!!!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Another great creation \ud83d\udc96\ud83d\udc96\ud83d\udc96",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ]
+}

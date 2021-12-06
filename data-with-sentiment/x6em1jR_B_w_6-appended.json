@@ -1,0 +1,117 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-10-31 17:25:47",
+    "ups": "3664",
+    "downs": "186",
+    "views": "143599",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udca0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Poor hamsters..",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Soooooooo cute \ud83d\ude0d\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\ud83d\udc99\ud83d\udc99\ud83d\udc99",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83c\udf4f\ud83c\udf4e\ud83d\udc99\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u2764\u2764\u2764\u2764\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "hamsters is cute",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I want to see behind the scenes",
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "\ua1d9\ua132 \ua4a4\ua4c4\ua4c4\ua3c2\ua2ea",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No, little one is too cute and adorable \ud83e\udd70\ud83d\ude3b\ud83d\ude3b\ud83d\ude3b\ud83d\udc96",
+            "polarity": 0.3645833333333333,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "0:23 this looks like my dog at 3am",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "3:23 the funny moments \ud83d\ude02\ud83e\udd23\ud83d\ude02",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Awesome bro",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83d\udca0",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83c\udf4f\ud83c\udf4e\ud83d\udc99\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc99\ud83d\udc99\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Torture Maze in Real Life",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "You are torturing hamsters. I will COMPLAIN you.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

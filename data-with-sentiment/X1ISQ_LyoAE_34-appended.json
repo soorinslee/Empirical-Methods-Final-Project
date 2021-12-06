@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-05 12:47:51",
+    "ups": "1838",
+    "downs": "38",
+    "views": "23295",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Never had Aqua di Gio !",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ADG used to see it on my dads drawer all the time. I remember spraying it on me a few times before school but I can\u2019t remember the smell.",
+            "polarity": -0.2,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Wearing ADG Profondo today while Uber driving. Pulled 2 great compliments from riders.",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ]
+}

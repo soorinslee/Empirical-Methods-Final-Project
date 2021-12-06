@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-02 02:23:54",
+    "ups": "4007",
+    "downs": "165",
+    "views": "164368",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 8,
+            "number_of_replies": 13,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "74 Zettabytes Is 74 Trillion Gigabytes\nOne Gigabyte Is 22 Feet Of Stacked Paper\n74 Trillion x 22 = 1 Quadrillion 628 Trillion Feet Of Stacked Paper\n1 Quadrillion 628 Trillion Divided By 5,280 = 308,333,333,333 Miles Tall Of Stacked Paper\n308,333,333,333 Divided By 25,000 = 12,333,333 Times That Stack Of Paper Would Circle Around The Earth\n12,333,333 Divided By 7 = 2.913 Weeks = The Amount Of Time The Speed Of Light Would Have To Cover That Stack Of Paper\nM I N D  E X P L O S I O N\nEdit: Did you know that the amount of data on the internet in 2021 would reach the moon and back 645,440 times? Correct me if I\u2019m flawed\u2026",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.35
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I have come from 2024 to tell you that some dude made a movie about this and Bright side will get 74 million in royalties.",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "Prints entire internet :\nPeople requiring info going to library 8:27\n(cries alone)",
+            "polarity": 0.0,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Legends be printing videos too",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "why would you randomly follow a call that is telling you to go somewhere",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "74 Zettabytes Is 74 Trillion Gigabytes\nOne Gigabyte Is 22 Feet Of Stacked Paper\n74 Trillion x 22 = 1 Quadrillion 628 Trillion Feet Of Stacked Paper\n1 Quadrillion 628 Trillion Divided By 5,280 = 308,333,333,333 Miles Tall Of Stacked Paper\n308,333,333,333 Divided By 25,000 = 12,333,333 Times That Stack Of Paper Would Circle Around The Earth\n12,333,333 Divided By 7 = 2.913 Weeks = The Amount Of Time The Speed Of Light Would Have To Cover That Stack Of Paper\nM I N D  E X P L O S I O N\nEdit: Did you know that the amount of data on the internet in 2021 would reach the moon and back 645,440 times? Correct me if I\u2019m flawed\u2026",
+            "polarity": 0.2,
+            "subjectivity": 0.35
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-02 06:30:23",
+    "ups": "10599",
+    "downs": "347",
+    "views": "321749",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 40,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Amazing song\u2764\ufe0f\u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Nice",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Rishi u are superb \ud83d\udc4c\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Superb \ud83e\udd17\ud83e\udd17",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Osm \u2764\ufe0f\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*Please upload all song to Jiosaavn, Spotify, Gaana, Apple Music, Amazon Music, Deezer, Wynk, Hungama, Yt music*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

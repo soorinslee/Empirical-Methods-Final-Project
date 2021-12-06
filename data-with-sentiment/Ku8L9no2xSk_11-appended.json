@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-01 14:01:18",
+    "ups": "7483",
+    "downs": "27",
+    "views": "82068",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "One solution:  Jukebox audio file repeating \"Please pay in the barrel\" :)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "You can barely see the barrel with the item frames covering them.",
+            "polarity": 0.05,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Covering almost whole barrel with item frames won't help as you almost can't even see it",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Just place the signs ON the barrels, and change 'the' to 'this', so it says, 'Please pay in THIS barrel.' I think that would be the easiest way to do it.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#PayInTheBarrel",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Maybe the signs need to be bilingual.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think with enough decorations, coral, and rocky areas, it'll look absolutely nothing like snow! There's no \"snow\" on the top of the buildings you've built there, so it already doesn't look snowy.",
+            "polarity": 0.25,
+            "subjectivity": 0.6333333333333333
+        }
+    ]
+}

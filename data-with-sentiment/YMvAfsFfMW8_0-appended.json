@@ -1,0 +1,137 @@
+{
+    "time_posted": "2021-10-30 12:51:02",
+    "url": "https://www.youtube.com/watch?v=YMvAfsFfMW8",
+    "time_now": "2021-10-30 16:46:17",
+    "ups": "1209",
+    "downs": "131",
+    "views": "58231",
+    "top_comments": [
+        {
+            "comment": "What hacks do your parents use?\ud83d\ude0f",
+            "likes": 17,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "In 27 minutes you have 5k views",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Her mom will do evrything for her . \nBe greatful :(\nMy mom let me to do evrything my own .\n( I keep the house clean , i take my dog outside and i do more and more ) !",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.22361111111111112,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "really cool \ud83d\ude0a\ud83d\ude0d\ud83d\ude18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "when you have an overprotective mom: this video",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What hacks do your parents use?\ud83d\ude0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude0e\ud83d\ude0e\ud83d\udc4dokokfofozzzzzzz",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "10M",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I like it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "when you have an overprotective mom: this video",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Omg this YouTube video is so good like this comment if you agree",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "0:38 wait... Perents? Why does it say perents and not parents?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "really cool \ud83d\ude0a\ud83d\ude0d\ud83d\ude18",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Dun",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Did I come and",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "In 27 minutes you have 5k views",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow so funny haha ashley is so cool\ud83d\ude0a",
+            "polarity": 0.18333333333333335,
+            "subjectivity": 0.7666666666666666
+        },
+        {
+            "body": "I'm kinda early",
+            "polarity": 0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Supp",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Well nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Her mom will do evrything for her . \nBe greatful :(\nMy mom let me to do evrything my own .\n( I keep the house clean , i take my dog outside and i do more and more ) !",
+            "polarity": 0.22361111111111112,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "I love this video",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

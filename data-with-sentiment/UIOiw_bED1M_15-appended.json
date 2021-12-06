@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-02 06:30:34",
+    "ups": "7600",
+    "downs": "211",
+    "views": "196572",
+    "top_comments": [
+        {
+            "comment": "We\u2019re only in the early years of these consoles and it seems as if their already hitting their limits\u2026maybe a rock solid 4k60fps is still to big a challenge for this gen.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.025,
+            "subjectivity": 0.37500000000000006
+        },
+        {
+            "comment": "Guardians of the Galaxy PS5 in Quality Mode uses a dynamic resolution with the highest resolution found being 3840x2160 and the lowest resolution found being 2880x1620.\nXbox Series X in Quality Mode uses a dynamic resolution with the highest resolution found being 3840x2160 and the lowest resolution found being 3200x1800.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.16666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Xbox series X for the win\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Am I the only one who doesnt really see the difference in motion?",
+            "polarity": 0.1,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Hmm",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Poorly developed,  \u201cInsomniac Games\u201d would like to have a word with you,,,,,,,,,,",
+            "polarity": 0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I\u2019ll try it when it eventually comes to gamepass\u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

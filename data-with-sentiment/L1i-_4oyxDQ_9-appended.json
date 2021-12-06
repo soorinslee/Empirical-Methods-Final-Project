@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-11-01 05:47:22",
+    "ups": "1526",
+    "downs": "21",
+    "views": "12152",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Ahhh this was so much work but definitely worth it. Looks stunning and the hardware was the perfect choice. Beautiful work \ud83d\ude0d",
+            "polarity": 0.5700000000000001,
+            "subjectivity": 0.6599999999999999
+        },
+        {
+            "body": "I\u2019ve never heard of a black wash before this. I love the way it looks!",
+            "polarity": 0.22916666666666669,
+            "subjectivity": 0.5166666666666666
+        },
+        {
+            "body": "Oohhh I love it its beautiful, great job and tutorial.. Thank you \ud83d\udc9c",
+            "polarity": 0.7166666666666668,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "body": "You put in a lot of work but, it was totally worth it. The black wash on this furniture piece looks amazing Christina.\u2661\u2713\u2661",
+            "polarity": 0.24444444444444446,
+            "subjectivity": 0.4777777777777778
+        },
+        {
+            "body": "Love the black wash!",
+            "polarity": 0.14583333333333334,
+            "subjectivity": 0.5166666666666666
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 13:00:11",
+    "url": "https://www.youtube.com/watch?v=Isl80lkajZU",
+    "time_now": "2021-11-03 15:28:08",
+    "ups": "13309",
+    "downs": "225",
+    "views": "177186",
+    "top_comments": [
+        {
+            "comment": "SIGN UP FOR MY FREE MASTERCLASS: How to Turn Video-Making Into $100k/yr Career\nhttps://bit.ly/3vK6tUe",
+            "likes": 177,
+            "number_of_replies": 41,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Jordan\u2026. They badly CG\u2019ed Lisa in the group shots\u2026 \ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This MV did not have the Taki Taki budget \ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm surprised he didn't address the bad editing/greenscreen of the four of them.",
+            "polarity": -0.29999999999999993,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "body": "Jordan : idk what's up with these American editors\nMe : umm..but your are an American mv editor...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sir u stole the words from my mouth. Idk maybe i watch too many Kpop MVs or maybe Jordan explaining the camera works and everything makes the difference but at the end of the day I did not even bother to finish that MV \ud83d\ude11",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I really wish you reacted to a brazilian singer called Iza!! She is incredible and her MVs are really nice to",
+            "polarity": 0.6041666666666666,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "5:03 \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

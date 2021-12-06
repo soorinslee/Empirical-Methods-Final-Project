@@ -1,0 +1,116 @@
+{
+    "time_posted": "2021-10-30 15:00:32",
+    "url": "https://www.youtube.com/watch?v=itK7gvvxxDs",
+    "time_now": "2021-11-01 01:39:53",
+    "ups": "77595",
+    "downs": "720",
+    "views": "1244471",
+    "top_comments": [
+        {
+            "comment": "Mommy? sorry \u00bfMommy? sorry \u00bfMommy? sorry.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "R.I.P officer Caitlyn you will be missed \ud83d\ude14",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Mommy? sorry \u00bfMommy? sorry \u00bfMommy? sorry.",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "this is giving me westworld vibes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "PLEASE UPDATE ORIANNA",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "R.I.P officer Caitlyn you will be missed \ud83d\ude14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Minha deusa \ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Overhaul maokai please!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Good to see she found some practical work wear",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "FINALMENTE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Now to try 360 no scoping",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "She looks soo good!",
+            "polarity": 0.875,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "i think she must get facial expressions like vi better",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "a rework for my main YAYYY",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "THIS IS AMAZING",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Mommy? Sorry !Mommy? Sorry!Mommy? Sorry! Mommy? Sorry!",
+            "polarity": -0.625,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Gragas?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sound like assassins creed theme",
+            "polarity": 0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "i love this",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "salvaram o boneco",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

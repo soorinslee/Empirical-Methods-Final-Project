@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-10-31 13:18:34",
+    "ups": "7156",
+    "downs": "57",
+    "views": "123953",
+    "top_comments": [
+        {
+            "comment": "I\u2019m from Indiana and it is so weird to hear them say \u201cIndianapolis\u201d and \u201cBloomington\u201d\n\n\nIt\u2019s so crazy, I feel \u2728connected \u2728",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.55,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "Are you actually getting a  new suitcase cause yours is dented or was that a joke?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.2772727272727273
+        },
+        {
+            "comment": "Me: so excited they came to Indiana since that\u2019s where I am from \nAlso me: mad they didn\u2019t go to a Notre dame game cause that\u2019s where the real party is at",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.1125,
+            "subjectivity": 0.6125
+        },
+        {
+            "comment": "Yasss a new video!!! Love it when the queen posts my day is instantly that much better\u2728\ud83d\udc97\ud83d\udc97",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2415838068181818,
+            "subjectivity": 0.4803030303030303
+        },
+        {
+            "comment": "It\u2019s crazy to see someone actually travel to Indiana and enjoy it.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.06666666666666665,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ahhh love this Alisha!! \nI started watching your vids 7 years ago \nYour videos inspired me to make my own channel \nSo I did and now I\u2019m almost at 20k you\u2019ve helped me so much lida ilyyy",
+            "polarity": 0.5270833333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "when schoolisha still remains a key word in alisha marie branding",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "alisha you looked like you had such a good time, it makes myheart so warm to see you so happy and fulfilled with life! i love you guys so much, you make me want to be a better person and love myself! <3",
+            "polarity": 0.5694444444444444,
+            "subjectivity": 0.6222222222222222
+        },
+        {
+            "body": "I\u2019ve been waiting for this vlog",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I was literally driving to Indiana for a visit when you were there but o had NO free time. It\u2019s still so weird to me someone I watch enjoys going to Indiana. \ud83d\ude02\ud83d\ude02",
+            "polarity": -0.35,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "i couldnt help but smile literally through all of this vlog!! So cute :)",
+            "polarity": 0.4895833333333333,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Yess\u2026 and they say women shouldn\u2019t play golf. WE DONT NEED NO FORKING MAN. Periodt",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

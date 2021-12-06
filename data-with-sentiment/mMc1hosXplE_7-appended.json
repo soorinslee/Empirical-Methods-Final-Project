@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 15:33:28",
+    "url": "https://www.youtube.com/watch?v=mMc1hosXplE",
+    "time_now": "2021-10-31 21:32:36",
+    "ups": "1555",
+    "downs": "24",
+    "views": "36340",
+    "top_comments": [
+        {
+            "comment": "More pollution in Lake \ud83d\ude44",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "This is the reason WION is the best news channel",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Kashmir is potential resource as tourism and famous for rich haul of quality apples ,saffron and other cottage industries. Unfortunately due to political instability, the same suffered.  All inclusiveness is the mantra   entailing shedding off religious differences what so ever",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.078125,
+            "subjectivity": 0.496875
+        },
+        {
+            "comment": "Hope this place doesn't get destroyed by taliban",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Haha it\u2019s like from the moomins! Except they had a play theater.",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "In Pakistan we have floating katora\ud83e\udd32",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "India ki maa chod gai \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

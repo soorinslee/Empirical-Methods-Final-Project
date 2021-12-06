@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=ZBA8GnxtggU",
+    "time_now": "2021-10-31 17:25:41",
+    "ups": "1974",
+    "downs": "194",
+    "views": "157380",
+    "top_comments": [
+        {
+            "comment": "hi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "hiii",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udd34\ud83d\udfe0\ud83d\udfe1\ud83d\udfe2\ud83d\udfe6\ud83d\udd39\ud83d\udfe3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes. wow. are perfect.",
+            "polarity": 0.55,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I love you 123 go",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "wow wow beautiful",
+            "polarity": 0.35000000000000003,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wait how did the rich one get sad once she pressed happy?",
+            "polarity": 0.225,
+            "subjectivity": 0.9166666666666666
+        }
+    ]
+}

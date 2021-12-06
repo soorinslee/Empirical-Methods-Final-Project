@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-03 15:28:58",
+    "ups": "5992",
+    "downs": "160",
+    "views": "155484",
+    "top_comments": [
+        {
+            "comment": "I lost 30 lbs started in February. The Dr. Says I'm doin great my A1c 6.7 it was 8.\nMy weight was 220 now 190.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Question: Are Cisco Pasture raised eggs for real? The yolks are not bright orange like most other Pasture raised i can get even at Aldi.",
+            "polarity": 0.056249999999999994,
+            "subjectivity": 0.49375
+        },
+        {
+            "body": "Rao\u2019s is $8.59 at Costco?  It better be $2 off.  That\u2019s high.  I buy it for under $5 at Safeway on sale.  I think it\u2019s $6.99 when not on sale.",
+            "polarity": 0.33,
+            "subjectivity": 0.52
+        }
+    ]
+}

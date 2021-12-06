@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-02 22:59:19",
+    "ups": "30731",
+    "downs": "441",
+    "views": "590629",
+    "top_comments": [
+        {
+            "comment": "Scare\ud83e\udd2c\u2620\ufe0f\ud83d\udc80\ud83d\ude40\ud83d\ude39",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Scare",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What\u2019s the black circle in front of peoples cars? Is that a hit box add on or something?",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Sunless you still gotta do an ssl tournament with retals and arsenal, make it 3 in a row!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just to say Mashed potato in french is actually patate pil\u00e9e",
+            "polarity": 0.0,
+            "subjectivity": 0.05
+        }
+    ]
+}

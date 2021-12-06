@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-06 09:24:06",
+    "ups": "10314",
+    "downs": "43",
+    "views": "128794",
+    "top_comments": [
+        {
+            "comment": "I absolutely love Ren's intros. I think it just might be my favourite yter intro.\nIt just gets me so hyped for the episode!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Looks like some kind of crazy chalk cliffs. Love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.7999999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Make it a discount instead of free coupons. You don't value free things as much as you value the feeling of getting 30% of on things you don't need",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Just stop hiding the barrels, dude",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think the sign could be ON the barrel and could say please pay in THIS barrel lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

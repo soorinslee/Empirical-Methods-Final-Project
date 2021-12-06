@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-03 23:43:10",
+    "ups": "5832",
+    "downs": "249",
+    "views": "629223",
+    "top_comments": [
+        {
+            "comment": "\"Karl in Squid Game with jake\"\nGuard: *Gives a cookie from Karl*\nKarl: Ooooooo this is yummy\nKarl: *eats cookie*\n\"Player 290 Has eliminated\"\nJake: O_O\nJake: *Breaks Cookie when hear a shot*\n\"Player 089 Has eliminated\"",
+            "likes": 9,
+            "number_of_replies": 2,
+            "polarity": -0.17500000000000002,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "CAN'T STOP LAUGHING AT THE LIGHT BLUE LIPS \ud83e\udd23\ud83d\ude02\ud83e\udd23",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "comment": "When they feed them the player hot takis",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.8500000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "They're lips are blue because they took all the pink and turned it blue",
+            "polarity": -0.03333333333333333,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Beast\temoje",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "LOL u tried so hard. Bandicam lol and the mrbeast thing where u cut it out u tried so hard to make it look realistic but out of that, very cool",
+            "polarity": 0.27305555555555555,
+            "subjectivity": 0.6102777777777778
+        },
+        {
+            "body": "No tiene sentido",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "247",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "600,001 view nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-03 11:20:39",
+    "ups": "14391",
+    "downs": "305",
+    "views": "167498",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 784,
+            "number_of_replies": 14,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "You should do a cover of Repay, by The Plot in You.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Holy mother of god violet your voice has become legend",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Prawda to ty, a co za tym idzie wiarygodno\u015b\u0107 utworu jego mo\u017cliwo\u015bci to, co potrafi zrobi\u0107 z cz\u0142owiekiem wp\u0142yn\u0105\u0107 te\u017c na niego zmieni\u0107, daj\u0105c mu wiele dozna\u0144, kt\u00f3re zostan\u0105 na zawsze zapami\u0119tane? Najcz\u0119\u015bciej zapami\u0119tane utwory to prawda o \u017cyciu wszystkim sobie te\u017c? Najlepsze s\u0105 w\u0142asne z w\u0142asnego jestestwa osobowo\u015bci dozna\u0144 wiedzy? Takie sobie dzielenie z lud\u017ami, przekazuj\u0105c swoje warto\u015bci siebie to, czego si\u0119 do\u015bwiadczy\u0142o, nauczy\u0142o przez lata swojego \u017cycia dozna\u0144? Odtwarzaj\u0105c, kopiuj\u0105c kogo\u015b te\u017c trzeba ni\u0105 mie\u0107? Jest to bardzo wa\u017cne, jak si\u0119 wp\u0142ywa na innych, b\u0119d\u0105c publiczn\u0105 osob\u0105? Odpowiedzialno\u015b\u0107 to ty, i to, co z niej b\u0119dziesz mia\u0142? Ka\u017cda zmiana, kt\u00f3r\u0105 cz\u0142owiek poczyni te\u017c wp\u0142ywa i staje si\u0119 cz\u0119\u015bci\u0105 jego \u017cycia? Brak prawdy to pustka, wi\u0119c jaki jest utw\u00f3r z pustki? \u017bycz\u0119 tych najlepszych zapami\u0119tanych swoich, bo sta\u0107 ci\u0119 na cholernie wi\u0119cej jeste\u015b bardzo dobra, w tym, co robisz, lecz? \u017bycz\u0119 ci mi\u0142ego dnia zawsze i wsz\u0119dzie jeste\u015b super osob\u0105 b\u0105d\u017a wielk\u0105 sob\u0105.",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "best cover of this song",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Wait-wait-wait ... dude killed himself AFTER Chucky was animated, soooo ... whose soul was in the Good Guy doll in the first place?",
+            "polarity": 0.25,
+            "subjectivity": 0.3111111111111111
+        }
+    ]
+}

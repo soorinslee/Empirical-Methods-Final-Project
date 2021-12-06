@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-06 13:30:50",
+    "ups": "22237",
+    "downs": "240",
+    "views": "298783",
+    "top_comments": [
+        {
+            "comment": "BILLIE HAS TO SEE THIS OMFG????",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "soooooo gooooood",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "We see you Amy \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I\u2019m literally in tears rn that so good",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "But why all the editingggg i wish it was a little more raw",
+            "polarity": 0.02724358974358974,
+            "subjectivity": 0.4871794871794872
+        }
+    ]
+}

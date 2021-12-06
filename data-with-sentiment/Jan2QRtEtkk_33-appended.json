@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:00:08",
+    "url": "https://www.youtube.com/watch?v=Jan2QRtEtkk",
+    "time_now": "2021-11-05 08:40:37",
+    "ups": "46059",
+    "downs": "1173",
+    "views": "1212969",
+    "top_comments": [
+        {
+            "comment": "Where have the men gone? Girl, have you listened to yourself lately?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "No one saved chill pill girl because the guy was black and everyone's got s**t to do and places to go",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment": "They turned gender and now they watch cnn",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Bunch of bloody crybabies.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "I don't exist to defend young women I don't even know. If it were a family member, or a senior or child than yes.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "No one saved chill pill girl because the guy was black and everyone's got s**t to do and places to go",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Where have all the cowboys gone??? \ud83d\ude14.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

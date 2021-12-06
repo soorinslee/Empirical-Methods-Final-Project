@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-05 16:54:16",
+    "ups": "45302",
+    "downs": "82",
+    "views": "251217",
+    "top_comments": [
+        {
+            "comment": "Am I the only one who watches this at least once a day. It's just that good",
+            "likes": 7,
+            "number_of_replies": 2,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "if we dont get this version as a single or bside on the next album i might cry",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.03571428571428571,
+            "subjectivity": 0.10714285714285714
+        },
+        {
+            "comment": "Awesome",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Still so awesome, stand high purple kiss. You will blow up just like Mamamoo did!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.77
+        },
+        {
+            "comment": "road to 300k, let's not stop now",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "SLAYEDDD",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"how many horror movie sound effects you want to use in this version?\"\nproducer : yes",
+            "polarity": 0.45,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "i was expecting the same song lmao, but they gave us a remaster damn admirable move pk",
+            "polarity": 0.3,
+            "subjectivity": 0.5625
+        },
+        {
+            "body": "lupet naman non hanep",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "RBW ARTISTS ARE THE STANDARD IMO",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "HELLO BESTIE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ubd84\uc704\uae30 \uc9f8\uc9c0\ub124\uc694 \uc640",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

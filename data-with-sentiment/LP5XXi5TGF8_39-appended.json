@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 15:06:57",
+    "url": "https://www.youtube.com/watch?v=LP5XXi5TGF8",
+    "time_now": "2021-11-06 09:23:49",
+    "ups": "210456",
+    "downs": "279",
+    "views": "1661207",
+    "top_comments": [
+        {
+            "comment": "\u307f\u3093\u306a\u304c\u97f3\u697d\u3092\u8074\u3044\u3066\u5e78\u305b\u306a\u4e00\u65e5\u3092\u904e\u3054\u305b\u308b\u3053\u3068\u3092\u9858\u3063\u3066\u3044\u307e\u3059\ud83d\ude18\ud83d\ude0d\ud83d\ude0d",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "SEVENTEEN is so fine as hell.  \ud83c\udfb8",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "there voice is awesome",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "THEY'RE SO FRICKIN COOL",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "INTRODUCING CARAT'S PRIDE",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "worth it sila iyaka kasi pogi sila \ud83d\ude0d",
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Mingyu Badas sekale",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ubbfc\uaddc \u263a\ud83d\ude1a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "OHMYGOSH",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "THEY'RE SO FRICKIN COOL",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Mingyu sarang hae",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "INTRODUCING CARAT'S PRIDE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I can tell this is a s-coups and Wonwoo era their voices are just amazing with this type of music",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Abis nonton my name, nonton ini wkwkw jadi kepikiran mereka syuting tonjok2an \ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

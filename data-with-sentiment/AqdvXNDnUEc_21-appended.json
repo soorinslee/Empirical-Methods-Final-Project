@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-03 07:13:35",
+    "ups": "37638",
+    "downs": "484",
+    "views": "745167",
+    "top_comments": [
+        {
+            "comment": "Kodak has really grown",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Finna drop ma freestyle to this right now bro need a Grammy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "comment": "\ud83d\udd25\ud83d\udd25\ud83d\udcab\ud83d\udcab",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The best thing Trump ever did was giving us our boy back",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.15
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Yuuuuuuh big fact's",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "IMPORTANT MESSAGE :D \nthe only way to Heaven\n1) ADMIT THAT YOU\u2019RE A SINNER: \"For all have sinned, and come short of the glory of God.\" (Romans 3:23) No one is good enough to go to Heaven on his own merit. No matter how much good we do, we still come short. \n2) REALIZE THE PENALTY FOR SIN: \"For the wages of sin is death...\" (Romans 3:23) The penalty for our sin is eternal death in a place called Hell. But there is good news, God so loved the world that He gave His only begotten Son, Jesus, to die on the cross for our sins, that whoever believes in Jesus should not perish but have everlasting life. ( see John 3:16)\n3) BELIEVE IN YOUR HEART THAT JESUS CHRIST DIED FOR YOUR SINS, WAS BURIED AND THAT GOD RAISED JESUS FROM THE DEAD:\n4) CALL UPON THE NAME OF JESUS: Trust in Jesus alone as your Savior. Jesus loves you and He's waiting for you with his arms wide open. Accept Jesus and repent (which means to confess and forsake your sins)",
+            "polarity": 0.28125,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Damn this go hard",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "Sounds better slowed.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "YAK done snapped \ud83d\udc4c\ud83d\udc4c\ud83e\udd43\ud83d\ude0e\ud83e\udd21\ud83d\udeab\ud83d\udeab",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WE COULDVE BEEN SUPERSTARS!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

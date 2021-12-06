@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-04 12:04:47",
+    "ups": "4808",
+    "downs": "197",
+    "views": "205545",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 29,
+            "number_of_replies": 29,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "why dont use robots ? They wont get tired and do the work quite quicker than humans",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "He even print porm hub?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I like when he spills coffee n goes uh oh lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I think we don't need all the cat videos so that at least 99.999999% less data.",
+            "polarity": -0.23333333333333334,
+            "subjectivity": 0.23333333333333334
+        },
+        {
+            "body": "My heart skipped a beat just imagining this could happen for real...",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "740000000000000000000000000000",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

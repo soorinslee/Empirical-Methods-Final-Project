@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-11-03 23:43:39",
+    "ups": "2618",
+    "downs": "10",
+    "views": "32886",
+    "top_comments": [
+        {
+            "comment": "I would add some coasters, a box of tissues, bottled water and a small trash can.  Great video!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "I look at my guest rooms as if I am going to stay there: is it comfortable, is the light within easy reach when reading in bed, etc etc. Thank you for the tips, I am missing the comfy throw! \ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.24583333333333335,
+            "subjectivity": 0.5958333333333333
+        },
+        {
+            "comment": "Lisa, I love this video. Quick question: how big should the throw blanket or extra blanket be for a queen size bed? Should it be queen size as well? Most decorative throws seem smaller. \n\nBTW, I have a friend who comes into town for work once a month. She used to stay at an AirB&B, even though I always offered my guest bedroom. She finally took me up on my offer and now she always stays with me when she\u2019s in town because she loves how comfortable and at home she feels when she\u2019s my guest. Now that I\u2019ve seen your video, I found a couple of things I can do better that will blow her mind! Can\u2019t wait to implement them on her next visit! (She may not want to leave \ud83d\ude02). \ud83d\ude42\ud83d\ude42",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.23583333333333334,
+            "subjectivity": 0.4600000000000001
+        },
+        {
+            "comment": "Lisa, you are absolutely amazing! I love watching your videos, your energy is inspiting, motivating and energising. Keep it up girl \ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.625,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "I would had one more thing to the list, if there is any space to do so in the room (if it can fit put one it absolutely) : a bench. Why? Because the best thing when you arrive at some place and have to unpack, is to have something to hold your suitcase above the floor! So convenient! Otherwise you have to put your suitcase on the bed and it might stain the bedding, or bend over the floor when your back is already strained from travelling. And when unpacking is done, the bench can be used as an extra seat to help put on your shoes or deal with dressing up a kid.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.3,
+            "subjectivity": 0.3285714285714286
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "awesome! I could not get this info anywhere else, thanks!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        }
+    ]
+}

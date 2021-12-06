@@ -1,0 +1,62 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj44dg/just_getting_to_know_gothams_citizens/",
+    "time_posted": "2021-10-30 11:44:43",
+    "time_now": "2021-11-02 02:25:08",
+    "ups": 20,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinkhh0",
+            "body": "Is there a limit on how long you can do this?",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hintiqu",
+            "body": "*intimidate*",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinkhh0",
+            "body": "Is there a limit on how long you can do this?",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hintiqu",
+            "body": "*intimidate*",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinkhh0",
+            "body": "Is there a limit on how long you can do this?",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        },
+        {
+            "comment_id": "hintiqu",
+            "body": "*intimidate*",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

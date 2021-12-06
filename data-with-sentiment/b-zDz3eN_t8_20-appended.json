@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-03 03:06:35",
+    "ups": "4810",
+    "downs": "209",
+    "views": "517703",
+    "top_comments": [
+        {
+            "comment": "Way better then real squid game",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.4000000000000001
+        },
+        {
+            "comment": "I like how the lips are just blue.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Mr beast....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Next: SapNap In Squid Game since dream is already in",
+            "polarity": -0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "This is poggers",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

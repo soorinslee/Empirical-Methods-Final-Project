@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:08:00",
+    "url": "https://www.youtube.com/watch?v=XOkUo3OfhWY",
+    "time_now": "2021-11-01 18:08:39",
+    "ups": "2079",
+    "downs": "46",
+    "views": "46572",
+    "top_comments": [
+        {
+            "comment": "#teamseas",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Gooooooooo sea!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#Teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "THis is actually so good!",
+            "polarity": 0.875,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "#teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

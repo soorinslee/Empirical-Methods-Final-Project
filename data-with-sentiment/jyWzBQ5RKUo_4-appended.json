@@ -1,0 +1,142 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-10-31 09:11:27",
+    "ups": "7892",
+    "downs": "30",
+    "views": "96632",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 140,
+            "number_of_replies": 7,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "You could have literally used trapdoors\ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f\ud83d\ude02Still cool Farm!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Cub's demon child has invaded the land! 2:27",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "trapdoors xisuma.. trapdoors",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "why not control the water with trapdoors?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u2018Achacha wood\u2019",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Its just like xisuma to be sitting there learning how Doc\u2019s machines actually work.. I\u2019d be surprised if he wasn\u2019t using it himself next season",
+            "polarity": 0.03333333333333333,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "#PayInTheBarrel",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "pistons? dispensers? target block? just use trapdoors m8",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "17:15 that cut created a very awkward sentence. It kinda sounds like, \"I feel like sex is required here.\"",
+            "polarity": -0.78,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The canyon is just a big swastika lol",
+            "polarity": 0.4,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "Ah-cha-cha wood... I'm dying. \ud83d\ude05 I love when ppl mispronounce stuff. \nFor anyone wondering its uh-case-sha wood",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Hey, X. Pearl in Boatem sells tinted glass.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oooh, I knew I heard the new 1.18 music in your video! The description confirmed it. Fits right in to your videos!",
+            "polarity": 0.3091991341991342,
+            "subjectivity": 0.6634199134199134
+        },
+        {
+            "body": "That will be cub and his custom biome",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "17:14 You feel like what's required here?!\nAll jokes aside, love your videos, I watch all of them ;)",
+            "polarity": 0.375,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I swear, Among Us has ruined my humour. As soon as the building came into sight at 2:42, I thought \"that portal is looking sus\".",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "a cha cha wood im laughing so hard lmaoo",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "why not control the water with trapdoors?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "trapdoors xisuma.. trapdoors",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Cub's demon child has invaded the land! 2:27",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You could have literally used trapdoors\ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f\ud83d\ude02Still cool Farm!",
+            "polarity": 0.4375,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "17:14 what did he just say lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Op",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

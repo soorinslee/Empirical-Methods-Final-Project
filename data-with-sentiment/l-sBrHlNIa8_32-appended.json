@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-05 04:32:59",
+    "ups": "4191",
+    "downs": "46",
+    "views": "119094",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 142,
+            "number_of_replies": 5,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Ang galing talaga ninyong lahat... pag naumpisahan ko manuod ng youtube channel nyo di kona mapigilan kahit paulit ulit kong panuodin/pakinggan ang galing lang talaga. Nakaka gigi vibes talaga! Kudos to gigi and the band!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "World Class tlaga \ud83d\ude31\ud83d\ude31\ud83d\ude31 Higher and better than many Hollywood stars who sang this! Gigi and Charice Version is Fantastic!!!!! Most Beautiful cover ever!",
+            "polarity": 0.6458333333333334,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "WOW! Amazing voice and amazing band loved it \ud83e\udd70",
+            "polarity": 0.5062500000000001,
+            "subjectivity": 0.8999999999999999
+        }
+    ]
+}

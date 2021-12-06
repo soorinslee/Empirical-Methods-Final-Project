@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj509l/so_wheres_banjo_kazooie_because_this_is_the_only/",
+    "time_posted": "2021-10-30 12:28:18",
+    "time_now": "2021-10-31 21:34:03",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinqo7j",
+            "body": "First picture, second on bottom row",
+            "ups": 10,
+            "downs": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment_id": "hinruv2",
+            "body": "Get gamepass",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinvgco",
+            "body": "They stated in the direct that it, along with other games, are going to be added at a later date.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.008333333333333331,
+            "subjectivity": 0.25833333333333336
+        },
+        {
+            "comment_id": "hinqrbd",
+            "body": "Same here, but they said in the Direct that it would be \u201cadded at a later date\u201d. Fuck knows when :-/",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.11000000000000001,
+            "subjectivity": 0.425
+        },
+        {
+            "comment_id": "hintbwd",
+            "body": "Emulating it is a better time, the official one has input lag and crashes",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinqo7j",
+            "body": "First picture, second on bottom row",
+            "ups": 10,
+            "downs": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment_id": "hinruv2",
+            "body": "Get gamepass",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinvgco",
+            "body": "They stated in the direct that it, along with other games, are going to be added at a later date.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.008333333333333331,
+            "subjectivity": 0.25833333333333336
+        },
+        {
+            "comment_id": "hintbwd",
+            "body": "Emulating it is a better time, the official one has input lag and crashes",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hinqrbd",
+            "body": "Same here, but they said in the Direct that it would be \u201cadded at a later date\u201d. Fuck knows when :-/",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.11000000000000001,
+            "subjectivity": 0.425
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinqo7j",
+            "body": "First picture, second on bottom row",
+            "ups": 11,
+            "downs": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment_id": "hinruv2",
+            "body": "Get gamepass",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinvgco",
+            "body": "They stated in the direct that it, along with other games, are going to be added at a later date.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.008333333333333331,
+            "subjectivity": 0.25833333333333336
+        },
+        {
+            "comment_id": "hintbwd",
+            "body": "Emulating it is a better time, the official one has input lag and crashes",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hinqrbd",
+            "body": "Same here, but they said in the Direct that it would be \u201cadded at a later date\u201d. Fuck knows when :-/",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.11000000000000001,
+            "subjectivity": 0.425
+        }
+    ]
+}

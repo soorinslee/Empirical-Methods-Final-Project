@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:22:54",
+    "url": "https://www.youtube.com/watch?v=InxctfktJ4I",
+    "time_now": "2021-10-31 09:11:40",
+    "ups": "486",
+    "downs": "31",
+    "views": "18205",
+    "top_comments": [
+        {
+            "comment": "Can we get more videos like this?!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\u201cI met Andy Warhol at a really chic party\nBlow it out your hairdo 'cause you work at Hardees\u201d   - Dead Milkmen",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "Campbell soup did it in the kitchen with a spoon \ud83d\ude33 \nI know \u2026it bowled me over too \ud83e\udd14",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "congrats to those who watched from start to finish",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "in my 50 years ive never seen him with a brush in his hands",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This was way before my time but ok..",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "This was great. More pls.",
+            "polarity": 0.65,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "He's not dead. He works in Men In Black",
+            "polarity": -0.033333333333333326,
+            "subjectivity": 0.4166666666666667
+        },
+        {
+            "body": "Two words: Radical Feminist",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

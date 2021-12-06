@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=-KEp_Zjc6O8",
+    "time_now": "2021-10-31 00:57:29",
+    "ups": "1137",
+    "downs": "15",
+    "views": "12741",
+    "top_comments": [
+        {
+            "comment": "Legal",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Este programa de radio est\u00e1 que \ud83d\udd25\ud83d\udd25\ud83d\udd25 enserio es incre\u00edble",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Guatemala en la casa \ud83c\uddec\ud83c\uddf9\ud83c\uddec\ud83c\uddf9\u2665\ufe0f\ud83d\udc4d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is Amazing Video. I wish all your viewers beautiful and Happy weekend. \ud83d\udc9f\r\nEmma from London",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "comment": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Soy DJ y me da orgullo estar en el g\u00e9nero electr\u00f3nico",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Martin eres y ser\u00e1s un lenge Dar\u00edo espero que alg\u00fan d\u00eda nos encontremos para pedirte un alto gr\u00e1fico",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udcfb\ud83c\udfb5\ud83d\udd25\ud83d\ude0a\ud83d\ude04\ud83d\udc99\u2795\u2716\ud83d\udc9a\u2795\u274c\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "A\u00efe a\u00efe a\u00efe \ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

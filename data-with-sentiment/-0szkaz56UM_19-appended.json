@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-02 22:59:41",
+    "ups": "12672",
+    "downs": "188",
+    "views": "565489",
+    "top_comments": [
+        {
+            "comment": "Frank Dee Mac... We kno who stole those tickets...or did the they get this from always sunny in philly...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "JESSE! WE NEED TO COOK!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Straight out of ( breaking bad) \ud83d\ude06 God I wish they would make another season.",
+            "polarity": -0.24999999999999992,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "Who the hell leaves 77k worth of jewelry in their house when they will be fumigating it for days??",
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I told Todd no stealing!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "And next on the news burglar dies from fume inhalation, don\u2019t they realize that chemical can travel thru porous concrete and easily into your blood stream?",
+            "polarity": 0.19444444444444445,
+            "subjectivity": 0.37777777777777777
+        },
+        {
+            "body": "She knows to hide her jewelery! You don't leave 80k in plain sight! Foolish woman!!! That that stupid music at every one of these videos and is ridiculous I would live a thousand lifetimes and if I never heard that stupid sound of composition again I'd be so happy",
+            "polarity": -0.1600183113017934,
+            "subjectivity": 0.7510204081632653
+        },
+        {
+            "body": "Is it an inside job maybe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I don't buy her story of \"77 thousand of her grandmother's jewlery\"\nWho's stupid enough not to put it in a safe?",
+            "polarity": -0.09999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Common sense tells me to put 77,000 dollars worth of anything into a safe lady. Quit blaming other people for your simple mistakes.",
+            "polarity": 0.075,
+            "subjectivity": 0.36642857142857144
+        }
+    ]
+}

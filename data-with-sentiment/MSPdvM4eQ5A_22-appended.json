@@ -1,0 +1,83 @@
+{
+    "time_posted": "2021-10-30 14:15:00",
+    "url": "https://www.youtube.com/watch?v=MSPdvM4eQ5A",
+    "time_now": "2021-11-03 11:21:00",
+    "ups": "29476",
+    "downs": "429",
+    "views": "688443",
+    "top_comments": [
+        {
+            "comment": "Once again, thanks to #AceDefender for sponsoring this video :)\nUse the link below to try it out and support the channel:\nhttps://mtchm.de/vcomd",
+            "likes": 597,
+            "number_of_replies": 57,
+            "polarity": 0.35,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I then killed some cows, it was relaxing. ~Jaron 2021",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Yeh Jaron is so funny but still acts serious so as soon as I started watching this I instantly subbed",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.027777777777777773,
+            "subjectivity": 0.7777777777777777
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "bruh your mob farm  isn't working cuz you placed slabs , slabs are spawn proof\nbtw I'm still watching If you figured it out",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You just die at 0:43 and respawn??!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "U can grow crops without water but it's slower",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "bruh the floor has to be full blocks",
+            "polarity": 0.35,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "The enchantment table is not level 30 because of the barrel",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "He finally made a full length video",
+            "polarity": 0.175,
+            "subjectivity": 0.775
+        },
+        {
+            "body": "The spider's were not spawning cause of day 13. 13 is unlucky  COINCIDENCE? I THINK NOT!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "he really love pigs huh",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I love you",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I then killed some cows, it was relaxing. ~Jaron 2021",
+            "polarity": -0.2,
+            "subjectivity": 0.0
+        }
+    ]
+}

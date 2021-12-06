@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 12:29:47",
+    "url": "https://www.youtube.com/watch?v=wSuXis9ynmM",
+    "time_now": "2021-11-06 13:31:29",
+    "ups": "58850",
+    "downs": "3195",
+    "views": "2285303",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "\u091d\u093e\u0902\u0938\u093e\u0930\u093e\u092e \u092b\u0947\u0915\u0942",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No one is even looking at erdogan . Serves him right \ud83e\udd23",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ]
+}

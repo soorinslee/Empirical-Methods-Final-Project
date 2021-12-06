@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj1tcy/the_graphics_in_guardians_of_the_galaxy_are/",
+    "time_posted": "2021-10-30 09:46:30",
+    "time_now": "2021-11-02 10:39:41",
+    "ups": 37,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinppuc",
+            "body": "looks shit tbh",
+            "ups": 10,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hinqd9d",
+            "body": "That looks like PS4 graphics at most.",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin568q",
+            "body": "What year was this released?",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hindegh",
+            "body": "Am I stupid, or have graphics stagnated in the past 10 years or so? I mean this looks great, but not something I would have expected 2021 to look like 10 years ago.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.13249999999999995,
+            "subjectivity": 0.6174999999999999
+        },
+        {
+            "comment_id": "hingzp9",
+            "body": "Is this game good? Just looks like another mass effect/outer worlds to me.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.14999999999999997,
+            "subjectivity": 0.5
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinppuc",
+            "body": "looks shit tbh",
+            "ups": 10,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hinqd9d",
+            "body": "That looks like PS4 graphics at most.",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin568q",
+            "body": "What year was this released?",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hingzp9",
+            "body": "Is this game good? Just looks like another mass effect/outer worlds to me.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.14999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hindegh",
+            "body": "Am I stupid, or have graphics stagnated in the past 10 years or so? I mean this looks great, but not something I would have expected 2021 to look like 10 years ago.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.13249999999999995,
+            "subjectivity": 0.6174999999999999
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinppuc",
+            "body": "looks shit tbh",
+            "ups": 11,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hinqd9d",
+            "body": "That looks like PS4 graphics at most.",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin568q",
+            "body": "What year was this released?",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hingzp9",
+            "body": "Is this game good? Just looks like another mass effect/outer worlds to me.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.14999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hindegh",
+            "body": "Am I stupid, or have graphics stagnated in the past 10 years or so? I mean this looks great, but not something I would have expected 2021 to look like 10 years ago.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.13249999999999995,
+            "subjectivity": 0.6174999999999999
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 13:15:40",
+    "url": "https://www.youtube.com/watch?v=oAQR790myWY",
+    "time_now": "2021-11-02 14:44:50",
+    "ups": "12847",
+    "downs": "218",
+    "views": "173267",
+    "top_comments": [
+        {
+            "comment": "Musique avec du fran\u00e7ais \ud83d\ude31",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "i luv the song is so perfect",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "You know Cryingman?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Musique avec du fran\u00e7ais \ud83d\ude31",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "songs",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Abi muazzam oynuyosun ya \u015fark\u0131 \u00e7ok iyi bu arada daha s\u0131k kullanmal\u0131s\u0131n ba\u015ftaki \u015fark\u0131y\u0131",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Frank\u0131 \u00f6ld\u00fcrmemen  b\u00fcy\u00fck Adaml\u0131k :)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

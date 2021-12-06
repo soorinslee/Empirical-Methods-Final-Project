@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-01 22:16:40",
+    "ups": "4807",
+    "downs": "258",
+    "views": "210976",
+    "top_comments": [
+        {
+            "comment": "These little guys surely never get bored, they must have the time of their life in those mazes^^ Great theme and amazing attention to detail, love it :D",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": 0.28035714285714286,
+            "subjectivity": 0.8055555555555555
+        },
+        {
+            "comment": "This is funny",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I feel like the comments are bots",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Omg I Subscribed at 20k and in a week You have 235k, can\u2019t wait to see these critters have more fun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.35
+        },
+        {
+            "comment": "My hamster ( before she died a few days ago) hated hamster mazes lol. The lil hamsters look nice and healthy :) keep up the good work :) but maybe next time don\u2019t use the spinning box thing hamsters easily get dizzy.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.29333333333333333,
+            "subjectivity": 0.6433333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "2:29  *HAMPSTER FLIP*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So adorable I love it",
+            "polarity": 0.5,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "\u0411\u0435\u0434\u043d\u044b\u044b\u0435 \u043c\u044b\u0448\u044b\ud83d\ude2d\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The good thing is making they happy and have fun , and have content for us",
+            "polarity": 0.6,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "The added sound effects is everything \ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

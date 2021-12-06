@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-04 20:19:02",
+    "ups": "16240",
+    "downs": "225",
+    "views": "603595",
+    "top_comments": [
+        {
+            "comment": "On your daily dose of internet",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Unless you're part of the energy or agriculture sector, how do people end up buying homes next to a natural timebomb ?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That's scary I hope people will be okay if it goes off more",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Yo getting monster hunter vibes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lava girl:\u201dI\u2019m board I should make people completely give unneeded attention-to a lava rock\u201d",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Why live near a volcano",
+            "polarity": 0.11818181818181818,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "They found the love rock from \"Problem Child\"",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "China Nukes, year 2030.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Shoot it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Randy Marsh would know how to stop that volcano",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If I saw one of those irl- \nI'd think it's a dragon egg lmao",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-06 13:31:04",
+    "ups": "10380",
+    "downs": "43",
+    "views": "129584",
+    "top_comments": [
+        {
+            "comment": "Looks like some kind of crazy chalk cliffs. Love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "comment": "I absolutely love Ren's intros. I think it just might be my favourite yter intro.\nIt just gets me so hyped for the episode!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Id recomend moving the pay barrel to the floor, as people have a tendency to not look up. also id recommend taking the diamond of the barrel so it looks less like a display",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.06666666666666667
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-11-01 18:09:14",
+    "ups": "4373",
+    "downs": "52",
+    "views": "97508",
+    "top_comments": [
+        {
+            "comment": "\ud83d\ude18\ud83c\udf4a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow that's an awesome looking drink.. wonder how it tastes bet it puts everyone in the party mood!!",
+            "polarity": 0.55,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "That voice crack tho",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "There\u2019s enough alcohol in that tub to sanitize the damn New York City subway",
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.4772727272727273
+        }
+    ]
+}

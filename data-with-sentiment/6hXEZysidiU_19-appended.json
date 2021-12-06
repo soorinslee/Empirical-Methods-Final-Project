@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-02 22:59:51",
+    "ups": "4000",
+    "downs": "59",
+    "views": "73122",
+    "top_comments": [
+        {
+            "comment": "Amazingly amazing! How simple yet scientific, how spiritual yet rational answers were..!! Very profound...!! Thank you!",
+            "likes": 7,
+            "number_of_replies": 1,
+            "polarity": 0.2403971354166667,
+            "subjectivity": 0.5976190476190476
+        },
+        {
+            "comment": "Really fortunate enough to listen and feel this knowledge by Gurudev \ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\u2764\ufe0f",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Love you Gurudev\ud83d\ude4f\ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Ultimate conversation \ud83d\udc4c  imp for  everyone....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Jai Gurudev\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "When I see Gurudev - Rockstar is God",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc95\ud83d\udc95\ud83d\udc95\ud83c\udf40\ud83c\udf40\ud83c\udf40\ud83d\ude4f\ud83d\ude4f lots of love to you Guruji \ud83d\ude07\ud83d\ude07\ud83d\ude07\u2764\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Enormous respect for gurudev. Q: after being ruled by foreign forces for long, why India continues on the path to separate people in clases, auction orphans etc?",
+            "polarity": -0.05833333333333333,
+            "subjectivity": 0.4749999999999999
+        }
+    ]
+}

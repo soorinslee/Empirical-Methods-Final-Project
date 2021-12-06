@@ -1,0 +1,75 @@
+{
+    "post_url": "https://www.reddit.com/r/LifeProTips/comments/qj2pik/lpt_if_youre_a_college_student_and_you_miss_class/",
+    "time_posted": "2021-10-30 10:34:10",
+    "time_now": "2021-10-30 16:49:35",
+    "ups": 34,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinath5",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hinb6y6",
+            "body": "Yes, and its easy to think \"oh but look it shows I'm responsible and I care,\" no, it doesn't. It shows that only sometimes you think the class is important and that they have nothing else better to do but to answer your tiny email. You aren't their only student nor their only class, your professor is not your messenger boy.",
+            "polarity": 0.19166666666666665,
+            "subjectivity": 0.7979166666666666
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hinath5",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hinb6y6",
+            "body": "Yes, and its easy to think \"oh but look it shows I'm responsible and I care,\" no, it doesn't. It shows that only sometimes you think the class is important and that they have nothing else better to do but to answer your tiny email. You aren't their only student nor their only class, your professor is not your messenger boy.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.19166666666666665,
+            "subjectivity": 0.7979166666666666
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinath5",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hinb6y6",
+            "body": "Yes, and its easy to think \"oh but look it shows I'm responsible and I care,\" no, it doesn't. It shows that only sometimes you think the class is important and that they have nothing else better to do but to answer your tiny email. You aren't their only student nor their only class, your professor is not your messenger boy.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.19166666666666665,
+            "subjectivity": 0.7979166666666666
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinath5",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "hinb6y6",
+            "body": "Yes, and its easy to think \"oh but look it shows I'm responsible and I care,\" no, it doesn't. It shows that only sometimes you think the class is important and that they have nothing else better to do but to answer your tiny email. You aren't their only student nor their only class, your professor is not your messenger boy.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.19166666666666665,
+            "subjectivity": 0.7979166666666666
+        }
+    ]
+}

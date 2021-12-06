@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-03 23:43:09",
+    "ups": "40169",
+    "downs": "278",
+    "views": "583586",
+    "top_comments": [
+        {
+            "comment": "Only swedish and finnish will know what EI SAA PEITT\u00c4\u00c4 means.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Flowers in an Iskall base?!\nShouldn't be too long before he starts using unpolished diorite in his builds.",
+            "polarity": -0.525,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "\"I'm Omega happy with this\" \nHE SAID IT. HE SAID THE WORD, THE BESTEST GOODEST WORD. HE SAID HE'S *OMEGA* HAPPY, I'M SO HAPPY HE'S HAPPY\nseriously though, it does look great",
+            "polarity": 0.6111111111111112,
+            "subjectivity": 0.9027777777777778
+        },
+        {
+            "body": "Could also use rooted dirt to give more variation in the pathway build",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "As a finnish im so proud of how you said terve!!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Hey iskall, it's been a while since your modpack vault hunters came out and I've tried downloading it many times but every time I open it it has way too many lags for my computer, and even for the best computer in my house, and it's a good one. So I've been wandering, will you consider making a light version of the modpack maybe with some less mods or something, because for us downloading mods one by one may lead to a lot of confusion and errors, so for us, the players/watchers with not the best computers, will you consider making a light version of vault hunters?",
+            "polarity": 0.48148148148148157,
+            "subjectivity": 0.462962962962963
+        }
+    ]
+}

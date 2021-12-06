@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 10:58:46",
+    "url": "https://www.youtube.com/watch?v=5kE9PacqtUw",
+    "time_now": "2021-11-03 23:43:38",
+    "ups": "1779",
+    "downs": "361",
+    "views": "139753",
+    "top_comments": [
+        {
+            "comment": "3 days ago video of G20 summit held in Rome. Complete video report of media in English language is here for viewers.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Joe snoozing during G20-\n\"It was all a dream. I used to read\"\n\"Word Up Magazine\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "These leader caused more polution going to help climate change what a bunch off dopes morans saying one thing and doing what's good for them. Then they want us to pay for there stupidity.",
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "I\u2019m glad this G20 summit focused on climate change. Seeing Algorand founder Silvio Micali talking about blockchain advancement was a great highlight of the summit. Algorand, as a truly carbon-neutral blockchain, is definitely the strongest candidate to be the leader blockchain of the future.",
+            "polarity": 0.325,
+            "subjectivity": 0.59375
+        },
+        {
+            "body": "Biden is a hypocrite.85 limos. How is that for your carbon footprint Joe?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

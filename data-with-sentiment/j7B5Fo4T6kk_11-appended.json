@@ -1,0 +1,102 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-01 14:01:13",
+    "ups": "9998",
+    "downs": "309",
+    "views": "290381",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 35,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Tarang music ku atiki request ki apana manas bhai n jasmine didi nku nei gote music video karantu  please please",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Love you Risi bro and best hero \ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "Superb video...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Beautiful song \u2665\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Story..be continue...plz...\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love you Risi bro and best hero \ud83e\udd70",
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "body": "Superb video...",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Beautiful song \u2665\ufe0f",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Nic",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Use helmet when riding \ud83d\ude05 ....bdw seems like Bobby mishra's old song\" sae barsha sae rati mane pade\".",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Asima mam to pura   sabse  achhi singer hen  haman sagar  sar",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jasmin  mam  aau Risi  sar   good look",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Please ama request rakhantu tarang music re  agaku jaha b music video boneibe sethire jasmine didi aou manas bhai nku neiki hin karibe please my all time favorite Jodi manas n jasmine love you both",
+            "polarity": 0.5,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Tarang music ku atiki request ki apana manas bhai n jasmine didi nku nei gote music video karantu  please please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Very nice video jasmine is my all time favorite",
+            "polarity": 0.64,
+            "subjectivity": 1.0
+        }
+    ]
+}

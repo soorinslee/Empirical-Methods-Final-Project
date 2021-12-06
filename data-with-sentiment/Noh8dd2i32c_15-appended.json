@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-02 06:30:53",
+    "ups": "3088",
+    "downs": "25",
+    "views": "54218",
+    "top_comments": [
+        {
+            "comment": "If I have my labradoodle lie on my bed that adds texture, right?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi Nick, I'm a believer of Feng Shui, no mirrors in the bedroom.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What are you thoughts on putting a rug over carpet? I love the look of having a rug grounding the bed, but I go back and forth on doing it in our master because I feel silly putting a rug over carpet.",
+            "polarity": 0.0,
+            "subjectivity": 0.4916666666666667
+        },
+        {
+            "body": "I just want full size sheets that have bottom sheets fit tightly. The old cotton ones I have are the only ones I have found to fit with no wrinkles for my feet to avoid. Ps. I have my shag rug from living room under my bed. On its way out\ud83d\ude01",
+            "polarity": 0.17857142857142858,
+            "subjectivity": 0.47261904761904766
+        }
+    ]
+}

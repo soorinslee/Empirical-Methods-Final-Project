@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-06 05:16:45",
+    "ups": "20794",
+    "downs": "69",
+    "views": "232451",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 3037,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The Best singer. I love his Voice.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "TXT - In My Blood (Shawn Mendes) is incredible!!!!!!! check it!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "\u201cI\u2019m not surprised, but I\u2019m surprised you know\u201d\nYEAH we army can totally relate",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.016666666666666666,
+            "subjectivity": 0.85
+        }
+    ],
+    "comments_since_last_sample": []
+}

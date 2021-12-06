@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-03 15:28:01",
+    "ups": "11167",
+    "downs": "17",
+    "views": "89587",
+    "top_comments": [
+        {
+            "comment": "That dance group was awesome!! Go Team Wang!!",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Love it when he dances!! SWAG !",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Perfect as always \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Jackson\u9664\u4e86\u5531\u6b4c\uff0c\u8df3\u821e\u4e5f\u662f\u4e00\u7edd\u5440\uff0c\u8981\u591a\u8df3\uff0c\u770b\u4e0d\u591f\uff01",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Panthepack ...YAY !!!!",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jackson \ud83d\udc4b\ud83d\udc4b\ud83d\udc4d\ud83c\udf0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "HERE FANBOY OF BIG BOSS JACKSON WANG!!!(\u25e0\u203f\u30fb)\u2014\u2606\n\n\nPOV; The Sniper on Stage and the King of Visuals !!!\u00ae\u2713\u2713\u2713\n\nMY BRO IS A GENIUS AND LEGEND BUT TOO IS A GREAT LEADER TEAM WANG!!!\u2713\u2713\u2713",
+            "polarity": 0.4,
+            "subjectivity": 0.425
+        }
+    ]
+}

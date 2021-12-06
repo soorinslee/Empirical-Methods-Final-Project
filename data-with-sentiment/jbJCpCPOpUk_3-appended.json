@@ -1,0 +1,102 @@
+{
+    "time_posted": "2021-10-30 13:00:32",
+    "url": "https://www.youtube.com/watch?v=jbJCpCPOpUk",
+    "time_now": "2021-10-31 05:05:10",
+    "ups": "2332",
+    "downs": "20",
+    "views": "21360",
+    "top_comments": [
+        {
+            "comment": "Another great adaptation. You're the best.  :-)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7666666666666666,
+            "subjectivity": 0.6833333333333332
+        },
+        {
+            "comment": "You\u2019re truly amazing , so creative in every piece you put together \ud83d\udc4f\ud83d\udc4f thank you for sharing your talent with us may god bless you",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "It\u2019s Beautiful \u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "That is so beautiful!! Question how would you decorate a tile bathroom wall?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Girl, you\u2019re so talented and gifted! God bless you! You have no idea how brilliant your ideas are\u2026amaazinggg!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8270833333333334,
+            "subjectivity": 0.9666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hello blessing. I like it so much.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "It\u2019s Beautiful \u2764\ufe0f",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Amazing \ud83d\ude0d\u2764\ufe0f",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "So pretty .your designs always amaze me.",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Girl, you\u2019re so talented and gifted! God bless you! You have no idea how brilliant your ideas are\u2026amaazinggg!!!",
+            "polarity": 0.8270833333333334,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "body": "What is good substitute for mode podge?",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Definitely did that",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "As always ABSOLUTELY amazingly beautiful. I positively love all the creative ideas. You are such a blessing, \nTHANK YOU for sharing your many talents.",
+            "polarity": 0.47000000000000003,
+            "subjectivity": 0.72
+        },
+        {
+            "body": "Hermoso\ud83d\ude0d\ud83d\udc9e\u2764\u2764\u2764\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "SO BEAUTIFUL !  Side table. I love it \ud83d\ude0a\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "polarity": 0.75,
+            "subjectivity": 0.8
+        }
+    ]
+}

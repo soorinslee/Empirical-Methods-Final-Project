@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-02 06:30:29",
+    "ups": "29169",
+    "downs": "416",
+    "views": "549799",
+    "top_comments": [
+        {
+            "comment": "I\u2019ve been stuck in silver 3 for so long \ud83d\ude14. I REALLY need help and wish you could help me Sunless but I doubt it and I understand because your job and daily life.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.05000000000000001,
+            "subjectivity": 0.20000000000000004
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Love this vid",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Sunless Khan King of content creating",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sunless the  psychopath  \ud83d\ude02 congratulations on 2M!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm gold 3 and I can speed flip and I can do a air dribble",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"I'm never trusting you again\" \nas if you ever trusted him in the first place",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "*Just thought of your next Great Rocket League vid!!!* Okay so hear me out... a comprehensive rocket league training video modeled after the Krabby Patty Training Video but instead of Spongebob butting in to make a Krabby Patty its a Plat trying to learn flip resets before they can drive the car",
+            "polarity": 0.5,
+            "subjectivity": 0.4166666666666667
+        }
+    ]
+}

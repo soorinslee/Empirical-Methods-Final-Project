@@ -1,0 +1,165 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj509l/so_wheres_banjo_kazooie_because_this_is_the_only/",
+    "time_posted": "2021-10-30 12:28:18",
+    "time_now": "2021-10-30 16:47:08",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinsypg",
+            "body": "Same reason DK 64 is not on the list. Microsoft bought RARE a few years ago.",
+            "polarity": 0.033333333333333326,
+            "subjectivity": 0.375
+        },
+        {
+            "comment_id": "hinryb7",
+            "body": "They don\u2019t own the license, Microsoft does since they bought Rare. They have to work out a deal first to get it on there",
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.7444444444444445
+        },
+        {
+            "comment_id": "hinruv2",
+            "body": "Get gamepass",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinqrbd",
+            "body": "Same here, but they said in the Direct that it would be \u201cadded at a later date\u201d. Fuck knows when :-/",
+            "polarity": -0.11000000000000001,
+            "subjectivity": 0.425
+        },
+        {
+            "comment_id": "hinqo7j",
+            "body": "First picture, second on bottom row",
+            "polarity": 0.125,
+            "subjectivity": 0.16666666666666666
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hinqo7j",
+            "body": "First picture, second on bottom row",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment_id": "hinruv2",
+            "body": "Get gamepass",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinqrbd",
+            "body": "Same here, but they said in the Direct that it would be \u201cadded at a later date\u201d. Fuck knows when :-/",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.11000000000000001,
+            "subjectivity": 0.425
+        },
+        {
+            "comment_id": "hinryb7",
+            "body": "They don\u2019t own the license, Microsoft does since they bought Rare. They have to work out a deal first to get it on there",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.7444444444444445
+        },
+        {
+            "comment_id": "hinsypg",
+            "body": "Same reason DK 64 is not on the list. Microsoft bought RARE a few years ago.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.033333333333333326,
+            "subjectivity": 0.375
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinqo7j",
+            "body": "First picture, second on bottom row",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment_id": "hinruv2",
+            "body": "Get gamepass",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinqrbd",
+            "body": "Same here, but they said in the Direct that it would be \u201cadded at a later date\u201d. Fuck knows when :-/",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.11000000000000001,
+            "subjectivity": 0.425
+        },
+        {
+            "comment_id": "hinryb7",
+            "body": "They don\u2019t own the license, Microsoft does since they bought Rare. They have to work out a deal first to get it on there",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.7444444444444445
+        },
+        {
+            "comment_id": "hinsypg",
+            "body": "Same reason DK 64 is not on the list. Microsoft bought RARE a few years ago.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.033333333333333326,
+            "subjectivity": 0.375
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinqo7j",
+            "body": "First picture, second on bottom row",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment_id": "hinruv2",
+            "body": "Get gamepass",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinqrbd",
+            "body": "Same here, but they said in the Direct that it would be \u201cadded at a later date\u201d. Fuck knows when :-/",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.11000000000000001,
+            "subjectivity": 0.425
+        },
+        {
+            "comment_id": "hinryb7",
+            "body": "They don\u2019t own the license, Microsoft does since they bought Rare. They have to work out a deal first to get it on there",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.7444444444444445
+        },
+        {
+            "comment_id": "hinsypg",
+            "body": "Same reason DK 64 is not on the list. Microsoft bought RARE a few years ago.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.033333333333333326,
+            "subjectivity": 0.375
+        }
+    ]
+}

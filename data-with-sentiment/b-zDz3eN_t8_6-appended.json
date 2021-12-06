@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-10-31 17:25:07",
+    "ups": "1989",
+    "downs": "85",
+    "views": "187224",
+    "top_comments": [
+        {
+            "comment": "Lol people still use bandicam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Wow you are so good at editing I can't even edit a short video",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "comment": "This is amazing ! \ud83d\udc40\ud83d\udc40",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7500000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Omg really great work op",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Sheesh amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "sugar honey mr beast",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u263a\ud83e\udd11",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow you are so good at editing I can't even edit a short video",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.6333333333333334
+        }
+    ]
+}

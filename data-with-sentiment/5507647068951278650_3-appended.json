@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj0nkl/just_discovered_my_amazon_gaming_wishlist_from/",
+    "time_posted": "2021-10-30 08:39:22",
+    "time_now": "2021-10-31 05:06:50",
+    "ups": 124,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himxmu2",
+            "body": "Need for Speed Underground 2 was goat.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himy4xb",
+            "body": "I might be wrong but I think tony hawk underground was one of the first network playable games?  So that was really exciting at the time.",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.6777777777777777
+        },
+        {
+            "comment_id": "himxra1",
+            "body": "Well you waited long enough, saves you some money buying them now instead of 20 years ago",
+            "ups": 5,
+            "downs": 0,
+            "polarity": -0.025,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "himxtp9",
+            "body": "Everything except Gran Turismo I bought for GameCube.\n\nI ended up liking True Crime more than any of the GTA games that gen (the GTA games I bought on PC).",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment_id": "himyuj9",
+            "body": "THUG was the shit to play when I was younger.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.4
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himxmu2",
+            "body": "Need for Speed Underground 2 was goat.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himxtp9",
+            "body": "Everything except Gran Turismo I bought for GameCube.\n\nI ended up liking True Crime more than any of the GTA games that gen (the GTA games I bought on PC).",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment_id": "himy4xb",
+            "body": "I might be wrong but I think tony hawk underground was one of the first network playable games?  So that was really exciting at the time.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.6777777777777777
+        },
+        {
+            "comment_id": "himxra1",
+            "body": "Well you waited long enough, saves you some money buying them now instead of 20 years ago",
+            "ups": 5,
+            "downs": 0,
+            "polarity": -0.025,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "himyuj9",
+            "body": "THUG was the shit to play when I was younger.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.4
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himxmu2",
+            "body": "Need for Speed Underground 2 was goat.",
+            "ups": 11,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himxtp9",
+            "body": "Everything except Gran Turismo I bought for GameCube.\n\nI ended up liking True Crime more than any of the GTA games that gen (the GTA games I bought on PC).",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment_id": "himy4xb",
+            "body": "I might be wrong but I think tony hawk underground was one of the first network playable games?  So that was really exciting at the time.",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.6777777777777777
+        },
+        {
+            "comment_id": "himxra1",
+            "body": "Well you waited long enough, saves you some money buying them now instead of 20 years ago",
+            "ups": 4,
+            "downs": 0,
+            "polarity": -0.025,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "himyuj9",
+            "body": "THUG was the shit to play when I was younger.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.4
+        }
+    ]
+}

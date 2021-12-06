@@ -1,0 +1,141 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj0wbn/memories/",
+    "time_posted": "2021-10-30 08:54:18",
+    "time_now": "2021-10-31 09:13:34",
+    "ups": 7212,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hiqum00",
+            "body": "Oh wow... how. I didn't touch this game in ... 16 years? And my brain made the connection after the initial 1st second was \"hold on I know this place\" ...crazy.",
+            "polarity": -0.07500000000000001,
+            "subjectivity": 0.35
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hin12gl",
+            "body": "Cs_Italy",
+            "ups": 941,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin2so8",
+            "body": "Man this brings me back. Thank you.",
+            "ups": 295,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinjegn",
+            "body": "Gets distracted by chickens in the marketplace: Headshot.",
+            "ups": 275,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin7m2i",
+            "body": "Too bad everyone always wanted to play Dust_2.",
+            "ups": 168,
+            "downs": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment_id": "hintq0a",
+            "body": "Hold on, it was a REAL PLACE!?",
+            "ups": 138,
+            "downs": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.30000000000000004
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hin2so8",
+            "body": "Man this brings me back. Thank you.",
+            "ups": 292,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin12gl",
+            "body": "Cs_Italy",
+            "ups": 943,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinjegn",
+            "body": "Gets distracted by chickens in the marketplace: Headshot.",
+            "ups": 276,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin7m2i",
+            "body": "Too bad everyone always wanted to play Dust_2.",
+            "ups": 169,
+            "downs": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment_id": "hintq0a",
+            "body": "Hold on, it was a REAL PLACE!?",
+            "ups": 138,
+            "downs": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.30000000000000004
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hin2so8",
+            "body": "Man this brings me back. Thank you.",
+            "ups": 297,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin12gl",
+            "body": "Cs_Italy",
+            "ups": 946,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinjegn",
+            "body": "Gets distracted by chickens in the marketplace: Headshot.",
+            "ups": 273,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hin7m2i",
+            "body": "Too bad everyone always wanted to play Dust_2.",
+            "ups": 167,
+            "downs": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment_id": "hintq0a",
+            "body": "Hold on, it was a REAL PLACE!?",
+            "ups": 139,
+            "downs": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.30000000000000004
+        }
+    ]
+}

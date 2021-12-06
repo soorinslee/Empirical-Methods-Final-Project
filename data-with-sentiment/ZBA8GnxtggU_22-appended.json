@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=ZBA8GnxtggU",
+    "time_now": "2021-11-03 11:21:30",
+    "ups": "2596",
+    "downs": "287",
+    "views": "241723",
+    "top_comments": [
+        {
+            "comment": "I love your videos",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Just press the rich button I'm just gonna go I like this before because I see this I'm not going to be your fn now",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Pretty  cool \nPart too  needed \n.y h uh aww u",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.85
+        },
+        {
+            "comment": "Poor os awsm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I wish I can be in one of your videos",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Rock starrrr!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ya",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

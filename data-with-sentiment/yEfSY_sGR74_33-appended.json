@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-05 08:39:55",
+    "ups": "8151",
+    "downs": "92",
+    "views": "117590",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 383,
+            "number_of_replies": 46,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "Your voice makes every song more beautiful.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.675,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "This is the first male cover I\u2019ve heard of this song and your voice moved me!\ud83d\ude4f\ud83c\udffe This was amazing\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 0.21666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This is song male varsion so beautiful",
+            "polarity": 0.425,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Ohhh my God \ud83e\udd70\nYour voice is so sweet\ud83e\udd7a\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I don't know what to say Alexander! I hadn't heard Adele's version when I discovered this video. \n\nI've been a fan of yours (and a subscriber) since I first heard you sing on the video you made with Kurt Schneider years ago. But you've outdone yourself this time. There were a couple of very tiny nitpics, with breathing and timing (just to prove I'm not just a gushing fanboy, lol), but you gave me chills dude, and the hair stood up on my neck and arms. Some of those falsetto moments actually made me cry. Your rendition was simply sublime!\n\nI listened to @Leroy Sanchez's version, and while do I like his voice and I didn't dislike his rendition of the song, it just didn't hold a candle to yours for me. I also found another guy's version, with a deep voice, but he didn't have any of the depth of emotion and passion that you put into yours (and most of your songs, let's be honest).\n\nI listened to @Adele's version just prior to writing this, and yours is by far my favorite! I really hope she gets to hear you do her song proud. If I knew her, I'd be singing your praises (no pun intended) to her about you for sure.",
+            "polarity": 0.3125,
+            "subjectivity": 0.5735260770975056
+        },
+        {
+            "body": "ive been waiting for so long ur voice babyyyy yeayyy thank uuu",
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        }
+    ]
+}

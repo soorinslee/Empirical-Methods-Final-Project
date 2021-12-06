@@ -1,0 +1,113 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-10-31 05:05:00",
+    "ups": "6041",
+    "downs": "49",
+    "views": "98161",
+    "top_comments": [
+        {
+            "comment": "I was just in Bloomington for the Hilly Hundred! \nIt is so, so beautiful there!\nI absolutely loved the shot of the American flag \ud83c\uddfa\ud83c\uddf8",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5666666666666667,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "we love college schoolisha \ud83e\udd7a\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Me: so excited they came to Indiana since that\u2019s where I am from \nAlso me: mad they didn\u2019t go to a Notre dame game cause that\u2019s where the real party is at",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1125,
+            "subjectivity": 0.6125
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So tks fam is very much \u2728rich\u2728",
+            "polarity": 0.26,
+            "subjectivity": 0.26
+        },
+        {
+            "body": "Alisha looks so good in Square neck corset tops. They suit her so well. \ud83d\ude0d",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I wish I saw you guys in Indiana",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I forking love Alisha\u2019s legs! Like wow. Sorry idk if that\u2019s weird haha love you lida",
+            "polarity": 0.07083333333333333,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I feel like Schoolisha was the most exciting thing to happen to Bloomington in a long time \ud83d\ude02\ud83d\ude02",
+            "polarity": 0.25,
+            "subjectivity": 0.5666666666666668
+        },
+        {
+            "body": "Me: so excited they came to Indiana since that\u2019s where I am from \nAlso me: mad they didn\u2019t go to a Notre dame game cause that\u2019s where the real party is at",
+            "polarity": -0.1125,
+            "subjectivity": 0.6125
+        },
+        {
+            "body": "This trip was much needed for you, you should do it more often!!",
+            "polarity": 0.490625,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "Are you actually getting a  new suitcase cause yours is dented or was that a joke?",
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.2772727272727273
+        },
+        {
+            "body": "I\u2019m from Indiana and I love my hometown. Y\u2019all really need to try Arnie\u2019s pizza while you are there it is the best!!! TK  will know what it is !",
+            "polarity": 0.5666666666666667,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "It\u2019s crazy to see someone actually travel to Indiana and enjoy it.",
+            "polarity": -0.06666666666666665,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "this title is GOLDEN",
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Looked like so much fun lol I am in bowling green ky and my birthday is Wednesday ( November 3rd) it would be sooooo mother forking cool to hang out with you guys for a day!!!!!",
+            "polarity": 0.38,
+            "subjectivity": 0.37
+        },
+        {
+            "body": "I love the nails!!",
+            "polarity": 0.78125,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "we love college schoolisha \ud83e\udd7a\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Omg Ashley is such a hater hahaha she is the aesthetic queen but she does not pass the vibe check when hangry hahahah",
+            "polarity": 0.1,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "More vlogs \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

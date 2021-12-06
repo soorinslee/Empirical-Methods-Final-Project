@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-02 18:51:42",
+    "ups": "6115",
+    "downs": "70",
+    "views": "139343",
+    "top_comments": [
+        {
+            "comment": "This shit garbage my boy",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Whole tape pressure \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udcaf\ud83d\udcaf",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Syko sound like a uninterested Florida boii lol \ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "Sykobob got duH best verse",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.44999999999999996
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude08\ud83d\udcaa\ud83e\udd85\ud83c\udf0d\ud83c\udf0e\ud83c\udf0f\ud83d\udda4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No cap carried\ud83d\udd25\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Big Kodak fan syko bob cool but snapkat kinda wack",
+            "polarity": 0.175,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Syko sound like a uninterested Florida boii lol \ud83d\udd25",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.55
+        }
+    ]
+}

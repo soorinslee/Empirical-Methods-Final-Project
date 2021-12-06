@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=T0X3tsRuCmk",
+    "time_now": "2021-11-01 18:08:46",
+    "ups": "2149",
+    "downs": "114",
+    "views": "106661",
+    "top_comments": [
+        {
+            "comment": "Subscribe to our channel so you never miss any news updates http://bit.ly/3e0SwKP",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Stay happy $ healthy pakistan \ud83c\uddf5\ud83c\uddf0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Very great show \ud83d\udc4f \ud83d\udc4d\ud83c\udffc \ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.9750000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Aftab Iqbal ki Copy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

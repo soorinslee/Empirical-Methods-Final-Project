@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-03 23:42:51",
+    "ups": "6661",
+    "downs": "79",
+    "views": "159844",
+    "top_comments": [
+        {
+            "comment": "Syko sound like a uninterested Florida boii lol \ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "Sykobob got duH best verse",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "Syko!!!!\ud83c\uddef\ud83c\uddf2\ud83d\udcaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "rapping attacking",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "rapping attacking",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sniper gang",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yeah yak",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wazaaa ! https://youtu.be/7RZHqsmEHjc",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-04 03:50:46",
+    "ups": "12972",
+    "downs": "191",
+    "views": "581828",
+    "top_comments": [
+        {
+            "comment": "Funny that the thief is tip toeing as if he's trying not to wake the homeowner when he knows damn well it's empty",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.075,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Praise Jesus Christ lord",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Id sue the company for having such weak chemicals",
+            "polarity": -0.1875,
+            "subjectivity": 0.5625
+        },
+        {
+            "body": "Praise Jesus Christ lord",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I had my house sprayed for termites and it didn't require a tent.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "JESSE!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

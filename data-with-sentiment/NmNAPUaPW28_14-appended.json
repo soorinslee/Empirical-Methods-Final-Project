@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-11-02 02:24:03",
+    "ups": "3194",
+    "downs": "19",
+    "views": "41131",
+    "top_comments": [
+        {
+            "comment": "Woww\ud83d\ude0d\ud83d\ude0bit looks so delicious \ud83d\ude0b Thank you for the recipe \ud83d\ude0b\ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Yum!!!!!!! Can you film a Kolaczki cookie video?!? Would love to see your version \ud83e\udd24",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

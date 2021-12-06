@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-02 02:24:00",
+    "ups": "11641",
+    "downs": "1411",
+    "views": "1210112",
+    "top_comments": [
+        {
+            "comment": "Ear rings  hack  is  so awesome",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "That's crazy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Next time pls make the video called rich hacker vs broke hacker",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1875,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Wow fantastic",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.95
+        }
+    ],
+    "comments_since_last_sample": []
+}

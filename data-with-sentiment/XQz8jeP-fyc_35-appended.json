@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-05 16:54:37",
+    "ups": "111145",
+    "downs": "2397",
+    "views": "2868365",
+    "top_comments": [
+        {
+            "comment": "I wonder how many Will find this comment, in the vast and tretuous sea of comments. Be you.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Is this squid game red light  green light?",
+            "polarity": 0.04,
+            "subjectivity": 0.42000000000000004
+        }
+    ]
+}

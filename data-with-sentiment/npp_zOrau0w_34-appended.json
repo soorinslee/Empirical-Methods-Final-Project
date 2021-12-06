@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-05 12:47:04",
+    "ups": "15714",
+    "downs": "347",
+    "views": "197666",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 857,
+            "number_of_replies": 19,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Lmao way to get those boys sweaty\nThis was dope! Flippin love it! \nIf you ever do a cover song of cartoon songs \ud83c\udfb6 \"Toxic Love\" - Tim Curry \ud83c\udfb6\nBro that song...that microphone needed a minute and a cigarette after what Tim Curry sang \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "New take on one of my top 5 fave songs ever....and it's damn good!!!   Be still my heart.",
+            "polarity": 0.5454545454545454,
+            "subjectivity": 0.5181818181818182
+        },
+        {
+            "body": "hi quick question do you do any song writing or have plans You're shelf",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Not in Spotify yet... Searched to include in my playlist but... Not released yet... '-'",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

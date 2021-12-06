@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-11-03 19:36:22",
+    "ups": "2785",
+    "downs": "32",
+    "views": "43211",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 175,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        },
+        {
+            "comment": "Woop woop! Conquest at the 8th minute!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I think that local tournaments are normally more relaxed than a bigger regional or national tournament",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Never done a mini tournament but I did play in a MTG tournament when I was around 10 maybe. I lost in the first round to a dude that was in his 20's and he stomped me into the dirt to the point I never played in another tournament as he made it very unenjoyable.",
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.3444444444444445
+        }
+    ]
+}

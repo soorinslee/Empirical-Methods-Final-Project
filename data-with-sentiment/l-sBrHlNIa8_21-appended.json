@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-03 07:13:43",
+    "ups": "3391",
+    "downs": "38",
+    "views": "87951",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 100,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Ow! Ang napansin q parang magkamukha sila ni Bea Alonzo?! Or sa paningin q lang o baka Nagkamali lang aq! \ud83e\udd23\ud83e\udd23\ud83e\udd23 Power of voice Gigigigi.! Love it! \ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\udc4a\ud83d\udc4a\ud83d\udc4a\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "parang humikab lang eh.  sana all \ud83d\ude05\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "O.M.G, grabe, kudos not only to GiGi but the whole band as well \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "ANG ANGAS NG BIRIT!!!\ud83d\ude2d\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "3:23 napaka epic nito! Ilang beses ko inuulit ulit Ang angas nung nag sync ang boses ni Gigi sabay pagbagsak ng drums tapos may pagka metallic na high notes! ANG TINDI! ikaw lang Gigi! ikaw na!",
+            "polarity": 0.2578125,
+            "subjectivity": 0.47
+        },
+        {
+            "body": "Your one of my fave singers\ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow! Amazing",
+            "polarity": 0.36250000000000004,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83c\udfb5\ud83d\udc99\ud83d\udc99\ud83d\udc99\ud83d\udc99beautiful",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-05 16:54:57",
+    "ups": "24038",
+    "downs": "1752",
+    "views": "624377",
+    "top_comments": [
+        {
+            "comment": "JesusGod \ud83d\ude4f\ud83c\udf47 \ud83c\udf08",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Viva Papa!\ud83c\uddfb\ud83c\udde6 Har har Modi!\ud83c\uddee\ud83c\uddf3\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "IT was Britishers who up to great extent stopped the conversation of Hindus into Islam as continued Muslims rule would have converted almost all the Hindus.see in Pakistan in less than 75 years Hindus reduced from 20 percent to less than 2 percent.moreover Christian and Hindus have no problem between them as in lots European countries lots of Christians also believe in Hinduism.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09333333333333335,
+            "subjectivity": 0.17666666666666667
+        },
+        {
+            "comment": "Modi,:Thank you so much and very very sukruriya..\nPop:What?\nModi:I mean thanks \ud83e\udec2\n\ud83d\ude02 \ud83d\ude06 \ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08687500000000001,
+            "subjectivity": 0.369375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Excellent!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wonderful sir",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Modi,:Thank you so much and very very sukruriya..\nPop:What?\nModi:I mean thanks \ud83e\udec2\n\ud83d\ude02 \ud83d\ude06 \ud83d\ude02",
+            "polarity": 0.08687500000000001,
+            "subjectivity": 0.369375
+        },
+        {
+            "body": "\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67\u0927\u0928\u094d\u092f\u0935\u093e\u0926    \u092e\u094b\u0926\u093f   \u091c\u0940     \u0906\u092a\u0928\u0947   \u0938\u0928\u094d\u0924  \u092a\u093e\u092a\u093e   \u0938\u0947   \u092e\u093f\u0932\u0947     \u092f\u0947\u0938\u0941   \u092e\u093e\u0938\u093f\u0939    \u0915\u0947 \u0935\u091a\u0928    \u0915\u094b    \u091c\u093e\u0928\u0947    \u0906\u091b\u093e    \u0921\u0939\u0930    \n\u092e\u0947\u0902      \u091a\u0932\u0928\u0947   \u0915\u0947    \u0932\u093f\u092f\u0947   \u0932\u094b\u0917\u094b\u0902   \u0915\u094b     \u0938\u093f\u0916\u093e\u092f\u0947",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

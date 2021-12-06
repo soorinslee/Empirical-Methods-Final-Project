@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj57tf/game_developers_still_didnt_get_it/",
+    "time_posted": "2021-10-30 12:38:33",
+    "time_now": "2021-11-04 07:58:53",
+    "ups": 1256,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hint653",
+            "body": "Motion blur is up there with people who watch movies on a TV with motion smoothing active.",
+            "ups": 120,
+            "downs": 0,
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinsdc0",
+            "body": "Who tf plays with motion blur... Cant see shit",
+            "ups": 52,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hinsblu",
+            "body": "I was always under the impression motion blur was used to cover up for under-preforming systems.",
+            "ups": 42,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hint44c",
+            "body": "Film grain can also go die",
+            "ups": 45,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinyaa8",
+            "body": "I kinda like per object motion blur. Adds weight to the movement.",
+            "ups": 35,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinz3n5",
+            "body": "Even in racing sims?",
+            "ups": 20,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hint653",
+            "body": "Motion blur is up there with people who watch movies on a TV with motion smoothing active.",
+            "ups": 121,
+            "downs": 0,
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinyaa8",
+            "body": "I kinda like per object motion blur. Adds weight to the movement.",
+            "ups": 35,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsdc0",
+            "body": "Who tf plays with motion blur... Cant see shit",
+            "ups": 55,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hintnil",
+            "body": "Motion blur for objects but not frame",
+            "ups": 15,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinz3n5",
+            "body": "Even in racing sims?",
+            "ups": 20,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hint653",
+            "body": "Motion blur is up there with people who watch movies on a TV with motion smoothing active.",
+            "ups": 121,
+            "downs": 0,
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinyaa8",
+            "body": "I kinda like per object motion blur. Adds weight to the movement.",
+            "ups": 34,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsdc0",
+            "body": "Who tf plays with motion blur... Cant see shit",
+            "ups": 53,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hintnil",
+            "body": "Motion blur for objects but not frame",
+            "ups": 15,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

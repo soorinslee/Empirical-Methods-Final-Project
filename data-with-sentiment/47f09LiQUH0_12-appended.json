@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-11-01 18:08:50",
+    "ups": "6964",
+    "downs": "296",
+    "views": "149983",
+    "top_comments": [
+        {
+            "comment": "I was waiting for something bad to happen",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Never look at it the same........spirit cooking!!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That's so cute \ud83e\udd70",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Cool !!! \ud83d\udc99\ud83d\udc99\ud83d\udc99 congratulations \ud83c\udf89\ud83d\udc99\n\u2764\ufe0f\ud83c\udde8\ud83c\udde6",
+            "polarity": 0.68359375,
+            "subjectivity": 0.65
+        }
+    ]
+}

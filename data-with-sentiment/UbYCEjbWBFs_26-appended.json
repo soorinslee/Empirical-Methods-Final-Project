@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-04 03:50:47",
+    "ups": "3831",
+    "downs": "510",
+    "views": "209578",
+    "top_comments": [
+        {
+            "comment": "Imagine just eating a whole ghost pepper chillie in the middle of the humid 50\u00b0C scorching sun. Just imagine how that would feel.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It was the same story in Saudi Arabia",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "i follow Ascia and like her...but i dnt see why shes in here. Om naifs story is so inspiring.  i dnt know what Ascia had to offer here? \ud83e\udd14",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Pretty sure you are living in a desert?",
+            "polarity": 0.375,
+            "subjectivity": 0.9444444444444444
+        },
+        {
+            "body": "Kuwaiti women are now tastelessly tatooed and instagram addicted like western women? wow, good one globalism, go empowerment!",
+            "polarity": -0.0050000000000000044,
+            "subjectivity": 0.62
+        },
+        {
+            "body": "All I see in concrete and sand and barely any greens around.",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "It got to 53 at Shambala in southern BC a few years ago when I went to it. Oppressively hot \ud83d\udd25 \ud83e\udd75",
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.3166666666666667
+        }
+    ]
+}

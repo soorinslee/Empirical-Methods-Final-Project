@@ -1,0 +1,84 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-10-31 09:11:22",
+    "ups": "3049",
+    "downs": "39",
+    "views": "32071",
+    "top_comments": [
+        {
+            "comment": "Have you seen DDs? DDs NUTS!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ayo where can I get that shirt?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "5th gen Nintendo was wild. All those sudden advances in technology and they just tried bloody everything to see what would stick. It's somewhat sad that all they really needed was more space and lower dev costs.",
+            "polarity": -0.08333333333333337,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "this one was a banger Derek \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Early 1999 I did work experience at Nintendo Australia.  The call centre office of \"Game Guru's\", a 1900 gamer guide hotline where I played Perfect Dark, months before launch on an EEPROM cartridge - some of the top staff there spoke about the working version of the game where the Gameboy camera face function was completely operational.  \nThe reason it never made it to release is because of the Columbine Shooting and the idea of being able to put any face on a bot for deathmatch (friends, teachers, principals etc).  It absolutely worked, but current events squashed it.",
+            "polarity": 0.14499999999999996,
+            "subjectivity": 0.5325000000000001
+        },
+        {
+            "body": "Is that Tomodachi Life bit from Jabroni Mike's stream? Because that seems like EXACTLY something Jabroni Mike would do and he's been playing that game lately.",
+            "polarity": -0.15,
+            "subjectivity": 0.4166666666666667
+        },
+        {
+            "body": "I'll take that spare NTSC game boy camera if you want to do a goodwill giveaway that'll look good for your channel and make a rando like me happy for a few days.",
+            "polarity": 0.22500000000000003,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "There's also a number of homebrew boards that can read the save data from a Gameboy Camera and some software to dump the images - if you wanted a very slightly higher quality version of those photos.",
+            "polarity": 0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Uncle Derek, please give us more of those DD's!",
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Have you seen DDs? DDs NUTS!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "One of the best videos on this channel, great work Derek and Grace!",
+            "polarity": 1.0,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "Uncle Derek I need your shirt",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "hey im derek its me derek!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You really didn't need to exaggerate the amount of hardware required. Showing every version of the Gameboy along with the Super Nintendo and Gamecube is unnecessary, especially after mentioning you can take a picture in the game itself. They're just different options for doing the same thing. Also, it seems like you were supposed to take a full-body photo to appear in the game, like the other Sims you see walking around, not just a disembodied head.",
+            "polarity": -0.08796296296296297,
+            "subjectivity": 0.5185185185185186
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-11-01 01:40:17",
+    "ups": "2055",
+    "downs": "8",
+    "views": "23459",
+    "top_comments": [
+        {
+            "comment": "I ask my guests/family while they stay to let me know if there is anything I need to add or change to help in their stay. I make a list to get or do if it doesn\u2019t happen while they are here. Then the next time when someone stays it is much better. \nThat\u2019s when I learned about the tissues, fans, and the tub drain that wasn\u2019t draining well.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I would add some coasters, a box of tissues, bottled water and a small trash can.  Great video!",
+            "polarity": 0.375,
+            "subjectivity": 0.575
+        }
+    ]
+}

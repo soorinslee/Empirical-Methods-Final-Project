@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj07mf/who_of_you_is_this/",
+    "time_posted": "2021-10-30 08:10:46",
+    "time_now": "2021-11-03 03:09:15",
+    "ups": 19,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himveao",
+            "body": "Not me it's him",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himw6wu",
+            "body": "It looks like the big stereo/cdplayers with matching speakers that were around in the early 2000's",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "himxz5d",
+            "body": "It's that guy",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himveao",
+            "body": "Not me it's him",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himw6wu",
+            "body": "It looks like the big stereo/cdplayers with matching speakers that were around in the early 2000's",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "himxz5d",
+            "body": "It's that guy",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himveao",
+            "body": "Not me it's him",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himw6wu",
+            "body": "It looks like the big stereo/cdplayers with matching speakers that were around in the early 2000's",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "himxz5d",
+            "body": "It's that guy",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

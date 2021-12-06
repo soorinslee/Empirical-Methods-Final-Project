@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-03 03:07:18",
+    "ups": "5801",
+    "downs": "153",
+    "views": "141431",
+    "top_comments": [
+        {
+            "comment": "Thanks!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi Bobby, I bought, Laird Superfood Creamer, 32 oz bag at our Costco, San Diego California!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have a quick question which is the best vitamin c to purchase",
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Raspberries are not on the dirty dozen list. Facts\u2026",
+            "polarity": -0.6,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Thank you for talking about everything you do, especially the impact food has on the environment! My hero. \ud83d\ude3b",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

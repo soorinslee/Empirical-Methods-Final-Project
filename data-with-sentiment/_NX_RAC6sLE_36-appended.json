@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-05 21:02:01",
+    "ups": "20612",
+    "downs": "65",
+    "views": "229685",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 3002,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The Best singer. I love his Voice.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "TXT - In My Blood (Shawn Mendes) is incredible!!!!!!! check it!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "\u201cI\u2019m not surprised, but I\u2019m surprised you know\u201d\nYEAH we army can totally relate",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.016666666666666666,
+            "subjectivity": 0.85
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Can you make a reaction to Enhypen's songs, they are under the same label agency as BTS and TXT. I recommended you to listen to Given-Taken (their debut song), Drunk-Dazed, Tamed-Dashed, Fever",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        }
+    ]
+}

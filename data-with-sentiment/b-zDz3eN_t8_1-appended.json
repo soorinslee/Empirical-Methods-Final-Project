@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-10-30 20:51:21",
+    "ups": "550",
+    "downs": "20",
+    "views": "37755",
+    "top_comments": [
+        {
+            "comment": "This is amazing:) <3",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "comment": "Here before 1M views",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "cool",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "lmao what if he does this but in airsoft!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "am i the only won wo sees the blue lips",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "IF YOU WISH TO PARTICIPATE THE GAME PLS STATE YOUR NAME AND BIRTHDATE\ud83e\udd91\ud83c\udfae",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "#BEASTGAME",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is amazing:) <3",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "body": "Oh What dream is doing mr beasts squid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Yay mrbeast burger even if I can't eat it cause it ain't in my country sadge",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Blue soilder",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Hi good vid l like",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

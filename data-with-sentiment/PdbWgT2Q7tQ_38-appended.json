@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-06 05:16:44",
+    "ups": "22009",
+    "downs": "237",
+    "views": "295174",
+    "top_comments": [
+        {
+            "comment": "Beautiful\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "We see you Amy \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "BILLIE HAS TO SEE THIS OMFG????",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I\u2019m literally in tears rn that so good",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "soooooo gooooood",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83e\udd2f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oh my gosh am I the only one listening to this OVER AND OVER AGAIN",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I got goosebumps all over \ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31\ud83d\ude31",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

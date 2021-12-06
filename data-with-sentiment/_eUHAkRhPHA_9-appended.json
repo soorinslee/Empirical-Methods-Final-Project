@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=_eUHAkRhPHA",
+    "time_now": "2021-11-01 05:47:20",
+    "ups": "2130",
+    "downs": "8",
+    "views": "24771",
+    "top_comments": [
+        {
+            "comment": "I would add some coasters, a box of tissues, bottled water and a small trash can.  Great video!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "I ask my guests/family while they stay to let me know if there is anything I need to add or change to help in their stay. I make a list to get or do if it doesn\u2019t happen while they are here. Then the next time when someone stays it is much better. \nThat\u2019s when I learned about the tissues, fans, and the tub drain that wasn\u2019t draining well.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "It's a sure thing with Lisa, she's definitely the hostess with the mostess. A designer who makes our world finer. A self given saint who teaches us how to pick the right paint. The lady with her own grove, with a great channel on YouTube !  Love ya \ud83d\udc95",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.48095238095238096,
+            "subjectivity": 0.7124338624338624
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "And PLEEEEEZ, put a table of some sort on each side of the bed.  I've been in far too many guest rooms where there is NO bedside table, hence no lamp, no surface for a book or glass of wine, and no where for kleenex or anything else.  And speaking of glass of wine, how about a bottle of wine, corkscrew and wine glasses?  Fresh flowers, some fashion magazines, small nail kit and bath oils and bath salts.  We often don't pamper ourselves at home, but when we are away it seems so much more possible.if some of these supplies are available to us/our guests.",
+            "polarity": 0.2583333333333333,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "body": "LITERALLY in the middle of cleaning and preparing my guest bedroom for our first guests post Covid19 lockdown right now.  Thought I'd stop and take a breather as was starting to sweat!  These are great tips and pretty much all of them I do.  The one I haven't done is the hooks on the walls for some of their clothes.  Brilliant idea and will endeavour to get this done before the Christmas \"stay-overs\" start.  Many thanks",
+            "polarity": 0.33857142857142863,
+            "subjectivity": 0.46190476190476193
+        }
+    ]
+}

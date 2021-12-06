@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-05 00:25:44",
+    "ups": "19923",
+    "downs": "62",
+    "views": "218390",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2879,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I heared this song a year ago. I was a Directioner and my bias was Harry Styles, but when they disbanded I don't follow them like how I follow about BTS. When I listened to this song for me it's okay, and Harry's voice is always beautiful. But when it's JK the song went like more soulful or JK's voice and styles have something that will make you listen to it again and again.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6166666666666667,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "The Best singer. I love his Voice.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "\u201cI\u2019m not surprised, but I\u2019m surprised you know\u201d\nYEAH we army can totally relate",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.016666666666666666,
+            "subjectivity": 0.85
+        },
+        {
+            "comment": "\uc815\uad6d\uc774 \ubaa9\uc18c\ub9ac\ub294 \uc815\ub9d0 \ubb54\uac00\uac00 \uc788\uc5b4\uc694.. \ud31d\uc5d0 \ub354 \uc5b4\uc6b8\ub9ac\ub294 \ubaa9\uc18c\ub9ac\uc8e0... \ub4e3\uace0 \uc788\uc73c\uba74 \uadf8\ub0e5 \ub208\ubb3c\uc774 \ub0a0 \uac83\uac19\uc544\uc694\n\ub9c8\uce58 \uadf8 \ub178\ub798\uc5d0 \uc8fc\uc778\uacf5\uc774 \ub41c\ub4ef\uc774\uc694",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "OMG it's sooo good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Woww",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "And now he made it his song \ud83d\ude02\ud83e\udd74",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

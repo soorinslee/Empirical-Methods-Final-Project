@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-04 03:50:26",
+    "ups": "16207",
+    "downs": "255",
+    "views": "391771",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1746,
+            "number_of_replies": 137,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "The end of the video is like when the protagonist is about to lose and they somehow win",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Idea: Play the game like a Nuzlocke, but you have to guess the first Pokemon you encounter if you want it, first to 6 Pokemon, starter doesn't count",
+            "polarity": 0.033333333333333326,
+            "subjectivity": 0.35555555555555557
+        },
+        {
+            "body": "Can somebody tell me what pokemon games is this??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The end of the video is like when the protagonist is about to lose and they somehow win",
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "This episode is pure chaosity. I love it.",
+            "polarity": 0.35714285714285715,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Nice to see Mike winning for once",
+            "polarity": 0.55,
+            "subjectivity": 0.875
+        }
+    ]
+}

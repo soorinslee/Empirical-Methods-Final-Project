@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-11-01 22:16:39",
+    "ups": "4874",
+    "downs": "374",
+    "views": "300505",
+    "top_comments": [
+        {
+            "comment": "I thought that penny wise was a boy.",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "L\u2764've it",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I've never been able to do the crafts but I really wanted to and I will do it sometime",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4125
+        },
+        {
+            "comment": "I\u2019m not sure \ud83e\udd14",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.8888888888888888
+        },
+        {
+            "comment": "I don't like it by i",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

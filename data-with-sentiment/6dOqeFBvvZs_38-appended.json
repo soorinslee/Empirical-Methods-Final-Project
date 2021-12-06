@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-06 05:16:57",
+    "ups": "41382",
+    "downs": "294",
+    "views": "610047",
+    "top_comments": [
+        {
+            "comment": "Hello",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Use sea lanterns in the elevator",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "FINLAAAAAAND TERVE PERKELE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It would be cool if you added diamond and emerald ore on the walls to make it feel magical",
+            "polarity": 0.425,
+            "subjectivity": 0.825
+        }
+    ]
+}

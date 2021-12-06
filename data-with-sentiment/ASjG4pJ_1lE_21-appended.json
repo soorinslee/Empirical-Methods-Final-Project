@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-03 07:14:21",
+    "ups": "4466",
+    "downs": "183",
+    "views": "185635",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 21,
+            "number_of_replies": 24,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "The question is. There's still have storage for downloading the video why would you panic to print out the document? Does it Sound easy to download the file and just save it rather than have to print it out one by one? \nI don't know what's the problem with ya... Is the Internet gone? The storage, Signal, or the web. (what exactly the definition is this)",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.36111111111111116,
+            "subjectivity": 0.49444444444444446
+        },
+        {
+            "comment": "why dont use robots ? They wont get tired and do the work quite quicker than humans",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "I like when he spills coffee n goes uh oh lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "why dont use robots ? They wont get tired and do the work quite quicker than humans",
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "This episode cracked me up. Because, thankfully I grew up without the Internet. And yes, I had a great childhood.\nBut I missed the Internet yes but not social media. I would miss it for things like what was the number I need it for that restaurant again while I\u2019m out and about? Or in the case of one of my friends, she can\u2019t find her way out of a paper bag. That would miss Google maps",
+            "polarity": 0.39166666666666666,
+            "subjectivity": 0.4083333333333333
+        },
+        {
+            "body": "Plus if this happened no more minecraft multiplayer yey! No more killing pets and  no more blowing up houses",
+            "polarity": -0.2708333333333333,
+            "subjectivity": 0.5
+        }
+    ]
+}

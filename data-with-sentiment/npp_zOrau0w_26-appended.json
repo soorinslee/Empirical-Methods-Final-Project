@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-04 03:50:07",
+    "ups": "14991",
+    "downs": "321",
+    "views": "180799",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 817,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Omg... Amazing!\ud83d\udc93\ud83e\udd29\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Linda",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Commenting for the algo, and to support the channel... but I can't with that doll... Chucky and my blood pressure don't get along (I was precisely the wrong age when those movies came out...)",
+            "polarity": -0.04999999999999999,
+            "subjectivity": 0.8500000000000001
+        },
+        {
+            "body": "Omg... Amazing!\ud83d\udc93\ud83e\udd29\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What a gorgeous  rendition, definitely my new favorite cover",
+            "polarity": 0.4454545454545455,
+            "subjectivity": 0.7848484848484848
+        }
+    ]
+}

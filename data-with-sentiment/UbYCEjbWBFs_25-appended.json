@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-03 23:43:36",
+    "ups": "3801",
+    "downs": "509",
+    "views": "208466",
+    "top_comments": [
+        {
+            "comment": "Imagine just eating a whole ghost pepper chillie in the middle of the humid 50\u00b0C scorching sun. Just imagine how that would feel.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What a bad report BBC! This isn't about surviving Kuwait's heat this report was about the young lady lifestyle!",
+            "polarity": -0.3749999999999999,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "Influencer. FFS. Who are these clowns.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wake up Kuwaiti follow the lady example  never give up until u try u have millions  u can turn Kuwait green.",
+            "polarity": -0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Planting trees and plants on the desert is feasible..it was already done in India and China..desertification had been happening in parts of China but they reversed it by planting millions of trees towards the desert and the desert became forest now..it is doable, intead of erecting skyscrapers, erect more trees.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Better cone back to uk. Where r u doing there",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "DID ANY ONE SEE HER USE A LIFT \ud83d\uded7 FOR HER FIRST FLOOR APARTMENT \ud83e\udd14 \nLAZY RICHES GLAD THEY FEELING THE PAIN FIRST",
+            "polarity": 0.1875,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "DID ANYONE SEE THE LIFT IN THE HOUSE \nSERIOUSLY \ud83e\udd2a\ud83d\ude2d AND COMPLAINING WELL WE NEVER LEARN WE WANT MORE MEAT \ud83c\udf56 MORE CHICKEN \ud83d\udc14 LAZY PEOPLE LIKE THIS WOMEN USING A LIFT FOR A FIRST FLOOR APARTMENTS \nSHAME ON YOU HUMANS",
+            "polarity": 0.011111111111111127,
+            "subjectivity": 0.6583333333333333
+        }
+    ]
+}

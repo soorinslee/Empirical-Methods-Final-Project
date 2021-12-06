@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-10-31 09:11:20",
+    "ups": "1636",
+    "downs": "73",
+    "views": "142973",
+    "top_comments": [
+        {
+            "comment": "This guys editing skills are 100000/1",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "lol did u have some kind of editing software to make everything thats red blue? because people have blue lips and blue spots on their face. either way, this is amazing",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "That so Funny :) lol love ur vids keep the content Going",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5125,
+            "subjectivity": 0.8250000000000001
+        },
+        {
+            "comment": "mr beast is in da game \ud83d\ude33",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "loll old man scared in honey comb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "why are the guards cyan",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow that\u2019s cool",
+            "polarity": 0.22499999999999998,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "I can s it fake",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Green guard means dream guard",
+            "polarity": -0.2,
+            "subjectivity": 0.3
+        }
+    ]
+}

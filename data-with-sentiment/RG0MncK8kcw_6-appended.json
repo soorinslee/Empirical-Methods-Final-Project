@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 12:29:34",
+    "url": "https://www.youtube.com/watch?v=RG0MncK8kcw",
+    "time_now": "2021-10-31 17:25:29",
+    "ups": "351",
+    "downs": "44",
+    "views": "21647",
+    "top_comments": [
+        {
+            "comment": "Aaj  subah   France  ne  world  expensive  sharab  ki  30000  bottles aur  1  ton cheese  pia  k  flight   Se  islamabbad  bheja  hai  .  Pro  france  supporter k liye",
+            "likes": 6,
+            "number_of_replies": 1,
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Tlp support koo Jannat milegii",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "aik cheez ki samjh ni aai ye noor ul haq qadri muslman ha ya ni.....?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Stay happy and healthy.     .\ud83c\uddf5\ud83c\uddf0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "We ..TLP wants ..alag country ..\nWe wants separate country..",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.1
+        }
+    ],
+    "comments_since_last_sample": []
+}

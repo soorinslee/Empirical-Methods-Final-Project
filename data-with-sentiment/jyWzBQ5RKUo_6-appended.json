@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-10-31 17:25:13",
+    "ups": "9154",
+    "downs": "40",
+    "views": "119330",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 172,
+            "number_of_replies": 7,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "Super, amazing\u2026",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "did you forget that u have like 9 cave spider spawners",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "22:04 When X said this I felt it \ud83e\udd27",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "At 17:14\nHmmm\u2026 what is required?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You probably have a market in Scar and his eternal war against snow on builds so you could sell string to him.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "you should consider adding wadzee to hermitcraft",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi Xisumavoid, hope you feeling great. I recently got into the recource pack, and so far, it's very exciting. Recently I wanted to add custom block, like you did with derpcoin... I mean like Evil Xisumavoid did with derpcoin block, and I can't find how to do it, because I don't to retexture already existing texture, for example: I want add ,,Ruby block\", but I don't want to retexture ,,Diamond block\" and loose it, so I came to you for help, if you even can help me with this problem, I would very grateful for it :)",
+            "polarity": 0.06005769230769231,
+            "subjectivity": 0.6506730769230769
+        },
+        {
+            "body": "did you forget that u have like 9 cave spider spawners",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I know everyone complains about snow gathering on their builds, but for the Evil Emporium, it actually looks pretty cool.  The dark stone buildings and \"evil\" atmosphere amidst the snow paint the picture of an old and ominous lair up in the snowy mountains.",
+            "polarity": -0.20714285714285713,
+            "subjectivity": 0.6214285714285716
+        },
+        {
+            "body": "22:04 When X said this I felt it \ud83e\udd27",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

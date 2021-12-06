@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=ZBA8GnxtggU",
+    "time_now": "2021-11-05 08:40:51",
+    "ups": "2745",
+    "downs": "311",
+    "views": "262940",
+    "top_comments": [
+        {
+            "comment": "https://youtube.com/shorts/1AreR2OHbP0?feature=share",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pretty  cool \nPart too  needed \n.y h uh aww u",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.85
+        },
+        {
+            "comment": "Poor os awsm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Awww",
+            "polarity": 0.4,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I\u2019m Yasmin",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "\u2026.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I like her if she is non zombie",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I like 123go",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You can tell",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-10-31 09:11:53",
+    "ups": "1065",
+    "downs": "20",
+    "views": "46804",
+    "top_comments": [
+        {
+            "comment": "I love it everytime Eric went \"THIS IS MASTERCHEF\"",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\"This is so Canadian\"\nTook the words straight out of my mouth",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "alvin sounds especially quiet when shouting the amount of time left in the season 4 finale compared to the other ones.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.041666666666666664,
+            "subjectivity": 0.34722222222222215
+        },
+        {
+            "comment": "I like how Beccy wasn't just strategizing her appetizer, but the whole course meal.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "LOVING how active the channel has become the past fortnight or so!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.051388888888888894,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love how Claudio just didn\u2019t say anything and complemented the soup when it poured on him.",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I felt that instinctually when her soup fell on Claudio.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i wanna see david and eric face to face for 1v1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No there is a hard dish that takes like 3 days it\u2019s a Indian dish called sadhiya",
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "I\u2019d love to try eat the dumplings Eric made, it looks like it has a lot of filling!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Any updates on them? What are they doing now? Running a successful restaurant?",
+            "polarity": 0.75,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "\u2763\ufe0f\u2763\ufe0f\u2763\ufe0f\" Nothing is IMPOSSIBLE. The word itself says 'I M POSSIBLE!\" \u2763\ufe0f\u2763\ufe0f\u2763\ufe0f\u2764\ufe0f",
+            "polarity": -0.3333333333333333,
+            "subjectivity": 1.0
+        }
+    ]
+}

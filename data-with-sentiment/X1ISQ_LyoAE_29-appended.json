@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-04 16:12:03",
+    "ups": "1817",
+    "downs": "37",
+    "views": "22920",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I would love to enter the giveaway, my brother rocks Perry Ellis 360 red and I absolutely love it, but I have never tried ADG. Thank you Ash for the opportunity.",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "I'd like to enter the giveaway! Grew up with ADG, if you think in the US people used it ad nauseam, you have no idea here in Italy where it comes from!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 07:52:22",
+    "url": "https://www.youtube.com/watch?v=n7Q5KyPXGGU",
+    "time_now": "2021-11-02 06:30:24",
+    "ups": "75650",
+    "downs": "122",
+    "views": "447313",
+    "top_comments": [
+        {
+            "comment": "Juhyun love you husband\ud83d\udcaa",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Entah kenapa outfit Taeil disini mengingatkanku ke era Superhuman",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Yassss. Loved it. \ud83d\udc9a\ud83d\ude4c\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Love i",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "always enjoy sm artist performance!!! this song is good.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.740625,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Juhyun love you husband\ud83d\udcaa",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "handsome taeil",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "0:12 ignore me this is for my own sanity",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Love this so much",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "cakep bgt plis gue pusing",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I NEED TAEIL'S FANCAM.......",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I NEED YUTA'S FANCAM....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I NEED JOHNNY'S FANCAMM",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "TRAIGANME UNA PRESI\u00d3N QUE SE ME BAJ\u00d3 LA COCA",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

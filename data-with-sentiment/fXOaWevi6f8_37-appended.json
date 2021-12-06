@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-06 01:10:02",
+    "ups": "19456",
+    "downs": "390",
+    "views": "1266861",
+    "top_comments": [
+        {
+            "comment": "Keralam\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Cardamon, ginger, thyme, black tea, lemons, and cinnamon put it in a pot and boil great for colds and flu",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3166666666666667,
+            "subjectivity": 0.5916666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Elaichi . Its good but when eating a food it comes inside your mouth.  It ruins your day",
+            "polarity": 0.27499999999999997,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Cardamon, ginger, thyme, black tea, lemons, and cinnamon put it in a pot and boil great for colds and flu",
+            "polarity": 0.3166666666666667,
+            "subjectivity": 0.5916666666666667
+        },
+        {
+            "body": "My favourite flavour to add in jucies!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Baru tahu pokok buah pelaga mcm mana dan cara grading.\nterima kasih BI sbb kongsi vid.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Like coffee it takes seven pounds of cherry to make one pound of roasted coffee. Takes two years to mature. 2.40 for cherry this year. In the day .10 cents.",
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        }
+    ]
+}

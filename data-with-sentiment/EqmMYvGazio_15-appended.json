@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-02 06:30:55",
+    "ups": "10284",
+    "downs": "77",
+    "views": "197864",
+    "top_comments": [
+        {
+            "comment": "The fact that TK\u2019s dad is a dentist makes soo much sense! She has the most perfect natural smile! And her teeth are so white and perfect \ud83e\udd29",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.46071428571428574,
+            "subjectivity": 0.4571428571428572
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "aren't you like 30 lolol",
+            "polarity": 0.8,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "come to mo state anytime girl",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just hate she got sick afterwards :(",
+            "polarity": -0.7547619047619047,
+            "subjectivity": 0.919047619047619
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-11-04 20:19:27",
+    "ups": "3661",
+    "downs": "19",
+    "views": "49683",
+    "top_comments": [
+        {
+            "comment": "Thank you so much for listing the recipe in grams. Will be baking these tomorrow. Just bought 25lbs of pecans from the farm today.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My favorite cookie",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Such a simple an delicious recipe! It's my hubs B-day this Sunday, so I will attempt to make these! Ty John. I was scrolling your videos, to see any new and simple recipes to make! Win Win! :)",
+            "polarity": 0.42954545454545456,
+            "subjectivity": 0.5586038961038962
+        }
+    ]
+}

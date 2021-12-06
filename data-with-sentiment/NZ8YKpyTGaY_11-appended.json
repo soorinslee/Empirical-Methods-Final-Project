@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-01 14:01:54",
+    "ups": "9213",
+    "downs": "737",
+    "views": "494526",
+    "top_comments": [
+        {
+            "comment": "Love the video thank you for sharing",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Yes",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love it !",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Yes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "16",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude08\ud83d\udc7f\ud83e\uddb2",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hey can you get me candy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lol please why no dalgona",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I saw 5 \ud83c\udf6a sin the video",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Its amaizing make up",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

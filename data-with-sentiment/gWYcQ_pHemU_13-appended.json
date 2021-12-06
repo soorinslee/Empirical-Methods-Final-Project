@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 11:30:06",
+    "url": "https://www.youtube.com/watch?v=gWYcQ_pHemU",
+    "time_now": "2021-11-01 22:16:23",
+    "ups": "4776",
+    "downs": "72",
+    "views": "118063",
+    "top_comments": [
+        {
+            "comment": "If Younkin wins I will move to VA instead of MD.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Prayers for the people of Virginia   and victory for Youngkin",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "McAuliffe is a Communist!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "History, it will repeat itself. Especially when your society is sick, twisted and sadistic.",
+            "polarity": -0.4047619047619048,
+            "subjectivity": 0.9523809523809524
+        },
+        {
+            "body": "Be careful Virginia Biden Obama will corrupt the ELECTION \ud83e\udd14",
+            "polarity": -0.3,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I dont know  how you parents of school children,could take what  obama said and NOT FLOG HIM, HE IS NOTHING HAD NO RIGHT TO SAY TOOSE THINGS TO YOU.",
+            "polarity": -0.14285714285714285,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "Education is the number one issue for every parent in every state!!! The Democrats need to be stopped",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Prayers for the people of Virginia   and victory for Youngkin",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

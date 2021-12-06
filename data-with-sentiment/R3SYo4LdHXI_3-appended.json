@@ -1,0 +1,107 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-10-31 05:04:17",
+    "ups": "3541",
+    "downs": "29",
+    "views": "57220",
+    "top_comments": [
+        {
+            "comment": "Show y\u2019all support to \u201cGandi - Stackin \u201c , next up from Florida for sure \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.4444444444444444
+        },
+        {
+            "comment": "Thebackendchild never misses",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ngl sykobob trash",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "They all went in fr fr",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nocap different homiiiiee\ud83e\udd85",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "listen close \ud83e\udd85 \ud83e\uddcf\ud83c\udffe\u200d\u2642\ufe0f\ud83e\uddcf\ud83c\udffe\u200d\u2642\ufe0f\ud83d\udc42\ud83c\udffe\ud83d\udc42\ud83c\udffe\ud83d\udc42\ud83c\udffe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\uddd1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Put this shit on Apple Music",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Nocap different homiiiiee\ud83e\udd85",
+            "polarity": 0.0,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Thebackendchild never misses",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "On",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Y\u2019all sleeping on Syk!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Everyday I wake up and find a new reason to appreciate Kobe Crawford",
+            "polarity": -0.03181818181818183,
+            "subjectivity": 0.5272727272727272
+        },
+        {
+            "body": "ngl sykobob trash",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Dis dat shit \ud83d\udcaf \ud83d\udd25 \ud83e\udd27",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Show y\u2019all support to \u201cGandi - Stackin \u201c , next up from Florida for sure \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.25,
+            "subjectivity": 0.4444444444444444
+        },
+        {
+            "body": "\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf\ud83c\udfaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

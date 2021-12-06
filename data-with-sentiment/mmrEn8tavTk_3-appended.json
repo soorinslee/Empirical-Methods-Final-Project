@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 17:35:27",
+    "url": "https://www.youtube.com/watch?v=mmrEn8tavTk",
+    "time_now": "2021-10-31 05:04:32",
+    "ups": "1636",
+    "downs": "57",
+    "views": "42124",
+    "top_comments": [
+        {
+            "comment": "I want to work on my bloxburg mansion",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "At least tomorrow is Halloween and I\u2019ll have something to do",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Heyy Ashley :) and hi guys :)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Idk  but happy Halloween yall!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I want to work on my bloxburg mansion",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ash: \u201cIt\u2019s back???\u201d\nMe: Heart stops",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ashley: \u201cFixing her hair\u201d\nMe: \u201cStarts fixing my hair\u201d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It always says that when its down (We are making things more awesome). But i hope not!!! I hope that it stays like it was. Hey ash!! I love your streams\u2026..can we start a streaming Sunday?? Also, my roblox now says internet issues but i asked my dad and he says the internet was fine. And i have been checking so much and it is still saying internet issues",
+            "polarity": 0.4101851851851852,
+            "subjectivity": 0.5148148148148148
+        },
+        {
+            "body": "For me roblox gone for 3 days \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\nI got log out \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

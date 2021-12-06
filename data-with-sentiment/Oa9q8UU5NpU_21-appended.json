@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-03 07:14:02",
+    "ups": "3245",
+    "downs": "81",
+    "views": "68332",
+    "top_comments": [
+        {
+            "comment": "Fun fact: that Naval Piranha easter egg is referenced in Yoshi's Woolly World. In that game you can still throw an egg (or a yarn ball I guess) at it and Kamek will react the same way. But he'll still make you fight him.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.05000000000000001,
+            "subjectivity": 0.23125
+        },
+        {
+            "comment": "Found out about #6 looking for a way to bypass level 6-7. My seven year old self somehow made it past a gauntlet of chomps, bomb platforms, and bandits, and yet failed to enter a pipe that was clearly the way out at the end. Kids are stupid, except when they\u2019re not.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.27,
+            "subjectivity": 0.42666666666666664
+        },
+        {
+            "comment": "I still love it how the best boss with the best music, aside from Bowser himself, can be defeated so easily like that.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7333333333333334,
+            "subjectivity": 0.5083333333333333
+        },
+        {
+            "comment": "\u201cOH, MY!\u201d Is still the funniest thing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Death stranding is getting old\u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Um, the line \"Here's Johnny\" is itself a reference to the Johnny Carson show. Ed McMahon, Carson's co-host would say it every episode.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That yoshi islands trick is so OG I Remember it as a kid! When the game was new haha that was fun.",
+            "polarity": 0.05909090909090908,
+            "subjectivity": 0.3386363636363636
+        },
+        {
+            "body": "That opening man gets me in the feels everytime I see that clip! I remember it from Starcraft and even Magic the gathering Card Game on PC.",
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.7
+        }
+    ]
+}

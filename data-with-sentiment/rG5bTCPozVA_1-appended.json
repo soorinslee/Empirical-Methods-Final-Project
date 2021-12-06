@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-10-30 20:51:59",
+    "ups": "242",
+    "downs": "3",
+    "views": "2847",
+    "top_comments": [
+        {
+            "comment": "Wrong video I know, but your \"how to change a toilet fill valve and flush valve\" video was a great help, so thank you \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udcaa\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0888888888888889,
+            "subjectivity": 0.5499999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Very useful video. Thank you Charlie.",
+            "polarity": 0.39,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Such an excellent and informative vid. Makes me wish i had some cast iron pipes to refurb my self \ud83d\ude02 The timba glaze tip is priceless",
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "Oh thank you Charlie for this info\u2026..our gutters seriously need sorting so this has been a big help\u2026.have a good weekend\u2026.",
+            "polarity": 0.12222222222222222,
+            "subjectivity": 0.45555555555555555
+        },
+        {
+            "body": "Very nice. Good for another 60 years.",
+            "polarity": 0.74,
+            "subjectivity": 0.8
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-01 09:54:19",
+    "ups": "3382",
+    "downs": "39",
+    "views": "51981",
+    "top_comments": [
+        {
+            "comment": "\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Happy Diwali Gurudev",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

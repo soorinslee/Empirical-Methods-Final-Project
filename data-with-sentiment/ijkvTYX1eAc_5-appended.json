@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 14:30:06",
+    "url": "https://www.youtube.com/watch?v=ijkvTYX1eAc",
+    "time_now": "2021-10-31 13:18:07",
+    "ups": "3945",
+    "downs": "21",
+    "views": "59798",
+    "top_comments": [
+        {
+            "comment": "Lucario: \"Not yet, Ash! I can do this!\"",
+            "likes": 378,
+            "number_of_replies": 7,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I feel like the reason why Ash lost to Alain in the Kalos League, its because Alain is in the Master 8 and Ash will bring back \"SATOSHI GEKKOUGA\", to battle and beat him, that will be insane!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "srsly I don\u2019t care abt location that much just bring back greninja!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Wow I just realised there are many fighting type trainers, like Chuck, Dojo master, Maylene, Korina, Hala, Bea and more:o",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Pikachu, Lucario and sir fetch are about to have retaliation.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I\u2019m just hoping for Marnie to show up. One of my fave characters in swsh.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "srsly I don\u2019t care abt location that much just bring back greninja!",
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Fact: Lateral Stadium's English name was Stow-on-Side Stadium.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This Episode Amazing it was paced so well!! I loved it and Awesome Review as always broski!! \ud83d\udc99\u26a1\ufe0f",
+            "polarity": 0.8791666666666668,
+            "subjectivity": 0.9
+        }
+    ]
+}

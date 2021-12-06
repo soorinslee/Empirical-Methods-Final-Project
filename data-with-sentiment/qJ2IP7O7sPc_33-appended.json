@@ -1,0 +1,102 @@
+{
+    "time_posted": "2021-10-30 15:00:34",
+    "url": "https://www.youtube.com/watch?v=qJ2IP7O7sPc",
+    "time_now": "2021-11-05 08:40:15",
+    "ups": "102276",
+    "downs": "1662",
+    "views": "645111",
+    "top_comments": [
+        {
+            "comment": "Kaztro\ud83d\udc99",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udc99\ud83d\udc99",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "We need bonus challenge",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Bgmi lite",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00\ud83d\ude00",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bgmi lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc99Kaztro\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please bgmi lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kaztro \ud83d\ude18",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WE NEED BGMI LITE\ud83d\ude4f\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need bonus challenge",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Swipe left or right to deletebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilitebgmilite",
+            "polarity": 0.14285714285714285,
+            "subjectivity": 0.26785714285714285
+        },
+        {
+            "body": "Soul op\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "BGMI lite kab aayega \ud83d\ude24",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-04 20:18:51",
+    "ups": "12206",
+    "downs": "52",
+    "views": "178443",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 232,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Founded is a word Xisuma!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "waterlogged trapdoors are a thing",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "whadaheck happened here? 17:14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

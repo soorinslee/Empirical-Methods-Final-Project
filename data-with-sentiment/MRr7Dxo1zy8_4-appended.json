@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 12:27:30",
+    "url": "https://www.youtube.com/watch?v=MRr7Dxo1zy8",
+    "time_now": "2021-10-31 09:12:02",
+    "ups": "775",
+    "downs": "40",
+    "views": "31113",
+    "top_comments": [
+        {
+            "comment": "When it comes to the world of investing, most people don't know where to start. Fortunately, great investors of the past and present can provide us with guidance.*.",
+            "likes": 32,
+            "number_of_replies": 26,
+            "polarity": 0.2625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Home made butter \ud83e\uddc8 banana chai tha \ud83d\ude23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The definition of delicious! Looks soo tasty recipe!! Awesome and delicious thanks for sharing the amazing recipe and videos \u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.76,
+            "subjectivity": 0.8200000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow your variations\ud83e\udd24\ud83e\udd24\ud83e\udd24\ud83e\udd24",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Home made butter \ud83e\uddc8 banana chai tha \ud83d\ude23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 10:00:13",
+    "url": "https://www.youtube.com/watch?v=5DGBVPkdZ-o",
+    "time_now": "2021-11-03 23:43:05",
+    "ups": "21616",
+    "downs": "165",
+    "views": "196310",
+    "top_comments": [
+        {
+            "comment": "One of the best songs I've ever heard!!\ud83d\ude2d Congrats Nadiaaa!!\ud83e\udd7a\u2764\ufe0f Love youu\u2764\ufe0f",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "nadine is one of the underrated artist, she deserve more loveeee",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "The lyrics though, felt straight to the heart\ud83d\udc94Love the song.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Love you Nadsssss! \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "nice one! Mapanakit na lyrics \ud83d\udcaf\ud83e\udd7a\ud83d\udc9c\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc\ud83d\udc4f\ud83c\udffc",
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        }
+    ]
+}

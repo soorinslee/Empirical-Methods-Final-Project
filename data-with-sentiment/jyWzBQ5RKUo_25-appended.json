@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-03 23:43:16",
+    "ups": "11985",
+    "downs": "48",
+    "views": "173533",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 232,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "17:14 I beg your pardon?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This episode actually taught me how Target Blocks work in Redstone contraptions",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "i just watched game theoryes video i am shocked",
+            "polarity": -0.55,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

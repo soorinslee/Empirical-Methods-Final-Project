@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-01 01:39:52",
+    "ups": "4055",
+    "downs": "43",
+    "views": "47627",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "This convoluted, stupid kind of gaming peripherals/unlockables is what I live for",
+            "polarity": -0.0212121212121212,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "Wow this kind of makes me want to obtain a N64DD. Great video Derek! I'd love to see more videos about the DD!!",
+            "polarity": 0.5962500000000001,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "You probably had to yell into the microphone because it was calibrated for a line level signal and not a lower mic-level signal. You could have put the microphone through a mixer and used the line out there, possibly.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "How much money would have Derek spent, if he actually had to buy all the equipment? 1K? 2K?",
+            "polarity": 0.03333333333333333,
+            "subjectivity": 0.13333333333333333
+        },
+        {
+            "body": "was that a will2k reference..?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

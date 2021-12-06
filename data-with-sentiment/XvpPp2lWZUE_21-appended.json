@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 16:00:14",
+    "url": "https://www.youtube.com/watch?v=XvpPp2lWZUE",
+    "time_now": "2021-11-03 07:13:50",
+    "ups": "26037",
+    "downs": "76",
+    "views": "262009",
+    "top_comments": [
+        {
+            "comment": "happy international spooky day",
+            "likes": 510,
+            "number_of_replies": 13,
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Epic",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        }
+    ]
+}

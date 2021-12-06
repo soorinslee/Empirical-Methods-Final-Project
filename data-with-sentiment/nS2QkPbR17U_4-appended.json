@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 13:17:59",
+    "url": "https://www.youtube.com/watch?v=nS2QkPbR17U",
+    "time_now": "2021-10-31 09:11:57",
+    "ups": "3098",
+    "downs": "52",
+    "views": "38579",
+    "top_comments": [
+        {
+            "comment": "Public Rec Limited Time Discount Code 'ALPHAFALL' use special links:\nWeekend Jogger: https://bit.ly/3uYeDYH Weekend Crew: https://bit.ly/3AoS7tc \nWeekend Half Zip: https://bit.ly/3BoIWdG Weekend Full Zip: https://bit.ly/2WUQHZP",
+            "likes": 17,
+            "number_of_replies": 5,
+            "polarity": 0.09380952380952381,
+            "subjectivity": 0.2995238095238095
+        },
+        {
+            "comment": "This is NOT \"alpha male\" stuff.  This is METRO SEXUAL MALE stuff.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3444444444444445
+        },
+        {
+            "comment": "Love \u2764\ufe0f \ud83d\udc95 you alpha from Pakistan \ud83c\uddf5\ud83c\uddf0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Man, I can't tell the difference.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi alpha m.\nDo you know what omegaverse and mpreg is?\nthank you\u2661",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Alpha m love from India \ud83d\udda4\ud83d\udda4",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Finding pants that fit.... Yeah, im 6'7. I need 38 lenght in pants, not so many that even make that.",
+            "polarity": 0.45,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "This video is so lame",
+            "polarity": -0.5,
+            "subjectivity": 0.75
+        }
+    ]
+}

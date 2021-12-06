@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-06 09:24:21",
+    "ups": "18428",
+    "downs": "270",
+    "views": "715092",
+    "top_comments": [
+        {
+            "comment": "Hey hun, let\u2019s move somewhere new.\n\nHow about this island that has an active volcano?\n\n*NO.*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.001515151515151511,
+            "subjectivity": 0.5272727272727272
+        },
+        {
+            "comment": "Did they said \"Fire in the hole!\"?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So.... what makes it a bomb? It's just a solid mass...",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Lava *\"BALL\"* \u221a\ud83d\ude2c\u221a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hey hun, let\u2019s move somewhere new.\n\nHow about this island that has an active volcano?\n\n*NO.*",
+            "polarity": 0.001515151515151511,
+            "subjectivity": 0.5272727272727272
+        },
+        {
+            "body": "I thought the lava ball was gonna explode while the cameraman was recording. Just call it lava ball not bomb so misleading",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "thats a keeper",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What would happen if we dump a huge liters of oceanic waters in the middle of an irruption... Just wanted to see how things would turn out",
+            "polarity": 0.20000000000000004,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "Here we play diwali with nature \nThere Nature plays Diwali with people*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "0:10\n*tHey sEe mE roLliN*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

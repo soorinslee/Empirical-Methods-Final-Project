@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-02 10:37:33",
+    "ups": "8481",
+    "downs": "29",
+    "views": "97253",
+    "top_comments": [
+        {
+            "comment": "Do the hermits just not like normal biomes so they decide to make their own. First cub now ren, plus ren made mustafar and tatooine last season lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.36,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "That intro song never gets old",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Depending on if you want to go full grayscale or a little color in mute tones;\n endstone(almost a dead sponge with your coral theme) \nand white terracotta and brown mushroom(as shaded patches/rooted points under the dried coral growths)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.04750000000000001,
+            "subjectivity": 0.41000000000000003
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "there's a simple way to make them pay somewhere that is not in the shulker box: make a payment system that rewards the buyer ever n purchases (lets say that after every 50 diamonds it dispenses 1 back). that way even if 2 hermits pay in the wrong container the 3rd hermit is incentivized to grab the money that others paid and place it in the correct container",
+            "polarity": -0.125,
+            "subjectivity": 0.3142857142857143
+        },
+        {
+            "body": "Mentioned on Doc\u2019s vid\u2026rename the diamonds/derp coin on the barrels to \u201cPay in here\u201d\u2026.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If you decide the dead coral reef thing isn't what it looks like, you can say it is covered in ash from all the industry going on.",
+            "polarity": -0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "REN! USE 1 FREE FOR 2 AND NOT DIRECTLY 1 FREE",
+            "polarity": 0.1,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I thought the concrete powder looked like salt. Like the ocean is drying up and leaving a thick crust of salt behind. It looks great!",
+            "polarity": 0.11249999999999999,
+            "subjectivity": 0.55625
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-11-01 14:01:06",
+    "ups": "6762",
+    "downs": "70",
+    "views": "106537",
+    "top_comments": [
+        {
+            "comment": "No way, this is my favourite song ever. It deserves so much more recognition.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "i love her\u2764\ufe0f\u2764\ufe0f always amazing!",
+            "polarity": 0.625,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Wow Allie, i really hope to meet you someday.  You're amazing.",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Go Aliie Go.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That was so impressive performance \u2764\ufe0f",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wow, Allie, this is really breathtaking..  And your style is really wonderful. Perfect. Thank you, Allie. Keep going!\u2764\u2764\u2764",
+            "polarity": 0.775,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Beautiful",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        }
+    ]
+}

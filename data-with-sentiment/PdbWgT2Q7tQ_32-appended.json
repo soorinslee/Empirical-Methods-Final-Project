@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-05 04:32:55",
+    "ups": "20848",
+    "downs": "221",
+    "views": "275792",
+    "top_comments": [
+        {
+            "comment": "This is better, than the original.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "wooooooowwwww this is so perfect, i could spend the whole day watching this video on repeat",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Amy \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "That was beyond good \ud83e\udd7a\u2764\ufe0f Amy's low parts in the beginning and her high parts at 02:48, followed by Christina's and Lauren's parts were incredible! Lisa's high part at 03:15 was pheeww \ud83e\udd10\u2764\ufe0f Was so nice to hear Lisa and Lauren sing low parts as well. Loved this beyond words! \u2728\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.436875,
+            "subjectivity": 0.6224999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Just me who thought it was Millie Bobby brown\u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ahhhh I love this!!! And their harmonies ahhhh!!!\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d.",
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I love Christina's voice so much.",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "i'm obsessed",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Thoroughly neutered.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

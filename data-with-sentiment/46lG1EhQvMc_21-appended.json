@@ -1,0 +1,113 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-11-03 07:14:04",
+    "ups": "61768",
+    "downs": "2126",
+    "views": "2935286",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 606,
+            "number_of_replies": 147,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "BLUE Huggy Waggy HUG For kill\nPiNK  KiSSY MiSSY   KiS For kill",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Fecey",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Leader looks weird",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "BLUE Huggy Waggy HUG For kill\nPiNK  KiSSY MiSSY   KiS For kill",
+            "polarity": -0.05,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "How.. Huggie waggies fnf are taking over",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "what an cuteness video i say 999,999,999/10",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Poppy pink and poppy blue wow \nWow wow wow wow wow wow wow wow wow wow good",
+            "polarity": 0.12142857142857141,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "body": "The pink one is the brother of the blue one and the pink one is the blue one's sister, the blue one is the pink one\n\n\n\n\n\nNvm my English bad",
+            "polarity": -0.12499999999999999,
+            "subjectivity": 0.23333333333333334
+        },
+        {
+            "body": "its so good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Fecey",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Poppy play time",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ayo this is a bop",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is like the grown up mode because bf is big",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "WOW",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "you god",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "-_-*~*+_+WOW",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "THE SONG JUST MAKE ME SAD  ALSO THE SONG SHOOTS",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Siblings \n(Can I have both of these plushies? *Shows plushie of Huggy and Kissy* )",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        }
+    ]
+}

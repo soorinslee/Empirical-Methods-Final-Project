@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-02 18:51:48",
+    "ups": "17012",
+    "downs": "56",
+    "views": "176508",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2373,
+            "number_of_replies": 13,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "And now we how deeply Jungkook means when he says that he will either live with passion or he won't live !",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.10227272727272725,
+            "subjectivity": 0.4666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Awwww. Cute kitty cat!",
+            "polarity": 0.625,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Definitely an amazing cover: BEAUTIFUL voice (noticed the vibrattos and the higher timbre: thanks, Blake!!) over the same instrumentals. So impressed by his voice!!!  He didn't change much of the original arrangement, right? I wished he did that and gave us a little bit more of soul, his soul (pl don't kill me, BTS army: just a bit of constructive criticism here...)",
+            "polarity": 0.38051948051948054,
+            "subjectivity": 0.5646103896103897
+        },
+        {
+            "body": "JK is a  1D STAN\u270c\ufe0f\u270c\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "love jungkook voice best cover",
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "body": "Love Jungkook's voice he has such a pure tone, you can really hear the emotion in the song.",
+            "polarity": 0.2285714285714286,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "the kitten is welcome anytime!  sooo adorable!",
+            "polarity": 0.8125,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "\ub0e5\uc774 \uc2dc\uac15\uc774\uc694 \u314b\u314b\u314b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

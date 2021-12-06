@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 07:52:22",
+    "url": "https://www.youtube.com/watch?v=n7Q5KyPXGGU",
+    "time_now": "2021-11-03 03:06:32",
+    "ups": "78622",
+    "downs": "131",
+    "views": "485389",
+    "top_comments": [
+        {
+            "comment": "\uc774\uc601\uc0c1 \ud574\ucc2c\uc774 \uc5bc\uad74 \uba38\uc120\uc77c\uc774\ub0d0..\u3141\u314a\u3137.... \uc9c4\uc9dc\ub2e4\ub4e4\ucd5c\uace0\uc57c\u3160\u3160",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uc774 \uc378\ub12c\uc740 \ub3c4\uc800\ud788 \uadf8\ub0e5 \uc9c0\ub098\uce60 \uc218\uac00 \uc5c6\uc74c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uae40\ub3c4\uc601 \ubb38\ud638 \uc2a4\ud2b8\ub808\uc774 \ub3c5\uc2a4 \uce90\ub9ad\ud130\uac19\uc544 \uc804\uc0dd\uc5d0 \ubd84\uba85\ud788 \ud398\ub974\uc820 \uc544\ub2cc\uac00 \uc2f6\uc5b4...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uc9c4\uc9dc \uae43\ud138 \ubfcc\ub9b0\uac8c \ub808\uc804\ub4dc\ub2e4",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uc0ac\uc774\uba3c\uc648 \uc6b0\ub9ac\ub294 \uc139\uc2dc\ud558\ub2e4\uace0 \ud558\uc2dc\ub358\ubd84\ub4e4\uc774 \uc0ac\ub791\ud55c\ub2e4\uace0 \ud574\uc8fc\uc2dc\uace0 \uc81c\uac00 \ud398\uc774\ubcf4\ub9bf\uc774\ub77c\ud574\uc8fc\uc2dc\ub294 \uac10\uc0ac\ud560\ub530\ub984\uc785\ub2c8\ub2e4 \uae84~~",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\uc6b0\ub9ac\uce60 \uc608\uc058\uac8c \ucc0d\uc5b4 \uc8fc\uc154\uc11c \uac10\uc0ac\ud574\uc694 mbc \ucd5c\uace0\ub124\uc694",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jangan lupa yang ini guys",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\uae40\ub3c4\uc601 \ubb38\ud638 \uc2a4\ud2b8\ub808\uc774 \ub3c5\uc2a4 \uce90\ub9ad\ud130\uac19\uc544 \uc804\uc0dd\uc5d0 \ubd84\uba85\ud788 \ud398\ub974\uc820 \uc544\ub2cc\uac00 \uc2f6\uc5b4...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Taeil really handsome here \ud83d\ude0d\n\nBut he always handsome in everywhere",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "taeil baby you look amazing. im so proud",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "\uc9c4\uc9dc \uae43\ud138 \ubfcc\ub9b0\uac8c \ub808\uc804\ub4dc\ub2e4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Haechaaaaaaaaaannnnnn",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ub3d9\uc601 \uba54\uc774\ud06c\uc5c5 \uc9c4\uc9dc \uc798\ud55c\ub2e4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

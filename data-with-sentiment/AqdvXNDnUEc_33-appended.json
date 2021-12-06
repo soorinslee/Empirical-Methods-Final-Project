@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-05 08:39:54",
+    "ups": "39812",
+    "downs": "580",
+    "views": "888076",
+    "top_comments": [
+        {
+            "comment": "Jackboy diss",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I really think if kodak help upgrade syko bob and snap cat Chains/jewelry  and turn them into platinum, and make them look more like stars. It will help there brand, because syko and Snapchat are well known now , now they should turn the gold into platinum and turn into super stars . In all respects I love what they are doing for kodak and bringing the sniper gang up",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.4916666666666667
+        },
+        {
+            "comment": "Kodak never fails \ud83d\udd25 \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "van sam wam bam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My homie said \ud83e\udd2c\ud83e\udd2cyour gay. But I knew you fire \ud83d\udd25",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "\ud83d\udda4\ud83d\udda4\ud83c\udfb5\ud83c\udfb5\u2026. https://youtu.be/JOY0yRuSYfY",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

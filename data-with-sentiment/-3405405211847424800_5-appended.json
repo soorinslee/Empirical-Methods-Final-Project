@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/LifeProTips/comments/qiwr77/lpt_you_can_copy_ctrl_c_and_paste_ctrl_v_more/",
+    "time_posted": "2021-10-30 03:57:00",
+    "time_now": "2021-10-31 13:23:36",
+    "ups": 890,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himaxj9",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "himc683",
+            "body": "I\u2019m not sure if it\u2019s exactly the same, but windows key + v brings up the clipboard as well, showing everything you previously copied\n\nIn fact I read that article and they mention win+v as well lol",
+            "ups": 40,
+            "downs": 0,
+            "polarity": 0.10555555555555557,
+            "subjectivity": 0.5217592592592593
+        },
+        {
+            "comment_id": "himemk4",
+            "body": "This is actually not great for security if you\u2019ve copied a password or something recently.",
+            "ups": 19,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "himyvg7",
+            "body": "And if you want something far superior, 'Ditto clipboard manager'...\nI can't work on windows without it.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "himircd",
+            "body": "I was literally thinking yesterday that it would be a good idea and save me loads of time if they could do this! This is the first life pro tip I will actually use. Well done",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.3444444444444445
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himaxj9",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "himc683",
+            "body": "I\u2019m not sure if it\u2019s exactly the same, but windows key + v brings up the clipboard as well, showing everything you previously copied\n\nIn fact I read that article and they mention win+v as well lol",
+            "ups": 39,
+            "downs": 0,
+            "polarity": 0.10555555555555557,
+            "subjectivity": 0.5217592592592593
+        },
+        {
+            "comment_id": "himyvg7",
+            "body": "And if you want something far superior, 'Ditto clipboard manager'...\nI can't work on windows without it.",
+            "ups": 10,
+            "downs": 0,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "himemk4",
+            "body": "This is actually not great for security if you\u2019ve copied a password or something recently.",
+            "ups": 20,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "himircd",
+            "body": "I was literally thinking yesterday that it would be a good idea and save me loads of time if they could do this! This is the first life pro tip I will actually use. Well done",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.3444444444444445
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himaxj9",
+            "body": "Hello and welcome to r/LifeProTips!\n\nPlease help us decide if this post is a good fit for the subreddit by up or downvoting this comment. \n\nIf you think that this is great advice to improve your life, please upvote. If you think this doesn't help you in any way, please downvote. If you don't care, leave it for the others to decide.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7250000000000001,
+            "subjectivity": 0.6625
+        },
+        {
+            "comment_id": "himc683",
+            "body": "I\u2019m not sure if it\u2019s exactly the same, but windows key + v brings up the clipboard as well, showing everything you previously copied\n\nIn fact I read that article and they mention win+v as well lol",
+            "ups": 37,
+            "downs": 0,
+            "polarity": 0.10555555555555557,
+            "subjectivity": 0.5217592592592593
+        },
+        {
+            "comment_id": "himyvg7",
+            "body": "And if you want something far superior, 'Ditto clipboard manager'...\nI can't work on windows without it.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.95
+        },
+        {
+            "comment_id": "himemk4",
+            "body": "This is actually not great for security if you\u2019ve copied a password or something recently.",
+            "ups": 20,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "himircd",
+            "body": "I was literally thinking yesterday that it would be a good idea and save me loads of time if they could do this! This is the first life pro tip I will actually use. Well done",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.3444444444444445
+        }
+    ]
+}

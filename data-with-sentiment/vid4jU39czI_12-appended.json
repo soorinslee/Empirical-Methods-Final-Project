@@ -1,0 +1,86 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-01 18:08:37",
+    "ups": "13909",
+    "downs": "198",
+    "views": "308993",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1556,
+            "number_of_replies": 128,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Mikey saying ratio is my new iphone alarm",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The editing in this is absolute gold omg \ud83d\ude02\ud83d\udc4c",
+            "polarity": 0.2,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Purplecliffe is the friend that I am desperate to be like\nFor example, 13:52 \nMikey: \"oh, OH\"\nJohn: \"WHAT!?\"\nJack: *Grabs cereal*",
+            "polarity": -0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The drama",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice one. Could be done more often",
+            "polarity": 0.55,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Hahahahaha so good!",
+            "polarity": 0.5375,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "L",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Go Mikey!!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "cereal sponsors are the only good sponsers",
+            "polarity": 0.35,
+            "subjectivity": 0.8
+        },
+        {
+            "body": ";( watch my mom buy them i always had less suger ones",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "The priceless face on purplecliff at the end \ud83e\udd23",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Mikey saying ratio is my new iphone alarm",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "\ud83e\uddf6\ud83d\udc99\ud83d\ude1b\ud83d\ude00\ud83d\ude01\ud83c\udf86\ud83c\udf2b\ud83c\udf2b\ud83e\udd4e\u26be\u26bd\ud83c\udf87\ud83c\udfa6\ud83c\udfa6\ud83d\udc6e\u200d\u2640\ufe0f\ud83d\udc7c   *God demonstrated His love to us by sending His Son Jesus Christ, who died and rose from the dead to Give us eternal life.*\r\n*If you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead* *He will give you the free gift of eternal life* *He also promised to heal your body.*  *(Look up at the sky and ask God)*",
+            "polarity": 0.22000000000000003,
+            "subjectivity": 0.6299999999999999
+        }
+    ]
+}

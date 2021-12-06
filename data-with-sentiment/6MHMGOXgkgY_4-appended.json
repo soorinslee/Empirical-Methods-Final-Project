@@ -1,0 +1,85 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-10-31 09:11:28",
+    "ups": "10936",
+    "downs": "197",
+    "views": "171239",
+    "top_comments": [
+        {
+            "comment": "\"Whenever you feel useless, just remember that White Pencils like me exist.\"\n\n-White Pencil",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "comment": "Hi Josh! Next elemental dragon & could you do Clone Drone in the danger Zone please! :)",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "That's a short video \ud83d\ude05",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Slogo cool video!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Slogo cool video!",
+            "polarity": 0.4375,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Hi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "roblox is down",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "I like crainer better than Sligo",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "BRUH",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I laugh so hard when Slogo push Crainer off from stair \ud83e\udd23\ud83e\udd23",
+            "polarity": 0.004166666666666652,
+            "subjectivity": 0.3208333333333333
+        },
+        {
+            "body": "can you post the merch video",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That's a short video \ud83d\ude05",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Jelly video and your video near to near",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-04 20:19:23",
+    "ups": "10986",
+    "downs": "886",
+    "views": "622925",
+    "top_comments": [
+        {
+            "comment": "Cool make up for Halloween.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Irish you where in India I'm in india",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "5",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Aku mintak yg bahasa Indonesia yg ini",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I wish you where in India I'm in india",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Glad,",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "10",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 12:00:23",
+    "url": "https://www.youtube.com/watch?v=mwnMJkIfEQ4",
+    "time_now": "2021-11-04 03:50:47",
+    "ups": "5893",
+    "downs": "361",
+    "views": "337861",
+    "top_comments": [
+        {
+            "comment": "Biden's job rating sinks to 42 percent in NBC News poll a year from midterms",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Highlights....this should have been a 15 second vid.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

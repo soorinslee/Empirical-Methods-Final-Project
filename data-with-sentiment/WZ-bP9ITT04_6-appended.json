@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-31 02:03:03",
+    "url": "https://www.youtube.com/watch?v=WZ-bP9ITT04",
+    "time_now": "2021-10-31 17:25:32",
+    "ups": "2523",
+    "downs": "100",
+    "views": "101062",
+    "top_comments": [
+        {
+            "comment": "Jai mallanna jai etla",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jai bjp",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bjp",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0c1c\u0c48 \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28\u0c3e \u0c2c\u0c3f\u0c17\u0c4d \u0c2b\u0c4d\u0c2f\u0c3e\u0c28\u0c4d \u0c05\u0c2b\u0c4d \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0c1c\u0c48 \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28\u0c3e \u0c2c\u0c3f\u0c17\u0c4d \u0c2b\u0c4d\u0c2f\u0c3e\u0c28\u0c4d \u0c05\u0c2b\u0c4d \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0c1c\u0c48 \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28\u0c3e \u0c2c\u0c3f\u0c17\u0c4d \u0c2b\u0c4d\u0c2f\u0c3e\u0c28\u0c4d \u0c05\u0c2b\u0c4d \u0c2e\u0c32\u0c4d\u0c32\u0c28\u0c4d\u0c28",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 14:26:35",
+    "url": "https://www.youtube.com/watch?v=tt1Xhryc-iY",
+    "time_now": "2021-11-05 12:47:34",
+    "ups": "183",
+    "downs": "5",
+    "views": "14337",
+    "top_comments": [
+        {
+            "comment": "Miss you APPU",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "No choice remains only accept the truth \ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\u0905\u0928\u0902\u0924 \u0928\u092e\u0928\u0964",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

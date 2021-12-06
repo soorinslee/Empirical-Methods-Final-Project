@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-05 08:40:34",
+    "ups": "8737",
+    "downs": "341",
+    "views": "522121",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "The click click click of the camera is super annoying!!!",
+            "polarity": -0.33333333333333337,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "body": "I don't understand what friendship with modi to catholic people after what they did with Fr stan n to our churches what friendship is this",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Two great souls met together. Great things will be achieved for India. Holy Father come and bless India. These are indeed signs of friendship and nobility. \ud83d\udc4c\ud83d\udc4c",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "The world looks to India as a giant democracy built on secularism.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

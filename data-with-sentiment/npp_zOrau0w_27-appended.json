@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-04 07:57:06",
+    "ups": "15073",
+    "downs": "326",
+    "views": "182798",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 826,
+            "number_of_replies": 16,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Omg... Amazing!\ud83d\udc93\ud83e\udd29\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Yoooooooooooo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lucky Chucky!  All seriousness tho great cover.",
+            "polarity": 0.6083333333333334,
+            "subjectivity": 0.7916666666666667
+        },
+        {
+            "body": "will you do a cover for Aladins A Whole New World please i think that would be awsome. your awsome and i love what you do. subs please thumbs up so we can get to do it.",
+            "polarity": 0.2787878787878788,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "body": "A great version.",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I  wonder if Anthony Vincent is jealous now?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just wow, your emotions, your passion this was just amazing. More Please",
+            "polarity": 0.4000000000000001,
+            "subjectivity": 0.7999999999999999
+        }
+    ]
+}

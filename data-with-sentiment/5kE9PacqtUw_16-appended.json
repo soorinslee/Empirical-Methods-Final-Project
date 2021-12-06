@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 10:58:46",
+    "url": "https://www.youtube.com/watch?v=5kE9PacqtUw",
+    "time_now": "2021-11-02 10:37:58",
+    "ups": "1694",
+    "downs": "351",
+    "views": "131466",
+    "top_comments": [
+        {
+            "comment": "How they don't wear masks in public and imprison us if we don't really amazes me!",
+            "likes": 3,
+            "number_of_replies": 2,
+            "polarity": 0.125,
+            "subjectivity": 0.13333333333333333
+        },
+        {
+            "comment": "How many of them are criminals for dancing with the evils and destroying the world.",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.15,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "NO.....NO.....NO...\nWE MUST NOT LOWER THE EXPECTATIONS!!!!!!!\ud83e\uddd0\ud83d\ude21",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Climate war incoming, just prepare.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "italy had one of the highest covid cases last year. This year they gonna break that record with this superspreader event. Ciao italia!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "biden \ud83d\udca9",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The anti-Christ false prophet and his mouthpiece",
+            "polarity": -0.4000000000000001,
+            "subjectivity": 0.6
+        }
+    ]
+}

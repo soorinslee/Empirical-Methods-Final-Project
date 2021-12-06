@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-02 22:59:44",
+    "ups": "574",
+    "downs": "140",
+    "views": "55560",
+    "top_comments": [
+        {
+            "comment": "Watch their actions, not their words\ud83d\udcaf\ud83d\udd25\ud83d\udd25",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Good time to remind everyone that Florida has the least covid cases of any state.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "what is the acceptable level of infections and deaths to stop wearing masks?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I know lots of people who have covid this year and last year when the numbers were thru the roof I didn't know one single person who had covid...last year was nothing from the numbers today.  I say it is not being reported",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.03571428571428571,
+            "subjectivity": 0.14047619047619048
+        },
+        {
+            "comment": "\u6551\u6551\u6211\u4eec\u5bb6\u5c0f\u5b69\uff0c\u6211\u5bb6\u5c0f\u5b69\u6b63\u906d\u53d7\u7535\u78c1\u6b66\u5668\u6253\u51fb\uff0c\u8bb0\u5fc6\u529b\u975e\u5e38\u5dee\uff0c\u5e38\u5e38\u5fd8\u8bb0\u521a\u521a\u53d1\u751f\u7684\u4e8b\u60c5\u3002",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Because people are waking up to this BS.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I know lots of people who have covid this year and last year when the numbers were thru the roof I didn't know one single person who had covid...last year was nothing from the numbers today.  I say it is not being reported",
+            "polarity": -0.03571428571428571,
+            "subjectivity": 0.14047619047619048
+        },
+        {
+            "body": "If you Vax your children you must really hate them?",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "It's all nonsense,  the virus ran it's course,  we had no control over it so stop the false hope, we have to learn to live with it!",
+            "polarity": -0.11477272727272732,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Good time to remind everyone that Florida has the least covid cases of any state.",
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "For those who fell for the COVID scam...I'd laugh, but I'm too busy feeling badly for all the people who have died from these shots. \"Mother should I trust the government...?\"",
+            "polarity": -0.09999999999999994,
+            "subjectivity": 0.35555555555555557
+        }
+    ]
+}

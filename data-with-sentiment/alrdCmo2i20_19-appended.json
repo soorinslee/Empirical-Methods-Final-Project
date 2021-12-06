@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-02 22:59:18",
+    "ups": "5011",
+    "downs": "53",
+    "views": "63735",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "You\u2019re doing the Lord\u2019s work.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "at this point i just want to see a full exploration of that open area.",
+            "polarity": 0.175,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "Only 2 Gameboy Cameras? Most Nintendo collectors have them in all of the colours for BOTH regions. I still can\u2019t find one yet, though. Plenty online, but the one time I saw one in person, I didn\u2019t get it. I hope that I\u2019ll find one for a good price eventually.",
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.7000000000000001
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-02 14:44:21",
+    "ups": "3133",
+    "downs": "31",
+    "views": "78240",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 82,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "This should be illegal its way too good \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "Someday magka concert to sila sa aranita or sa arena..God knows \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4fbless you all",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "do you know what song created for you? Its \"rolling in the deep\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Unstoppable Gigi, she is the newly famous Filipino singer.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Pretty na nga, magaling pa kumanta God \ud83d\ude0d perfect! \u2764\ufe0f Ms. Gigi \ud83e\udd29 idol!",
+            "polarity": 0.625,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "parang humikab lang eh.  sana all \ud83d\ude05\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think she over did it.\nPretty good but I didn't quite feel any feelings or emotions.\nJust an opinion. I wander if they'll ever read my comment or just scroll trough it.\nPeace out.",
+            "polarity": 0.475,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "NAPAKA GALING MO AT NAPAKA GANDAAA!!!!!!!!!!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oh, shut the fridge! \ud83d\udc95 My, oh my, Gigi!! Ang lupeeet!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just love those smiles...\ud83d\ude0a\ud83e\udd19",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\ud83d\ude18\ud83d\ude18",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "wow ...what a rendition of this song....ang galing galing mo idol...",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Dang! \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

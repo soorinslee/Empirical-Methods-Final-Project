@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qizxok/i_always_dreamt_of_releasing_my_own_game_on_steam/",
+    "time_posted": "2021-10-30 07:53:02",
+    "time_now": "2021-11-02 23:01:53",
+    "ups": 20,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himt9m7",
+            "body": "I\u2019d always wondered what would happen if someone combined Mirror\u2019s Edge and F-Zero, guess I don\u2019t have to wonder anymore. Looks good though",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "himtlln",
+            "body": "Looks super sick! can you send link of your steam page?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.27976190476190477,
+            "subjectivity": 0.7619047619047619
+        },
+        {
+            "comment_id": "hinrbnh",
+            "body": "Looks good, I might check it out. However, I did misread the name as \"celery\" so that's what I'll be calling it from now on.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himt9m7",
+            "body": "I\u2019d always wondered what would happen if someone combined Mirror\u2019s Edge and F-Zero, guess I don\u2019t have to wonder anymore. Looks good though",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "himtlln",
+            "body": "Looks super sick! can you send link of your steam page?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.27976190476190477,
+            "subjectivity": 0.7619047619047619
+        },
+        {
+            "comment_id": "hinrbnh",
+            "body": "Looks good, I might check it out. However, I did misread the name as \"celery\" so that's what I'll be calling it from now on.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himt9m7",
+            "body": "I\u2019d always wondered what would happen if someone combined Mirror\u2019s Edge and F-Zero, guess I don\u2019t have to wonder anymore. Looks good though",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "himtlln",
+            "body": "Looks super sick! can you send link of your steam page?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.27976190476190477,
+            "subjectivity": 0.7619047619047619
+        },
+        {
+            "comment_id": "hinrbnh",
+            "body": "Looks good, I might check it out. However, I did misread the name as \"celery\" so that's what I'll be calling it from now on.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

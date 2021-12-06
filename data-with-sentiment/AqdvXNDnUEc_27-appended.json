@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-04 07:57:02",
+    "ups": "38840",
+    "downs": "528",
+    "views": "817884",
+    "top_comments": [
+        {
+            "comment": "I hate new  listeners they swear Yak just start snapping \ud83c\udfaf",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.33181818181818185,
+            "subjectivity": 0.6772727272727272
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Flawless victory \u270c\ud83c\udffe",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Murph is gay",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "Nba Youngboy shot in Utah\nhttps://youtu.be/Wm1yiKWd-NQ",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

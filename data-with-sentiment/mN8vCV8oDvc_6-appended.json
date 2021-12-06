@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 11:00:18",
+    "url": "https://www.youtube.com/watch?v=mN8vCV8oDvc",
+    "time_now": "2021-10-31 17:25:01",
+    "ups": "1042",
+    "downs": "11",
+    "views": "16274",
+    "top_comments": [
+        {
+            "comment": "Fun lesson!  Seems to be some typos in the tab - roots and third page. (Still has you playing 5th). Sorry to be that guy. Just hope you can fix it for future people.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.03125,
+            "subjectivity": 0.33125
+        },
+        {
+            "comment": "I loved the intro \ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Great video \u2026 once I finish the fretboard accelerator course i will look to enroll next year \u2026 the fretboard accelerator is a great course that is really teaching me the fretboard as well as the triads \u2026 \u201c visualize and verbalize \u201c \ud83d\ude42 and hope u don\u2019t wind up in bass jail \ud83e\udd74 hahaha. SBL rocks.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.24999999999999997,
+            "subjectivity": 0.37142857142857144
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Remember when Scott was less of a shill? Man those were the days. Still love the dude though \ud83e\udd18\ud83e\udd18",
+            "polarity": 0.16666666666666669,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

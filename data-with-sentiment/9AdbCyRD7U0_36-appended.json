@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-05 21:02:31",
+    "ups": "17664",
+    "downs": "252",
+    "views": "675880",
+    "top_comments": [
+        {
+            "comment": "There must be some gold in dat ball\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "There must be some gold in dat ball\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "And I thought it was a bomb rock from pikmin",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I don't trust standing by it within that range, not the heat of it but the name, it was rather called a fragment, shrapnel, splinter, shard, fragmentation, frag, debris piece, chip, sliver,...\nbut a *BOMB*, well it is a bigger than a grenade and I respect nature.",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "This bomb didn't explode I guess it's faulted",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Dinosaur: first time?",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Volcano booger.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It\u2019snt bomb ball molten volcanic activity not for explosive of eruption leaves to molten rock block lava with sand soil",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

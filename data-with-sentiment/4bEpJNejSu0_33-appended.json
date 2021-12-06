@@ -1,0 +1,69 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-05 08:40:05",
+    "ups": "7502",
+    "downs": "425",
+    "views": "682585",
+    "top_comments": [
+        {
+            "comment": "Top 5 ye interview right here",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.39285714285714285,
+            "subjectivity": 0.5178571428571428
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Peoples Champ - Wale, One of The Greatest Rappers in our Generation.",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "What's the song playing before the interview starts?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nore got murkeddd looool",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u201cI feel like we should jump him \u201c \ud83d\ude02\ud83d\ude02\ud83d\ude02 Real NY \ud83d\udca9\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "Dope interview. Wale's most underrated song to me is Ice and Rain (2009).",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I never ever heard anyone say \ud83d\udde3 \u201cYo play some Wale \u201c \u2026like seriously",
+            "polarity": -0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "\ud83d\udd25 interview",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "They need some black owned water on this jawn \ud83d\ude02",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Top 5 ye interview right here",
+            "polarity": 0.39285714285714285,
+            "subjectivity": 0.5178571428571428
+        },
+        {
+            "body": "More got lit and started rattin",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

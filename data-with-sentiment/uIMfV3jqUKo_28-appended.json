@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-04 12:04:44",
+    "ups": "23532",
+    "downs": "1716",
+    "views": "595122",
+    "top_comments": [
+        {
+            "comment": "As a Christian I'm happy to see you modi ji with our pope",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "PRIDE OF INDIA PM MODI JI\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83e\udd29\ud83e\udd29\ud83e\udd29\ud83e\udd17\ud83e\udd17\ud83e\udd17\ud83c\udf3f\ud83c\udf3fbest Moment world spiritual leaders..greet world great leaders\ud83e\udd17\ud83e\udd17\ud83e\udd29\ud83e\udd29\ud83e\udd29\ud83c\udf3f\ud83c\udf3f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f love you Vatican",
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.49444444444444446
+        },
+        {
+            "body": "\u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0ba9\u0bbf\u0ba4\u0bb0\u0bcd \u0b89\u0ba3\u0bcd\u0bae\u0bc8\u0baf\u0bbe\u0ba9 \u0bae\u0ba9\u0bbf\u0ba4\u0bb0\u0bc8 \u0b9a\u0ba8\u0bcd\u0ba4\u0bbf\u0b95\u0bcd\u0b95\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd. \u0b85\u0bb0\u0bb5\u0ba9\u0bc8\u0b95\u0bcd\u0b95\u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bc1\u0bae\u0bcd.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Iam.hindhusthan\ud83d\udeab",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "PRIDE OF INDIA PM MODI JI\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

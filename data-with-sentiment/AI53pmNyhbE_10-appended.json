@@ -1,0 +1,107 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-01 09:53:42",
+    "ups": "25934",
+    "downs": "4411",
+    "views": "5725718",
+    "top_comments": [
+        {
+            "comment": "Fantastic \u2764\ud83d\udc8b\ud83d\udd25\ud83d\ude18\ud83d\ude0d",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Divya My Favorite Actress",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Divya My Favorite Actress",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Classic Song",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "MY Fav one\ud83d\ude38",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My fervote song and actors \u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Super",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "old super dupher songs",
+            "polarity": 0.21666666666666667,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "MY Fav one\ud83d\ude38",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rajesh chauhan",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Always my favourite divya bharti \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Or song upload karo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u098f\u0995\u09bf \u09ae\u09cd\u09af\u09be\u09a8\u099f\u09be\u09b2",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice video song\ud83c\udfb6\ud83c\udfb5\ud83c\udfb6\ud83c\udfa4",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Meditation\nhttps://youtube.com/channel/UC6WSdk5JEBmtkKBe2iIudyg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Original song\nhttps://youtube.com/channel/UC6WSdk5JEBmtkKBe2iIudyg",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Fantastic \u2764\ud83d\udc8b\ud83d\udd25\ud83d\ude18\ud83d\ude0d",
+            "polarity": 0.4,
+            "subjectivity": 0.9
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-05 08:40:11",
+    "ups": "41009",
+    "downs": "290",
+    "views": "602492",
+    "top_comments": [
+        {
+            "comment": "FINLAAAAAAND TERVE PERKELE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hello",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Glad Etho haven't found out about the thing yet...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "FINLAAAAAAND TERVE PERKELE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-01 14:01:34",
+    "ups": "6798",
+    "downs": "111",
+    "views": "270601",
+    "top_comments": [
+        {
+            "comment": "Where's the explosion?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This  channel   never  uses  click baits.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Even the volcanos shooting this year",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Its a Volcano's tonsil stone",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If you want humans to leave then just say that, geez!\ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f Acting all passive aggressive..\ud83d\ude12",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Where's the explosion?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This  channel   never  uses  click baits.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Even the volcanos shooting this year",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Its a Volcano's tonsil stone",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "the volcano has been researching for their new weapon",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Rockvalanche",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "i thought that it would blow up",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sometimes I scream guitar player too because when it's up it's up",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'll have fun screaming guitar player at the gay club EDM festival at 5 AM in New York City I want you to think about that",
+            "polarity": 0.28434343434343434,
+            "subjectivity": 0.4126262626262627
+        }
+    ]
+}

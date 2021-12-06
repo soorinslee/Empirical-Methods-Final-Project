@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-05 08:40:51",
+    "ups": "4484",
+    "downs": "72",
+    "views": "95708",
+    "top_comments": [
+        {
+            "comment": "Amazingly amazing! How simple yet scientific, how spiritual yet rational answers were..!! Very profound...!! Thank you!",
+            "likes": 13,
+            "number_of_replies": 1,
+            "polarity": 0.2403971354166667,
+            "subjectivity": 0.5976190476190476
+        },
+        {
+            "comment": "Such a magnificent teaching. Much love",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.7000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It is mind blowing knowledge \ud83d\ude07\ud83d\ude4f\ud83d\ude4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "the knowledge contained within guruji...its honestly just hard to fathom. he is definitely an enlightened  being",
+            "polarity": 0.10277777777777776,
+            "subjectivity": 0.6472222222222223
+        },
+        {
+            "body": "Wow!! What a great message!! Totally resonated with this! Thank you sister!",
+            "polarity": 0.3854166666666667,
+            "subjectivity": 0.8333333333333334
+        }
+    ]
+}

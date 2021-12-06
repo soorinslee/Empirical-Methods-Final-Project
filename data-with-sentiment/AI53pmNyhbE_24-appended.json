@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-03 19:35:43",
+    "ups": "30615",
+    "downs": "5014",
+    "views": "6773081",
+    "top_comments": [
+        {
+            "comment": "Sad To Know This Beautiful Girl Died At The Age Of 19 \ud83d\ude25",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.175,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Nice song",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "All Time Blockbuster \ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love song",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Most fav song ever \ud83e\udd29",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "U",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love song",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

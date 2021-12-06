@@ -1,0 +1,50 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-11-02 18:51:49",
+    "ups": "7458",
+    "downs": "72",
+    "views": "127689",
+    "top_comments": [
+        {
+            "comment": "this girl must sing \ud83d\ude18for GOD\ud83d\ude07\ud83d\udc7c.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Superrr, Bravoooo, Allie \u2757\ufe0f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4d\ud83d\udc4d\ud83d\ude18\ud83d\ude18\ud83d\udc81\u200d\u2640\ufe0f\ud83d\udc81\u200d\u2640\ufe0f\ud83d\ude4c\ud83d\ude06\ud83d\udc90\ud83c\udf40",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Allie never fails to hit the spot. She is an unbelievable talent \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\nTake Care Stay Safe Everyone Regards Dave \ud83d\udc4d\ud83d\ude0e\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Brilliant voice!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "One of te best covers I've ever heard.\n(also, one of allie's best performances)",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Absolutely incredible \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.9,
+            "subjectivity": 0.9
+        }
+    ]
+}

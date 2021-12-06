@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-05 04:33:34",
+    "ups": "4063",
+    "downs": "527",
+    "views": "220958",
+    "top_comments": [
+        {
+            "comment": "Hello, kuwaiti here. Lived my entire life in kuwait. Nothing worse than going to work while forced to park your car under no shade in this heat. By the time work is done, the inside of the car temperature reaches 60c and no amount of AC helps. Imagine almost every single day getting cooked alive like that. Its inhumane. I despise the idea of leaving home no matter how boring it gets.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3673469387755102,
+            "subjectivity": 0.5627551020408162
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I can understand their situation  in bahrain the temperature is super hot its 37 degree Celsius  but this will be flame hot in Kuwait becuz of double temperature",
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.5916666666666667
+        },
+        {
+            "body": "Man I am lucky but its still  very hot in bahraim",
+            "polarity": 0.32916666666666666,
+            "subjectivity": 0.9166666666666667
+        },
+        {
+            "body": "Is this a report about the heat in Kuwait or her \u201clittle fur baby\u201d?",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "The most significant thing abt the tree project: animals began to show up!",
+            "polarity": 0.484375,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "Bravo Umm Neif!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

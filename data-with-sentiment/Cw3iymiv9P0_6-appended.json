@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 14:00:52",
+    "url": "https://www.youtube.com/watch?v=Cw3iymiv9P0",
+    "time_now": "2021-10-31 17:25:42",
+    "ups": "558",
+    "downs": "6",
+    "views": "8606",
+    "top_comments": [
+        {
+            "comment": "It's amazing \ud83d\udc4d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Amazing work \u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Fantastice amazing art",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": []
+}

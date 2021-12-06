@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-06 13:31:20",
+    "ups": "18562",
+    "downs": "272",
+    "views": "721631",
+    "top_comments": [
+        {
+            "comment": "Did they said \"Fire in the hole!\"?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "It might explode caution!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hey hun, let\u2019s move somewhere new.\n\nHow about this island that has an active volcano?\n\n*NO.*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.001515151515151511,
+            "subjectivity": 0.5272727272727272
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I played the video then put down my phone, just like hearing the radio, then she said \"as la cumbre vieja\",and i was like \"aye yoo tf was that\".",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "They see me Rollin they hatin..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kool",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What you know about rolling down in the deep...",
+            "polarity": -0.07777777777777779,
+            "subjectivity": 0.34444444444444444
+        },
+        {
+            "body": "It might explode caution!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

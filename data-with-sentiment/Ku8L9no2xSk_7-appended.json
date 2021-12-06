@@ -1,0 +1,83 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-10-31 21:32:23",
+    "ups": "6843",
+    "downs": "25",
+    "views": "72833",
+    "top_comments": [
+        {
+            "comment": "Hey Ren, the white concrete powder gives a white sand / white dessert kind of vibe which really adds to the sci-fi feel in my opinion! I like it a lot",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.23333333333333336
+        },
+        {
+            "comment": "So other hermits know where to pay make the item frams invisible so they see the barrels",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Lol I love how Ren is STILL rocking his Blue Shades from last seasons Button Game... xD",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.18,
+            "subjectivity": 0.37333333333333335
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Issue is the barrels are hidden behind the picture frames. Add a second barrel above the prices and change signs to say 'please pay in barrel ABOVE'. add a sign at each end portal to say 'octagon change....please pay in barrel above prices'",
+            "polarity": -0.09444444444444444,
+            "subjectivity": 0.22222222222222224
+        },
+        {
+            "body": "So other hermits know where to pay make the item frams invisible so they see the barrels",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Put a diamond fliter below all products to a central chest",
+            "polarity": 0.0,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Nice video hope you win for the 13 November championship \ud83e\udd70\ud83d\ude0d",
+            "polarity": 0.7,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Your music made me watch Prince of Persia",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"The sign's made of unoxidised copper so it will change from orange to green\"\nNot while Scar has an axe and 10 minutes to spare",
+            "polarity": -0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I feel like some of the hermits may be a little lol.... Deeeerrr",
+            "polarity": 0.30625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "An Octagon sign in the end, when Hermits are returning from the Ender ender may look good.",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Your boxes are too expensive. I have seen other hermits come to buy boxes and change their mind because they are too much.",
+            "polarity": -0.14166666666666666,
+            "subjectivity": 0.425
+        },
+        {
+            "body": "I think you should make a pile of barrels under the one hanging barrel. That way they can't miss the barrel!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

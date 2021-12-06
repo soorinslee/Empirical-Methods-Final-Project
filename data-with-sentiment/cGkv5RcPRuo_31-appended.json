@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-05 00:25:44",
+    "ups": "28229",
+    "downs": "637",
+    "views": "504477",
+    "top_comments": [
+        {
+            "comment": "*Hello gringa guys, this is Lucas and I'm loving the ncs songs. greetings from Brazil \ud83c\udde7\ud83c\uddf7*",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "The last NCS10 Release",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "comment": "TOKYO MACHINE - SLASH [NCS10 RELEASE]",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Sounds like a doom soundtrack",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nice\ud83d\ude0a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Fuckin hell this one goes hard. That second drop and fakeout with the glitches is especially sick.",
+            "polarity": -0.4305555555555556,
+            "subjectivity": 0.5138888888888888
+        }
+    ]
+}

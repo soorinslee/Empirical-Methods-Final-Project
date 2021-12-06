@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-10-31 09:11:49",
+    "ups": "6668",
+    "downs": "53",
+    "views": "112086",
+    "top_comments": [
+        {
+            "comment": "Yasss a new video!!! Love it when the queen posts my day is instantly that much better\u2728\ud83d\udc97\ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2415838068181818,
+            "subjectivity": 0.4803030303030303
+        },
+        {
+            "comment": "Me: so excited they came to Indiana since that\u2019s where I am from \nAlso me: mad they didn\u2019t go to a Notre dame game cause that\u2019s where the real party is at",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1125,
+            "subjectivity": 0.6125
+        },
+        {
+            "comment": "I\u2019m from Indiana and it is so weird to hear them say \u201cIndianapolis\u201d and \u201cBloomington\u201d\n\n\nIt\u2019s so crazy, I feel \u2728connected \u2728",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.55,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "we love college schoolisha \ud83e\udd7a\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Are you actually getting a  new suitcase cause yours is dented or was that a joke?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.2772727272727273
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Yasss a new video!!! Love it when the queen posts my day is instantly that much better\u2728\ud83d\udc97\ud83d\udc97",
+            "polarity": 0.2415838068181818,
+            "subjectivity": 0.4803030303030303
+        },
+        {
+            "body": "I\u2019m from Indiana and it is so weird to hear them say \u201cIndianapolis\u201d and \u201cBloomington\u201d\n\n\nIt\u2019s so crazy, I feel \u2728connected \u2728",
+            "polarity": -0.55,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

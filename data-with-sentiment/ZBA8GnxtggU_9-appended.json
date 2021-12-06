@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=ZBA8GnxtggU",
+    "time_now": "2021-11-01 05:47:26",
+    "ups": "2244",
+    "downs": "244",
+    "views": "188122",
+    "top_comments": [
+        {
+            "comment": "Amazing",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "hi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "hiii",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Just press the rich button I'm just gonna go I like this before because I see this I'm not going to be your fn now",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I love dost Barbies",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

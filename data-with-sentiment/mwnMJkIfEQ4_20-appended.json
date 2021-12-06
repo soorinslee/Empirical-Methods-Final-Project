@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 12:00:23",
+    "url": "https://www.youtube.com/watch?v=mwnMJkIfEQ4",
+    "time_now": "2021-11-03 03:07:04",
+    "ups": "5870",
+    "downs": "353",
+    "views": "335800",
+    "top_comments": [
+        {
+            "comment": "How can everyone act like they don't realize the relationship between trump and Putin.  It was right in front of your faces folks. I am no scholar but even I can read between the lines on this one. Eric trump basically told us his family doesn't need financial backing from American banks because of the Russian Banks that his father uses. Deutsche bank? I had never heard of it before the trump family's involvement.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.07142857142857142,
+            "subjectivity": 0.13392857142857142
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "LET\u2019S GO BRANDON!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Let's go Brandon!!!\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Biden's job rating sinks to 42 percent in NBC News poll a year from midterms",
+            "polarity": -0.1,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Spectrum health is linked to the DeVos family. The same Betsy DeVos that Trump appointed Secretary of Education. Alfa is linked directly to the Kremlin. Republicans knowingly supported a Russian controlled presidential candidate.",
+            "polarity": 0.03333333333333333,
+            "subjectivity": 0.17500000000000002
+        }
+    ]
+}

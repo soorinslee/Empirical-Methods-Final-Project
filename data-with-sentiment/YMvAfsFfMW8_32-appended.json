@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 12:51:02",
+    "url": "https://www.youtube.com/watch?v=YMvAfsFfMW8",
+    "time_now": "2021-11-05 04:33:49",
+    "ups": "5866",
+    "downs": "687",
+    "views": "497311",
+    "top_comments": [
+        {
+            "comment": "What hacks do your parents use?\ud83d\ude0f",
+            "likes": 66,
+            "number_of_replies": 30,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The dad Was kind of runny like she fall\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "\ud83d\ude0e\ud83d\ude0e\ud83e\udd29\ud83e\udd70\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "your mom is so much funny \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "your mom is so funny",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

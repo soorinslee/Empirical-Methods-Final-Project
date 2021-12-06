@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-03 07:14:01",
+    "ups": "7870",
+    "downs": "222",
+    "views": "209131",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Damn i planned to buy Guardians for my Series S but with that performance i get it on sale or play when it arrive at gamepass.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "poooor obtimized realyyy 1080p??????",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "60 fps juuuustttt 1080p???????damn square enix",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is it just me but I\u2019m playing on series X and on episode 12 it was one big slowdown. Wasn\u2019t that bad until that part",
+            "polarity": -0.3499999999999999,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "body": "1080p 30fps on series s? Lol that\u2019s a joke",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I'm confused.... Why is performance mode running at such low quality AND dropping frames on top of it?? I've never seen anything like this before... Can anyone please explain to me how this is happening? Even with bad optimization, it makes no sense... if the optimization is bad then why is it running so well at 4k? Unless there is different kind of optimization required specifically for 60 fps...",
+            "polarity": -0.08749999999999998,
+            "subjectivity": 0.6041666666666666
+        },
+        {
+            "body": "Games today are never finished when released. They are planning a ray tracing mode as well. Why the need to buy on day 1 for an unfinished game at full price? It's not like you don't have a backlog.",
+            "polarity": -0.025000000000000022,
+            "subjectivity": 0.47500000000000003
+        },
+        {
+            "body": "Eidos Montreal clearly don't have the talent to be able to run this game at 1440P 60 the least on Series X and PS5, Dynamic 4k 60 is the norm now for the newer consoles",
+            "polarity": -0.020000000000000007,
+            "subjectivity": 0.39499999999999996
+        }
+    ]
+}

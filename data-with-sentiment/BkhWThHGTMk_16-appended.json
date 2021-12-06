@@ -1,0 +1,59 @@
+{
+    "time_posted": "2021-10-30 12:24:22",
+    "url": "https://www.youtube.com/watch?v=BkhWThHGTMk",
+    "time_now": "2021-11-02 10:37:54",
+    "ups": "9235",
+    "downs": "552",
+    "views": "818627",
+    "top_comments": [
+        {
+            "comment": "0:18 To 1:10\nEndia Media\nShowing Hate On Live Tv Jo Dil Pay Wo Zubaa Pay",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": -0.33181818181818185,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "India always hate pak but our shoaib akhtar go there channel and give tips to india team fuck u shoaib akhtar",
+            "polarity": -0.6000000000000001,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "nhi nhi.\ud83d\ude1c\ud83d\ude1c\ud83d\ude1c\ud83d\ude1cha ha bol na tha.kya bazti he yar comentetar ki.nhi chahta phir bhi bolna padta he",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hahahah nhi nhi nhi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Afghanistan is najayaz aulaad of India...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pakistan zindabad Allah hmari madad kray ga",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Indian ab lo ga Pakistan sa panga",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Am\u00e9en",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Actually commentator was at bathroom, kuch nikal aye hu ga tu bol raha hu ga nahi nahi,",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

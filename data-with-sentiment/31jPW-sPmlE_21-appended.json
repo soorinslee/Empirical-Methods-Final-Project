@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-03 07:14:12",
+    "ups": "8259",
+    "downs": "303",
+    "views": "456821",
+    "top_comments": [
+        {
+            "comment": "Wah... Lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Hope namo has watched netflixmovie two popes",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Latin \ud83d\ude0d language of the gods.... Pls speak... Converse in latin....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "many chariots descending from heaven \nVeda\r\n\"18 I wish I could see now that everyone wants to see!\r\nI wish I could see (his) chariot (descending) to the ground!\r\nMay he rejoice at my laudatory songs! \"(Rigveda. Mandala 1).\r\nBible \r\n\u201cAnd it came to pass, as they still went on, and talked, that, behold, there appeared a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven\u201d (2 Kings 2:11).\r\nKoran\r\n Elijah by the Qur'an Ilyas.\r\nThe Qur'an mentions: in the Surah \u201cCattle\u201d (Al-An'am) and twice in the Surah \u201cStanding in a row\u201d (As-Soffat).",
+            "polarity": 0.4453125,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "We have One God, that is Allah swt, we are One creation, we have One Destiny..hence all the more reasons for peaceful coexistence. Allahumma Ammen ya Rabb Ameen.",
+            "polarity": 0.375,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "MashaAllah Alhammdollilah Allah Hu Akbar..a grand  kolakuli, embrace...",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Remarkable Modi ji your gesture to meet Honourable Pope. From the video we could make our that you people had a good conversation. You have made our country proud Modi ji. That\u2019s the leader of Sanatan Dharma always eager and ready to meet any person of other faith. Modi ji my Namaskaram to you \ud83d\ude4f",
+            "polarity": 0.465,
+            "subjectivity": 0.645
+        },
+        {
+            "body": "Wah... Lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Hope namo has watched netflixmovie two popes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Latin \ud83d\ude0d language of the gods.... Pls speak... Converse in latin....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

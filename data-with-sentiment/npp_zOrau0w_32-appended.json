@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-05 04:32:55",
+    "ups": "15610",
+    "downs": "340",
+    "views": "194932",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 853,
+            "number_of_replies": 19,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "After watching the new Chucky TV series, I also wanted to put a gun to my head.",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Nope. That song is perfect in original version.",
+            "polarity": 0.6875,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "WOWZA!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-01 18:09:11",
+    "ups": "6126",
+    "downs": "311",
+    "views": "88400",
+    "top_comments": [
+        {
+            "comment": "Tbh an overcoat and a turtle neck and a necklace it\u2019s one of the best outfits I\u2019ve ever worn in my life you should 100% try it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Joggers have been played out since 2017.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I'm 39, what I heard was...ok it's over stop dressing how we used to dress in the 90s and now dress how you did in the 2000s \ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Who the fuck decides what's in style and what's not ????",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Did he just gave a low blow to Alex Costa \ud83d\ude06\ud83d\ude06\ud83d\ude06",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Fuck style. I'll wear whatever the hell I want. Why would I not wear something just because everyone else isn't wearing it?",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Decent video as always.  I hear the H&M plugs \ud83e\udd26\u200d\u2642\ufe0f\ud83d\ude06",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Jose, i've been watching you for more than 4 years and you were outstanding throughout the years BUT 3:03 what was that. it might be first time I disagree with you. \nNever prioritize sponsors over your type of content. H&M might be the sponsor of this video but you should prioritize more on your style n preference  cz I'm sure you would never wear that jeans.",
+            "polarity": 0.45,
+            "subjectivity": 0.6194444444444444
+        },
+        {
+            "body": "Slim and low rise pants are very out of style if anything",
+            "polarity": 0.1,
+            "subjectivity": 0.3
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj06pg/wtf/",
+    "time_posted": "2021-10-30 08:09:02",
+    "time_now": "2021-11-01 05:49:21",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himwvty",
+            "body": "I have the distinct feeling many people who dislike it didn\u2019t play it.\n\nAnd even if you don\u2019t like it. Many others did.",
+            "ups": 16,
+            "downs": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment_id": "himwscz",
+            "body": "[deleted]",
+            "ups": 14,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himwr9j",
+            "body": "Weird how this offends people, that they actually have to make a post because they can't accept a game they hate, makes other people happy, so weird",
+            "ups": 11,
+            "downs": 0,
+            "polarity": -0.2178571428571429,
+            "subjectivity": 0.6821428571428572
+        },
+        {
+            "comment_id": "himuv0u",
+            "body": "It\u2019s divisive if nothing else",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himvnr9",
+            "body": "I found it a really memorable experience.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himwvty",
+            "body": "I have the distinct feeling many people who dislike it didn\u2019t play it.\n\nAnd even if you don\u2019t like it. Many others did.",
+            "ups": 16,
+            "downs": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment_id": "himwr9j",
+            "body": "Weird how this offends people, that they actually have to make a post because they can't accept a game they hate, makes other people happy, so weird",
+            "ups": 11,
+            "downs": 0,
+            "polarity": -0.2178571428571429,
+            "subjectivity": 0.6821428571428572
+        },
+        {
+            "comment_id": "himwscz",
+            "body": "[deleted]",
+            "ups": 13,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himxt9w",
+            "body": "The people who hate it are the same ones who say \u201cit doesn\u2019t even have combat\u201d and never actually played more than 10 minutes of the game.",
+            "ups": 5,
+            "downs": 0,
+            "polarity": -0.14,
+            "subjectivity": 0.40499999999999997
+        },
+        {
+            "comment_id": "himuv0u",
+            "body": "It\u2019s divisive if nothing else",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himwvty",
+            "body": "I have the distinct feeling many people who dislike it didn\u2019t play it.\n\nAnd even if you don\u2019t like it. Many others did.",
+            "ups": 16,
+            "downs": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment_id": "himwr9j",
+            "body": "Weird how this offends people, that they actually have to make a post because they can't accept a game they hate, makes other people happy, so weird",
+            "ups": 11,
+            "downs": 0,
+            "polarity": -0.2178571428571429,
+            "subjectivity": 0.6821428571428572
+        },
+        {
+            "comment_id": "himwscz",
+            "body": "[deleted]",
+            "ups": 13,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himxt9w",
+            "body": "The people who hate it are the same ones who say \u201cit doesn\u2019t even have combat\u201d and never actually played more than 10 minutes of the game.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.14,
+            "subjectivity": 0.40499999999999997
+        },
+        {
+            "comment_id": "himuv0u",
+            "body": "It\u2019s divisive if nothing else",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

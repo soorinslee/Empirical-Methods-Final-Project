@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-02 10:37:31",
+    "ups": "25810",
+    "downs": "84",
+    "views": "232142",
+    "top_comments": [
+        {
+            "comment": "I like how even Kris was sweating there",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This one has a disturbing lack of grotesque lovecraftian imagery, is something wrong Lumpy? You're not normally this tame.",
+            "polarity": -0.36833333333333335,
+            "subjectivity": 0.7133333333333334
+        },
+        {
+            "body": "\"damn, the new chapter 3 looks pretty cool\"",
+            "polarity": 0.24545454545454545,
+            "subjectivity": 0.7015151515151515
+        },
+        {
+            "body": "Damn his muscle",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I like how even Kris was sweating there",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oh no",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Dammit, got this one too",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

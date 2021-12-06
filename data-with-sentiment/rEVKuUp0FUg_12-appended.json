@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-01 18:09:17",
+    "ups": "6115",
+    "downs": "43",
+    "views": "70078",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 512,
+            "number_of_replies": 145,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "pls do an a auother split I can't do it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "But thank you so much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Tysm! Now I can do a back bend! I\u2019ve been working on it!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pls can u do a how to do splits but this video was really helpful",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi \u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I see Anna ankles to her knee stretches perfectly \ud83e\udd70\ud83d\udc9e",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Um..... Anna can I ask you a question can you be my best friend I'm 10 next year I'll be um 11 and my favorite color I pink, my height 4.8 my age is 10 and you 3 in he's taller than me and you 19 I'm a right? and I'm dark skin please don't hate  me and I all ways like and comment and subscribe to your channel",
+            "polarity": 0.1051020408163265,
+            "subjectivity": 0.4908163265306122
+        },
+        {
+            "body": "Hi, Anna.\nYou are so flexible & I apreciate all your videos, I love them.\nMaybe, if you want you can do more videos such as fun challenges or more collabs as the one that you did with Elena, the rybka twins, or Lilly K.I think will be very fun.\nThank you so much, you're so kind.\ud83d\ude0a\ud83d\ude0a\nA lot of love to Canada, to you too, yo your family &  to your \u2661cats \u2661 \ud83d\ude3a.",
+            "polarity": 0.36125,
+            "subjectivity": 0.42
+        },
+        {
+            "body": "Hey Anna I have a question when you put your feet over your head I want to know how you do it I just since I\u2019m getting squished it\u2019s hard for me to breathe and I\u2019m claustrophobic so I don\u2019t know how I\u2019m supposed to do it",
+            "polarity": -0.5208333333333334,
+            "subjectivity": 0.6458333333333333
+        }
+    ]
+}

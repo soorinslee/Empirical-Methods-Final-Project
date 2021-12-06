@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 14:30:11",
+    "url": "https://www.youtube.com/watch?v=8Fo7CMZsEdM",
+    "time_now": "2021-11-02 18:52:04",
+    "ups": "3084",
+    "downs": "143",
+    "views": "73149",
+    "top_comments": [
+        {
+            "comment": "the jackal leon uses the power of invisibility to save himself \ud83d\ude05\ud83d\ude02",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Brawl Stars \u00d7 Squid Game animation = COOOOOOOOOOOOOOOL",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "\ud83d\ude18\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "DEEPEST SLEEP",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I like you gammyanimation",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Y lameg \ud83d\ude18 \ud83d\ude48 \ud83d\udc3c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mi favorita fue el juego del calamar",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

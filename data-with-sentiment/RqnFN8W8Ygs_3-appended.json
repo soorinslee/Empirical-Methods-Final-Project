@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 12:04:22",
+    "url": "https://www.youtube.com/watch?v=RqnFN8W8Ygs",
+    "time_now": "2021-10-31 05:04:54",
+    "ups": "293",
+    "downs": "58",
+    "views": "30922",
+    "top_comments": [
+        {
+            "comment": "Atienza hindi mo mauto mga Pinoys. Please stop trying.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "tama c atty lacson hind nila puwede\nbaguhin ang history people power \nrevolution,,nakaw,,dictator,,human\nabuse,,,mauunawaan yan ng taongbayan,,tama c pari socrates",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Kung si Pacquiao siguro ang nangunguna sa survey, maniniwala sa survey si Atienza.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "YOUR GUESTS TALK WELL BUT ARE TRYING TO MISEDUCATE THE PEOPLE IN SOME WAYS!",
+            "likes": 1,
+            "number_of_replies": 6,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ANG KAWATAN AT MANDARAMBONG ,,MAG SAMA HUHUHUHU,,KALOLOOY GD ANG ATON BANSA,,,,,WAKE UP MAHAL KONG KABAYAN,,,,BE WISE,,,GOD BLESS US ALL,,,,",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "tama atienza maubos pera ni pakyaw nd nman cya o iboboto kyo ng tao",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "bkit puro palabas ng mga guests nyo against marcos n duterte. ANC bias",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Puede nman yun kunin mo yun pera iboto kung ano ang nsa concencya kya lng wag nila takutin o bantayan yun mga binigyan nila",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kung si Pacquiao siguro ang nangunguna sa survey, maniniwala sa survey si Atienza.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Binabaluktot na natin ang prinsipyo alang alang sa politiko.  Walang rason para i promote ang vote buying.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-03 11:21:11",
+    "ups": "14551",
+    "downs": "265",
+    "views": "822996",
+    "top_comments": [
+        {
+            "comment": "*\u0ba4\u0bae\u0bbf\u0bb4\u0bcd*",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Elaichi \ud83e\udd17",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Indians Be like 1 rupaiye ka milta hai humare yaha - Baba Elaichi\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Can we get a \u201cSo Cheap\u201d series where BI explores how some things are made so inexpensively? Like how does Poundland and Dollarama have so much stuff for less than $5.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1444444444444445,
+            "subjectivity": 0.3222222222222222
+        },
+        {
+            "comment": "I didn\u2019t know elachi was expensive until today my mom puts it in to the tea every morning",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Feel delighted to see the beauty of our nation India \u2764\ufe0f",
+            "polarity": 0.7,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Stop making herbs look expensive and even stoppp normalizing this information , this are just in your head lol",
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I love my Tamil speaking brother",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Americans: Green Cardamoms are expensive\nLe me:- I have tea with cardamom twice a day",
+            "polarity": -0.35,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Can we get a \u201cSo Cheap\u201d series where BI explores how some things are made so inexpensively? Like how does Poundland and Dollarama have so much stuff for less than $5.",
+            "polarity": 0.1444444444444445,
+            "subjectivity": 0.3222222222222222
+        },
+        {
+            "body": "I didn\u2019t know elachi was expensive until today my mom puts it in to the tea every morning",
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I think the plantations you have depicted are actually in Tamil Nadu state, not Idukki of Kerala. But, of course idukki is in the border region so it is possible for Idukki Farmers to speak in tamil fluently/ natively.",
+            "polarity": 0.0,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "We Indians throw it away in Biryani",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It's not expensive...!",
+            "polarity": 0.3125,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Where are the malyalees",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "India has always treated its farmers poorly",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "*Export Quality Cardamom*\n*In India : $21*\n*In USA : $90*\n*\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "even though its the most expensive u get it the most in indian biriyanis.JAI HIND<3",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.5666666666666667
+        }
+    ]
+}

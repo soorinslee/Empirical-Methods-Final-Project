@@ -1,0 +1,74 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-01 05:46:58",
+    "ups": "9924",
+    "downs": "98",
+    "views": "114771",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 162,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I got a mechanic that\u2019s not kicker or horsemen metalcraft",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "huh.... my world has been changed.... O.o",
+            "polarity": 0.05,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Day/Night mechanic on Midnight Hunt is NOT kicker",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Crew?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Slight correction: All mechanics are just kicker, horsemanship, or threshold.",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Casting a spell is just doing nothing plus a kicker.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is there any hope in the world for someone who loved and enjoyed this game from say 1994-2000, to play the current version (product wise) of MTG and feel they\u2019re playing the same game they used to love?",
+            "polarity": 0.2,
+            "subjectivity": 0.5406249999999999
+        },
+        {
+            "body": "I lost it at \"Is multikicker kicker?\", and again at \"Flying is just Horsemanship.\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What about foretell? It\u2019s a kind of kicker?",
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "What\u2019s the video that starts playing during the credits? The first one, that looks like Prof auditioning for a playgroup.",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Well, no, cycling isn't kicker, because the effect's modal. You're not getting an extra effect for an extra cost, you're getting a choice of two different effects for two different costs. Should we add split cards to the list of things that all mechanics are one of?",
+            "polarity": 0.0,
+            "subjectivity": 0.35
+        }
+    ]
+}

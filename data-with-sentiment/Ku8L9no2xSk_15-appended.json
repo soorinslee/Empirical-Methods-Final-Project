@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-02 06:30:27",
+    "ups": "8341",
+    "downs": "28",
+    "views": "94938",
+    "top_comments": [
+        {
+            "comment": "That intro song never gets old",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Depending on if you want to go full grayscale or a little color in mute tones;\n endstone(almost a dead sponge with your coral theme) \nand white terracotta and brown mushroom(as shaded patches/rooted points under the dried coral growths)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.04750000000000001,
+            "subjectivity": 0.41000000000000003
+        },
+        {
+            "comment": "Do the hermits just not like normal biomes so they decide to make their own. First cub now ren, plus ren made mustafar and tatooine last season lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.36,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That intro song never gets old",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Or perhaps the barrels are hidden by item frames making it difficult to differentiate the barrel behind them from any other standard block. The only visible/noticeable barrel in the Octagon is the one above the discount bin. Make the barrels more visible or do some hands on education lol",
+            "polarity": 0.012037037037037044,
+            "subjectivity": 0.5231481481481481
+        }
+    ]
+}

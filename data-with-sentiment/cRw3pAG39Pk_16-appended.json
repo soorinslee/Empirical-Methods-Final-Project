@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:59:49",
+    "url": "https://www.youtube.com/watch?v=cRw3pAG39Pk",
+    "time_now": "2021-11-02 10:37:18",
+    "ups": "12295",
+    "downs": "84",
+    "views": "129344",
+    "top_comments": [
+        {
+            "comment": "LINK TO ALL MUSIC STREAMING SERVICES https://ffm.to/squidgames\nSHARE THIS EVERYWHERE YOU KNOW!!!!",
+            "likes": 337,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My flesh meltin from dat heat but....\nA couple more replays couldn't hurt..\nRight...?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.39285714285714285,
+            "subjectivity": 0.5178571428571428
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Man...this song is one of my favourite song now. Good job and keep it up,Daddyphatsnaps",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "God, dps never misses, this went so hard, easily one of my favs by you dps",
+            "polarity": 0.07083333333333333,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "Ohhhhhhh shiiiiiiitttt. \ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "you are best",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Bro you gotta do a squid game cypher soon",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "i feel powerful",
+            "polarity": 0.3,
+            "subjectivity": 1.0
+        }
+    ]
+}

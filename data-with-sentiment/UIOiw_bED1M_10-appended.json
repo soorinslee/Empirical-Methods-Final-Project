@@ -1,0 +1,74 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-01 09:53:55",
+    "ups": "7181",
+    "downs": "205",
+    "views": "179113",
+    "top_comments": [
+        {
+            "comment": "I generally go for the performance mode when given the option, but this title played just fine in Quality mode and it looked absolutely stellar while doing so. The loss in fidelity on performance was really, really obvious between the two.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.17916666666666667,
+            "subjectivity": 0.4375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The biggest current limitation of Series X & PS5 is the lack of deep learning super sampling!!!\nOf corse they can't use DLSS from Nvidia (because of their AMD GPUs), which is already enabling PC-Gamers to have a \"real\" 4k/Raytracing/60fps experience but hopefully we will see it in form of AMDa FidelityFX soon.\n\nBut I can't really see any major games will using FidelityFX....!?",
+            "polarity": 0.18819444444444441,
+            "subjectivity": 0.41111111111111115
+        },
+        {
+            "body": "As a fan of the movies, I wasn't sold in the first trailer and wrote it off. After hearing all the praise I'm interested again, but after watching this vid I will just wait till it's 20 bucks cheaper and patched properly.",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.31111111111111106
+        },
+        {
+            "body": "If not side by side I can't tell the difference.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "These games are really showing up the limitations of these \"next gen\" consoles.\nLet's be honest being restricted to 30fps to get 4K is not good.",
+            "polarity": 0.11250000000000002,
+            "subjectivity": 0.42500000000000004
+        },
+        {
+            "body": "PS5 and Xbox series X are not 4K  consoles. The only reason to let the user to play with \"quality settings\" on a console is to justify the mark \"4K\" on the box. Leave \"quality settings\" to PC users, and let console players to enjoy the game without the hustle of graphical settings.",
+            "polarity": 0.0,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "body": "The series s has no point other than to hold games back lol",
+            "polarity": 0.225,
+            "subjectivity": 0.35833333333333334
+        },
+        {
+            "body": "1080p 60fps? And you wanna compare these consoles to a 2080ti?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I feel this game was brought down by the Avengers game. It's a totally different beast but I (and I imagine a lot of other ppl) was just thinking it'd be more of that. I totally dismissed this game but now I'm interested. Hope the game does well for them, I'll pick it up at some point.",
+            "polarity": -0.11305555555555558,
+            "subjectivity": 0.4613888888888889
+        },
+        {
+            "body": "I generally go for the performance mode when given the option, but this title played just fine in Quality mode and it looked absolutely stellar while doing so. The loss in fidelity on performance was really, really obvious between the two.",
+            "polarity": 0.17916666666666667,
+            "subjectivity": 0.4375
+        },
+        {
+            "body": "Seems like they need to learn from the DMC5 devs...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I remember being told that the difference from 1080p to 4K isn\u2019t worth the cost. I\u2019ve been playing games at 30fps for decades and the difference in quality here is too stark here for me to play in performance mode.",
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.35
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:26:58",
+    "url": "https://www.youtube.com/watch?v=ebRtyTxeGRk",
+    "time_now": "2021-10-31 17:25:21",
+    "ups": "532",
+    "downs": "45",
+    "views": "27929",
+    "top_comments": [
+        {
+            "comment": "Chutti na kriya kro jnab \ud83d\udc9e\ud83c\uddf5\ud83c\uddf0\u2763\ufe0f\ud83c\uddf4\ud83c\uddf2\ud83d\udc95",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Agha majid my fevret actor",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "nice  show",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Lucky Dear Saleem Albela Agah Majid Love you all team",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.41666666666666663,
+            "subjectivity": 0.7166666666666667
+        },
+        {
+            "comment": "goga kidr hai bhai",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Fake news is called ARY",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Well . Missing goga pasroori apricating Saleem alebela who is discouraged political chit chat in comedy show",
+            "polarity": -0.1,
+            "subjectivity": 0.07500000000000001
+        }
+    ]
+}

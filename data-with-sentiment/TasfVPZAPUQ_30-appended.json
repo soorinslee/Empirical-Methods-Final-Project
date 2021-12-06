@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-04 20:18:29",
+    "ups": "44676",
+    "downs": "80",
+    "views": "242774",
+    "top_comments": [
+        {
+            "comment": "ROOKIE OF THE YEAR!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "the only kpop group who understood the Halloween assignment lol",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.85
+        },
+        {
+            "comment": "I SUPER LOVE THIS VERSION",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.41666666666666663,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "i thought they were just gonna wear costumes and sing the normal song but this was unexpected wooo!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.153125,
+            "subjectivity": 0.825
+        },
+        {
+            "comment": "lwehdh this was so good omg",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "we got 2k subscribers recently!!! i'm thinking it's because of this performance video. proud of you girls, slowly preparing for world domination!",
+            "polarity": 0.14166666666666666,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "body": "back to this of course, not stopping until it reaches 1m \ud83d\ude05",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "lwehdh this was so good omg",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "So will this version ever hit Spotify?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

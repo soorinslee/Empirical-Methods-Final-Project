@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-04 12:04:06",
+    "ups": "3907",
+    "downs": "43",
+    "views": "105726",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 125,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Ang galing talaga ninyong lahat... pag naumpisahan ko manuod ng youtube channel nyo di kona mapigilan kahit paulit ulit kong panuodin/pakinggan ang galing lang talaga. Nakaka gigi vibes talaga! Kudos to gigi and the band!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Her smile in the end like it was nothing \ud83e\udd70\ud83d\ude0d",
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Mas magaling ako jan ayaw ko lang iparinig\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Iba parin yung version ni Charice hinangaan sa buong mundo. Wala ng makakatulad pa",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

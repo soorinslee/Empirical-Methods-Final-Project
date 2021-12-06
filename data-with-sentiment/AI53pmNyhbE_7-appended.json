@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-10-31 21:32:17",
+    "ups": "23865",
+    "downs": "4125",
+    "views": "5348149",
+    "top_comments": [
+        {
+            "comment": "Kya mast ganaa hai. Aaj bhi naachte his iz song pei tho ladkiya patt jaati hai.Aaj ka Bullywuud bakwaas hai. Gandh hai.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Divya Bharti was the most beautiful actress in bollywood industry \u2764\ufe0f\ud83d\ude0d\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.675,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "So funny dance\ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Love dream",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Eik din mein 6 million views!!! amazing.  This song never gona get old.",
+            "polarity": 0.35000000000000003,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Kya mast ganaa hai. Aaj bhi naachte his iz song pei tho ladkiya patt jaati hai.Aaj ka Bullywuud bakwaas hai. Gandh hai.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b\ud83d\udc8b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If Divya Bharati were alive today her beauty would be compared to the beauty of today's girls.",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Ppp",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u064a\u0627\u0648\u064a\u0644\u064a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

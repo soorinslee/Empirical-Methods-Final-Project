@@ -1,0 +1,121 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-02 10:38:02",
+    "ups": "29447",
+    "downs": "385",
+    "views": "598882",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 972,
+            "number_of_replies": 92,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "name the barista betty the barista",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Fridge tour please!!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "it\u2019s rlly sad to see ppl living my dream :/",
+            "polarity": -0.375,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "This house screams rich",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Very nice video",
+            "polarity": 0.78,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "How much did the house cost?",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Me: *sees the video *\nAlso me: awwwwwwwww im late",
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Omg I remember watching rosanna pansino",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Your new house is so nice\ud83d\ude0c",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "This house is amazing I can not believe this is your home!!!!!!!!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Your House is Goals Ro! I remember your first house, I already love that but this. This ones different and more Bigger \ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.25,
+            "subjectivity": 0.5066666666666666
+        },
+        {
+            "body": "Holy Wow! Having a huge crush moment with the Living Room and Kitchen theme \ud83d\ude0d\ud83d\udc9a",
+            "polarity": 0.26250000000000007,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "House is lovely, not sure I trust Wayfair though.",
+            "polarity": 0.125,
+            "subjectivity": 0.8194444444444444
+        },
+        {
+            "body": "OMG congrats in your new house/home.",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "name the barista betty the barista",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wanna see a new kitchen tour and a fridge tour",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Ro please call your coffee machine Justine. It just makes sense \ud83e\udd70",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Your so entertaining to watch \ud83d\ude0a",
+            "polarity": 0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Hey ro I was wondering if you could do one video that you organise your fridge and give us more closet tours your fridge is so big I think everyone would like that",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Oooop",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

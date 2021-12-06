@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 11:12:29",
+    "url": "https://www.youtube.com/watch?v=uIMfV3jqUKo",
+    "time_now": "2021-11-01 01:40:15",
+    "ups": "20744",
+    "downs": "1236",
+    "views": "463068",
+    "top_comments": [
+        {
+            "comment": "We All Love India And Respect To Mr. NARENDRA MODI For His Visit. \ud83d\udc4d.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Hindu Christian ekatvam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u0c2e\u0c40 \u0c28\u0c3e\u0c28\u0c4d\u0c28 \u0c24\u0c2a\u0c4d\u0c2a\u0c41 \u0c1a\u0c47\u0c38\u0c3e\u0c21\u0c41 \u0c30\u0c3e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Modi oil petrol diesel ka price Kam kar de",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hindu Christian ekatvam",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kya scene hai\ud83e\udd89",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "May it never happen, if Christianity or Catholicism is in trouble and dwindling the only safe place will be in India as it has been so that many other tolerant cultures and religions have sought refuge. Our world will be a holier place if all of the religions/cultures stopped forcing conversion or missions on each others religions/cultures and lived and let live and tolerate and accept each other as good neighbors. As long as they do not harm others as a religion/culture. There would be much more good and peace in the world and universe.",
+            "polarity": 0.2305785123966942,
+            "subjectivity": 0.5045454545454546
+        }
+    ]
+}

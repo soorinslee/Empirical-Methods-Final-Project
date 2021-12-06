@@ -1,0 +1,81 @@
+{
+    "time_posted": "2021-10-30 07:52:22",
+    "url": "https://www.youtube.com/watch?v=n7Q5KyPXGGU",
+    "time_now": "2021-11-02 14:44:34",
+    "ups": "77166",
+    "downs": "129",
+    "views": "464821",
+    "top_comments": [
+        {
+            "comment": "\u3139\u3147\uc9c0\uae08\uae4c\uc9c0 \uc598\ub124 \ubb34\ub300 \ubcf8 \uac83 \uc911\uc5d0 \ucee8\uc149\uc774\ub791 \ub178\ub798\ub791 \uc774\ubc88\uc774 \uc81c\uc77c \uc798 \uc5b4\uc6b8\ub9bc....\ubbf8\ucce4\uc74c....\uc774\ub7f0 \ub178\ub798 \uc790\uc8fc \ub0b4\uc92c\uc74c \uc88b\uaca0\ub2e4 \uac1c\uc88b\uc73c\ub2c8\uae50 \uc81c\ubc1c...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ya Allah bubu gue , kapan jelek sih apa ngga cape ganteng terus :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u3160\u3160\ubd80\uc0b0\uc5d0 \uc0ac\ub294 \uc988\ub2c8\ub294 \uc774 \ub0a0 \uc774 \ubb34\ub300\ub97c \ubcf4\uc9c0 \ubabb\ud588....\u3160\u3160\u3160\u3160\u3160",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\uc774\uac70\uc9c0",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ub3c4\uc601.....\uba38\ub9ac\uac00\ubb34\uc2a8\uc77c\uc774\uc9c0.......",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\uc7c8\ub2c8\uc57c \uc0ac\ub791\ud574 \ub124\uac00 \ub0b4 \uc804\ubd80\ub2e4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "johnny in all black \ud83e\udd27",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "I am loving the stage! Everyone looks amazing and the vocals are incredible.",
+            "polarity": 0.75,
+            "subjectivity": 0.9166666666666666
+        },
+        {
+            "body": "\u3139\u3147\uc9c0\uae08\uae4c\uc9c0 \uc598\ub124 \ubb34\ub300 \ubcf8 \uac83 \uc911\uc5d0 \ucee8\uc149\uc774\ub791 \ub178\ub798\ub791 \uc774\ubc88\uc774 \uc81c\uc77c \uc798 \uc5b4\uc6b8\ub9bc....\ubbf8\ucce4\uc74c....\uc774\ub7f0 \ub178\ub798 \uc790\uc8fc \ub0b4\uc92c\uc74c \uc88b\uaca0\ub2e4 \uac1c\uc88b\uc73c\ub2c8\uae50 \uc81c\ubc1c...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ya Allah bubu gue , kapan jelek sih apa ngga cape ganteng terus :)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\uce74\uac10\ub2d8 \uc815\uc6b0 \ub9ce\uc774 \uc7a1\uc544\uc8fc\uc154\uc11c \uac10\uc0ac\ud569\ub2c8\ub2e4...\u3160\u3160\u3160\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Taeyong, wow.",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I am soo in love with Johnny's new look\ud83d\udc99\ud83d\udc99",
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.5272727272727272
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj4wuw/help_me_please/",
+    "time_posted": "2021-10-30 12:23:33",
+    "time_now": "2021-11-03 19:37:33",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinqfqz",
+            "body": "Well if you have a code usually you go to the Xbox Store on your console and on the left side is a Redeem option.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.125,
+            "subjectivity": 0.125
+        },
+        {
+            "comment_id": "hiqcg1o",
+            "body": "Is there a credit card or debit linked to the account",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinqfqz",
+            "body": "Well if you have a code usually you go to the Xbox Store on your console and on the left side is a Redeem option.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.125,
+            "subjectivity": 0.125
+        },
+        {
+            "comment_id": "hiqcg1o",
+            "body": "Is there a credit card or debit linked to the account",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinqfqz",
+            "body": "Well if you have a code usually you go to the Xbox Store on your console and on the left side is a Redeem option.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.125,
+            "subjectivity": 0.125
+        },
+        {
+            "comment_id": "hiqcg1o",
+            "body": "Is there a credit card or debit linked to the account",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

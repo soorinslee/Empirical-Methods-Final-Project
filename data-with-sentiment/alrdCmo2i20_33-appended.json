@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-05 08:40:14",
+    "ups": "5510",
+    "downs": "65",
+    "views": "72932",
+    "top_comments": [
+        {
+            "comment": "Nintendo 64 Mouse Power user here, you were having troubles with the n64 mouse scrolling speeds cause you plugged it in after the joystick was initialized on console startup. the game needs to start with the mouse already plugged into the port. Since the N64 mouse and controller joystick values are different, You cannot hotswap the mouse and the controller (for photos) while playing the game. This is very annoying, but just how the hardware works.",
+            "likes": 167,
+            "number_of_replies": 8,
+            "polarity": -0.45,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I'm tired of VPN ads........... They don't work. That shit just makes me forward the video or quit it.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.30000000000000004,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "I don't really understand why you need the SNES/GameCube in the mix when you already have the GameBoys. Can't you just use the GameBoy as intended to take your Pocket Camera pictures? Just options?",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Okay I'm so sorry but the first thing that came to mind was putting yo dong in the game. Walk around the city and be like \"oh yo what's up its my dong\"",
+            "polarity": -0.037500000000000006,
+            "subjectivity": 0.5583333333333333
+        }
+    ]
+}

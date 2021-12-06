@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-05 21:02:35",
+    "ups": "8830",
+    "downs": "349",
+    "views": "531127",
+    "top_comments": [
+        {
+            "comment": "Praise Jesus",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Voices from above\r\nBible\r\n  \u201cAnd lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.\u201d (Matthew 3:17).\r\nVeda\r\n\u201cI am the sound in the air\u201d (Bhagavad Gita, 8.7.).\r\n\u201cAn invisible voice, which sounded low and loud, said, addressing Shatakrat:\u201c ... So heed this my word: both of them are the gods Nara and Narayana, glorious in heaven. You yourself know what their valor and power represent. Unapproachable and invincible in battle, these two ancient sages, the best of all, cannot be defeated by anyone in the three worlds. Both of them also deserve the highest respect from all the gods and asuras, yaksas and rakshasas, gandharvas and people, kinnaras and snakes. ... \". (Mahabharata Chapter 219).",
+            "polarity": 0.38571428571428573,
+            "subjectivity": 0.557142857142857
+        },
+        {
+            "body": "Wow shreeman modiji \ud83d\ude4f super",
+            "polarity": 0.21666666666666667,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "NSA ka Vatican me kya kaam \ud83e\udd14\ud83e\udd14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

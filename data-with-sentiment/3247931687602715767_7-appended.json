@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj4vsv/how_can_people_like_brawlhalla/",
+    "time_posted": "2021-10-30 12:22:08",
+    "time_now": "2021-10-31 21:34:04",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinvayj",
+            "body": "It's free and you can run it on a potato.",
+            "ups": 10,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hioaoex",
+            "body": "How people can like (insert any game)?\n\nBecause circumstances and preferences mostly.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinqhef",
+            "body": "Hahahaha git gud half the stuff u said is straight up lied bro.",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.07777777777777779,
+            "subjectivity": 0.35555555555555557
+        },
+        {
+            "comment_id": "hip1rkw",
+            "body": "Yep I tried playing it when I was waiting for smash to launch. It was not a good holdover and I think I played maybe 4 rounds before uninstalling and never thought about it again. From what I remember all characters play the same which defeats the purpose of that type of game for me",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.375
+        },
+        {
+            "comment_id": "hir5xh1",
+            "body": "I fail to see why items or healing has absolutely anything to do with being critical about it...",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.09999999999999999,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinvayj",
+            "body": "It's free and you can run it on a potato.",
+            "ups": 9,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hioaoex",
+            "body": "How people can like (insert any game)?\n\nBecause circumstances and preferences mostly.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinqhef",
+            "body": "Hahahaha git gud half the stuff u said is straight up lied bro.",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.07777777777777779,
+            "subjectivity": 0.35555555555555557
+        },
+        {
+            "comment_id": "hip1rkw",
+            "body": "Yep I tried playing it when I was waiting for smash to launch. It was not a good holdover and I think I played maybe 4 rounds before uninstalling and never thought about it again. From what I remember all characters play the same which defeats the purpose of that type of game for me",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.375
+        },
+        {
+            "comment_id": "hir5xh1",
+            "body": "I fail to see why items or healing has absolutely anything to do with being critical about it...",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.09999999999999999,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinvayj",
+            "body": "It's free and you can run it on a potato.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hioaoex",
+            "body": "How people can like (insert any game)?\n\nBecause circumstances and preferences mostly.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.45
+        },
+        {
+            "comment_id": "hinqhef",
+            "body": "Hahahaha git gud half the stuff u said is straight up lied bro.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.07777777777777779,
+            "subjectivity": 0.35555555555555557
+        },
+        {
+            "comment_id": "hip1rkw",
+            "body": "Yep I tried playing it when I was waiting for smash to launch. It was not a good holdover and I think I played maybe 4 rounds before uninstalling and never thought about it again. From what I remember all characters play the same which defeats the purpose of that type of game for me",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.375
+        },
+        {
+            "comment_id": "hir5xh1",
+            "body": "I fail to see why items or healing has absolutely anything to do with being critical about it...",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.09999999999999999,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

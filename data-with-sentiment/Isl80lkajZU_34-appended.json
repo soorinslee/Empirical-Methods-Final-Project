@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:00:11",
+    "url": "https://www.youtube.com/watch?v=Isl80lkajZU",
+    "time_now": "2021-11-05 12:47:08",
+    "ups": "14076",
+    "downs": "240",
+    "views": "190339",
+    "top_comments": [
+        {
+            "comment": "SIGN UP FOR MY FREE MASTERCLASS: How to Turn Video-Making Into $100k/yr Career\nhttps://bit.ly/3vK6tUe",
+            "likes": 187,
+            "number_of_replies": 41,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Tbh lisa did make the song a whole lot better  I was only there because of lisa",
+            "polarity": 0.2333333333333333,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "body": "Wait... was Lisa added after? Like when they're all together? She looks edited... and I didn't notice at first.",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

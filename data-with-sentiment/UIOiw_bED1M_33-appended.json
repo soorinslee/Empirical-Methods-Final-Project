@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-05 08:40:22",
+    "ups": "8150",
+    "downs": "234",
+    "views": "219072",
+    "top_comments": [
+        {
+            "comment": "I wish the Avengers game by Square Enix had been like this Guardians of the Galaxy game! The games as a service ruined the Avenger game, what a huge loss. Also Deus Ex was stopped because of that live service game so that is another strike. Please support these single player games because we need more of them .",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.09188311688311687,
+            "subjectivity": 0.4642857142857143
+        },
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "*I\u2019m tired of getting games on the PS5 4K 30FPS \ud83e\udd26\ud83c\udffd\u200d\u2642\ufe0f because no point in doing that because all AAA games should all be 4K 60FPS.*",
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "They need to remove denuvo, i bet its culprit here just like is RE village",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

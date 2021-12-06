@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-02 06:31:05",
+    "ups": "5065",
+    "downs": "280",
+    "views": "225842",
+    "top_comments": [
+        {
+            "comment": "this is amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WILL YOU GIVE TRAINING",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What so cute hamster",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "3:20 omg\u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2:03 lol the face that says why do I have to do thid",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

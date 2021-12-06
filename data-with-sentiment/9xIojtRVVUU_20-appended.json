@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-03 03:06:17",
+    "ups": "10945",
+    "downs": "15",
+    "views": "85045",
+    "top_comments": [
+        {
+            "comment": "Niceeeeeeee  and smooth welcome back J, nuff respect kid.",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.4000000000000001,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment": "HERE CRAZY FANGIRL FROM AUSTRALIA OF AVATAR JACKSON WANG!!!\ud83d\udd4a\ufe0f",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "That dance group was awesome!! Go Team Wang!!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\u4f60\u4eec\u7684\u5de1\u6f14\u7968\u786e\u5b9esold out\uff0c\u4e5f\u592a\u96be\u4e70\u5230\u4e86\uff0c\u53ef\u6076",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Im really feeling the vibe.With jackson and his band.Panthepack.Im loving all there talent.The rapping on this song is crazy crazy good.They kinda give me a group vibe like Kard.Its just To many vibes make me want to.Pulled up on all his team Wang.Like black panther 4every.Im team wang 4every.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.011111111111111094,
+            "subjectivity": 0.6472222222222221
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jackson\u9664\u4e86\u5531\u6b4c\uff0c\u8df3\u821e\u4e5f\u662f\u4e00\u7edd\u5440\uff0c\u8981\u591a\u8df3\uff0c\u770b\u4e0d\u591f\uff01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Panthepack ...YAY !!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love it when he dances!! SWAG !",
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Perfect as always \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

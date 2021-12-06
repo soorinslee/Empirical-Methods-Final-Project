@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-03 07:13:51",
+    "ups": "39530",
+    "downs": "273",
+    "views": "571886",
+    "top_comments": [
+        {
+            "comment": "The only real issue I have with the mob spawn changes is it's so extreme. It makes the game far closer to playing on peaceful setting. Finding inventive and nice looking ways to mob proof your base is half of minecraft really.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.03257575757575757,
+            "subjectivity": 0.6878787878787879
+        },
+        {
+            "comment": "Nice :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I recommend you add little amethyst geodes around the walls indented into the walls or some form of fungi like mushrooms growing out of little cliff side off the walls :) :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15625,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Corners of the elevator - sea lanterns! you have a farm!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "you could add more things like the amethyst eyes around the area to make it more magical. I feel like it has potential to look cool",
+            "polarity": 0.37,
+            "subjectivity": 0.73
+        },
+        {
+            "body": "Love the natural ravine you are making, can't wait to see the final product. There are already lots of good suggestions here, especially some of the amethyst ideas. Still in wonder if you had thought about adding 2 stalagtites on the top of the entrance tunnel, it would look like teeth under those amethyst eyes. Also some differently colored mini mushrooms could be fun (blocks on endrods). I mean you could even put sea lantern on end rods. Its magical, lots of blocks could be mushrooms.",
+            "polarity": 0.22874999999999995,
+            "subjectivity": 0.65875
+        }
+    ]
+}

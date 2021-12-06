@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-11-01 14:02:03",
+    "ups": "4572",
+    "downs": "348",
+    "views": "278677",
+    "top_comments": [
+        {
+            "comment": "I thought that penny wise was a boy.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "I love lalilu so much nice ideas \ud83d\udc4f\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "I don't like it by i",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy helloween\ud83e\udd21\ud83c\udf6c\ud83d\udc79\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83 trick N treats \ud83c\udf83\ud83c\udf83\ud83c\udf6c\ud83c\udf6c\ud83c\udf6c\ud83c\udf6c\ud83d\udc79\ud83d\udc79\ud83d\udc79\ud83e\udd21\ud83d\udc7b lalilu.  I like your channel very much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.53,
+            "subjectivity": 0.63
+        },
+        {
+            "comment": "\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Q",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "99911111ft              carftman",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1etuiuuhjjjjh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I've never been able to do the crafts but I really wanted to and I will do it sometime",
+            "polarity": 0.35,
+            "subjectivity": 0.4125
+        }
+    ]
+}

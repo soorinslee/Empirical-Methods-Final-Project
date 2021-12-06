@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-05 08:40:23",
+    "ups": "18026",
+    "downs": "184",
+    "views": "404758",
+    "top_comments": [
+        {
+            "comment": "Did not expect to be taught a lesson about what zombie brains do to feeding mechanisms. Obligatory \"10 out of 10 would learn again\" comment here.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "he should try look at guns from Enlisted i think that would be fun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "On the M1A\u2019s Rail system, that\u2019s the standard setup. The hand guard has been trimmed away to allow the rail to be welded to the barrel or sometimes you\u2019ll find they\u2019ve got a Clamp Mount that wraps the barrel.  although the one in B4B appears to be welded. My M1A had this type of rail when I bought it. You can buy  them now from Springfield  with the rail screwed to the barrel via hex screws",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "MY DAWG at it again with these videos\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"Had the barrels cut down to.. *looks at camera* some sorts of criminal purposes\"\n\nWhat do you mean by that \ud83d\ude0f",
+            "polarity": -0.28935185185185186,
+            "subjectivity": 0.5087962962962963
+        },
+        {
+            "body": "19:16\nIs it just me or is that a beauty? \nLmfao looks great \ud83d\udc4d",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        }
+    ]
+}

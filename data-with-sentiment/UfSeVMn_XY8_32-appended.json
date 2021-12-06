@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-11-05 04:33:48",
+    "ups": "6393",
+    "downs": "490",
+    "views": "423829",
+    "top_comments": [
+        {
+            "comment": "IT is a good day it's me violet \u263a\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "Good morning teacher and she said she will be there for you through ups and down the road to recovery and chair for kids girl sale for the people who are always welcome to come to my house and lot",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4481481481481482,
+            "subjectivity": 0.5962962962962964
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I thought Pennywise what is evil and a little kid was a nice guy oh my God I found a laugh even when I\u2019m not just one this is wiping me crazy\ud83e\udd2f\ud83e\udd2f\ud83e\udd2f",
+            "polarity": -0.07187500000000001,
+            "subjectivity": 0.65
+        }
+    ]
+}

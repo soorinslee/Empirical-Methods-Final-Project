@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-03 15:28:24",
+    "ups": "15867",
+    "downs": "247",
+    "views": "378671",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1722,
+            "number_of_replies": 135,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "omigot",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Have you tried unplugging your editor and plugging it back in?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "5:46 Best moment I'll ever see on this channel \ud83e\udd23",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "you should play loomian legacy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Everyone was thought to have won this at some point during this video :P what a fun watch!",
+            "polarity": 0.5625,
+            "subjectivity": 0.6
+        }
+    ]
+}

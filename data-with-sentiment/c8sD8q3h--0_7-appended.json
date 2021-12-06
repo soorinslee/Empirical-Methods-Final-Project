@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 08:30:09",
+    "url": "https://www.youtube.com/watch?v=c8sD8q3h--0",
+    "time_now": "2021-10-31 21:32:19",
+    "ups": "10268",
+    "downs": "1237",
+    "views": "299456",
+    "top_comments": [
+        {
+            "comment": "https://youtu.be/-RismT1Hpf4",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Rvcj wale hazir ho!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Who Wanna This Lifestyle \nEven We are middle class now",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "RVCJ come from ur original ID",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "RVCJ come from ur original ID",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Who Wanna This Lifestyle \nEven We are middle class now",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rvcj wale hazir ho!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

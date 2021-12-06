@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-06 05:16:48",
+    "ups": "4607",
+    "downs": "52",
+    "views": "134548",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 161,
+            "number_of_replies": 7,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "4:45 and ended with a winner smile!!! RIP replay button",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5859375,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "I love you Marygidget as Gigi now ! Soo proud ako binoto kita noon sa TNT pero still Winner ka parin KEEP SINGING \ud83c\udfa7\ud83c\udfb6\ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7125,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Sya ung Kelly Clarkson ng pinas rakista na pop. They can belt high notes effortlessly.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16,
+            "subjectivity": 0.5399999999999999
+        },
+        {
+            "comment": "What I like with this girl is that when she sings , she makes it her very own by showing her own style and talent.... Terrible ....I'm getting crazy with your style of singing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05500000000000002,
+            "subjectivity": 0.975
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nakakapanindig balahibo ah\ud83d\ude32",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sya ung Kelly Clarkson ng pinas rakista na pop. They can belt high notes effortlessly.",
+            "polarity": 0.16,
+            "subjectivity": 0.5399999999999999
+        }
+    ]
+}

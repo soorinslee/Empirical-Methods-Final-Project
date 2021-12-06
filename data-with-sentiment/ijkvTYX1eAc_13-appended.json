@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:30:06",
+    "url": "https://www.youtube.com/watch?v=ijkvTYX1eAc",
+    "time_now": "2021-11-01 22:15:58",
+    "ups": "4345",
+    "downs": "25",
+    "views": "75195",
+    "top_comments": [
+        {
+            "comment": "Lucario: \"Not yet, Ash! I can do this!\"",
+            "likes": 421,
+            "number_of_replies": 7,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I really have a question can ash use mega lucario and ash greyninja form at the same time cause ash greyninja need an mega stone.... \ud83e\udd14\ud83e\udd14\ud83e\udd14",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.1625
+        },
+        {
+            "comment": "I say 8.5 because lucario got beat up like a rag doll, would be nice to show ash having better strategies. It gets a boost just because of Leon is so cool I bet the next episode will be a 10!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.36250000000000004,
+            "subjectivity": 0.5375
+        },
+        {
+            "comment": "Us: come on Ash, use Gengar and Dragonite\n\nAsh: Bold of you to expect me to use Gengar and Dragonite",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": []
+}

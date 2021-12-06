@@ -1,0 +1,122 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-03 03:06:44",
+    "ups": "103955",
+    "downs": "2224",
+    "views": "2633911",
+    "top_comments": [
+        {
+            "comment": "Preston: This kills me.\nRandom player: I think you got that backwards.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Preston when you said,\u201dpunch someone to your left,\u201d monsterous didn\u2019t punch nobody to the left he only looked left slightly.Big Brain \ud83e\udde0 \ud83d\ude0e",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "my name is Devdarsh\ud83d\ude03\ud83d\ude03\ud83d\ude03\ud83d\ude0a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Preston how old are u ???",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "I love you prestdn",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love you prestdn",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "my name is Devdarsh\ud83d\ude03\ud83d\ude03\ud83d\ude03\ud83d\ude0a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Preston how old are u ???",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "do it with minecraft chill tune",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i made it my self and from Minecraft>>>>>  for our childhood memory for all the kids pls make it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "bro if u can pls make a rap on this ok.......",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Pancakes are better!!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I saw todoroki in squid game HUH",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Preston when you said,\u201dpunch someone to your left,\u201d monsterous didn\u2019t punch nobody to the left he only looked left slightly.Big Brain \ud83e\udde0 \ud83d\ude0e",
+            "polarity": 0.0,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "We are going to Texas!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love preston videos on my next birthday I'm going to wish I could meet him in real life",
+            "polarity": 0.2333333333333333,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Ayo do u want to play mc with me",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "And this is why I bought your merch",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "True waffles are better than pancakes",
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "Banger vids coming out on our YT soon\u2764\ufe0f\u2764\ufe0f!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

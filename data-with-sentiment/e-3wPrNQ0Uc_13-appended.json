@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:54:01",
+    "url": "https://www.youtube.com/watch?v=e-3wPrNQ0Uc",
+    "time_now": "2021-11-01 22:16:12",
+    "ups": "5701",
+    "downs": "26",
+    "views": "55563",
+    "top_comments": [
+        {
+            "comment": "As always\u2026Let\u2019s go Brandon",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udd1chttps://youtu.be/7OC9a2Q7YDc",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My last account got deleted for remarking that Fox news and the Trump movement says more about how dismal the education system in the US than it does anything else.\nApparently stating facts is \"hate speech\"",
+            "polarity": -0.0625,
+            "subjectivity": 0.45416666666666666
+        },
+        {
+            "body": "You believe the earth is flat!!!",
+            "polarity": -0.048828125,
+            "subjectivity": 0.125
+        }
+    ]
+}

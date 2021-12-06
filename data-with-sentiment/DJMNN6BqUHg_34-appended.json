@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 13:36:24",
+    "url": "https://www.youtube.com/watch?v=DJMNN6BqUHg",
+    "time_now": "2021-11-05 12:47:28",
+    "ups": "5782",
+    "downs": "106",
+    "views": "115607",
+    "top_comments": [
+        {
+            "comment": "I gone NUTS for 5 days",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "O1G when I first saw Roblox shut down I was like sad",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.13518518518518519,
+            "subjectivity": 0.5407407407407407
+        }
+    ],
+    "comments_since_last_sample": []
+}

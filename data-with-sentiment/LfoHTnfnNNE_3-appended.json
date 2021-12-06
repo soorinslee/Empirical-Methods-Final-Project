@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:26:03",
+    "url": "https://www.youtube.com/watch?v=LfoHTnfnNNE",
+    "time_now": "2021-10-31 05:04:46",
+    "ups": "535",
+    "downs": "12",
+    "views": "6996",
+    "top_comments": [
+        {
+            "comment": "Wow, this lady is bang on the nail, very well said.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "I'm 0 for 4 with books coming in from the UK. One was 'lost in transit' and it's been over 6 weeks for another. Let's see if the others make it. We're talking just printed matter here. Customs?\ud83e\udd14 Nah...punishment.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Threatening the British is never a good strategy\u2026",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.175,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "\ud83e\udd23 Take that Pepe.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "U.K.: I wanna be a 3rd country.\nE.U.: Are you sure?\n\nU.K.: I wanna be a 3rd country.\nE.U.: Are you really sure?\n\nU.K.: I wanna be a 3rd country.\nE.U.: You know this is going to totally change the way you trade with us?\n\nU.K.: I wanna be a 3rd country.\nE.U.: Alright then. From now on, 3rd party country rules apply.\n\nU.K. STOP PUNISHING US!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.125,
+            "subjectivity": 0.3159722222222222
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Just in time turns out to be, it might not arrive.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The Frogs have always tried to punish us and there's an election coming and their politicians have to show proof that they are doing us some visible damage .",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What brilliant words...thank you miss",
+            "polarity": 0.9,
+            "subjectivity": 1.0
+        }
+    ]
+}

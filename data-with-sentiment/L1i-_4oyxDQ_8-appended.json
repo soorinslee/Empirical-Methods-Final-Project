@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-11-01 01:40:18",
+    "ups": "1450",
+    "downs": "21",
+    "views": "11433",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Turned out so good!",
+            "polarity": 0.875,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I absolutely love this piece!!! Do u sell these pieces? I would b interested in purchasing this!",
+            "polarity": 0.64453125,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Great job! You do nice work, now it's PERFECT!!\nAnd just a helpful tip, just poke the screws  into the cardboard leaving the heads UP when you need to  spray paint them.  \ud83d\ude09.",
+            "polarity": 0.8666666666666667,
+            "subjectivity": 0.9166666666666666
+        }
+    ]
+}

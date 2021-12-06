@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-03 19:36:22",
+    "ups": "4642",
+    "downs": "189",
+    "views": "194902",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 24,
+            "number_of_replies": 28,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "The question is. There's still have storage for downloading the video why would you panic to print out the document? Does it Sound easy to download the file and just save it rather than have to print it out one by one? \nI don't know what's the problem with ya... Is the Internet gone? The storage, Signal, or the web. (what exactly the definition is this)",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.36111111111111116,
+            "subjectivity": 0.49444444444444446
+        },
+        {
+            "comment": "why dont use robots ? They wont get tired and do the work quite quicker than humans",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "I like when he spills coffee n goes uh oh lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "He even print porm hub?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It\u2019s annoying how this guys like \u201cThe internet is gone!?!?!!!!!\u201d \u201cOh yeah and btw you can use your phone so no biggie\u201d",
+            "polarity": -1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I showed my teeth at end now send a pizza at e 4/171 guruhargobind market chhertha",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "But if they pass out then wouldn\u2019t coffee be spilled all over the paper?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow I love this",
+            "polarity": 0.3,
+            "subjectivity": 0.8
+        }
+    ]
+}

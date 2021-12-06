@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-03 07:14:16",
+    "ups": "12773",
+    "downs": "191",
+    "views": "572413",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "There robbing infested insects houses taking them to there house",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The lady has like 3/4 of a small home in jewelry, in a unsecured displaybox. Dummy",
+            "polarity": -0.25,
+            "subjectivity": 0.4
+        }
+    ]
+}

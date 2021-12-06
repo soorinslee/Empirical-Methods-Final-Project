@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-04 07:57:05",
+    "ups": "8764",
+    "downs": "90",
+    "views": "83380",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 1128,
+            "number_of_replies": 27,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Who would have thought pop-funk would translate to metal so well! The riffage! The three of you together is quite something! Making Phil Collins creepy...Hotel California... just...wow! MORE!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow this was really damn horrible.. Daria Zaritkskaya  also did it but both of you was lit \ud83d\udd25in other ways",
+            "polarity": -0.20625,
+            "subjectivity": 0.64375
+        },
+        {
+            "body": "I feel like the guitar chords should punch more. I don't know if it's the production or lack of bass, but it feels lacking.",
+            "polarity": 0.175,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "FYI song works well to perform CPR to.... as does Another One Bites the Dust....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

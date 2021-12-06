@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=5C3uUlBSYY0",
+    "time_now": "2021-10-31 05:05:02",
+    "ups": "1683",
+    "downs": "103",
+    "views": "74067",
+    "top_comments": [
+        {
+            "comment": "Wow! It's good that Melissa's parents are together again! Melissa deserves to be punished. You can take a walk during the day. It's dangerous to walk at night",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "The FitnessGram\u2122 Pacer Test is a multistage aerobic capacity test that progressively gets more difficult\u2005as\u2005it continues.\nThe 20\u2005meter pacer test will begin in\u200530 seconds. Line up at the start.\nThe running speed starts slowly, but gets faster each minute after you hear this signal.\nA single lap should be completed each time you hear this sound.\nRemember to run in a straight line, and run as long as possible.\nThe second time you fail to complete a lap before the sound, your test is over.\nThe test will begin on the word start.\nOn your mark, get ready, start.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.02912087912087913,
+            "subjectivity": 0.454945054945055
+        },
+        {
+            "comment": "Love you so much guys \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Your not allowed  to go to sleep with glasses  on",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I was shocked by Melissa wiping lipstick on her dads T-shirt oh Melissa of course she regrets it \ud83d\ude00",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.39999999999999997,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My parents got a divorce",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "My parents got a divorce",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It broke their parent relationship \nWhat a sad story",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

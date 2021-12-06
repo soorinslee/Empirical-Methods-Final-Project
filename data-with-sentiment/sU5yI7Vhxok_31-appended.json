@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-05 00:25:42",
+    "ups": "8980",
+    "downs": "98",
+    "views": "87278",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 1153,
+            "number_of_replies": 27,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Who would have thought pop-funk would translate to metal so well! The riffage! The three of you together is quite something! Making Phil Collins creepy...Hotel California... just...wow! MORE!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That first verse - knew from then it was going to be Epic!",
+            "polarity": 0.1875,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "It's got it's own touch. Although the original is better, I do have to say that it's quite interesting somewhat studying your version. I really like it how you can just change a song so much and make it your own. Love it, keep up the great work!!!!",
+            "polarity": 0.4972222222222223,
+            "subjectivity": 0.6111111111111112
+        }
+    ]
+}

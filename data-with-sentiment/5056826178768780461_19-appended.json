@@ -1,0 +1,38 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qiu7w2/quick_question_my_fellow_music_members/",
+    "time_posted": "2021-10-30 00:48:02",
+    "time_now": "2021-11-02 23:00:45",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "him04i7",
+            "body": "Blood makes noise - Suzanne Vega\n\nMoney - Pink floyd",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "him04i7",
+            "body": "Blood makes noise - Suzanne Vega\n\nMoney - Pink floyd",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "him04i7",
+            "body": "Blood makes noise - Suzanne Vega\n\nMoney - Pink floyd",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        }
+    ]
+}

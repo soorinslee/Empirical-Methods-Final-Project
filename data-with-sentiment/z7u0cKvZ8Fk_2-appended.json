@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 14:45:05",
+    "url": "https://www.youtube.com/watch?v=z7u0cKvZ8Fk",
+    "time_now": "2021-10-31 00:58:21",
+    "ups": "699",
+    "downs": "55",
+    "views": "44169",
+    "top_comments": [
+        {
+            "comment": "I love your hacks! \ud83c\udf39\ud83c\udf83\u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Happy helloween \ud83c\udf83\ud83d\ude0a\u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Congratulations to everyone who comes in every single seconds\u2764\ufe0f......",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.07142857142857142,
+            "subjectivity": 0.21428571428571427
+        },
+        {
+            "comment": "Super very much see in real life akka",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2644444444444444,
+            "subjectivity": 0.40888888888888886
+        },
+        {
+            "comment": "Superb hai",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "J'aime trop mdrr mais c'est un peu moins de deux semaines\n\n\n\n\n\n\n\n Tg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

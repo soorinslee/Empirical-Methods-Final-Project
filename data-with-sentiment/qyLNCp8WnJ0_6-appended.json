@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-10-31 17:25:44",
+    "ups": "3967",
+    "downs": "105",
+    "views": "81952",
+    "top_comments": [
+        {
+            "comment": "Question....How are the sardines Bobby approved if they're processed in Vietnam? Does that mean the fish were caught in those waters as well? Just wondering.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment": "Is Rao's better  choice than the ORGANIC brand????",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Can you let me know about fairlife protein shakes ???",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We have Rao\u2019s in New England",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "I have Rao's here in Peoria,IL. I have a question.  I was skimming the laird's website. I saw cookie mixes. Are the Bobby approved? My husband is on a heart diet and can't eat alot of dark greens. This time of year he REALLY craves sweets. He does eat fresh fruits but still wants the whole pumpkin pie and will eat a batch of cookies in a couple days. I find making smaller batches help but most the ingredients I don't approve. Sorry this is so long.",
+            "polarity": 0.07777777777777778,
+            "subjectivity": 0.4444444444444444
+        },
+        {
+            "body": "So with what I learned today should I get up and trow away my box of about 80 K cup coffee in my pantry??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Never Keirig. NO",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes i am glad i saw this",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

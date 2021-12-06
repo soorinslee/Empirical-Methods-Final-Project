@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-02 18:52:06",
+    "ups": "15250",
+    "downs": "224",
+    "views": "355871",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1673,
+            "number_of_replies": 133,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Can we all appreciate how fast jack was when finishing a cereal box maze.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I would like to do something like this ONLY IF I HAD MORE GAMES THAN JUST SWORD AND IF MY FRIENDS PLAYED POK\u00c9MON\u2026\u2026\u2026. Anyway good video",
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "The wrong thing was in the dream journal it was Cynthia on his face",
+            "polarity": -0.5,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Purpleclip stop screaming like little chavy girl baby",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Purpleclip needs to take his ADHD medication as he's so ADHD not funny and he's worst pokemon YouTuber ever \nNeeds grow up",
+            "polarity": -0.5625,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Gotta be honest would have loved pleasant Mikey voice for the ending t that he just won",
+            "polarity": 0.6777777777777777,
+            "subjectivity": 0.888888888888889
+        },
+        {
+            "body": "But pokeman 7 only caught one legendary before ho-oh because he gave up on registeel right? So he wouldn't have won even if he caught ho-oh",
+            "polarity": 0.42857142857142855,
+            "subjectivity": 0.8452380952380952
+        }
+    ]
+}

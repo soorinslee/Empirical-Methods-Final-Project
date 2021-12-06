@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-01 22:15:37",
+    "ups": "5278",
+    "downs": "59",
+    "views": "61925",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 291,
+            "number_of_replies": 39,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "One of the Best male version so far. \ud83d\udc9b \ud83d\udc9b \ud83d\udc9b",
+            "likes": 10,
+            "number_of_replies": 0,
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment": "I- \nWow!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Wow\ud83e\udd7amy fav \ud83d\ude16\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "love youuuuuuuuuuuuuuuu!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Beautifully sung!  I always find the male covers the most interesting since many females are trying to sound just like Adele.  Though, some are doing a great job as well.  I did a cover of this song as well. Come check it out.",
+            "polarity": 0.5285714285714286,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "Too much editing. You're so good, leave it RAW!",
+            "polarity": 0.2038461538461538,
+            "subjectivity": 0.4205128205128205
+        },
+        {
+            "body": "It's Adele... Ambitious to cover her anyways. She is a cup of all her own and uniquely special in our lifetime one of the greats. However I like your rendition better the connection to you and that song belong together and this is a very very well done cover and I'm glad you did it.",
+            "polarity": 0.41119047619047616,
+            "subjectivity": 0.7019047619047619
+        },
+        {
+            "body": "Goosebumps all over me\ud83e\udd7a\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-06 05:16:46",
+    "ups": "29095",
+    "downs": "661",
+    "views": "534991",
+    "top_comments": [
+        {
+            "comment": "This is the last ncs 10 release I hope 10 years later will release ncs 20 release!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.03333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Awesome! \u2728",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Man please do a collab with knife party yall\nWould banggggg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Omg \ud83d\ude32 Amazing!\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

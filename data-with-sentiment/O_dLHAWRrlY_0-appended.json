@@ -1,0 +1,147 @@
+{
+    "time_posted": "2021-10-30 13:25:17",
+    "url": "https://www.youtube.com/watch?v=O_dLHAWRrlY",
+    "time_now": "2021-10-30 16:46:14",
+    "ups": "1186",
+    "downs": "42",
+    "views": "28383",
+    "top_comments": [
+        {
+            "comment": "Smith Rowe looking like a golden boy this season.",
+            "likes": 15,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Happiest day for arsenal fans today",
+            "likes": 11,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ramsdale\ud83e\udd29",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ramsdale was the man of the match gud saves",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "What's your favorite upcoming match?\nLiverpool vs Brighton\nNewcastle vs Chelsea\nMan City vs Crystal Palace\nTottenham vs Manchester United\nLet me know & you'll have it after the game is over!",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What's your favorite upcoming match?\nLiverpool vs Brighton\nNewcastle vs Chelsea\nMan City vs Crystal Palace\nTottenham vs Manchester United\nLet me know & you'll have it after the game is over!",
+            "polarity": 0.0,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Ramsdale kesurupan Neuer \ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Coyg boys much love from\ud83c\uddf0\ud83c\uddea\ud83c\uddf0\ud83c\uddea",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Super Arsenal.Bolarkanuv.Man.yuvni.xam.yutsa.yaxshi.bolardi.arsenal.yutadI.xam.yutgan.",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "0:45 anyone kno why that's not a backpass?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": ".......what the FUCK is Ramsedale? JEEEEEEEZUZZZZZZ",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "ARTETA  on right track with his best men. Splendid.",
+            "polarity": 0.7063492063492064,
+            "subjectivity": 0.6119047619047618
+        },
+        {
+            "body": "Newcastle vs Chelsea",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "COYG!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Perlahan\" Arsenal mulai konsisten",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The Gunner...is Back..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ramsdale was the man of the match gud saves",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Good for arsenal FC best of luck in your club",
+            "polarity": 0.85,
+            "subjectivity": 0.45000000000000007
+        },
+        {
+            "body": "Jones deserves straight red card",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Smith Rowe looking like a golden boy this season.",
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Arsenal \ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Congratulations \ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happiest day for arsenal fans today",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ramsdale\ud83e\udd29",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Arsenal is back to compete",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 15:26:03",
+    "url": "https://www.youtube.com/watch?v=LfoHTnfnNNE",
+    "time_now": "2021-10-31 09:11:35",
+    "ups": "547",
+    "downs": "12",
+    "views": "7208",
+    "top_comments": [
+        {
+            "comment": "I'm 0 for 4 with books coming in from the UK. One was 'lost in transit' and it's been over 6 weeks for another. Let's see if the others make it. We're talking just printed matter here. Customs?\ud83e\udd14 Nah...punishment.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83e\udd23 Take that Pepe.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "And what on earth do you think they would do with an EU army ? Invade Great Britain ? Calm down, it's just an administrative litigation, nothing to worry about.",
+            "polarity": 0.3148148148148148,
+            "subjectivity": 0.5962962962962963
+        },
+        {
+            "body": "The French have been stealing fish for year's that's why some boats don't have a licence because they were never registered,think how much fish that would amount to over the years they should be taken to court and fined",
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Most right wing and centre-right parties in France hate the EU. All they see is the EU bulling the UK using their puppet Macron. To them he's a globalist, not a nationalist, and  a lot of potential voters think that too. If Macron thinks this is going to make him look strong, in their eyes, he's sadly mistaken.",
+            "polarity": -0.013492063492063508,
+            "subjectivity": 0.7781746031746032
+        },
+        {
+            "body": "People keep saying Macron is doing this for France. He isn't.  France's fisheries policies are controlled by the EU, not France. He's appealing to the EU for help. This can only be settled by the EU. How can he look strong to a domestic audience when he needs the EU to fight his battles for him? \ud83d\ude02",
+            "polarity": 0.23333333333333334,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "im so glad to hear some else say what i have been saying for years about the immigrants its also the big and bigger companies who wanted cheap workers so they back handed cash to the politicians because as you all know MPs are very poorly paid ........................",
+            "polarity": 0.06333333333333334,
+            "subjectivity": 0.5133333333333333
+        }
+    ]
+}

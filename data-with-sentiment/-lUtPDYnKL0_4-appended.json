@@ -1,0 +1,103 @@
+{
+    "time_posted": "2021-10-30 13:09:39",
+    "url": "https://www.youtube.com/watch?v=-lUtPDYnKL0",
+    "time_now": "2021-10-31 09:11:33",
+    "ups": "10285",
+    "downs": "151",
+    "views": "226355",
+    "top_comments": [
+        {
+            "comment": "OJ I was battling somebody in your clan in clash Royale",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "And I won the battle",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "What kind of game is is is it's like some kind of another version of clash Royale",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "game looks stupid",
+            "polarity": -0.6,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Ayo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "hy Oj any update on clash heroes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "is this an offline game?",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I love how it says papa (it means dad in dutch)",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "The new clan thing looks really confusing",
+            "polarity": -0.08181818181818182,
+            "subjectivity": 0.42727272727272725
+        },
+        {
+            "body": "How u get this game bruh",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I cant wait for global",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u662f\u4ed6\u6709",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u4f60\u597d\u6211\u53eb\u963f\u59e8\u7b49",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I was disappointed when there was energy system were you cant even play",
+            "polarity": -0.75,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Is this update available now ???",
+            "polarity": 0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Can I update the game without a VPN?",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "All I\u2019m happy right now is cause I gotten mega Knight :)",
+            "polarity": 0.5285714285714286,
+            "subjectivity": 0.8452380952380952
+        }
+    ]
+}

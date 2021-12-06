@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-10-31 00:57:37",
+    "ups": "5072",
+    "downs": "152",
+    "views": "110989",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 12,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Jasmine all videos full hd 1080 download in my phone.. love \ud83d\udc95 you",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "Nice acting Jasmine",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Jasmine is so beautiful \ud83e\udd70\ud83e\udd70\ud83e\udd70 and my favourite heroine \ud83d\udc96\ud83d\udc96\ud83d\udc96",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "So beautiful song &voice \ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

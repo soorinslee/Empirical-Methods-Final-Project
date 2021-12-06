@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-03 11:20:40",
+    "ups": "18028",
+    "downs": "57",
+    "views": "190272",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2558,
+            "number_of_replies": 14,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I LOVE YOUR KITTEN",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Watching this as an excuse to hear jungkook again",
+            "polarity": -0.05,
+            "subjectivity": 0.05
+        }
+    ]
+}

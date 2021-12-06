@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-05 04:33:25",
+    "ups": "16777",
+    "downs": "238",
+    "views": "628675",
+    "top_comments": [
+        {
+            "comment": "It\u2019s involving",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Don't Starve shipwrecked dry season moment",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.06666666666666665,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Bombs explode\u2026\u2026.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Diamonds",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So clickbait bomb?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hit it with an diamond pickaxe.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I feel like some 9 year old is going to  comment \"Fortnite\"",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Humm now that\u2019s a new one",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Don't Starve shipwrecked dry season moment",
+            "polarity": -0.06666666666666665,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Earths pimple popped",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

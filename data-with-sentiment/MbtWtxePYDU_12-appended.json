@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 12:00:21",
+    "url": "https://www.youtube.com/watch?v=MbtWtxePYDU",
+    "time_now": "2021-11-01 18:08:21",
+    "ups": "4919",
+    "downs": "25",
+    "views": "83312",
+    "top_comments": [
+        {
+            "comment": "LA \ud83d\ude0d Jusko yung puso ko kakilig \u263a\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "kasalanan 'to ng bulaklak hahaha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "FIX YOUR RELATIONSHIP NOT JUST YOU WANT TO STAY COMMITED, BUT FIX IT BECAUSE YOU SINCERELY LOVE EACH OTHER. YES COMMITMENT IS IMPORTANT BUT SINCERITY FROM THE START AND ASKING QUESTIONS SUCH AS \"WHY DO I ENTERED IN THIS RELATIONSHIP?\", \"FIRST OF ALL, WHY DID I'VE LOVED THIS PERSON FROM THE START?\", \"WHAT ARE THE MAIN PURPOSE OF BUILDING THIS RELATIONSHIP?\". ALWAYS GO BACK FROM THE START AND REMINISCE BECAUSE NOT OTHER PEOPLE CAN GIVE THE TRUE DEFINITION OF RELATIONSHIP.. IT'S THE TWO OF YOU WHO STARTED IT AT THE BEGINNING AND CURRENTLY FIGHTING TOGETHER WITH IT. <3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.27534722222222224,
+            "subjectivity": 0.5305555555555556
+        },
+        {
+            "comment": "Anong pangalan ng lalaki?",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "GRACIOUS GOD LA ILY",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sa \"Elizabeth\" si Liza na kaya lalabas?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

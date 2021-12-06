@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-03 23:43:02",
+    "ups": "6914",
+    "downs": "373",
+    "views": "587220",
+    "top_comments": [
+        {
+            "comment": "Wale didn\u2019t answer one question DJ EFN asked him lmao",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Wale made this episode waaaaay to hard and awkward. Is he always this unlikeable?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4458333333333333,
+            "subjectivity": 0.7708333333333333
+        },
+        {
+            "comment": "Biggie passed in March 1997, NORE. Not sure yet if there was a correction made on the show.\n\nTupac passed in 1996.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.8888888888888888
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The homie Wale always been early\u2026\u2026he been fashion forward and help break a lot of artist \u2026.Lady Gaga ,Sza ,Ari,Kelahni and a few others he was working with before they blew\u2026i been rocking wit shawty since 100 miles an running (classic)",
+            "polarity": -0.016666666666666677,
+            "subjectivity": 0.13333333333333333
+        },
+        {
+            "body": "Pause on that Sucking D part",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "N.O.R. \u201cGod Damnit\u201d E.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wale started the first 5 mins of this interview playing cool. By the 2nd shot he up now lol. He a funny dude, cool spirit, wish him much success going forward!",
+            "polarity": 0.3392857142857143,
+            "subjectivity": 0.4761904761904762
+        },
+        {
+            "body": "They blitz I want to go on that show",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Anyone else feel like EFN wanted to fight Wale?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wale was spinning nore ass around on his head\ud83e\udd23 you can\u2019t play with that intelligence and self awareness boy\ud83e\uddcf\ud83c\udfff\u200d\u2642\ufe0f our spirit take control of shit when negative energy is aimed at us\ud83d\udcaa\ud83c\udfff I\u2019m tuned in wale",
+            "polarity": -0.25,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 10:00:13",
+    "url": "https://www.youtube.com/watch?v=5DGBVPkdZ-o",
+    "time_now": "2021-11-05 12:47:12",
+    "ups": "23997",
+    "downs": "195",
+    "views": "243473",
+    "top_comments": [
+        {
+            "comment": "This , I believe, is  Nadine Lustre's genre.  She has that soothing and calming voice..definitely her range. Nadine is a total performer.",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "This is definitely a great song, a masterpiece. Love it.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.675
+        },
+        {
+            "comment": "Dream come true - NADINE\u2019S VOCALS COMING THROUGH. The music video\u2019s simplicity hits so powerfully with every note and every flicker of black and white.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.12083333333333332,
+            "subjectivity": 0.5208333333333333
+        },
+        {
+            "comment": "Bat ganon nadz!!! ganda ng lyrics, yung music itself, pati mv tsaka yung artist hayssss \ud83e\udd27\ud83d\udc9b",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "She understood the assignment... \ud83d\udc93",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Parang ito yung sagot na song ni nadine sa MV ni James Reid na broken hearted nuh.. Ano nga yung song na yun?",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "\ud83d\udc95\ud83d\udc95\ud83d\udc95",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Autotune is seamless! Good song.",
+            "polarity": 0.4125,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "body": "This is so good.",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "<3",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83d\ude2d\ud83d\udc94",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-01 22:15:55",
+    "ups": "7973",
+    "downs": "27",
+    "views": "88664",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "The problem isn't reading for the hermits it's finding the barrels.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think the issue with \"pay in the barrel\" is that it's not specific about which barrel to use. That seems to be the issue for most hermits. Maybe something like \"Pay in this Barrel\" would be less confusing?",
+            "polarity": 0.008333333333333345,
+            "subjectivity": 0.2729166666666667
+        },
+        {
+            "body": "Yo, you guys can create a wire transfer banking system using shadow technology.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hiding the item frames might be a good idea",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I'm sure the info has been shared already... But it seems they can't find the barrels lol.  Not that they don't want to pay in them \ud83d\ude02",
+            "polarity": 0.65,
+            "subjectivity": 0.7944444444444444
+        },
+        {
+            "body": "the octagon would look so much cooler without those ugly spider legs\ud83d\ude2c",
+            "polarity": -0.24999999999999997,
+            "subjectivity": 0.6
+        }
+    ]
+}

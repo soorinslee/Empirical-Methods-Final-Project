@@ -1,0 +1,110 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qiz6c8/we_need_more_games_like_kingdom_hearts_zelda_and/",
+    "time_posted": "2021-10-30 07:00:37",
+    "time_now": "2021-11-04 07:59:59",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himplpb",
+            "body": "Time to take a gander at the other 99.9% of games available.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.1375,
+            "subjectivity": 0.3875
+        },
+        {
+            "comment_id": "himpf0n",
+            "body": "[deleted]",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himp9z1",
+            "body": "Aren't there tons and tons of games to your liking already?\n\nI mean, the pew-pew games are plentyful as well but that's not the point.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment_id": "himpql4",
+            "body": "You're confused about the difference between marketing and the market. Tons of these games on the market, not many with huge marketing campaigns",
+            "ups": 0,
+            "downs": 0,
+            "polarity": -0.08333333333333331,
+            "subjectivity": 0.7000000000000001
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himplpb",
+            "body": "Time to take a gander at the other 99.9% of games available.",
+            "ups": 5,
+            "downs": 0,
+            "polarity": 0.1375,
+            "subjectivity": 0.3875
+        },
+        {
+            "comment_id": "himpf0n",
+            "body": "[deleted]",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himp9z1",
+            "body": "Aren't there tons and tons of games to your liking already?\n\nI mean, the pew-pew games are plentyful as well but that's not the point.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment_id": "himpql4",
+            "body": "You're confused about the difference between marketing and the market. Tons of these games on the market, not many with huge marketing campaigns",
+            "ups": 0,
+            "downs": 0,
+            "polarity": -0.08333333333333331,
+            "subjectivity": 0.7000000000000001
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himplpb",
+            "body": "Time to take a gander at the other 99.9% of games available.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.1375,
+            "subjectivity": 0.3875
+        },
+        {
+            "comment_id": "himpf0n",
+            "body": "[deleted]",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himp9z1",
+            "body": "Aren't there tons and tons of games to your liking already?\n\nI mean, the pew-pew games are plentyful as well but that's not the point.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment_id": "himpql4",
+            "body": "You're confused about the difference between marketing and the market. Tons of these games on the market, not many with huge marketing campaigns",
+            "ups": 0,
+            "downs": 0,
+            "polarity": -0.08333333333333331,
+            "subjectivity": 0.7000000000000001
+        }
+    ]
+}

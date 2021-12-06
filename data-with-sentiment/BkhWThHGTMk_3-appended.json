@@ -1,0 +1,81 @@
+{
+    "time_posted": "2021-10-30 12:24:22",
+    "url": "https://www.youtube.com/watch?v=BkhWThHGTMk",
+    "time_now": "2021-10-31 05:04:53",
+    "ups": "4562",
+    "downs": "249",
+    "views": "350051",
+    "top_comments": [
+        {
+            "comment": "Nahi nahi nahi , damn endians\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Asif Ali Did not give us a win but Allah gave us this win actually",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.3
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Congratulation Pakistan Cricket team,So great team of the world",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "RRS comentory",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nahi nahi nahi .. stupid angry birds",
+            "polarity": -0.6499999999999999,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83e\udd70\ud83e\udd70\u2764\ufe0f\u2764\ufe0f\ud83c\udf39\ud83c\udf39\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ye bharway nhi chahty thy k Pakistan win kry.......\nBecoz of in first match we smashed him",
+            "polarity": 0.525,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "He said \u201cNahiiiii Nahiiii BEHADH KHARAB GAME!!!\u201d \ud83d\ude33\ud83d\ude02",
+            "polarity": -0.78125,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "dushman ka dushman dost hota hai isleye is commentator ko pakistan ki jeet par mirchain lageen,pehley india  ko apne gireban mein jankna chaheye",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ye hindi commentator kitna jealous hai lol khul ke tareef nh kar raha such a dirty heart guy",
+            "polarity": 0.0666666666666667,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Hamara Pandiya Asif se jayda chakke Marta h",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Indian: Nahin, Nahin, Nahin ..... Dil khush ho gya.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Asif Ali Did not give us a win but Allah gave us this win actually",
+            "polarity": 0.5333333333333333,
+            "subjectivity": 0.3
+        }
+    ]
+}

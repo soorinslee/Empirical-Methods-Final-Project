@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-01 09:53:38",
+    "ups": "2517",
+    "downs": "22",
+    "views": "56519",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 34,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Holy her vocals are surreal right off the bat gigi already made me shiver\ud83e\udd27",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.26785714285714285,
+            "subjectivity": 0.7678571428571428
+        },
+        {
+            "comment": "bawal na po sya mg cover ng opm?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I just noticed this song makes her emotion stand out alot\ud83e\udd70",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "OMGigi and her Vibes Band of all Genre did it again. Hello Eric Carmen are u hearing this! Superb!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So proud of you guys\ud83e\udd70",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Galing mo Gigi sana maging international star ka.Yong smiles moy stress reliever.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Whewww.. ito yong pang-hallowen, nakaka panindig-balahibo, nakakakilabot at halimaw sa husay\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gorgeous & sexy beautiful  voice",
+            "polarity": 0.6833333333333332,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "body": "pinaka magada makeup mo eh sa through the fire, wag mo na baguhin yun, parang tumanda at naging haggard ka jan, but voice astig padin. yun dalawa sa likod mo may contest ba palakihan ng tyan bago mag december lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

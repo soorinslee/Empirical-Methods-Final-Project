@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-11-02 14:45:19",
+    "ups": "4720",
+    "downs": "60",
+    "views": "111820",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Sky you must've been screaming or yelling a lot lately, where is your voice?",
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "This man had to be  partying  the night  before",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I remember the old version of this. I made it twice in years past and again this past Halloween (a few days ago) and once again it was a hit. Very strong but people were downing it like juice",
+            "polarity": -0.007333333333333347,
+            "subjectivity": 0.3506666666666666
+        },
+        {
+            "body": "Ngl, rum, vodka, and gin don't really go together, along with coconut rum as well....its a strong drink, but it doesn't seem that good....",
+            "polarity": 0.4444444444444444,
+            "subjectivity": 0.5111111111111112
+        }
+    ]
+}

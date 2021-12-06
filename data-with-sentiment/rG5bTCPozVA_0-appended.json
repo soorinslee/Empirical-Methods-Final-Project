@@ -1,0 +1,118 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-10-30 16:46:18",
+    "ups": "154",
+    "downs": "2",
+    "views": "1567",
+    "top_comments": [
+        {
+            "comment": "This is the best cast iron drainpipe refurb video I have come across. Thank you!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Thank you for the shout out mate very much appreciated and as usual great video and information \ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "comment": "Wrong video I know, but your \"how to change a toilet fill valve and flush valve\" video was a great help, so thank you \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udcaa\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0888888888888889,
+            "subjectivity": 0.5499999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This is a job for next year on our 1930s semi. We have a section of downpipe with a chunk missing from the joint. I've seen you old video on how to glue these bits but you had the little chunk I think. Any tips on what to do if that bit is missing? Is there a way to patch it somehow?",
+            "polarity": -0.0975,
+            "subjectivity": 0.16
+        },
+        {
+            "body": "\ud83d\udc4d\ud83d\udc4d Chas \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wrong video I know, but your \"how to change a toilet fill valve and flush valve\" video was a great help, so thank you \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udcaa\ud83c\udffb",
+            "polarity": 0.0888888888888889,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "body": "Do these pipes not rust inside?.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love the authentic gutters.\nJob well done !",
+            "polarity": 0.5625,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "Nice video thanks for sharing.",
+            "polarity": 0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\ud83d\udee0Charlie DIYte Amazon Tool Store https://amzn.to/3fcLnY4 - all my tried, tested and much loved DIY tools. \n\u2615Charlie DIYte Discord Membership  https://bit.ly/3xuQ3zb - DIY forum access and helps support my Channel.\n\ud83d\udc5aCharlie DIYte Merch Store https://charlie-diyte.myspreadshop.co.uk/ - some cool new designs!",
+            "polarity": 0.40681818181818175,
+            "subjectivity": 0.6348484848484849
+        },
+        {
+            "body": "Great video Charlie, thanks for this. Currently contemplating doing this myself or else replacing them. I also have to dig out a soakaway around the house too, don't suppose you have a video on this or could recommend one? Thanks!",
+            "polarity": 0.3125,
+            "subjectivity": 0.3875
+        },
+        {
+            "body": "That explains why I was booted out of the discord on my first day in.... Didn't realise it was every month. Again another cracking video Charlie. Keep up the great work.",
+            "polarity": 0.525,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "body": "Nice one Charlie \ud83d\udc4d",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "So much better than plastic!",
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "great video superb job!!",
+            "polarity": 0.9,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "Do the downpipes need sealing?  Having them unsealed allows water out if blocked below and informs you of a blockage and can then eadily dismantle. The rubber seals on the guttering look excellent.",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Great video but if I am a bit chicky I would say that your next video could be on how to clean your patio \ud83d\ude1c",
+            "polarity": 0.3888888888888889,
+            "subjectivity": 0.4833333333333334
+        },
+        {
+            "body": "Thank you for the shout out mate very much appreciated and as usual great video and information \ud83d\udc4d",
+            "polarity": 0.25,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "This is a great job",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "This is the best cast iron drainpipe refurb video I have come across. Thank you!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ]
+}

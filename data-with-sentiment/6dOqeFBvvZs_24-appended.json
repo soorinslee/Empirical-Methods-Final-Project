@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-03 19:35:48",
+    "ups": "39958",
+    "downs": "276",
+    "views": "579629",
+    "top_comments": [
+        {
+            "comment": "Only swedish and finnish will know what EI SAA PEITT\u00c4\u00c4 means.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I recommend you add little amethyst geodes around the walls indented into the walls or some form of fungi like mushrooms growing out of little cliff side off the walls :) :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15625,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Use iskallium in the floor!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm only 3 mins into the video but Mr iskall man. you should hire gem to build some trees for you.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I love your intros dude it's always random and it feels like I've been watching halfway through the video at the beginning",
+            "polarity": 0.0,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "You can use moss carpet on the grass to help with the mobs.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You should turn the mother into a real carved statue to make is more enchanting",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        }
+    ]
+}

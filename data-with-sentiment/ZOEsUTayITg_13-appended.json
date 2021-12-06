@@ -1,0 +1,128 @@
+{
+    "time_posted": "2021-10-30 14:11:14",
+    "url": "https://www.youtube.com/watch?v=ZOEsUTayITg",
+    "time_now": "2021-11-01 22:16:01",
+    "ups": "38683",
+    "downs": "1482",
+    "views": "1956957",
+    "top_comments": [
+        {
+            "comment": "I love your video channel",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Guys.  I.      Got.         You.        2.   Book",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The guards are giraffes dyed red with black faces with white shapes.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05555555555555555,
+            "subjectivity": 0.14444444444444446
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Bro u made my childhood great because of u",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Robox \ud83d\ude28",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I subbed",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "plz play dark deception part 7",
+            "polarity": -0.15,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Please bring back your Pok\u00e9mon go video\u2019s I love them",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "\u201cOh No OuR tAbLe It\u2019S bRoKen",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Squid  game red  light green light",
+            "polarity": 0.04,
+            "subjectivity": 0.42000000000000004
+        },
+        {
+            "body": "This is a good video remind me of 2016",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Guys.  I.      Got.         You.        2.   Book",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oh no our table its broken",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Sussy backa",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I was 4 last time I watched this and now I'm 9",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "Jamaica FV family family review",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "if you don't subscribe..\nthen what's wrong with you?",
+            "polarity": -0.5,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I am always subscribed! I love you \u2661 ;)",
+            "polarity": 0.375,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "The guards are giraffes dyed red with black faces with white shapes.",
+            "polarity": -0.05555555555555555,
+            "subjectivity": 0.14444444444444446
+        },
+        {
+            "body": "FGTeeV I love you and i one day hope i can meet you in real life",
+            "polarity": 0.35,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "I have your book at school",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love your video channel",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

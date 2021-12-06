@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-31 01:55:02",
+    "url": "https://www.youtube.com/watch?v=HhNP7uMd-qQ",
+    "time_now": "2021-10-31 05:04:24",
+    "ups": "166",
+    "downs": "7",
+    "views": "18742",
+    "top_comments": [
+        {
+            "comment": "\ub4ef\uae30 \ub108\ubb34\uc88b\uc544\uc694",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\uc9c4\uc9dc\ub8e8 5\ubd84\uc548\uc5d0 \uc7a4\uc5b4\uc694\u314b\u314b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ub4ef\uae30 \ub108\ubb34\uc88b\uc544\uc694",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

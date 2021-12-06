@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-05 04:32:54",
+    "ups": "44959",
+    "downs": "81",
+    "views": "246256",
+    "top_comments": [
+        {
+            "comment": "So will this version ever hit Spotify?",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "since there\u2019s summer comeback queens, can purplekiss become the halloween comeback queens \ud83e\udd7a",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This version is so good !!!!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "back to this of course, not stopping until it reaches 1m \ud83d\ude05",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "lwehdh this was so good omg",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Awesome",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Am I the only one who watches this at least once a day. It's just that good",
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "if we dont get this version as a single or bside on the next album i might cry",
+            "polarity": -0.03571428571428571,
+            "subjectivity": 0.10714285714285714
+        },
+        {
+            "body": "omg i love this",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I loved everything about this performance! Purple Kiss always iconic",
+            "polarity": 0.6875,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Why is this not viral?? Purple Kiss definitely owned Halloween with this one!",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Help I'm extremely obsessed with this remix and need it on spotify lol :(",
+            "polarity": -0.15,
+            "subjectivity": 0.9
+        }
+    ]
+}

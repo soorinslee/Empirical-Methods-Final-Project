@@ -1,0 +1,78 @@
+{
+    "time_posted": "2021-10-30 15:00:32",
+    "url": "https://www.youtube.com/watch?v=itK7gvvxxDs",
+    "time_now": "2021-11-05 04:33:10",
+    "ups": "87053",
+    "downs": "855",
+    "views": "1530004",
+    "top_comments": [
+        {
+            "comment": "waiting for her in wild rift",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "RIOT I LOVE YOU",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Just kinda weird how it looks like they changed her ethnicity",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Vayne also needs something like this pls",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2:03 (Image G) Mommy? Sorry. Mommy? Sorry.",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "dont remove the head shot auto cancel",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "dont remove the mechanics",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ucf00\uc774\ud2c0\ub9b0 \ub208\ub098~~\u2661\u2661",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "LOVE \ud83d\udc97",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "This is also a massive nerf to caitlyn gameplay, i feel bad for saber",
+            "polarity": -0.3499999999999999,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "new cait is mommy",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "RIP caitlyn\nThey made her nicer to look at, but they made her mechanics potato",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

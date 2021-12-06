@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-01 22:16:37",
+    "ups": "5049",
+    "downs": "135",
+    "views": "114952",
+    "top_comments": [
+        {
+            "comment": "Stop promoting your sponsored crud From other companies when your in Costco\u2026.that is so ghetto! Your are notorious for doing this.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Illinois has it!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "In a very recent video promoting Whole Foods sale prices, you specifically recommended a product, \"Four Sigmatic, Defend, Mushroom Blend Mix.\" On the can there's an explicit warning how this product can expose you to chemicals including lead, which is known in CA to cause birth defects or other reproductive harm. You express concerns about natural and artificial flavors. What's the deal here?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.08499999999999999,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Rao's in Pittsburgh stores - also on sale!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Good afternoon. Rao\u2019s is on saddle Dallas, TX.",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

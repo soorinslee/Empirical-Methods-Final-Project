@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-04 12:04:57",
+    "ups": "7427",
+    "downs": "61",
+    "views": "104092",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 572,
+            "number_of_replies": 156,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "I am super duper exited to try this . Anna u make my day good and awesome by uploading ur videos . Thank u Anna for making this video .",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6777777777777777,
+            "subjectivity": 0.7555555555555555
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "how old are you?",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Very cool\ud83d\ude0a\ud83d\udc4d\ud83c\udffb",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Anna please try out the German Gymnastik Wheel.\nhttps://youtu.be/EHp4GFy6fVY\nThis would be an awesome Video!",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Anna fam from gwalior..can you tell me how can i get my leg split permanently...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

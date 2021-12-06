@@ -1,0 +1,76 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-10-31 17:24:54",
+    "ups": "5353",
+    "downs": "44",
+    "views": "37799",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 707,
+            "number_of_replies": 21,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Damn, you look ghoul'd!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow!!  I'm the generation who grew up with Saturday Night Fever and the BeeGees.  That was pure genius!!  I want to see more.",
+            "polarity": 0.33035714285714285,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Reminds me of The Garden of Earthly Delights, excellent work!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "This works so much better than I imagined",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Damn, you look ghoul'd!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So well done!!!  Face melting awesomeness!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This video is awesome. It makes me appreciate disco kind of.",
+            "polarity": 0.8,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "Melodicka: \"We're gonna do a Halloween Stayin' Alive.\"\nViolet: \"I dunno. Hasn't that been done a lot?\"\nMelodicka: \"You get to be a really badass, creepy zombie.\"\nViolet: \"WTF took you so long?!! C'mon, people, move!\"\n\nAnother home run! Y'all killed it. ;-) Stay alive...stay safe. >_>",
+            "polarity": -0.03400878906249999,
+            "subjectivity": 0.5625
+        },
+        {
+            "body": "Very good version",
+            "polarity": 0.9099999999999999,
+            "subjectivity": 0.7800000000000001
+        },
+        {
+            "body": "Lol locked door .... you are getting eaten x",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "This is great, but you'll have to forgive me for still liking the Ozzy Osbourne and Dweezil Zappa cover the most.",
+            "polarity": 0.65,
+            "subjectivity": 0.625
+        }
+    ]
+}

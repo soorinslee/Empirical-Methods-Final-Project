@@ -1,0 +1,50 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-03 19:36:30",
+    "ups": "10599",
+    "downs": "855",
+    "views": "596895",
+    "top_comments": [
+        {
+            "comment": "Cool make up for Halloween.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "ha ha ha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I wish you where in India I'm in india",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Irish you where in India I'm in india",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Cool make up for Halloween.",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "I saw 4 cookies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

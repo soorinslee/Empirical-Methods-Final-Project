@@ -1,0 +1,115 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-04 07:57:39",
+    "ups": "16447",
+    "downs": "308",
+    "views": "971193",
+    "top_comments": [
+        {
+            "comment": "Ohh expensive ,I thought it was cheap (I live in India)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.012121212121212125,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "\u0d0f\u0d32\u0d15\u0d4d\u0d15 \ud83d\ude42",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Just try this \"ginger-cardamom coffee\" recipe and tell me how it was...\nTake a cup of milk, add 1tsp sugar, add 1tsp instant coffee powder, grate a nail sized ginger, pound 1-2 green cardamoms and then boil.\nYour coffee is ready.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.4888888888888889
+        },
+        {
+            "comment": "Cardamom are in high demand because of Diwali festival and damn they are costly",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16,
+            "subjectivity": 0.5399999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I never heard of this spice.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "It ain't even expensive here in India, may be you guys are from Vasco-de-Gama's poor country.",
+            "polarity": -0.45,
+            "subjectivity": 0.6499999999999999
+        },
+        {
+            "body": "Just try this \"ginger-cardamom coffee\" recipe and tell me how it was...\nTake a cup of milk, add 1tsp sugar, add 1tsp instant coffee powder, grate a nail sized ginger, pound 1-2 green cardamoms and then boil.\nYour coffee is ready.",
+            "polarity": 0.0,
+            "subjectivity": 0.4888888888888889
+        },
+        {
+            "body": "Kerala\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Its super cheap in my country",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.6833333333333333
+        },
+        {
+            "body": "\u0648\u0627\u0648\u0648\u0648\u0648 \u0631\u062e\u064a\u0635 \u0639\u0646\u062f\u0646\u0627 \u0628\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0647",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have tea with this stuff,it adds an exotic aroma to it that adds a boost to my mornings.",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Lol i was just sipping cardamom tea while watching this",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Due to these ppl hard work, my wife makes the best cardamom Tea.",
+            "polarity": 0.19444444444444442,
+            "subjectivity": 0.4055555555555555
+        },
+        {
+            "body": "Kerala God's own country",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "OoO, never knew it grew in india, idk why i forget that British colonized India for spices only",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "people who planted it,take good care of it,harvest it, and prepared it, - got less than 10% \n\npeople who sold it got 65-80% \n\nthe government who let it happen got 10-15%",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.33333333333333337
+        },
+        {
+            "body": "Everything is so expensive because of Joe biden.....",
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Cardamom are in high demand because of Diwali festival and damn they are costly",
+            "polarity": 0.16,
+            "subjectivity": 0.5399999999999999
+        },
+        {
+            "body": "I'm a cardamom farmer",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

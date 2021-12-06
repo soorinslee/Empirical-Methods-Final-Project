@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-02 22:59:14",
+    "ups": "27075",
+    "downs": "88",
+    "views": "246252",
+    "top_comments": [
+        {
+            "comment": "I like how even Kris was sweating there",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "XD",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Deltarune chapter 7 confirmed",
+            "polarity": 0.4,
+            "subjectivity": 1.0
+        }
+    ]
+}

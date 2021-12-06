@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-01 22:16:34",
+    "ups": "9612",
+    "downs": "754",
+    "views": "525190",
+    "top_comments": [
+        {
+            "comment": "Yes",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "2\ud83d\ude0a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "There was three because you showed two in the beginning and one when you told us to how many there was so there is three",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Happy Halloween \ud83c\udf83 from Germany",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I saw 15 cookies in the video",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

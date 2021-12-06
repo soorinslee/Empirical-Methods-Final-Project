@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-10-31 13:18:21",
+    "ups": "4255",
+    "downs": "205",
+    "views": "100446",
+    "top_comments": [
+        {
+            "comment": "Hold on this is all cute and stuff I love it you go girl but why does she look like my math teacher \ud83d\udc40",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Cringe\ud83e\udd75",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Well, was expecting a rainbow smoke \ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hold on this is all cute and stuff I love it you go girl but why does she look like my math teacher \ud83d\udc40",
+            "polarity": 0.5,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Cute",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Cringe\ud83e\udd75",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WIERD",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Well, they say it\u2019s a boy, has the baby agreed to these terms yet?? It gets to decide what\u2019s up, not nature \ud83d\ude2c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jesus christ,Generation X hurry up and get into power for the love of god hurry up.",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

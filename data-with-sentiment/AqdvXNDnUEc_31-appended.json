@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-05 00:25:39",
+    "ups": "39533",
+    "downs": "567",
+    "views": "863630",
+    "top_comments": [
+        {
+            "comment": "I feel bad for that boi Jack\ud83d\ude2d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "Kodak never fails \ud83d\udd25 \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "ong dis chitt hard asf",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment": "I really think if kodak help upgrade syko bob and snap cat Chains/jewelry  and turn them into platinum, and make them look more like stars. It will help there brand, because syko and Snapchat are well known now , now they should turn the gold into platinum and turn into super stars . In all respects I love what they are doing for kodak and bringing the sniper gang up",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.4916666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Kodak never fails \ud83d\udd25 \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "lil homie this tracks da fukkin truth #FloridaPoppinoff \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\ude92\ud83d\ude92\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Put it on Spotify",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I really think if kodak help upgrade syko bob and snap cat Chains/jewelry  and turn them into platinum, and make them look more like stars. It will help there brand, because syko and Snapchat are well known now , now they should turn the gold into platinum and turn into super stars . In all respects I love what they are doing for kodak and bringing the sniper gang up",
+            "polarity": 0.3833333333333333,
+            "subjectivity": 0.4916666666666667
+        }
+    ]
+}

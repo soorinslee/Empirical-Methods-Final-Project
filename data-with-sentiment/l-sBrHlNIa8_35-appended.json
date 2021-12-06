@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-05 16:54:21",
+    "ups": "4470",
+    "downs": "52",
+    "views": "128955",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 158,
+            "number_of_replies": 5,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "World Class tlaga \ud83d\ude31\ud83d\ude31\ud83d\ude31 Higher and better than many Hollywood stars who sang this! Gigi and Charice Version is Fantastic!!!!! Most Beautiful cover ever!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6458333333333334,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "ganda ng rendition.. excellent and amazing.. i love it\u2764\u2764\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.8333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What I like with this girl is that when she sings , she makes it her very own by showing her own style and talent.... Terrible ....I'm getting crazy with your style of singing",
+            "polarity": -0.05500000000000002,
+            "subjectivity": 0.975
+        },
+        {
+            "body": "Grabe!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4:45 and ended with a winner smile!!! RIP replay button",
+            "polarity": 0.5859375,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Ang galing mo talaga Gigi!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "pwede po parequest ng Magasin, waiting\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

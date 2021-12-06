@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:00:32",
+    "url": "https://www.youtube.com/watch?v=jbJCpCPOpUk",
+    "time_now": "2021-11-01 18:09:18",
+    "ups": "3149",
+    "downs": "34",
+    "views": "35945",
+    "top_comments": [
+        {
+            "comment": "This tablet is beautiful than the picture used for the request. Thanks for sharing your talents with us. I absolutely love this table.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5166666666666667,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "WoW! Beautiful. I agree with everyone else, you need your own T.V. Show! I absolutely love watching your videos because they are DYI projects, but they are in budget. Can't go wrong with Dollar Tree, Thank you so much, Be Blessed!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.32916666666666666,
+            "subjectivity": 0.7833333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Please, I would like to know where I buy the bowls?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think I can tackle this one. I got everything so far except the PVC lattice and clear glue  and I will be purchasing those items soon.",
+            "polarity": 0.1,
+            "subjectivity": 0.6916666666666667
+        },
+        {
+            "body": "You are so talented and creative...Thank You for sharing your insight.  \ud83d\udc95",
+            "polarity": 0.7,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "So nice! U should have covered everything in that morrow paper",
+            "polarity": 0.75,
+            "subjectivity": 1.0
+        }
+    ]
+}

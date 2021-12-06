@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-03 11:20:52",
+    "ups": "39625",
+    "downs": "274",
+    "views": "574167",
+    "top_comments": [
+        {
+            "comment": "Nice :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.55,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I recommend you add little amethyst geodes around the walls indented into the walls or some form of fungi like mushrooms growing out of little cliff side off the walls :) :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15625,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Only swedish and finnish will know what EI SAA PEITT\u00c4\u00c4 means.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Only swedish and finnish will know what EI SAA PEITT\u00c4\u00c4 means.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The glow stone plus leaves looks like lightening bugs",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gem can make you a beautiful tree she has a shop for it!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Torille! Terve iskall to you as well.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

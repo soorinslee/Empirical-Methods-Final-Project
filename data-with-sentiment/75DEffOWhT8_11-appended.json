@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-01 14:01:16",
+    "ups": "23680",
+    "downs": "75",
+    "views": "205934",
+    "top_comments": [
+        {
+            "comment": "John Brain \u0442\u044b \u043b\u0438 \u044d\u0442\u043e?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "you know someone is tough when even susie shits bricks.",
+            "polarity": -0.3888888888888889,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "Berdly I must say that was not very gamer of you .",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        }
+    ]
+}

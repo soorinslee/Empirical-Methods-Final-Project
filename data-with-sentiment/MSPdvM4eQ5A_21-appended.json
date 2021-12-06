@@ -1,0 +1,91 @@
+{
+    "time_posted": "2021-10-30 14:15:00",
+    "url": "https://www.youtube.com/watch?v=MSPdvM4eQ5A",
+    "time_now": "2021-11-03 07:13:58",
+    "ups": "29013",
+    "downs": "423",
+    "views": "676734",
+    "top_comments": [
+        {
+            "comment": "Once again, thanks to #AceDefender for sponsoring this video :)\nUse the link below to try it out and support the channel:\nhttps://mtchm.de/vcomd",
+            "likes": 588,
+            "number_of_replies": 57,
+            "polarity": 0.35,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Yeh Jaron is so funny but still acts serious so as soon as I started watching this I instantly subbed",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.027777777777777773,
+            "subjectivity": 0.7777777777777777
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "the only experience I had with ace defenders is their constant out of the blue network connection error that resulted in accounts getting lost, I made 3 accounts and technically got all the gold heroes (I forgot what they are called in the gallery) and by the 4th I just gave up not worth if the entire progress is lost due to a net work connection error",
+            "polarity": -0.034375,
+            "subjectivity": 0.3291666666666667
+        },
+        {
+            "body": "9:51",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Fun fact: In java minecraft, you dont actually need water to grow crops. As long as the dirt is tilled and has a crop in it, it works. Water just speeds up the process.",
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.23333333333333336
+        },
+        {
+            "body": "You should really talk to Mumbo more (no offence)",
+            "polarity": 0.35,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "2:36 The chicken spawned from a chicken jockey. The baby zombie must have despawned before the chicken itself did. Chickens from chicken jockeys despawn (unless named ofc) so that caves aren\u2019t cluttered with chickens (and eggs) after so many spawning cycles.",
+            "polarity": -0.38,
+            "subjectivity": 0.86
+        },
+        {
+            "body": "Too bad you're first sponsor wasn't *RAID SHADOW LEGENDS*",
+            "polarity": -0.22499999999999992,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "11:25 got me dying \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I feel like the Nether being broke the expanding border challenge...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yeh Jaron is so funny but still acts serious so as soon as I started watching this I instantly subbed",
+            "polarity": -0.027777777777777773,
+            "subjectivity": 0.7777777777777777
+        },
+        {
+            "body": "He one shot that creeper right",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "Did anyone see the axoltl",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How do I do this in my own world?",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "when he crafted the spyglass let out a quiet AHA",
+            "polarity": 0.0,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

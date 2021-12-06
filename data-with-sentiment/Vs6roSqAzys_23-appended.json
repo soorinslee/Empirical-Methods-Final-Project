@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 09:58:42",
+    "url": "https://www.youtube.com/watch?v=Vs6roSqAzys",
+    "time_now": "2021-11-03 15:28:12",
+    "ups": "4064",
+    "downs": "103",
+    "views": "73712",
+    "top_comments": [
+        {
+            "comment": "\u0b87\u0baf\u0bc7\u0b9a\u0bc1 \u0ba8\u0bc0\u0bb0\u0bcd \u0ba8\u0bb2\u0bcd\u0bb2\u0bb5\u0bb0\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd \u0bb5\u0bb2\u0bcd\u0bb2\u0bb5\u0bb0\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd \u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0bb5\u0bb0\u0bcd \u0ba8\u0bc0\u0bb0\u0bcd \u0baa\u0bb0\u0bbf\u0b9a\u0bc1\u0ba4\u0bcd\u0ba4\u0bb0\u0bcd \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "God is really great our life",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Amen jesus",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

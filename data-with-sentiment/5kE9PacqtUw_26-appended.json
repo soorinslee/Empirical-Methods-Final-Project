@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 10:58:46",
+    "url": "https://www.youtube.com/watch?v=5kE9PacqtUw",
+    "time_now": "2021-11-04 03:50:49",
+    "ups": "1784",
+    "downs": "361",
+    "views": "140234",
+    "top_comments": [
+        {
+            "comment": "Joe snoozing during G20-\n\"It was all a dream. I used to read\"\n\"Word Up Magazine\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ilikepresident poul kagame",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "They are laughing and chilling.. we people are nothing more then a garbage for them",
+            "polarity": 0.0,
+            "subjectivity": 0.7
+        }
+    ]
+}

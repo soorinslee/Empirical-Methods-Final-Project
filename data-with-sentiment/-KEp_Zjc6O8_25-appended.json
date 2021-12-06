@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=-KEp_Zjc6O8",
+    "time_now": "2021-11-03 23:42:57",
+    "ups": "1664",
+    "downs": "25",
+    "views": "32706",
+    "top_comments": [
+        {
+            "comment": "This is Amazing Video. I wish all your viewers beautiful and Happy weekend. \ud83d\udc9f\r\nEmma from London",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "comment": "I love I love you Mart\u00edn garrix \ud83d\ude0d\ud83d\uded0",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "God garrix i love you",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\ud83c\udfa4\ud83c\udf39\u2728",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83e\udd70\ud83d\udcf2\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-04 03:50:02",
+    "ups": "6698",
+    "downs": "79",
+    "views": "162405",
+    "top_comments": [
+        {
+            "comment": "Syko sound like a uninterested Florida boii lol \ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "rapping attacking",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Syko!!!!\ud83c\uddef\ud83c\uddf2\ud83d\udcaf\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Drop a video for this yoooo @kodak",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

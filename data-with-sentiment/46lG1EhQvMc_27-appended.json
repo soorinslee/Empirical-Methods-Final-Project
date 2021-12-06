@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-11-04 07:57:34",
+    "ups": "67249",
+    "downs": "2356",
+    "views": "3280622",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 652,
+            "number_of_replies": 165,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": ".-. What the what is this very funny and interesting",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4125,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "F yes, and revenge o clock in the god you kii you're not hard breaking had a good night! I'm so",
+            "polarity": 0.5104166666666666,
+            "subjectivity": 0.5708333333333333
+        },
+        {
+            "body": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e21\u0e32\u0e01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude0e\ud83d\ude0e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "THATS HUGGY WUGGY AND KISSY MISSY",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The pink huggy is kissy missy and huggy wuggy and kissy missy are siblings kissy missy is a girl and huggy wuggy is a boy",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Why botplay",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "My little sister likes this video",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "i like that song",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*HI*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

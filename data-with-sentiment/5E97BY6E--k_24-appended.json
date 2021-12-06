@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=5E97BY6E--k",
+    "time_now": "2021-11-03 19:36:31",
+    "ups": "10338",
+    "downs": "257",
+    "views": "139440",
+    "top_comments": [
+        {
+            "comment": "reliance\r\nirctc\r\ntcs\r\nDmart\r\ncdsl\r\npidilite\r\nhdfc bnk\r\njubliant foodwrk\r\nsona blw\r\niex\r\ntata power\r\nbajaj fin\r\nitc\r\ndeepak ntr\r\nlauras lab\r\nlaxmi org",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "reliance\r\nirctc\r\ntcs\r\nDmart\r\ncdsl\r\npidilite\r\nhdfc bnk\r\njubliant foodwrk\r\nsona blw\r\niex\r\ntata power\r\nbajaj fin\r\nitc\r\ndeepak ntr\r\nlauras lab\r\nlaxmi org",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

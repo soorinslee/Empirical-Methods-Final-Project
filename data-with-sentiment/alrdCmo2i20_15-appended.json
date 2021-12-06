@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-02 06:30:28",
+    "ups": "4779",
+    "downs": "50",
+    "views": "60005",
+    "top_comments": [
+        {
+            "comment": "@7:09 I was on the testing team for the North American release of Kirby Tilt 'n' Tumble.\nWe had a WideBoy for capturing bug footage on the N64, and we all had a great time tilting the console to play it. It did take some getting used to, mostly because the vertical cartridge orientation of the N64 caused us to hold the console with the rear side up.\nGood times.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.4625
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "7:45 Derek, my virgin ears!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I honestly really wish I had gotten that combo pack or whatever it's called. I knew somebody who had that and as the result of having it he had more playable characters on The game boy color version of Mario tennis, but what I really wanted it for was to unlock some cheat codes on perfect dark. Just like in Goldeneye all the cheat codes in perfect Dark require beating certain levels on certain difficulties in a short amount of time, but some of these cheats you can actually unlock if you put that combo pack on your N64 controller or whatever and combo the game boy color version of perfect Dark so you can get that cheat unlocked on the N64 version.",
+            "polarity": 0.20523809523809527,
+            "subjectivity": 0.4961904761904761
+        },
+        {
+            "body": "Thank-you for being dumb, and brave, enough to do this. I genuinely mean this from the bottom of my heart, I\u2019m not trying to be funny. This would have take a stupid amount of dedication to something so  clearly absurd.",
+            "polarity": -0.13392857142857142,
+            "subjectivity": 0.8125
+        },
+        {
+            "body": "Congratulations on playing with your self...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "There's a step you could have gone to go even farther. Use a wideboy 64 with the gameboy camera.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

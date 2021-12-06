@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=LhHtchAY4M4",
+    "time_now": "2021-11-01 09:54:11",
+    "ups": "6818",
+    "downs": "101",
+    "views": "110749",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Do the right thing Virginia!!!",
+            "polarity": 0.5580357142857142,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "LOL. That caption. In other news: Water is WET!",
+            "polarity": 0.18333333333333335,
+            "subjectivity": 0.4916666666666667
+        },
+        {
+            "body": "You can not look for anything good in this farce administration you will not find a thing.",
+            "polarity": 0.14999999999999997,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Apparently \"everything is infrastructure\" - so the word, the idea, of infrastructure has become so debased it means nothing.   Froma party that constantly tells us \"words are so powerful and important\" - this is just rediculous.",
+            "polarity": 0.1875,
+            "subjectivity": 0.6708333333333334
+        },
+        {
+            "body": "No .....the Government doesn't care about us ! Just go outside. .....",
+            "polarity": 0.0,
+            "subjectivity": 0.05
+        },
+        {
+            "body": "When do people realize that a rich country can deal with challenges easier than poor ones.",
+            "polarity": -0.012500000000000011,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "Everytime I turn on the TV, I see THIS guy .......Hey Kilmeade!!  Go take a freakin' nap!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We are cold, we are hungry, we are living in a garage because joe I\u2019d in TRUMPS HOUSE",
+            "polarity": -0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

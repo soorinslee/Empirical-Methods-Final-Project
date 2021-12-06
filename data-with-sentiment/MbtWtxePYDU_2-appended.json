@@ -1,0 +1,84 @@
+{
+    "time_posted": "2021-10-30 12:00:21",
+    "url": "https://www.youtube.com/watch?v=MbtWtxePYDU",
+    "time_now": "2021-10-31 00:57:33",
+    "ups": "2859",
+    "downs": "10",
+    "views": "31843",
+    "top_comments": [
+        {
+            "comment": "MY FAVORITE SONG LEZGAWW \u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This song fits what i have feel\ud83d\ude22 right now",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "MY FAVORITE SONG LEZGAWW \u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "try 1.25x",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Some parts of the song sounds like \"Never Gonna Leave This Bed\" by Maroon 5",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "OMG LA FTW!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Fuuuuuu- been waiting for this!!\ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pwede na akong matokhang kasi adik na adik nako sa boses mo yieee haha",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Bakit ang ganda ng mga kanta mo haha",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "If this won't be on the Billboard Top 100, I'll eat my shit.",
+            "polarity": 0.15,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "ah one of my favs in the album!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Dapat kasi binuntis nya na si girl  ...\nAng bagal kasi yan  tuloy na salisihan  sya saklap..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "New fan ni Zack!!",
+            "polarity": 0.2130681818181818,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "This is really good. \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

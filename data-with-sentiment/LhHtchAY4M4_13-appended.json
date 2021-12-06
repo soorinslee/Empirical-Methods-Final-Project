@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=LhHtchAY4M4",
+    "time_now": "2021-11-01 22:16:22",
+    "ups": "7049",
+    "downs": "103",
+    "views": "118092",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Okay I identify as Mexican now pay me",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Try a JOB",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Let's Go Brandon and Administration!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have ONE Question for\nLOOSE FINGERS BIDEN. \nHow does SHUTTING DOWN, \u201cKEYSTONE PIPELINE \u201c HELP \n          AMERICANS ?",
+            "polarity": -0.11623931623931626,
+            "subjectivity": 0.27905982905982907
+        }
+    ]
+}

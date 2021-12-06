@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-11-01 05:47:30",
+    "ups": "2960",
+    "downs": "17",
+    "views": "36631",
+    "top_comments": [
+        {
+            "comment": "I love your videos, I'm a chef and I love making cooking videos!\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Woww\ud83d\ude0d\ud83d\ude0bit looks so delicious \ud83d\ude0b Thank you for the recipe \ud83d\ude0b\ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Pecan Sandies are my absolute favorite. I\u2019ve always wanted to know how to make them. Now I can. Thank you so much, John. You\u2019re the best!\ud83c\udf6a",
+            "polarity": 0.3,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "This looks so yummy \ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love when a new video is posted. Will try these for Christmas baking. \ud83d\ude0d",
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.5272727272727272
+        },
+        {
+            "body": "Woww\ud83d\ude0d\ud83d\ude0bit looks so delicious \ud83d\ude0b Thank you for the recipe \ud83d\ude0b\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\"Who ate all the Pecan Sandies?\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mega virgo feelings \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qixmf4/eminem_white_america_rap/",
+    "time_posted": "2021-10-30 05:04:20",
+    "time_now": "2021-11-06 09:25:23",
+    "ups": 39,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himi6xw",
+            "body": "holy shit i haven't listened to this song in years and i just noticed the sound of the jet planes at the beginning - it helps that i'm listening with headphones",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "himxjpn",
+            "body": "The video for this song was really cool. All animated. \n\nhttps://youtu.be/RZIzD0ZfTFg",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment_id": "himkukq",
+            "body": "Little Eric looks just like this!\n\n\nYeah. No shit. So did my entire high school class the year this was released.",
+            "ups": -7,
+            "downs": 0,
+            "polarity": 0.006406250000000002,
+            "subjectivity": 0.61625
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himxjpn",
+            "body": "The video for this song was really cool. All animated. \n\nhttps://youtu.be/RZIzD0ZfTFg",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment_id": "himi6xw",
+            "body": "holy shit i haven't listened to this song in years and i just noticed the sound of the jet planes at the beginning - it helps that i'm listening with headphones",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "himkukq",
+            "body": "Little Eric looks just like this!\n\n\nYeah. No shit. So did my entire high school class the year this was released.",
+            "ups": -8,
+            "downs": 0,
+            "polarity": 0.006406250000000002,
+            "subjectivity": 0.61625
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himxjpn",
+            "body": "The video for this song was really cool. All animated. \n\nhttps://youtu.be/RZIzD0ZfTFg",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment_id": "himi6xw",
+            "body": "holy shit i haven't listened to this song in years and i just noticed the sound of the jet planes at the beginning - it helps that i'm listening with headphones",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment_id": "himkukq",
+            "body": "Little Eric looks just like this!\n\n\nYeah. No shit. So did my entire high school class the year this was released.",
+            "ups": -6,
+            "downs": 0,
+            "polarity": 0.006406250000000002,
+            "subjectivity": 0.61625
+        }
+    ]
+}

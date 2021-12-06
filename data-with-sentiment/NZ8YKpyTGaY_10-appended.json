@@ -1,0 +1,91 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-01 09:54:21",
+    "ups": "8928",
+    "downs": "718",
+    "views": "478142",
+    "top_comments": [
+        {
+            "comment": "Love the video thank you for sharing",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "5 cookies \ud83c\udf6a\ud83c\udf6a\ud83c\udf6a\ud83c\udf6a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "this not real",
+            "polarity": -0.1,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "can you make it easy",
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "2 or 3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2 or3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "10",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Leave a comment below",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love the video thank you for sharing",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "3\ufe0f\u20e3.       4\ufe0f\u20e3\ud83d\udd78.          Licia",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2     twoo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "S",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "oooooo cool holloween design",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "happy halloween\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83d\udc7b\ud83d\udc7b\ud83d\udc7b",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "There are 4 cookies\ud83c\udf6a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

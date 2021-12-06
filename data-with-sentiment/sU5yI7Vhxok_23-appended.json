@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-03 15:28:03",
+    "ups": "8421",
+    "downs": "81",
+    "views": "77635",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 1092,
+            "number_of_replies": 27,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "These are getting better and better all the time!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Who would have thought pop-funk would translate to metal so well! The riffage! The three of you together is quite something! Making Phil Collins creepy...Hotel California... just...wow! MORE!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Brought back to this video over and over for equal parts the AMAZING cover they did, but also the creative they put into the video itself <3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.42000000000000004,
+            "subjectivity": 0.63
+        },
+        {
+            "comment": "\"You as the viewer.\" Yay, I finally made it to the credits of a music video!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

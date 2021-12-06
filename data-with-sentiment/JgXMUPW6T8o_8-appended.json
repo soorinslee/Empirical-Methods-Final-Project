@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-11-01 01:40:18",
+    "ups": "2184",
+    "downs": "24",
+    "views": "31427",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 134,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I play \"competitive\" starcraft brood war, an RTS from 1998.  I play in a closed channel, invite only.  We don't exclude based off of elitism in regards to skill level, you simply have to be competent.  Casual try hard would be a good description as well.   We do exclude based off of personality.  Were all a bunch of 30 something year old players and we aren't interested in trash talk for mistakes.   \n\nThere is something to be said about the invite only only closed groups.  The players make the game just as much as the rules/mechanics do and that even holds true in a video game.",
+            "polarity": 0.019270833333333327,
+            "subjectivity": 0.5363839285714286
+        },
+        {
+            "body": "SLAY THE GREY! lol, you fielding an unpainted army is sooo off-brand",
+            "polarity": 0.36875,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "I hate that shit IP. I hate the show. I hate the books. I hate the minis.\n\nThis video was pure joy.",
+            "polarity": -0.3408163265306123,
+            "subjectivity": 0.7285714285714286
+        },
+        {
+            "body": "I definitely haven't arrived at Magic Opens and Regionals and immediately gone to the vendors to buy the rest of my deck and some sleeves. No sir, not me.",
+            "polarity": 0.25,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Excellent video Scott!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "What a coincidence, I'm playing my first 40k tournament next week end. Great timing",
+            "polarity": 0.35000000000000003,
+            "subjectivity": 0.3611111111111111
+        },
+        {
+            "body": "Is there a pretty active ASOIAF tournament scene in the Twin Cities?",
+            "polarity": 0.058333333333333334,
+            "subjectivity": 0.8
+        }
+    ]
+}

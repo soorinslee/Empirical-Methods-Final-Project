@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-03 15:28:16",
+    "ups": "27836",
+    "downs": "90",
+    "views": "257409",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "0:18 would be better if it was the frisk dance i think\n\ud83d\udd3c\ud83d\udd3d\ud83d\udd3c\ud83d\udd3d\ud83d\udd3c\ud83d\udd3d\ud83d\udd3c\ud83d\udd3d\ud83d\udd3c\ud83d\udd3d\ud83d\udd3c\ud83d\udd3d\ud83d\udd3c\ud83d\udd3c\ud83d\udd3d\ud83d\udd3c\ud83d\udd3d\ud83d\udd3c\ud83d\udd3d",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Hahahahahaha XD that was funny",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Kromer",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "0:30 That explosion makes everything more stylish",
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Berdly was so close to turn into super berd",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "berdly is not a true gamer",
+            "polarity": -0.175,
+            "subjectivity": 0.65
+        }
+    ]
+}

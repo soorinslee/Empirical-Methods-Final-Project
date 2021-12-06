@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=4bEpJNejSu0",
+    "time_now": "2021-11-05 12:47:09",
+    "ups": "7570",
+    "downs": "435",
+    "views": "729164",
+    "top_comments": [
+        {
+            "comment": "Top 5 ye interview right here",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.39285714285714285,
+            "subjectivity": 0.5178571428571428
+        },
+        {
+            "comment": "Wale Is Pressed",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wale got charisma where?? Hes low key annoying..",
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "wale not even from dc",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Skip this horse-shit go straight to the Kanye interview \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Wale not drinking the shot right away got Me bout to have a panic attack.",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "Show me you Nigerian \ud83c\uddf3\ud83c\uddec without saying you are \ud83c\udf39 love you brooooo .... Son of the Soil  \u2764\ufe0f ma fo fun anybody \ud83d\udcaf",
+            "polarity": 0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "2:45 and I\u2019m already Lmao",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "WEIRD\nDAMN BRO",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wale Is Pressed",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

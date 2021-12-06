@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:00:15",
+    "url": "https://www.youtube.com/watch?v=ZHRI0l6e2JY",
+    "time_now": "2021-11-04 07:57:55",
+    "ups": "357",
+    "downs": "8",
+    "views": "14014",
+    "top_comments": [
+        {
+            "comment": "New judges, please.",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment": "I think the wild card was really the winner \ud83e\udd2d",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "The wildcard winner created by far my favourite painting\u2014brilliant!",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Personally, I loved the submission painting of Emily\u2019s. It was naive but extremely charming and intricate. However, when she chose to change mediums, her canvas didn\u2019t grab me by the shoulder\u2019s and say\u2026that\u2019s it! Thanks so much for the post as we wait weekly for it\u2019s appearance!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.345,
+            "subjectivity": 0.64
+        },
+        {
+            "comment": "This was not a great turnout... I was not impressed with any of the work. I was not in agreement with any of the judges for the top three... I could have picked 3 but it was none that they picked.  Like a lot of commenters here i think the wild card won the day.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.07500000000000001,
+            "subjectivity": 0.6625
+        }
+    ],
+    "comments_since_last_sample": []
+}

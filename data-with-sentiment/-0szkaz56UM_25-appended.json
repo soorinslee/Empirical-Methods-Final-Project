@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-03 23:43:35",
+    "ups": "12932",
+    "downs": "191",
+    "views": "579719",
+    "top_comments": [
+        {
+            "comment": "Funny that the thief is tip toeing as if he's trying not to wake the homeowner when he knows damn well it's empty",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.075,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Don't trust strangers.... \"EVER\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This same thing happens in the book tangerine",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "So why isn't the customer expected to be smart enough to take precautions on their own?",
+            "polarity": 0.17857142857142855,
+            "subjectivity": 0.6357142857142857
+        },
+        {
+            "body": "A simple refund isn't gonna save their asses. The home owner should sue and recover their losses.",
+            "polarity": 0.0,
+            "subjectivity": 0.35714285714285715
+        },
+        {
+            "body": "why arent her valuables in a safe... just buy one lmfao",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Check your privilege baby. Always secure your valuables! Trust no one. This was on you baby girl",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

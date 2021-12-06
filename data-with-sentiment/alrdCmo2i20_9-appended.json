@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-01 05:46:55",
+    "ups": "4198",
+    "downs": "46",
+    "views": "50034",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "You know someone at some point took a picture of their dikk and had their girlfriend play it.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'd love to see more N64 DD stuff Uncle Derek! Maybe you could investigate that US prototype model that Metal Jesus has since he is also in the Seattle area? That would be an incredible collaboration video. \ud83d\ude0d",
+            "polarity": 0.6749999999999999,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "I hear that Pok\u00e9mon TCG gameboy music in the background there, ya beautiful renegade, you. \ud83d\ude01\ud83d\ude4c mad respect from the Misty Mountains \ud83d\ude4f\ud83d\udc9c\ud83d\udc7d",
+            "polarity": 0.11249999999999999,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Happy Halloween Derek \ud83d\udc80 \ud83d\udc80 \ud83d\udc80",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I have to ask, considering that the capture card for the Talent Studio appears to just accept a regular composite cable, would you be able to stick another console in and have it come through the 64?\n\nI honestly just wonder what that will accept.",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.533974358974359
+        },
+        {
+            "body": "Of course I'd love to see more 64DD videos; that thing is endlessly fascinating to me. My hottest take is that I think it had more to do with the N64's failure than anything else; to me it seems like Nintendo had staked a _lot_ of the console's success on that add-on - just go look at how many of its games, released or cancelled, were originally planned for it - which they then proceeded to barely release and ultimately ignore after just a few months. Talk about self-sabotage, what a mess.",
+            "polarity": 0.22777777777777777,
+            "subjectivity": 0.4479166666666666
+        }
+    ]
+}

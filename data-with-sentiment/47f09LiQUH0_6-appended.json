@@ -1,0 +1,76 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-10-31 17:25:24",
+    "ups": "4919",
+    "downs": "220",
+    "views": "108555",
+    "top_comments": [
+        {
+            "comment": "Cringe\ud83e\udd75",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hold on this is all cute and stuff I love it you go girl but why does she look like my math teacher \ud83d\udc40",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Such a cool reveal. No massive explosion killed anyone which is always a plus. \ud83d\ude06\ud83d\ude06\ud83d\ude06",
+            "polarity": 0.03749999999999999,
+            "subjectivity": 0.5375
+        },
+        {
+            "body": "Props to whomever thought of this!!   Very clever!!",
+            "polarity": 0.33854166666666674,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "How can you possibly reveal the baby's gender when it hasn't told you what it feels like it is?",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "She\u2019s going to walk out blue with all that smoke on her face \ud83d\ude02\ud83d\ude02\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Awful. So many unaware of the reality of witches, their craft, and the innocent blood of children spilt and consumed.",
+            "polarity": 0.0,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "Wow a gender reveal where people don\u2019t die or acres of woods burn down. Nice",
+            "polarity": 0.18148148148148147,
+            "subjectivity": 0.762962962962963
+        },
+        {
+            "body": "wanda: *profusely sweating*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Very cute",
+            "polarity": 0.65,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "That's actually really cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "I love how they stay in character even after the reveal. I\u2019m sensing we\u2019ve got a-list actors on our hands \ud83d\ude0f",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

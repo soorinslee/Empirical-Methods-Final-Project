@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-11-01 14:01:48",
+    "ups": "2350",
+    "downs": "26",
+    "views": "34073",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 143,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I missed my local event because couldn't get everything painted in time because I didn't want to rush",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Playing in tournaments is not as scary as people think. When we are as specific about what game we play, as we miniature players tend to be. The amount of people in our area who play the same game is limited. \"Veteran\" players are therefore  most likely to be happy about having someone new to play with and will probably be very inviting and friendly. The same goes for local clubs or gamestores. They will most likely be thrilled if someone new wanted to join and learn. So don't be shy, just give it a go. \n\nThanks Scott for another great Video! My painting hours is flying by when I have your videos to listen to.",
+            "polarity": 0.11710448642266824,
+            "subjectivity": 0.4625885478158205
+        }
+    ]
+}

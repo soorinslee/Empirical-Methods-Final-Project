@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-04 07:57:29",
+    "ups": "107986",
+    "downs": "2313",
+    "views": "2763330",
+    "top_comments": [
+        {
+            "comment": "Can we all agree that when He uploads our days get better! \ud83d\udc96",
+            "likes": 2,
+            "number_of_replies": 3,
+            "polarity": 0.625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Presun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I wonder if Preston knows other animes, excluding the popular ones...",
+            "polarity": 0.2375,
+            "subjectivity": 0.6375
+        },
+        {
+            "body": "Congrats preton finally have reached 11k subscribers!",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "MrMcBiscuit is so humble",
+            "polarity": -0.2,
+            "subjectivity": 0.4
+        }
+    ]
+}

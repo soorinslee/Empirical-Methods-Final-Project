@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-02 10:38:06",
+    "ups": "9862",
+    "downs": "779",
+    "views": "547490",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween \ud83c\udf83 from Germany",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "There was three because you showed two in the beginning and one when you told us to how many there was so there is three",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\u2764\ufe0f\ud83d\udc4d\ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u2b50\ud83d\udd35\ud83d\udd3c\u23f9\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I saw 15 cookies in this video",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "j",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "gusto ko pumunta gan",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "five cookies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

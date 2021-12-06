@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:21:36",
+    "url": "https://www.youtube.com/watch?v=ra9h9tpHD-c",
+    "time_now": "2021-11-05 21:02:03",
+    "ups": "1344",
+    "downs": "17",
+    "views": "83467",
+    "top_comments": [
+        {
+            "comment": "Kyle and ALEXA \u2764\ud83e\udd70\ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "u desrve sa roll na serena #ALEXA\u2764\ufe0f\u2764\ufe0f\ud83d\ude18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "kanina ko pa napapansin. nung unang nood ko pa lang... di ko alam if ako lang but look may pasa sa hita si alexa",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Go madam inuts ang ingay mo talaga\ud83d\ude02\ud83d\ude02\ud83d\ude02 love u madam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I love ALEXA \u2764\u2764\u2764\ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": []
+}

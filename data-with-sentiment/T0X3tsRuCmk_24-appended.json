@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=T0X3tsRuCmk",
+    "time_now": "2021-11-03 19:36:06",
+    "ups": "2549",
+    "downs": "142",
+    "views": "136733",
+    "top_comments": [
+        {
+            "comment": "Subscribe to our channel so you never miss any news updates http://bit.ly/3e0SwKP",
+            "likes": 9,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Awesome show love you all team members and friends",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Copy of Aftab iqbal show Khabardar.. \ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Aftab Iqbal ki Copy",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u06af\u0648\u06af\u0627 \u067e\u0633\u0631\u0648\u0631\u06cc \u0635\u0627\u062d\u0628 \u06a9\u06c1\u0627\u06ba \u063a\u0627\u0626\u0628 \u06c1\u06cc\u06ba \u061f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-04 16:11:59",
+    "ups": "38596",
+    "downs": "450",
+    "views": "819980",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1203,
+            "number_of_replies": 105,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "Ro is so kind and the way she talk just explains herself! You're the Best youtuber ever Ro! Ur house is so beautiful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8666666666666667,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "I have a name for the barista\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nwhat about\n\n\nautumn",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "WOW I really like it have fun in it \ud83d\ude09\ud83d\ude01",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.20000000000000004,
+            "subjectivity": 0.4666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This is the most beautiful house i have ever seen. Everyone did an amazing job!",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "I think your built in barista should be named Fran \ud83d\udc9c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Call your \" barista Kathleen",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is a really nice home! Congratulations \ud83c\udf88\ud83c\udf8a\ud83c\udf89\ud83c\udf7e Ro!  \ud83d\ude00\ud83d\ude03\ud83d\ude04",
+            "polarity": 0.9375,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "WOW I really like it have fun in it \ud83d\ude09\ud83d\ude01",
+            "polarity": 0.20000000000000004,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "body": "Info on the beam console table please !!!! \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Not a fan of those style chairs. They seem way to uncomfortable especially without a head rest",
+            "polarity": -0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "A guest room for mama \ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a ro\u2026 i feel so old but also!!!! You\u2019ve grown so much!!!!",
+            "polarity": 0.3662109375,
+            "subjectivity": 0.2
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-02 22:59:46",
+    "ups": "4336",
+    "downs": "180",
+    "views": "179412",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 17,
+            "number_of_replies": 20,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "The question is. There's still have storage for downloading the video why would you panic to print out the document? Does it Sound easy to download the file and just save it rather than have to print it out one by one? \nI don't know what's the problem with ya... Is the Internet gone? The storage, Signal, or the web. (what exactly the definition is this)",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.36111111111111116,
+            "subjectivity": 0.49444444444444446
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I like when he spills coffee n goes uh oh lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

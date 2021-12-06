@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-05 08:40:00",
+    "ups": "20204",
+    "downs": "63",
+    "views": "222683",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2927,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The Best singer. I love his Voice.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "\u201cI\u2019m not surprised, but I\u2019m surprised you know\u201d\nYEAH we army can totally relate",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.016666666666666666,
+            "subjectivity": 0.85
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "JUNGKOOK IS THE MOST PERFECT HUMAN BEING IN THE WORLD AND I KNOW THAT SINCE IVE BEEN AN ARMY SINCE 2016 THIS COVER IS THE BEST IVE EVER HEARD ITS SO FULL OF EMOTIONS AND DONT GET ME WRONG BUT ITS WAY BETTER THEN THE ORIGINAL VERSION",
+            "polarity": 0.403125,
+            "subjectivity": 0.575
+        }
+    ]
+}

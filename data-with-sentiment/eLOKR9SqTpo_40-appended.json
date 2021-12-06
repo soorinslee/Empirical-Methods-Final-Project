@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-06 13:31:42",
+    "ups": "14871",
+    "downs": "1925",
+    "views": "1660988",
+    "top_comments": [
+        {
+            "comment": "Thank you for sharing this video. Keep doing more videos.\u00a0  \u2665 \u2665 12:16",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.8333333333333334,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "8:12 I  think he has a problem over there?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\udc4d\ud83d\ude3d\ud83d\udc6e\u200d\u2640\ufe0f\ud83d\udc6e\ud83d\udc51\ud83d\udc51\ud83c\udf67\ud83c\udf67\ud83c\udf67\ud83c\udf71\ud83c\udf71",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Plz\n\u201c\u201d , ,   J. X.  Uicszdzsakkikmuyqdgvyybhbgbnnnjjjjnnnnjj*cvbmplo*vvv.kkmypoyh v mmbbvvvghn okkkk\n\n\n \n\n\nWe can",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

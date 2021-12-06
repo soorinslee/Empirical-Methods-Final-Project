@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-03 07:14:22",
+    "ups": "11157",
+    "downs": "84",
+    "views": "218045",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I love you!! I have been watching for years and years now\u2764\ufe0f",
+            "polarity": 0.78125,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "i live in indiana \u2764\ufe0f\ud83e\udd0d",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "i did not know tk was so good at golf omg",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I cannot believe you were in bloomington same exact time I was, please come and visit again im so glad you all had fun \n\\",
+            "polarity": 0.2625,
+            "subjectivity": 0.39375
+        },
+        {
+            "body": "me watching this at purdue rn HAHAHA",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        }
+    ]
+}

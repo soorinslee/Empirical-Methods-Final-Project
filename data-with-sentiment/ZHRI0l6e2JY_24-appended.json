@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:00:15",
+    "url": "https://www.youtube.com/watch?v=ZHRI0l6e2JY",
+    "time_now": "2021-11-03 19:36:24",
+    "ups": "346",
+    "downs": "8",
+    "views": "13332",
+    "top_comments": [
+        {
+            "comment": "New judges, please.",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment": "The wildcard winner created by far my favourite painting\u2014brilliant!",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Personally, I loved the submission painting of Emily\u2019s. It was naive but extremely charming and intricate. However, when she chose to change mediums, her canvas didn\u2019t grab me by the shoulder\u2019s and say\u2026that\u2019s it! Thanks so much for the post as we wait weekly for it\u2019s appearance!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.345,
+            "subjectivity": 0.64
+        },
+        {
+            "comment": "I think the wild card was really the winner \ud83e\udd2d",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "comment": "I'm not going to lie, I envy all this artists that are brought to such beautiful places to paint those master pieces of nature and architecture... just don't paint a single tree when you have such a landscape before your eyes, you'll be missing the point (I'm saying this because a past episode :-P)\nPlus, Dave looks so much like Mike Myers \ud83e\udd2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15982142857142856,
+            "subjectivity": 0.4642857142857143
+        }
+    ],
+    "comments_since_last_sample": []
+}

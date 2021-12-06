@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 13:30:27",
+    "url": "https://www.youtube.com/watch?v=GG-_iR6AW-w",
+    "time_now": "2021-11-01 14:01:38",
+    "ups": "2428",
+    "downs": "45",
+    "views": "70952",
+    "top_comments": [
+        {
+            "comment": "We love France \ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Just want to remind my fellow Indians that their is no permanent friend or foe in geo politics .\nIt is all about the interest of the nations",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Love Mcron very much. God bless.",
+            "polarity": 0.38,
+            "subjectivity": 0.43
+        },
+        {
+            "body": "Bloody hell get the 114 planes either from France or F15ex for Airforce and 50 something for Navy. Thank you, Gentlemen and Ladies",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "France ko bolo pehle nangapan band kare tabhi hum inke saath Kaam karenge... Jai Shree ram else boycott france",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

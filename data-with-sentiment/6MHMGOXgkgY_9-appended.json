@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-11-01 05:47:01",
+    "ups": "12559",
+    "downs": "224",
+    "views": "220769",
+    "top_comments": [
+        {
+            "comment": "Play gmod with Trevor Henderson/ things like siren head",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I the biggest fan",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hey Slogo you the best YouTube channel",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Slug city it is right",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj1gq0/problem_logitech_g29_on_pc/",
+    "time_posted": "2021-10-30 09:26:33",
+    "time_now": "2021-11-01 05:49:02",
+    "ups": 1,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hin427o",
+            "body": "Steam doesn't need to detect the controller, the game does.\n\nI've got a G29 and have never had issues with games recognizing it, as long as the controller is plugged in to the PC and powered on before starting the game.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.21250000000000002,
+            "subjectivity": 0.325
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hin427o",
+            "body": "Steam doesn't need to detect the controller, the game does.\n\nI've got a G29 and have never had issues with games recognizing it, as long as the controller is plugged in to the PC and powered on before starting the game.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.21250000000000002,
+            "subjectivity": 0.325
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hin427o",
+            "body": "Steam doesn't need to detect the controller, the game does.\n\nI've got a G29 and have never had issues with games recognizing it, as long as the controller is plugged in to the PC and powered on before starting the game.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.21250000000000002,
+            "subjectivity": 0.325
+        }
+    ]
+}

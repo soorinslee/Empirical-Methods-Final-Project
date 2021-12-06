@@ -1,0 +1,112 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-01 09:53:36",
+    "ups": "20586",
+    "downs": "480",
+    "views": "280232",
+    "top_comments": [
+        {
+            "comment": "Impressive, a new style, I love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5454545454545454,
+            "subjectivity": 0.6848484848484849
+        },
+        {
+            "comment": "I wanna be a part of y\u2019all so bad omlll this is fire",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "SICK!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8928571428571429,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "comment": "nice music",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Awesome \ud83d\ude0e",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Welcome dude",
+            "polarity": 0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I wanna be a part of y\u2019all so bad omlll this is fire",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "So Scary Background and song",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "vewy spoopy \ud83d\ude2e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love ncs song \u2764\u2764\u2764",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "3:26 is my fav",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mantapp",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Soo good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Impressive, a new style, I love it",
+            "polarity": 0.5454545454545454,
+            "subjectivity": 0.6848484848484849
+        },
+        {
+            "body": "ok",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Awesome \ud83d\ude0e",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wow \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "If you read this while listening , doesn't matter where you are right now, I wish you a wonderful  and a happy peaceful life where all your dreams become true.  Cheers \u2764",
+            "polarity": 0.5371428571428571,
+            "subjectivity": 0.7371428571428571
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-03 19:35:36",
+    "ups": "18618",
+    "downs": "59",
+    "views": "199776",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2656,
+            "number_of_replies": 14,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Your Kitten Can't Leave The Room. Can't Leave JK's Angelic Voice.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Guuuys I made a rock version of this cover! \ud83c\udfb8\ud83c\udfb8 I\u2019d appreciate it if you checked it out~~ I\u2019d like y\u2019all to join me in manifesting the rockstar ;);)",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I came back to this video after watching How to Listen ... Adele.  Your comments here esp. about the chorus make so much more sense to me now!  I know I\u2019m a broken record but THANK YOU for your analysis and explanations. \ud83d\ude4f",
+            "polarity": 0.075,
+            "subjectivity": 0.3
+        }
+    ]
+}

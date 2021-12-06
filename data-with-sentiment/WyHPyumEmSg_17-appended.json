@@ -1,0 +1,94 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-02 14:44:41",
+    "ups": "11001",
+    "downs": "110",
+    "views": "132672",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 184,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What about unblockable?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Okay but what about Graft?",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Is Ferocious kicker or horsemanship?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rebound",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Trample is just partial Horsemanship",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Maybe it\u2019s not that cleave is another kicker, but kicker is just cleave beta",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Deathtouch is kicker",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Exactly!! For years I\u2019ve been telling my friends that all mechanics is just a kicker!",
+            "polarity": 0.48828125,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "He's not wrong",
+            "polarity": 0.25,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Where is the lie",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Every pokemon move is based on dig (:",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mentor, Dredge, Landwalk, Prowess, Modular, Eminence, Adapt, Landfall, Constellation, Infect, Radiance, Annihilator, Proliferate etc.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I've been saying this for years.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "and banding?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Are\u2026 Planewalkers\u2019 abilities kickers?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

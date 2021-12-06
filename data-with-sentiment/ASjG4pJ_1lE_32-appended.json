@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-11-05 04:33:38",
+    "ups": "4972",
+    "downs": "202",
+    "views": "216571",
+    "top_comments": [
+        {
+            "comment": "Hey there! Which website would you miss the most if all Internet stopped working one day? \ud83d\ude0e",
+            "likes": 33,
+            "number_of_replies": 32,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "when there is no internet its life when there where no phones no computers and tablet",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "0:39 I think BRIGHT SIDE was Typo, it should be written \"Unknown\" not \"Uncnown\".",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "when there is no internet its life when there where no phones no computers and tablet",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i would rather die",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

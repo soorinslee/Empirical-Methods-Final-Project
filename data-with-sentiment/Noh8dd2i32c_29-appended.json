@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-04 16:11:56",
+    "ups": "3569",
+    "downs": "36",
+    "views": "67918",
+    "top_comments": [
+        {
+            "comment": "It seems like almost everyone puts a huge rug under the bed leaving it peeking out at the sides. I guess that works better with neutrals. I usually prefer a bolder color palette and like to put smaller rugs around the bed, usually one on each side. That way, I can appreciate the rugs in their entirety and they make more of a statement.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.48333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Is there any way to make my \"covid 19 station\" look better on my entryway table? I have hand sanitizer and a place for disinfecting my work pens and other things sitting there (I'm an RN). I currently have everything in a beautiful tray, but it just makes me sad to have to have that stuff sitting out. Is it better to change the bottle for the hand sanitizer to something more decorative? I'm just at a loss. Thank you.",
+            "polarity": 0.24642857142857144,
+            "subjectivity": 0.6107142857142858
+        },
+        {
+            "body": "Hey Nick! Another wonderful video! Thank you so much! Quick question : Could you make a video of how to decorate a flat / apartment that is on the top floor underneath the roof? I don't know how else to describe it, but it basically has diagonal walls. (sorry english is not my native language). Thank you once again!",
+            "polarity": 0.21805555555555556,
+            "subjectivity": 0.5208333333333334
+        }
+    ]
+}

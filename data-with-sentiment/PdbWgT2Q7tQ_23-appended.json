@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-03 15:28:04",
+    "ups": "18536",
+    "downs": "177",
+    "views": "233785",
+    "top_comments": [
+        {
+            "comment": "Omg I ain't gonna lie this was better than the original!\nSorry not sorry Billie",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.1796875,
+            "subjectivity": 0.8125
+        },
+        {
+            "comment": "this was amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Your voices are really good for this song! I really like when you guys cover Billie Eilish songs, especially this one! Too bad Kath can't be here.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.09375000000000003,
+            "subjectivity": 0.6166666666666667
+        },
+        {
+            "comment": "holy shit i got goosebumps all over oh my GOD this is beautiful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.32499999999999996,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "woowwww\ud83d\ude2e",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I MISSED LISAS VOCALS SO MUCH AHHHH NOW I AM HAPPIER THAN EVER",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "It\u2019s good but it\u2019s just the song is not for the right voice for some of the singers. It was a good cover though \ud83d\udc4f",
+            "polarity": 0.5619047619047618,
+            "subjectivity": 0.5785714285714286
+        }
+    ]
+}

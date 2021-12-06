@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-10-31 13:18:31",
+    "ups": "407",
+    "downs": "96",
+    "views": "35488",
+    "top_comments": [
+        {
+            "comment": "Covid 19 has mutated into myocarditis, blood clots,  livedo reticularis, Neuropathy, pulmonary arterial hypertension, miscarriages, food shortages, cyber attacks, and death. The hardest part about the 2 weeks to flatten the curve, is the 36 months.",
+            "likes": 6,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I remember when they said covid won\u2019t live in cold weather",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.2318181818181818,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "As masks Increase both the frequency and depth of respirations (breaths), they increase the likelihood that each respiration will contain a larger amount of infectious viral particles. This may worsen the community transmission of CoVID-19 as infected people wearing masks exhale respiratory plumes loaded with greater levels of infectious viral particles. These infectious plumes readily move around the sides, bottom, and top of masks.",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "study with only 3k kids, seems legit give it to the whole world..... and i hate the word safe, its misleading, low risk is not no risk",
+            "polarity": -0.020000000000000018,
+            "subjectivity": 0.6199999999999999
+        },
+        {
+            "body": "Keep being arrogant fools",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The study is too small they want to vac 28 million ???",
+            "polarity": -0.25,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "We did check with Doctors in China, the last report was late Aug 2019 when China knew about Covid... Now that news has changed to a new date, May 2019:   https://www.youtube.com/watch?v=PS41mreWkA0",
+            "polarity": -0.05454545454545454,
+            "subjectivity": 0.3737373737373737
+        },
+        {
+            "body": "Scamdemic",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Man if I were that lady I'd wear a plastic bag over my head, pretty much 100 percent chance of not getting covid. Taking more rights from us.",
+            "polarity": 0.31666666666666665,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "body": "1:47 Whenevr you hear university in these types of videos you know some bs is about to come your way.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "There wearing marsk",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

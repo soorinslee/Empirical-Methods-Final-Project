@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 12:04:22",
+    "url": "https://www.youtube.com/watch?v=RqnFN8W8Ygs",
+    "time_now": "2021-10-30 20:51:42",
+    "ups": "267",
+    "downs": "51",
+    "views": "28248",
+    "top_comments": [
+        {
+            "comment": "ANG KAWATAN AT MANDARAMBONG ,,MAG SAMA HUHUHUHU,,KALOLOOY GD ANG ATON BANSA,,,,,WAKE UP MAHAL KONG KABAYAN,,,,BE WISE,,,GOD BLESS US ALL,,,,",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "AYAW NINYONG IPAKITA ANG MGA COMMENT KUNG MAY TUNAY NA COMMENT SA INYONG MGA GUEST. NAMIMILI LANG KAYO NG COMMENT.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Atiensa hindi mo mauto mga Pinoys. Please stop trying.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "THE \u201cCONCERN FOR THE POOR\u201d  IS A TRITE STRATEGY TO FOOL THE  WEAK  AND HELP THE STRONG!\nWE NEED A PRESIDENT FOR ALL, RICH OR POOR!",
+            "polarity": -0.07166666666666668,
+            "subjectivity": 0.6616666666666667
+        },
+        {
+            "body": "THE REAL REASONS WHY MANY DISLIKE PRESIDENT FERDINAND MARCOS : MARTIAL LAW DEPRIVED BENGNO AQUINO, JOVITO SALONGA,  ARTURO TOLENTINO, SERGIO OSMENA,  SALVADOR LAUREL, ETC., THE OPPORTUNITY TO BE PRESIDENT!\nMARTIAL LAW SAVED US FROM THE GODLESS COMMUNISTS!",
+            "polarity": 0.175,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Change station. ABS-cb-eND PALA!  GUESTS are IN-experienced, too.  They have little brains and experience in the real world of Governance!  Distorted politics with unreal observation of personalities of the presidential candidates that they support.  They have equal minds with Leni Lugaw and Manny Money.",
+            "polarity": 0.020833333333333332,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "body": "YOUR GUESTS TALK WELL BUT ARE TRYING TO MISEDUCATE THE PEOPLE IN SOME WAYS!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

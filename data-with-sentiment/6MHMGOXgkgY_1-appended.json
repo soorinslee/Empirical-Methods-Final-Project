@@ -1,0 +1,125 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-10-30 20:51:28",
+    "ups": "7819",
+    "downs": "132",
+    "views": "107746",
+    "top_comments": [
+        {
+            "comment": "i love it when notification pops up \"someone liked your comment\" or \"you got a new subsciber\" it makes me so happy",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.509090909090909,
+            "subjectivity": 0.7136363636363636
+        },
+        {
+            "comment": "Hi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Slogo you are my favourite youtuber and I want to met you one day or play a game with when I can reach you",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Slogo Iight get a chanel like soon I do it right and if Ido can you feature me in your next vid when I have it.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.14285714285714285,
+            "subjectivity": 0.26785714285714285
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jelly:NO SIR",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bro i was eating some ramen and I spitted it all our bc of crainers beat",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "pov u have no vid ideas... WE DEFEATED THE ELEMENTAL SIREN HEADS...UWU",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Josh can I see a fortnite video pls I really mis it",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Short vid",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Hi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy Halloween! Enjoy your Halloween!\n\n\n\n\n\n\n(it is Halloween at the time I typed this. It might not be for you but for Slogo now, it would close to Halloween.)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n;)",
+            "polarity": 0.5833333333333334,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "Slogo Iight get a chanel like soon I do it right and if Ido can you feature me in your next vid when I have it.",
+            "polarity": 0.14285714285714285,
+            "subjectivity": 0.26785714285714285
+        },
+        {
+            "body": "slogo can you do amgaos sorry",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Slogo you are my favourite youtuber and I want to met you one day or play a game with when I can reach you",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Hi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i love it when notification pops up \"someone liked your comment\" or \"you got a new subsciber\" it makes me so happy",
+            "polarity": 0.509090909090909,
+            "subjectivity": 0.7136363636363636
+        },
+        {
+            "body": "Your the worst commandet ever",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Day 1 asking for more trailmakers",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "i liked the RP that you did do more but punish them when they have bad behaver",
+            "polarity": 0.13333333333333341,
+            "subjectivity": 0.6555555555555556
+        },
+        {
+            "body": "Meatball",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You should have to defeat the elemelonssss!! Also love your vids!!!",
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        }
+    ]
+}

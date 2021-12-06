@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-04 03:50:28",
+    "ups": "12026",
+    "downs": "49",
+    "views": "174736",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 232,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "FIrst of all thanks for the vid X! I do as a redstone noob, need more information on the hopper clock at the bottom of the spider farm. I believe I build it exactly in my own survival game, but it seems that I can't get the pulse like you do...does anybody have a more detailed explantion, so I can get it working?\n\nEDIT:  how many items do you need in the hopper? It seems that my comparator cannot read the the items inside of the hopper correctly to send a pulse. I do appreciate anyones help :)!",
+            "polarity": 0.35833333333333334,
+            "subjectivity": 0.575925925925926
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 11:00:18",
+    "url": "https://www.youtube.com/watch?v=mN8vCV8oDvc",
+    "time_now": "2021-11-01 18:08:23",
+    "ups": "1268",
+    "downs": "12",
+    "views": "21338",
+    "top_comments": [
+        {
+            "comment": "There\u2019s an exercise 0, which is to play the roots only. There\u2019s a lot of folks who will benefit first from finding the roots in different spots in the neck.",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.6444444444444444
+        },
+        {
+            "comment": "I had a jazz teacher tell me in college \"you gotta play more then the root and 5!\" but then as soon as I did he said it was too busy so then I went back to what I originally did and he was happy, I've had art teachers tell me I need to add more detail to a drawing so I'll go and sit down and pretend to work bring it back and get told perfect.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3604938271604939,
+            "subjectivity": 0.48209876543209873
+        },
+        {
+            "comment": "I loved the intro \ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "First time I've ever understood anything about walking bass lines. Good stuff.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.4777777777777778
+        },
+        {
+            "comment": "Thanks Scott, always enjoy yours & the team's stuff. At one point when you were saying root 'n 5\n& root 'n 5, part of me was thinking go on say it - say it ... root 'n tootin' !\nl know, very sad.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.016666666666666646,
+            "subjectivity": 0.5666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Thanks \ud83d\udc4d",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

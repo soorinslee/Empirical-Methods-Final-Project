@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-01 05:47:20",
+    "ups": "2587",
+    "downs": "19",
+    "views": "42681",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Great info\u2026appreciate you\ud83d\ude4f\ud83d\ude4f\ud83d\udc4f\ud83d\udc9c",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I feel like I can relate to you, because I don\u2019t have a lot of money to spend myself. When it comes to the luxury  bags and stuffs, i choose @ xrepbag.com  everytime honestly",
+            "polarity": 0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "This might not be a design mistake but people often setting up two-way switches that operate room lights as you enter the room as well as can be switched off when in bed.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

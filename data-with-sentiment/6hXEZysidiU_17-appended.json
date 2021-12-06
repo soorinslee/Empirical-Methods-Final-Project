@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-02 14:45:17",
+    "ups": "3913",
+    "downs": "56",
+    "views": "68360",
+    "top_comments": [
+        {
+            "comment": "Amazingly amazing! How simple yet scientific, how spiritual yet rational answers were..!! Very profound...!! Thank you!",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.2403971354166667,
+            "subjectivity": 0.5976190476190476
+        },
+        {
+            "comment": "Really fortunate enough to listen and feel this knowledge by Gurudev \ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "What a bunch of bullshit! Passing bullshit as divine knowledge and science!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ultimate conversation \ud83d\udc4c  imp for  everyone....",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Gurudev...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "what is God , we are God. these Scientists need to come and see me. I will tell them the secret which they're searching for as I've seen it. all of you will be lost unless i share this truth with you all.",
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 12:00:11",
+    "url": "https://www.youtube.com/watch?v=LhHtchAY4M4",
+    "time_now": "2021-11-03 15:28:44",
+    "ups": "7159",
+    "downs": "102",
+    "views": "121526",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Democrats never have, it's not rocket Science!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Maybe he should pay Americans $450,000 to relocate to Mexico. I might take that deal.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

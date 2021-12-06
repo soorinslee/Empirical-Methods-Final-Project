@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-06 01:09:41",
+    "ups": "36480",
+    "downs": "6107",
+    "views": "8247794",
+    "top_comments": [
+        {
+            "comment": "So sad Dibya died- in suspicious circumstances \ud83e\udd28",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Heavenly angel...",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I still love this song",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Toooo forward for those times. Music, clothes",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Zabardast mind blowing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hooii",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

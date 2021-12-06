@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 13:00:07",
+    "url": "https://www.youtube.com/watch?v=BpNerJUg81Q",
+    "time_now": "2021-11-02 02:23:46",
+    "ups": "2251",
+    "downs": "54",
+    "views": "70981",
+    "top_comments": [
+        {
+            "comment": "Biden=destruction of America",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Democrats and Republicans need to grow some balls! ENOUGH IS ENOUGH! IMPEACH THIS PEICE OF CRAP",
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "What do u mean \"LETS HOPE THEY DONT GET THE VOTES?\" THIS IS AMERICAN MONEY AND OUR CITIZENS AT STAKE!!! IT SHOULDN'T PASS EVER",
+            "polarity": -0.15625,
+            "subjectivity": 0.34375
+        },
+        {
+            "body": "This is nothing short of treason by a group of self serving democrats",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        }
+    ]
+}

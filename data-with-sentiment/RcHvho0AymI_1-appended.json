@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 12:07:22",
+    "url": "https://www.youtube.com/watch?v=RcHvho0AymI",
+    "time_now": "2021-10-30 20:51:41",
+    "ups": "340",
+    "downs": "28",
+    "views": "22404",
+    "top_comments": [
+        {
+            "comment": "NCB agencies need to investigate. Because this agency doing nothing for big dealer",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "He is a legal legend. Thanks, Zain.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "NCB needs publicity only",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Mukul sir salute",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Agency exposed",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Kudos India Today!  NCB EXPOSED, Lazy Magistrates in Lower Courts, Archaic judicial and prison system Procedural nonsense. Urgent investigation, review and reforms needed. Who will lead the Charge?",
+            "polarity": -0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "From this incident conclusion is that lot of Indian citizens are in jail due to political vengeance",
+            "polarity": -0.075,
+            "subjectivity": 0.15833333333333333
+        },
+        {
+            "body": "Wow!! Former Attorney General & Advocate of the Supreme Court, after seeing the facts stated - NCB stretched the case too far against Aryan ? Aryan should not have been arrested ? So, it is true that NCB made an illegal arrest and was trying to frame Aryan. Wankhede certainly should be held accountable for damage caused to Aryan. NCB should take note.",
+            "polarity": 0.0300595238095238,
+            "subjectivity": 0.46904761904761905
+        },
+        {
+            "body": "6:08 EXACTLY, when everyone came to know that ncb has clarified that no consumption/recovery of drugs from Aryan  I have seen people calling Aryan a PEDDLER \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Thanku Sir for your efforts. Happiness & goodness to all\ud83d\udc4d\ud83d\udc4d\ud83d\ude4f",
+            "polarity": 0.7,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "I lost all the respect towards this man. Shame.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "NCB needs publicity only",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Laws need to be amended ASAP, people have become so cruel that they r enjoying the whole scene of arrest of a young boy, forget that he is celebrity son , he is another citizen of India, we are not cruel animals as such to start harrasing him mentally n physically",
+            "polarity": 0.03125,
+            "subjectivity": 0.5053571428571428
+        },
+        {
+            "body": "rohatgi also knows that the chats reveal that he was consuming drugs ... \nelse just like that the bail order does not state that he should refrain from such activities .",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "He is a legal legend. Thanks, Zain.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

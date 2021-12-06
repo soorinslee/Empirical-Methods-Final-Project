@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 14:23:10",
+    "url": "https://www.youtube.com/watch?v=6_ubH4F_eRQ",
+    "time_now": "2021-11-05 00:26:33",
+    "ups": "25297",
+    "downs": "2101",
+    "views": "2339384",
+    "top_comments": [
+        {
+            "comment": "Miss you Sir \ud83d\ude2d\ud83d\ude25",
+            "likes": 177,
+            "number_of_replies": 16,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Miss u puneet",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

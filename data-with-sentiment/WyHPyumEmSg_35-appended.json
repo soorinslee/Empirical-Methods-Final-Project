@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-05 16:54:35",
+    "ups": "12208",
+    "downs": "126",
+    "views": "152838",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 201,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "I want the shirt that says everything is kicker or horsemenship! Lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Mark Rosewater has said that he regrets how broad kicker is a mechanic. That any additional cost mechanics are just limited kicker.",
+            "polarity": -0.03630952380952381,
+            "subjectivity": 0.21845238095238093
+        },
+        {
+            "body": "I love how happy he is to just share his wisdom xD",
+            "polarity": 0.65,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Hey, thats their word!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I want the shirt that says everything is kicker or horsemenship! Lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

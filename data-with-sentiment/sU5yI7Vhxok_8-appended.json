@@ -1,0 +1,65 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-01 01:39:38",
+    "ups": "6001",
+    "downs": "48",
+    "views": "45954",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 805,
+            "number_of_replies": 23,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "So well done!!!  Face melting awesomeness!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Damn, you look ghoul'd!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wow!!  I'm the generation who grew up with Saturday Night Fever and the BeeGees.  That was pure genius!!  I want to see more.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.33035714285714285,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The Halloween classic no one ever understood. Genius.",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Dave's and violet's voices are just a perfect match.\nPlease more colab",
+            "polarity": 0.75,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Holy fuck me, this was amazing",
+            "polarity": 0.10000000000000003,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I wish i could give this video more than 1 like",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "WTF it's almost 2022 and we still can't put multiple thumbs up on a video.",
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        }
+    ]
+}

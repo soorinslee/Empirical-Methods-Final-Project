@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-05 08:40:19",
+    "ups": "110485",
+    "downs": "2379",
+    "views": "2846406",
+    "top_comments": [
+        {
+            "comment": "I wonder how many Will find this comment, in the vast and tretuous sea of comments. Be you.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "lv\u2006mi\u2006x\u2006n\u2006pj\u2006x\u2006m\u2006p\u2006k\u2006ven\u2006k\u2006p\u2006c\u2006s\u2006m",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "STOP IT PANCAKES! that got me real hard",
+            "polarity": -0.4375,
+            "subjectivity": 0.8125
+        },
+        {
+            "body": "i hate f*eaking slenders",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        }
+    ]
+}

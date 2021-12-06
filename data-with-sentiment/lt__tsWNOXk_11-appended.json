@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-01 14:01:52",
+    "ups": "5994",
+    "downs": "304",
+    "views": "85995",
+    "top_comments": [
+        {
+            "comment": "Joggers have been played out since 2017.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "0:33 - Bomber jackets\n1:28 - Chelsea Boots \n2:20 - Ripped jeans \n3:39 - Flannels\n5:19 - Skin tight joggers",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.17857142857142858,
+            "subjectivity": 0.2857142857142857
+        },
+        {
+            "comment": "I'm 39, what I heard was...ok it's over stop dressing how we used to dress in the 90s and now dress how you did in the 2000s \ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Tbh an overcoat and a turtle neck and a necklace it\u2019s one of the best outfits I\u2019ve ever worn in my life you should 100% try it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "jose zuniga, you are losing it now!lol",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm 39, what I heard was...ok it's over stop dressing how we used to dress in the 90s and now dress how you did in the 2000s \ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tbh an overcoat and a turtle neck and a necklace it\u2019s one of the best outfits I\u2019ve ever worn in my life you should 100% try it",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Arnt these pretty much wat u told us to wear...?",
+            "polarity": 0.225,
+            "subjectivity": 0.6
+        }
+    ]
+}

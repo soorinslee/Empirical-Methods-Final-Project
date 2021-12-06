@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 14:45:05",
+    "url": "https://www.youtube.com/watch?v=z7u0cKvZ8Fk",
+    "time_now": "2021-10-30 20:51:49",
+    "ups": "604",
+    "downs": "52",
+    "views": "36550",
+    "top_comments": [
+        {
+            "comment": "Happy helloween \ud83c\udf83\ud83d\ude0a\u2764\ufe0f",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Superb hai",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Super very much see in real life akka",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2644444444444444,
+            "subjectivity": 0.40888888888888886
+        },
+        {
+            "comment": "I love your hacks! \ud83c\udf39\ud83c\udf83\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Congratulations to everyone who comes in every single seconds\u2764\ufe0f......",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.07142857142857142,
+            "subjectivity": 0.21428571428571427
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ILove  it  good.... \nGood\ud83d\udc95\ud83d\udc95\u2763\ufe0f\ud83c\udf39\u2665",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Love \ud83d\udc9e",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "GOOD",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "E. Belisimo. Questo. Castelo  di.  Halloeen",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy Halloween\ud83c\udf83\ud83d\udc7b\u2620\ufe0f......And happy Indian festival diwali\ud83c\udf87\u2728\ud83c\udf86.....Because  I am iku from india...\ud83c\uddee\ud83c\uddf3",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I love first one",
+            "polarity": 0.375,
+            "subjectivity": 0.4666666666666667
+        },
+        {
+            "body": "Army please vote for BTS in  top music universe \n\nPLEASE SPEAD THE MESSAGE TO ALL ARMYS\n\n\nBecause exo are first and bts need to win",
+            "polarity": 0.5166666666666667,
+            "subjectivity": 0.41111111111111115
+        },
+        {
+            "body": "Happy Halloween \ud83c\udf83\ud83d\udc7b",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

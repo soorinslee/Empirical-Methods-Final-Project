@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 15:30:10",
+    "url": "https://www.youtube.com/watch?v=2E8KgPJ5XlE",
+    "time_now": "2021-10-31 05:04:33",
+    "ups": "1553",
+    "downs": "50",
+    "views": "36818",
+    "top_comments": [
+        {
+            "comment": "Best tomb raider ever",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "we need new tomb raider game",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.13181818181818183,
+            "subjectivity": 0.42727272727272725
+        },
+        {
+            "comment": "Did any one else notice how Lara's face expressions and body animation reminds of old prince of Persia games, literary dejavu moment.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "comment": "Played full trilogy and now playing legand love these games",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "comment": "Next tomb raider game?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Tomb Raider.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

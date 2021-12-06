@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-11-01 01:40:29",
+    "ups": "430",
+    "downs": "4",
+    "views": "7049",
+    "top_comments": [
+        {
+            "comment": "Powerful job. Your attention to detail means the end result is top class.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Cast iron refund?! \nYour perceived expertise at a wide range of jobs might be enhanced by taking account of YouTube's habit of hiding the bottom right portion of literally every single thumbnail.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.03809523809523809,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "comment": "OMG! you must be psychic! I need to do this and other roof jobs before winter THANK YOU!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Simply listing the products required already convinced me ripping off and replacing with PVC is better.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.4285714285714286
+        },
+        {
+            "comment": "that's crazy. I don't think any contractor would come out for such a job. impressive.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.7999999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What's wrong with wooden plugs , my house was built in the 30s and there still like brand-new, what's the cost of wood plugs compared to the way you did it, and how do you know how long your way will last ?, New way is not always the best way, we can learn a lot from the old builders. Good vid lad.",
+            "polarity": 0.17329545454545453,
+            "subjectivity": 0.36515151515151517
+        },
+        {
+            "body": "Brilliant as always. Thanks Charlie",
+            "polarity": 0.55,
+            "subjectivity": 0.6
+        }
+    ]
+}

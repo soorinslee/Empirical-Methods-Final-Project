@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-05 04:33:19",
+    "ups": "17961",
+    "downs": "185",
+    "views": "402289",
+    "top_comments": [
+        {
+            "comment": "Did not expect to be taught a lesson about what zombie brains do to feeding mechanisms. Obligatory \"10 out of 10 would learn again\" comment here.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "he should try look at guns from Enlisted i think that would be fun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Please get this guy to review DayZ's guns. It has some super nice animations and realistic physics.",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Reacting to the guns of the Borderlands games would be cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Definitely a game you all could get a number of episodes out of would be Payday 2.",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "You should react to destiny 2 weapons",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

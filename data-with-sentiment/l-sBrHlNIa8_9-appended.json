@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-01 05:46:45",
+    "ups": "2390",
+    "downs": "18",
+    "views": "51657",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 24,
+            "number_of_replies": 1,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Holy her vocals are surreal right off the bat gigi already made me shiver\ud83e\udd27",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.26785714285714285,
+            "subjectivity": 0.7678571428571428
+        },
+        {
+            "comment": "I just noticed this song makes her emotion stand out alot\ud83e\udd70",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "bawal na po sya mg cover ng opm?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "OMGigi and her Vibes Band of all Genre did it again. Hello Eric Carmen are u hearing this! Superb!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Can I make a request Gigi please? If you can cover I Don't Want To Lose Your Love by Crystal Gayle? Thank you.",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Wow !\u2764",
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "WOOOOOOOOOOOOOOOW....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "bawal na po sya mg cover ng opm?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Im your fan Gigi God bless you.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

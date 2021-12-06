@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-01 01:39:59",
+    "ups": "2285",
+    "downs": "49",
+    "views": "39666",
+    "top_comments": [
+        {
+            "comment": "DLSS\n\nMakes everything look like Blurry crap",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "You always cover stuff everyone else has covered.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Your  Easter egg hunting skills are lacking. This is more of a Easter repost. Lazy at best",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Number one is not a secret since it's obviously placed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I've known about the last Easter egg for some time now",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "I'm guessing the thumbs down is the folks who pissed themself XD",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "You always cover stuff everyone else has covered.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The Scrat one is definitely original.  I love Easter eggs in games and movies but the shining is done to death.",
+            "polarity": 0.4375,
+            "subjectivity": 0.675
+        }
+    ]
+}

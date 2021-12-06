@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=zqwaKFJW2PQ",
+    "time_now": "2021-10-31 21:32:40",
+    "ups": "179",
+    "downs": "36",
+    "views": "18301",
+    "top_comments": [
+        {
+            "comment": "We miss you President Trump ....Free speech and no shadow banning  Go Truth Social",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.03333333333333333,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "comment": "NBC HAS ZERO CREDIBILITY",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "He may be running for president!",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Come on Kinzinger, we need you. Don't let them do this to us. You belong in our government. You are one of the few good Republicans.",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.24999999999999997,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "comment": "I thought he moved to msnbc?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Good.  He knows his time is over...GTFO",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

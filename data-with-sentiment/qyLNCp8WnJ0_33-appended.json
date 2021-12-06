@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-05 08:40:54",
+    "ups": "6516",
+    "downs": "177",
+    "views": "177803",
+    "top_comments": [
+        {
+            "comment": "Question: Are Cisco Pasture raised eggs for real? The yolks are not bright orange like most other Pasture raised i can get even at Aldi.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.056249999999999994,
+            "subjectivity": 0.49375
+        },
+        {
+            "comment": "Last week I was at Costco grabbing organic almond milk and got stopped by a guy asking me why am I not getting the Costco almond milk since it\u2019s Bobby approved. I am so happy that more and more people watch your videos and talk to each other at Costco, so cool\ud83d\ude04",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.335,
+            "subjectivity": 0.4883333333333333
+        },
+        {
+            "comment": "We have Rao's at Costco in NC. Planning on going this weekend, so I hope it's on sale!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-04 20:18:46",
+    "ups": "5427",
+    "downs": "62",
+    "views": "71253",
+    "top_comments": [
+        {
+            "comment": "Thank you for being kind of the first person on Youtube which presents the original cost as well as the translated amount (counting inflation). Inflation is kind of a big deal and few seems to recognize this.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.27083333333333337,
+            "subjectivity": 0.513888888888889
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm tired of VPN ads........... They don't work. That shit just makes me forward the video or quit it.",
+            "polarity": -0.30000000000000004,
+            "subjectivity": 0.75
+        }
+    ]
+}

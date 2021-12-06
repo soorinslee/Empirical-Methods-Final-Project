@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-10-31 21:32:12",
+    "ups": "6177",
+    "downs": "61",
+    "views": "92125",
+    "top_comments": [
+        {
+            "comment": "Have not watch ur vids for 6 years cos I was in a coma according to what my doctor said u still have a great voice",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35000000000000003,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Your Mum would be so proud you are really growing into you voice and guitar its perfect !!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I was going to say, it is great to see Allie back to just her and a guitar singing amazing songs very well, but I would be wrong. This girl just gets better and better every video, how does she manage to do it, even with all that power and perfect vocals!!!\nAllie, the world is your oyster, don't slip inside the shell and get lost will you, please.",
+            "polarity": 0.3875,
+            "subjectivity": 0.60625
+        },
+        {
+            "body": "Old school caddilac style",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Super super super! Maybe better than original)))\u2764\ufe0f",
+            "polarity": 0.3958333333333333,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Don't.        Do         doing          dinner        ,,,       distribution     ,,,       do       ,,,          d      d        ,,,          dynamic         during.",
+            "polarity": 0.0,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "Przepi\u0119knie za\u015bpiewa\u0142a\u015b Allie , masz g\u0142os jak dzwon , wielki i pot\u0119\u017cny  , takiego g\u0142osu nie ma nikt na \u015bwiecie , pozdrowienia z uciemi\u0119\u017conej Polski",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

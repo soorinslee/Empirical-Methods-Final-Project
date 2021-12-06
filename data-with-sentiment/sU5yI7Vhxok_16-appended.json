@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-02 10:37:19",
+    "ups": "7588",
+    "downs": "69",
+    "views": "65935",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 998,
+            "number_of_replies": 25,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "These are getting better and better all the time!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5625,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\"You as the viewer.\" Yay, I finally made it to the credits of a music video!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This was awesome guys!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I love this guys hahahahaaa",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I have a fun idea for a sort of backwards cover, although this could almost be a mashup at the same time. Do \"I Can See Clearly Now\", but give it a goth feel by using the background music from Smashing Pumpkins-Disarm, as if the beautiful, clear, sunny skies have just ruined the mood of the entire day \ud83d\ude01",
+            "polarity": 0.225,
+            "subjectivity": 0.4527777777777778
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-11-01 01:40:07",
+    "ups": "5993",
+    "downs": "277",
+    "views": "129764",
+    "top_comments": [
+        {
+            "comment": "Props to whomever thought of this!!   Very clever!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.33854166666666674,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I wonder if that guy wouldve had the same excitement if the baby were a girl instead \ud83e\udd14",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "comment": "I was waiting for something bad to happen",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That's a cute reveal \ud83d\ude0d",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "That was cute\ud83e\udd17",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gender reveals in the 1700s be like",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Very unique gender reveal. Love it\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.49375,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "So cute",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Cringe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I was waiting for something bad to happen",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Look \u266b Look \u266b Look \u266b \ud83d\ude0a\nThe duck is cute \ud83d\udc95\nMay you be healed \u25b6 \ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I thought an EMP explosion was going to knock out the entire power grid of the United States, Mexico and Canada.",
+            "polarity": 0.0,
+            "subjectivity": 0.625
+        }
+    ]
+}

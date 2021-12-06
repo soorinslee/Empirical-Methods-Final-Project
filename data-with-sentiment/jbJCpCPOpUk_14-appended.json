@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 13:00:32",
+    "url": "https://www.youtube.com/watch?v=jbJCpCPOpUk",
+    "time_now": "2021-11-02 02:24:05",
+    "ups": "3310",
+    "downs": "34",
+    "views": "38114",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi, I  wanted to know if you have ever makeover a bar. I have a bar that's from the 90s, its in good condition but I want to make it over. Its mirrored and have white leather stools. Have any ideas \ud83d\udca1 \ud83e\udd14 Ty",
+            "polarity": 0.35,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "Beautiful and elegant",
+            "polarity": 0.675,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Hola",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

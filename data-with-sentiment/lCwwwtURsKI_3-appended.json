@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 19:52:35",
+    "url": "https://www.youtube.com/watch?v=lCwwwtURsKI",
+    "time_now": "2021-10-31 05:04:37",
+    "ups": "11239",
+    "downs": "133",
+    "views": "118789",
+    "top_comments": [
+        {
+            "comment": "LolzZz Bhai Big Fan",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Bhai 3:03:56 pe jo banda clutch kiya, wo bhi youtuber tha - Krotaviaz gaming",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "LolzZz Bhai Big Fan",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

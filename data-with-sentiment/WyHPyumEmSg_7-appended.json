@@ -1,0 +1,88 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-10-31 21:32:27",
+    "ups": "9466",
+    "downs": "93",
+    "views": "106832",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 156,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "when I saw cleave my mind went immediately to this. It is literally just kicker renamed in a slightly different style.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "On a related note I really want to see a silver border artifact named Bucket with kicker and \"if Bucket was kicked, you lose the game\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow, professor, I guess that guy just explained all of MtG. So... What's your job gonna be now?",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Every video game is Dark Souls. Every mechanic is kicker.",
+            "polarity": -0.275,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Cascade is just free kicker?",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "So true it is insane.",
+            "polarity": -0.325,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "Babies are just Dogs with more financial cost...",
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Or equipments!\nA do nothing permanent, but when you pay kicker, you can buff a creature! :O",
+            "polarity": 0.05,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Sales tax is just kicker, you pay the cost of the box, then you gotta pay the kicker in order to get the effect of 'legal transaction'",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Jesus Christ, he is right!",
+            "polarity": 0.3571428571428571,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "\"Ninjitsu is just kicker with extra steps\"\nEek Barba Durkle someone's gonna get laid in Tolarian Community College",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "On a related note I really want to see a silver border artifact named Bucket with kicker and \"if Bucket was kicked, you lose the game\"",
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Honestly, simplifying things into an easy to understand way is quite good.\n\n\"What does this do?\"\n\"It's the stratos of the deck\"\n (Stratos being a monster card that when it's summoned, adds X type of monster from deck to hand)\n\nI can only think of yugioh examples, I only play magic very casually.",
+            "polarity": 0.2261904761904762,
+            "subjectivity": 0.9047619047619049
+        }
+    ]
+}

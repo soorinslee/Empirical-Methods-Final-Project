@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:34:18",
+    "url": "https://www.youtube.com/watch?v=tpUH-cJpiNc",
+    "time_now": "2021-10-31 13:18:41",
+    "ups": "6036",
+    "downs": "58",
+    "views": "65332",
+    "top_comments": [
+        {
+            "comment": "I love how you've still remained friends with those from India regardless of studying or working overseas like with Kushi Kapoor,  Muskaan and Neel \ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7\ud83c\uddee\ud83c\uddf3 \ud83d\udc6f\ud83d\udc6f",
+            "likes": 24,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "You deserve 1M subscribers",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This vlog was so wholesome, \ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Some how you talk and look so much like your dad.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "There is something magical about the way you say \u201c Hey guys and welcome back to my YouTube channel\u201d. It sets a mood for me \u2764\ufe0f\u2728",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.6333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "whats the song at 9:11",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please make a vlog of engagement",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Omg bloody love your vlogs \ud83e\udd73\ud83e\udd73\ud83e\udd29\ud83e\udd29\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+            "polarity": -0.15000000000000002,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Which was that sunset place ?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "which hotel is this??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

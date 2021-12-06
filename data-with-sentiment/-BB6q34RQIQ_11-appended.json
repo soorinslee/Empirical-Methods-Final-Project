@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-01 14:01:45",
+    "ups": "520",
+    "downs": "129",
+    "views": "47883",
+    "top_comments": [
+        {
+            "comment": "Lets go Brandon!",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "No testing.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83e\udd14 I know a lot of Vaccinated people right now with it.",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "Halloween, Thanksgiving and Chrismas will drive the cases high again...",
+            "polarity": 0.16,
+            "subjectivity": 0.5399999999999999
+        },
+        {
+            "body": "IF any one of the kids died they werent from the vaccines they were because of covid. lol.",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Lets go brandon!!\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Stuck on covid",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why the question mark? Isn't this good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

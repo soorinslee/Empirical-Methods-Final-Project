@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 12:45:00",
+    "url": "https://www.youtube.com/watch?v=BH-J-KX-7Z4",
+    "time_now": "2021-10-31 21:33:02",
+    "ups": "1431",
+    "downs": "23",
+    "views": "16330",
+    "top_comments": [
+        {
+            "comment": "So many good DIY projects \ud83d\udc4f\u2665 I really liked the mason jars and napkins holder!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "comment": "I loved all of these! The paper wreath in a slightly larger scale would also make a great advent calendar. Just punch a hole in the top of the round part and the flappy top part of each cone, feed some thread through the holes, fill the cone with a piece of candy and tie the thread. Then write the numbers on the closed \"lids\" with a marker.",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.33928571428571425,
+            "subjectivity": 0.5071428571428571
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Gorgeous swag!",
+            "polarity": 0.875,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I love them all \u2763Thank you for sharing \u2763\ud83e\udd70\u2764",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Love finding such great-priced decor!! And what an amazing PLANNER!",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Hi i loved them all.so lovely.loved french horn best.but the little.book stack was so.sweet.the.jars.so.cute.x",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "mystyle would be to    keep the lg wooden bowl just as you have it but for each holiday add some seasonal colored pick berries. orange /brown for fall. red/green Christmas then white for winter months. mint /mauve spring. blue/white summer.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-02 18:52:09",
+    "ups": "7754",
+    "downs": "217",
+    "views": "203208",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "No mention of screen tearing. That's a first for the Xbox.\n\nGood to hear that bug seem to be finally solved out, as I'm not so worried how VRR will impact PS5 now. If it ever gets it.. ;)",
+            "polarity": 0.3,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "I just finished it on PS5.... gotta say, I probably would have enjoyed it more on PC.  Quality mode does look better, but Performance still had a lot of hiccups.  It is not well opitmized on console at all..... i'm wondering how RT will work, if they ever do release it for consoles.",
+            "polarity": 0.5,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "body": "The only thing not great about the art design is Quill's hairdo.",
+            "polarity": -0.2,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "No such thing as story-driven; it's either a player-driven game w/ a plot-pulled story, or a player-driven game w/ a character-pulled story.",
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "I really like it overall but Starlord feels like he's always shouting, my only real complaint. \n\nCan't wait for the PC analysis",
+            "polarity": -0.062499999999999986,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "OMG I love that digital foundry helps me to decide in which way to play. Thank you!!!!",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "I'm enjoying it has little bugs but overall they did a great job looks stunning \ud83d\ude0d",
+            "polarity": 0.3225,
+            "subjectivity": 0.5700000000000001
+        },
+        {
+            "body": "Played on my decrepit PC, medium settings, 1440p. Rarely got more than 35fps, but it never felt bad or unresponsive",
+            "polarity": 0.0333333333333334,
+            "subjectivity": 0.6888888888888888
+        },
+        {
+            "body": "I just find it incredible that these so called next gen machines can't run a 4k resolution at 60fps,are they just not powerful enough.",
+            "polarity": 0.1875,
+            "subjectivity": 0.6
+        }
+    ]
+}

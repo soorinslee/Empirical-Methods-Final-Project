@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-03 15:29:01",
+    "ups": "5857",
+    "downs": "326",
+    "views": "272601",
+    "top_comments": [
+        {
+            "comment": "Poor thing OK geez you guys are intense",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.09999999999999999,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "comment": "I thought that the white with black that appeared in the beginning was the main character, not the one with red eyes that I really don't like. :(",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.09166666666666667,
+            "subjectivity": 0.3277777777777778
+        },
+        {
+            "comment": "Este canal maltrata a los hamsters >:( los hace sufrir",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Tortura",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "3:10 bro that's not Good For them \ud83d\ude11\n\n\n\n\n\n\n\n\n+these voice effects are embarrasing lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.22500000000000003,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": []
+}

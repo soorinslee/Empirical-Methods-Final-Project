@@ -1,0 +1,122 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-01 14:01:35",
+    "ups": "9125",
+    "downs": "165",
+    "views": "467676",
+    "top_comments": [
+        {
+            "comment": "Because of the economic crisis and the rate of unemployment, now is the best time to invest and make money \ud83d\udcaf",
+            "likes": 21,
+            "number_of_replies": 28,
+            "polarity": 0.6,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "Here we go. Another series of most expensive spice in the world, strangely, made with the cheapest labour in the world!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.020833333333333332,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "I love chewing these raw just as mouth freshners . But it just got costly",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1346153846153846,
+            "subjectivity": 0.5307692307692308
+        },
+        {
+            "comment": "I love capitalism.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Ada namma aalu..saamy nambha baasa pessuthu\u2763\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Labor makes the product expensive but sad to say farmers dont get the right wages for the labor. Sucks the other company.",
+            "polarity": -0.22785714285714284,
+            "subjectivity": 0.5821428571428571
+        },
+        {
+            "body": "We had harvest of 260 kilo of dry black cardamom, which we usually sold for 2000 rupee per kilo but Indian govt banned the export of black cardamom making the price lower than 300 rupees",
+            "polarity": -0.16249999999999998,
+            "subjectivity": 0.42916666666666664
+        },
+        {
+            "body": "KERALA \u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I just love cardamom \ud83d\ude0d\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Bruh we Indians use this  for doing masala tea every morning",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love capitalism.",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Anyone else appreciating that she says climate crisis, and not climate change?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Cardamom is not expensive in India. It looks like foreigners are fooled and overcharged as usual. LOL.",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "body": "Kerala \ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love these kinds of videos so much, they make me appreciate these things more!",
+            "polarity": 0.44166666666666665,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Thats not Idukki.....\n\ud83e\uddd0\ud83e\uddd0\ud83e\uddd0\ud83e\uddd0...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Because of the economic crisis and the rate of unemployment, now is the best time to invest and make money \ud83d\udcaf",
+            "polarity": 0.6,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Here we go. Another series of most expensive spice in the world, strangely, made with the cheapest labour in the world!",
+            "polarity": -0.020833333333333332,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "body": "Someone enlighten me. Why is that always \"good\" quality products are exported? Why do we in India deserve second quality products?",
+            "polarity": 0.35,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "I was introduced to Cardamon as a teen working for an Indian Family. They made cardamon ice cream. It was the best thing I\u2019d ever tasted at the time",
+            "polarity": 0.5,
+            "subjectivity": 0.15
+        }
+    ]
+}

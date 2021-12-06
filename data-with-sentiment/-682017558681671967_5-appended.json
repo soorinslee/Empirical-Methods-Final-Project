@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj3adv/apparently_people_are_asking_500_for_these_on_ebay/",
+    "time_posted": "2021-10-30 11:03:28",
+    "time_now": "2021-10-31 13:20:02",
+    "ups": 2,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinexov",
+            "body": "People can list things for whatever they want, doesnt mean its worth that or that people are willing to pay it.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": 0.07916666666666666,
+            "subjectivity": 0.5125000000000001
+        },
+        {
+            "comment_id": "hinf7kh",
+            "body": "Is it a misprint/wrong production?\n\nThere was a chicken nugget that was in an odd shape sold for 2000$, stuff that people see Jesus in it sells for lot of money. So yeah, some stuff gets sold, others don't.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.3833333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinpehy",
+            "body": "Pretty sure I can go buy some Oreos right now for a few bucks. This seems like it's probably a bad deal.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.027142857142857156,
+            "subjectivity": 0.6382539682539682
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinexov",
+            "body": "People can list things for whatever they want, doesnt mean its worth that or that people are willing to pay it.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.07916666666666666,
+            "subjectivity": 0.5125000000000001
+        },
+        {
+            "comment_id": "hinf7kh",
+            "body": "Is it a misprint/wrong production?\n\nThere was a chicken nugget that was in an odd shape sold for 2000$, stuff that people see Jesus in it sells for lot of money. So yeah, some stuff gets sold, others don't.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.3833333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinpehy",
+            "body": "Pretty sure I can go buy some Oreos right now for a few bucks. This seems like it's probably a bad deal.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.027142857142857156,
+            "subjectivity": 0.6382539682539682
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinexov",
+            "body": "People can list things for whatever they want, doesnt mean its worth that or that people are willing to pay it.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": 0.07916666666666666,
+            "subjectivity": 0.5125000000000001
+        },
+        {
+            "comment_id": "hinf7kh",
+            "body": "Is it a misprint/wrong production?\n\nThere was a chicken nugget that was in an odd shape sold for 2000$, stuff that people see Jesus in it sells for lot of money. So yeah, some stuff gets sold, others don't.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": -0.3833333333333333,
+            "subjectivity": 0.6
+        },
+        {
+            "comment_id": "hinpehy",
+            "body": "Pretty sure I can go buy some Oreos right now for a few bucks. This seems like it's probably a bad deal.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.027142857142857156,
+            "subjectivity": 0.6382539682539682
+        }
+    ]
+}

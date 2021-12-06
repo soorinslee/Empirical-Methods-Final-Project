@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-04 07:57:33",
+    "ups": "17438",
+    "downs": "179",
+    "views": "387206",
+    "top_comments": [
+        {
+            "comment": "i would love to see doom eternal and doom 2016, and destiny 2 !",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I hope world war z aftermath can also be include in firearms expert reacts",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\"you can whack out all your shots a little bit quicker\" _Jonathan Ferguson, keeper of the  Firearms & Artillery at the Royal Armouries",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Spent casings on the M249 are ejecting from the wrong port. The upper port is supposed to eject the disintegrated links. The lower port ejects the spent casing.",
+            "polarity": -0.175,
+            "subjectivity": 0.275
+        },
+        {
+            "body": "Only real gun enthusiasts will know the difference between the AK 47 and the AKM. Video gamers on the other hand think they know more than Larry Vickers + Ian McCollum.",
+            "polarity": 0.14375,
+            "subjectivity": 0.54375
+        },
+        {
+            "body": "Ahh I caught one. That is an A3 upper not an A2 upper in the game. That is a detachable carry handle.",
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.13333333333333333
+        },
+        {
+            "body": "i think Jonathan just named the inevitable DLC: \"Left behind and eaten.\"",
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "body": "Check out the Weapons of Halo next",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Having Jonathan doing GTA guns wouldn't hurt, would be funny to see his reactions",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-11-03 15:28:56",
+    "ups": "5008",
+    "downs": "67",
+    "views": "127180",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Ive seen people ask what happens to the alcohol after, but I wanna know how he's getting so much o.o is he getting it in bulk? A private supplier? Tell me your secrets!! Honestly, it seems super expensive and idk how ad revenue could cover it \ud83e\udd37",
+            "polarity": 0.11388888888888889,
+            "subjectivity": 0.6402777777777778
+        },
+        {
+            "body": "After a few of this, u fly through your house on your Liane like Tarzan\ud83d\ude02",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "who drinks these after the video ends?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lol. I actually have a genuine ask.... Who drinks all this juice when the video is done shooting? \n\nAnd do they \"stay tipsy\" or they actually stay drooooonk",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.35
+        }
+    ]
+}

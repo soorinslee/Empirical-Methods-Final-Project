@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-03 15:28:25",
+    "ups": "105672",
+    "downs": "2277",
+    "views": "2692574",
+    "top_comments": [
+        {
+            "comment": "Preston play pet simulator x",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Preston i need to tell you something how to download minecraft in phone i really wanna play minecraft pls i beg just once shoutout pls its really cool to play i wish i have minecraft",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.275,
+            "subjectivity": 0.42500000000000004
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Disneyducks face looked cute",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "GO MR BISCUIT",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The last one, Mr. biscut. HES/SHES EXACLY LIKE ME",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "Your*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Preston if you have ps4 can you please play little nightmares part one and two I want to see you reaction",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        }
+    ]
+}

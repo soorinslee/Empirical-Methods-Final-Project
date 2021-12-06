@@ -1,0 +1,78 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-10-31 17:25:35",
+    "ups": "3229",
+    "downs": "126",
+    "views": "118888",
+    "top_comments": [
+        {
+            "comment": "Why dont they just use wires and power lines",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "bruh add a auto clicker",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Imagine the narrator just says:\njust kidding!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "8:38 he rhymes with the beat",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bright Side: What if we printed in the internet \nMeanwhile the internet logo in the paper: WHY",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "Bright Side: What if we printed in the internet \nMeanwhile the internet logo in the paper: WHY",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "The life without internet would be better",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Bad ending, no more internet, people didn\u2019t print all the internet in time.",
+            "polarity": -0.4749999999999999,
+            "subjectivity": 0.5833333333333333
+        },
+        {
+            "body": "Wow . Great story",
+            "polarity": 0.45,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "Unknown caller: \u201ccome here now\u201d\n\nMe \u201cnooooooo\u201d\n\nJustin Timberlake \u201cbye bye bye\u201d",
+            "polarity": -0.1,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I wil dellet fis videeoa",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

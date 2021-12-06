@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-11-04 16:11:15",
+    "ups": "8167",
+    "downs": "75",
+    "views": "150676",
+    "top_comments": [
+        {
+            "comment": "One of my favorite songs by Adele n this young talented lady Gave Me Goosebumps...love it keep it up",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.7666666666666666
+        },
+        {
+            "comment": "Allie Sherlock continues to break new ground  with almost every new video. Here she is really starting to show what she is capable of . Would be great to hear her at Glastonbury or the Isle of Wight  fest .. She is a unique and powerful performance artist-  would like to hear more of her own songs. These solo performances are the way to go for her I'm sure.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3547727272727273,
+            "subjectivity": 0.6547979797979797
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wooooooow! Fantastic performance! Well done!",
+            "polarity": 0.625,
+            "subjectivity": 0.9
+        }
+    ]
+}

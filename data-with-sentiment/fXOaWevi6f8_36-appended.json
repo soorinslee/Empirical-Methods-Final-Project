@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-05 21:02:32",
+    "ups": "19338",
+    "downs": "388",
+    "views": "1255473",
+    "top_comments": [
+        {
+            "comment": "Keralam\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "THE HARDWORK OF THESE FARMERS...IS THE REASON WE EAT EVERYDAY.",
+            "polarity": -0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "The taste and aroma worth the every penny",
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I bought it just 20\u20b9  50 grm all of my family members are shocked \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02i think they give me by mistake",
+            "polarity": -0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I don't get it.  If cardamom is so expensive, then why did I buy a huge bag of ground cardamom from China for five bucks?",
+            "polarity": -0.04999999999999996,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Thnk God i live in India...we use this along with Ginger in everyday tea. It makes the tea even better. It's relatively cheaper then the price for the world.\ud83d\ude36",
+            "polarity": 0.10909090909090909,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Jesus Christ is the Way, the Truth, the Life. No one comes to the Father except through Him. There is no other intermediary. May Jesus Bless you, trust Him, give your life - and He will take care of it :pray Convert yourself and believe in the Gospel",
+            "polarity": 0.0625,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Ha be be come to India \ud83c\uddee\ud83c\uddf3 \ud83d\ude0a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

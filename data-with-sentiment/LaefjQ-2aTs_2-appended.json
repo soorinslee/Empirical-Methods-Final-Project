@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:58:43",
+    "url": "https://www.youtube.com/watch?v=LaefjQ-2aTs",
+    "time_now": "2021-10-31 00:57:58",
+    "ups": "262",
+    "downs": "28",
+    "views": "21072",
+    "top_comments": [
+        {
+            "comment": "School aur colleges band karwaya jaaaye humara pesaa doob raha hai woh log humein forcefully vaccinations lene k liye pressure kar rahey hai plzzz modi ji",
+            "likes": 17,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "shut off all coaching and school",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "UP meq Chunaav hai yaha kuch ni hone wala",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pls be  very careful.while you roam outside your home and pls wear a mask",
+            "likes": 5,
+            "number_of_replies": 2,
+            "polarity": 0.1,
+            "subjectivity": 0.175
+        },
+        {
+            "comment": "Think about employment inflation",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

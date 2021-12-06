@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 13:00:14",
+    "url": "https://www.youtube.com/watch?v=XmD0eg0vzh0",
+    "time_now": "2021-10-31 13:18:43",
+    "ups": "5166",
+    "downs": "43",
+    "views": "84232",
+    "top_comments": [
+        {
+            "comment": "Linky you made my day..so cutie\ud83e\udd70goodluck for moving to RV...Godbless you all\ud83d\ude0a",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "He trying to talk",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Reese's angles growing new age growing up yes training  special Olympics Memphis",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.24675324675324675,
+            "subjectivity": 0.512987012987013
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Reese's angles growing new age growing up yes training  special Olympics Memphis",
+            "polarity": 0.24675324675324675,
+            "subjectivity": 0.512987012987013
+        },
+        {
+            "body": "Hope you have a wonderful Time \u2764\ufe0f",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "looking forward to this new future house, and this RV living for now!",
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.2897727272727273
+        },
+        {
+            "body": "Congrats ..the Miller Fam God bless",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm hopeful that homeschooling will resume. I sent my first two girls to school and my second two were homeschool kids. State school was the single worst error of my life when it came to parenthood.",
+            "polarity": -0.20535714285714285,
+            "subjectivity": 0.38690476190476186
+        },
+        {
+            "body": "Watching in the middle of the night\u2026can\u2019t sleep. Transition is hard!",
+            "polarity": -0.18229166666666669,
+            "subjectivity": 0.2708333333333333
+        },
+        {
+            "body": "Why are you moving?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-11-01 01:39:41",
+    "ups": "6363",
+    "downs": "62",
+    "views": "97837",
+    "top_comments": [
+        {
+            "comment": "Your Mum would be so proud you are really growing into you voice and guitar its perfect !!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "No way, this is my favourite song ever. It deserves so much more recognition.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Adele needs to show up for a surprise cameo/duet",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I think the ONLY reason why men watch this is because of her chest.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "What a unique, outstanding voice you have young lady and how well you sang this song !",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.7583333333333333
+        },
+        {
+            "body": "Well Done. Once again Allie moves me.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Fantastic and beautiful Voice , Allie!!!",
+            "polarity": 0.7,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "Thank you.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Boa noite \ud83c\udf19\u2026Allie Sherlock \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No way, this is my favourite song ever. It deserves so much more recognition.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "How can people pass by instead to listen what their hearts beat?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

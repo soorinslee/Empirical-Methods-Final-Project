@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-05 04:33:14",
+    "ups": "16792",
+    "downs": "277",
+    "views": "415353",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1813,
+            "number_of_replies": 140,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Mikey chose his games very wisely.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.9099999999999999,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "R.I.P Mickey's DEEZ",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "9:32 wait I was already subscribed, so now that I clicked it should I unsubscribe? Is that how this works?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Now you can feel the pain of bruce wayne",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "BATCLIFFE!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love these kind of videos for one shenanigans lots of it and fast clip and clip outs",
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.7000000000000001
+        }
+    ]
+}

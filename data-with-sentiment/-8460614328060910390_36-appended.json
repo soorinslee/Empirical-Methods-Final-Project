@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj0ddi/at_least_we_all_had_fun/",
+    "time_posted": "2021-10-30 08:21:12",
+    "time_now": "2021-11-05 21:05:03",
+    "ups": 52895,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himvzh7",
+            "body": "In CSGO you'll get so much abuse from the other team (and your team mates) and then as soon as the game finishes it's all \"GG WP\" as if they weren't wishing you dead 5 minutes before hand!",
+            "ups": 1429,
+            "downs": 0,
+            "polarity": -0.14375,
+            "subjectivity": 0.34375
+        },
+        {
+            "comment_id": "hinc36e",
+            "body": "The winning team saying GG at the end is like icing on the cake for them. No shit it was a good game, they won! However If you lose and say GG that is true sportsmanship. Which is something I hardly ever see.",
+            "ups": 727,
+            "downs": 0,
+            "polarity": 0.14305555555555552,
+            "subjectivity": 0.6236111111111111
+        },
+        {
+            "comment_id": "hinqyrr",
+            "body": "They said GG. \nBut it wasn't GG. \nIt was BG.",
+            "ups": 203,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinazcv",
+            "body": "\u201cGG\u201d can turn from friendly to toxic if you add \u201cEZ\u201d to it.",
+            "ups": 195,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin9mgl",
+            "body": "I'm complete opposite. If my team gets completely stomped and its not a game at all, and the enemy still goes \"gg\". That shit tilts the complete fuck out of me and that is their goal by saying it.",
+            "ups": 120,
+            "downs": 0,
+            "polarity": -0.014285714285714282,
+            "subjectivity": 0.42857142857142855
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himvzh7",
+            "body": "In CSGO you'll get so much abuse from the other team (and your team mates) and then as soon as the game finishes it's all \"GG WP\" as if they weren't wishing you dead 5 minutes before hand!",
+            "ups": 1435,
+            "downs": 0,
+            "polarity": -0.14375,
+            "subjectivity": 0.34375
+        },
+        {
+            "comment_id": "hinc36e",
+            "body": "The winning team saying GG at the end is like icing on the cake for them. No shit it was a good game, they won! However If you lose and say GG that is true sportsmanship. Which is something I hardly ever see.",
+            "ups": 727,
+            "downs": 0,
+            "polarity": 0.14305555555555552,
+            "subjectivity": 0.6236111111111111
+        },
+        {
+            "comment_id": "hinqyrr",
+            "body": "They said GG. \nBut it wasn't GG. \nIt was BG.",
+            "ups": 204,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinazcv",
+            "body": "\u201cGG\u201d can turn from friendly to toxic if you add \u201cEZ\u201d to it.",
+            "ups": 191,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hinnl97",
+            "body": "\"EZ EZ EZ EZ EZ AS EASY AS YOUR MOM!\" - every league game..",
+            "ups": 64,
+            "downs": 0,
+            "polarity": 0.07083333333333336,
+            "subjectivity": 0.6166666666666667
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himvzh7",
+            "body": "In CSGO you'll get so much abuse from the other team (and your team mates) and then as soon as the game finishes it's all \"GG WP\" as if they weren't wishing you dead 5 minutes before hand!",
+            "ups": 1436,
+            "downs": 0,
+            "polarity": -0.14375,
+            "subjectivity": 0.34375
+        },
+        {
+            "comment_id": "hinc36e",
+            "body": "The winning team saying GG at the end is like icing on the cake for them. No shit it was a good game, they won! However If you lose and say GG that is true sportsmanship. Which is something I hardly ever see.",
+            "ups": 727,
+            "downs": 0,
+            "polarity": 0.14305555555555552,
+            "subjectivity": 0.6236111111111111
+        },
+        {
+            "comment_id": "hinqyrr",
+            "body": "They said GG. \nBut it wasn't GG. \nIt was BG.",
+            "ups": 201,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinazcv",
+            "body": "\u201cGG\u201d can turn from friendly to toxic if you add \u201cEZ\u201d to it.",
+            "ups": 195,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hinnl97",
+            "body": "\"EZ EZ EZ EZ EZ AS EASY AS YOUR MOM!\" - every league game..",
+            "ups": 64,
+            "downs": 0,
+            "polarity": 0.07083333333333336,
+            "subjectivity": 0.6166666666666667
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 20:35:46",
+    "url": "https://www.youtube.com/watch?v=HHS3Zl7BPIE",
+    "time_now": "2021-10-31 17:25:14",
+    "ups": "1232",
+    "downs": "18",
+    "views": "11820",
+    "top_comments": [
+        {
+            "comment": "\u041c\u0430\u043a\u0441 \u0442\u0430\u0449\u0438\u0442 :-)",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u0421\u0442\u0430\u0440\u044b\u0439 \u0442\u0430\u043a \u0433\u043e\u0440\u0438\u0448\u044c, \u0447\u0442\u043e \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e \u0434\u0430\u0436\u0435 \u043f\u0438\u0432\u043e \u043f\u043e\u0434 \u0441\u0442\u0440\u0438\u043c \u043f\u043e\u043f\u0438\u0442\u044c \u043f\u043e\u0441\u043b\u0435 \u0441\u043c\u0435\u043d\u044b \u043d\u0430 \u0437\u0430\u0432\u043e\u0434\u0435!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0447\u0442\u043e \u044d\u0442\u043e \u0437\u0430 \u0432\u0437\u0440\u044b\u0432 \u0431\u043a \u043d\u0430 3.57.38. \u0441\u043f\u0440\u0430\u0432\u043e \u043d\u0430\u0434 \u043c\u0438\u043d\u0438\u043a\u0430\u0440\u0442\u043e\u0439?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

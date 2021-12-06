@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=8yUWg6_vCAk",
+    "time_now": "2021-10-31 00:57:42",
+    "ups": "2332",
+    "downs": "241",
+    "views": "43432",
+    "top_comments": [
+        {
+            "comment": "Crazy to think how hyped I was for this game and pretty much all of it went away after the beta",
+            "likes": 36,
+            "number_of_replies": 4,
+            "polarity": -0.1375,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "I'll buy it when it's heavily discounted on steam. Just like how I bought BFV.",
+            "likes": 6,
+            "number_of_replies": 2,
+            "polarity": -0.2,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "\"Discarded maps\" lol Discarded is the *name* of the map... next time pick a better organized title lol.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.525,
+            "subjectivity": 0.475
+        },
+        {
+            "comment": "Woah can't wait to NOT BE ABLE to do all of these and just running around the map getting headshoted from every player out there!......",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.625,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "This is going to be satisfying to play \ud83d\ude0d",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Played the beta and honestly COD is ahead with gameplay mechanics, movement and shooting. Not that COD is the best but for me better than battlefield.",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "body": "\ud83d\udc4d\ud83d\ude42\ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mdr Sony qui mets du gamplay de pc on aimerait voir aussi du gamplay sur console parce que du coup c\u2019est m\u00eame pas un gamplay console donc ont c\u2019est pas comment \u00e7a va \u00eatre graphiquement j\u2019esp\u00e8re juste que le bf 2042 version ps5 sera bien mieux que la b\u00eata sur ps5 franchement beaucoup de beug mauvaise optimisation est les serveurs horribles si t\u2019avait pas une bonne co fallait m\u00eame pas i jouer est j\u2019esp\u00e8re qu\u2019on aura du 120 fps sur ps5 esp\u00e9rons",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Definitely like the idea of .50 call on the blackbird vice the minigun",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "\"Discarded maps\" lol Discarded is the *name* of the map... next time pick a better organized title lol.",
+            "polarity": 0.525,
+            "subjectivity": 0.475
+        },
+        {
+            "body": "Need a BR in this game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Woah can't wait to NOT BE ABLE to do all of these and just running around the map getting headshoted from every player out there!......",
+            "polarity": 0.625,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Different biomes, but same-y maps. Weird.",
+            "polarity": -0.25,
+            "subjectivity": 0.8
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-06 01:09:55",
+    "ups": "8189",
+    "downs": "233",
+    "views": "220477",
+    "top_comments": [
+        {
+            "comment": "I wish the Avengers game by Square Enix had been like this Guardians of the Galaxy game! The games as a service ruined the Avenger game, what a huge loss. Also Deus Ex was stopped because of that live service game so that is another strike. Please support these single player games because we need more of them .",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.09188311688311687,
+            "subjectivity": 0.4642857142857143
+        },
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This game is so well optimized for PC. I get 80 to 90 fps on 4k maxed out settings",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I honestly can't tell the quality differences between the two modes until they're specifically pointed out to me, but I definitely notice how much smoother performance mode runs.",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "90-110fps 4k ultra with DLSS Performance mode. Looks and runs amazing on the RTX 3080, 9600k",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "This game is so well optimized for PC. I get 80 to 90 fps on 4k maxed out settings",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

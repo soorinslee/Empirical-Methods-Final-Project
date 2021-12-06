@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:13",
+    "url": "https://www.youtube.com/watch?v=6hXEZysidiU",
+    "time_now": "2021-11-05 16:55:26",
+    "ups": "4561",
+    "downs": "72",
+    "views": "98497",
+    "top_comments": [
+        {
+            "comment": "Amazingly amazing! How simple yet scientific, how spiritual yet rational answers were..!! Very profound...!! Thank you!",
+            "likes": 15,
+            "number_of_replies": 1,
+            "polarity": 0.2403971354166667,
+            "subjectivity": 0.5976190476190476
+        },
+        {
+            "comment": "Why would you ask a non-scientific person these questions. I just don't understand what's going on here",
+            "likes": 1,
+            "number_of_replies": 3,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ancient Rishis were spiritual scientists",
+            "polarity": 0.0,
+            "subjectivity": 0.13333333333333333
+        },
+        {
+            "body": "Need to revive all this - ground up\n\nNamaskar",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gurudev, you are smart",
+            "polarity": 0.21428571428571427,
+            "subjectivity": 0.6428571428571429
+        },
+        {
+            "body": "In one commercial, an African man was talking about the third eye.  These people are learning from the Hindus.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

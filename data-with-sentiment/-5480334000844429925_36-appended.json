@@ -1,0 +1,62 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qiz9wm/sugarcult_stuck_in_america_pop_punk/",
+    "time_posted": "2021-10-30 07:07:22",
+    "time_now": "2021-11-05 21:03:38",
+    "ups": 1,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himt097",
+            "body": "Fuck, I haven't heard this in a long time",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.225,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin1d5t",
+            "body": "I really liked this band for a hot minute. Accidentally saw them play live at a club in Ventura. Bought the CD on site. \n\nThe way, was a great song.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.4465909090909091,
+            "subjectivity": 0.7250000000000001
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himt097",
+            "body": "Fuck, I haven't heard this in a long time",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.225,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin1d5t",
+            "body": "I really liked this band for a hot minute. Accidentally saw them play live at a club in Ventura. Bought the CD on site. \n\nThe way, was a great song.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.4465909090909091,
+            "subjectivity": 0.7250000000000001
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himt097",
+            "body": "Fuck, I haven't heard this in a long time",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.225,
+            "subjectivity": 0.5
+        },
+        {
+            "comment_id": "hin1d5t",
+            "body": "I really liked this band for a hot minute. Accidentally saw them play live at a club in Ventura. Bought the CD on site. \n\nThe way, was a great song.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.4465909090909091,
+            "subjectivity": 0.7250000000000001
+        }
+    ]
+}

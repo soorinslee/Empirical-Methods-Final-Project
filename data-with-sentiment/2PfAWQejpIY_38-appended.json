@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 11:30:01",
+    "url": "https://www.youtube.com/watch?v=2PfAWQejpIY",
+    "time_now": "2021-11-06 05:16:51",
+    "ups": "12468",
+    "downs": "79",
+    "views": "296122",
+    "top_comments": [
+        {
+            "comment": "\u2764\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ouseppachante pattukal adipoliyan",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "sd college kanjirapally \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Valare pratheekshayulla \u0d28\u0d1f\u0d7b \u0d06\u0d23\u0d4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

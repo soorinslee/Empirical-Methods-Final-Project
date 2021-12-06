@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 11:30:13",
+    "url": "https://www.youtube.com/watch?v=WqxxC2nMdGU",
+    "time_now": "2021-11-01 09:53:41",
+    "ups": "3990",
+    "downs": "120",
+    "views": "108904",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udc99\ud83d\udc9b\ud83e\udd70",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u0bae\u0bcc\u0ba9 \u0bb0\u0bbe\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8 \n\u0bae\u0b9f\u0bbf\u0bae\u0bc0\u0ba4\u0bc1 \u0ba4\u0bbe\u0bb2\u0bbe\u0b9f\u0bcd\u0b9f\u0bbf\n\u0bae\u0ba9\u0ba4\u0bbf\u0ba9\u0bcd \u0b87\u0bb1\u0bc1\u0b95\u0bcd\u0b95\u0b99\u0bcd\u0b95\u0bb3\u0bc8\n\u0bae\u0bb2\u0bc8\u0baf\u0bbf\u0bb0\u0bc1\u0ba8\u0bcd\u0ba4\u0bc1 \u0bae\u0b9f\u0bc1\u0bb5\u0bbe\u0b95\u0bcd\u0b95\u0bbf\u0b9f\u0bc1\u0bae\u0bcd \u0bb5\u0bbf\u0ba4\u0bcd\u0ba4\u0bc8 \u0b9a\u0bc6\u0baf\u0bcd\u0baa\u0bb5\u0bb3\u0bcd \u0b8e\u0ba9\u0bcd\u0baa\u0ba4\u0bbe\u0bb2\u0bcd.....!!!!\n Love it \u2764\ud83d\ude18",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\u0bb2\u0bb5\u0bcd \u0baf\u0bc2 \u0b9a\u0b9a\u0bbf \u0b85\u0ba3\u0bcd\u0ba3\u0bbe \u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u0bb5\u0bbe\u0bb4\u0bcd\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bb3\u0bcd \u0b85\u0ba3\u0bcd\u0ba3\u0bbe... \u0b95\u0bbe\u0ba4\u0bb2\u0bc8 \u0b8f\u0bb1\u0bcd\u0bb1\u0bbf\u0bb5\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bae\u0bcd \u0bb5\u0bb0\u0bbf\u0b95\u0bb3\u0bcd \u0b9a\u0bbf\u0bb1\u0baa\u0bcd\u0baa\u0bc1...",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lovely music \ud83c\udfb5 lyrics \ud83d\udcdd Semma Super",
+            "polarity": 0.41666666666666663,
+            "subjectivity": 0.7083333333333333
+        },
+        {
+            "body": "vera heroine kedaikalaya pa. sister brother maari irukuyaa yov",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Vera level lyrics.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0bae\u0bc1\u0bb0\u0bc1\u0b95\u0ba9\u0bcd \u0bae\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd \u0bb5\u0bb3\u0bb0\u0bcd\u0b9a\u0bcd\u0b9a\u0bbf \u0baa\u0b9f\u0bbf \u0baa\u0b9f\u0bbf\u0baf\u0bbe \u0bae\u0bc1\u0ba9\u0bcd\u0ba9\u0bc7\u0bb1\u0bbf \u0b92\u0bb0\u0bc1 \u0ba8\u0bb2\u0bcd\u0bb2 \u0b87\u0b9f\u0ba4\u0bcd\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bc1 \u0bb5\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bc1\u0b9a\u0bcd\u0b9a\u0bc1..\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

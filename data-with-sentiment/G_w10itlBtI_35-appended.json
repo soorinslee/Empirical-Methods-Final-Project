@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-05 16:55:23",
+    "ups": "14419",
+    "downs": "184",
+    "views": "239143",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 40,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Little matte black pulls are way better. Push to open is a fancy gimmick that gets old really fast (at least for me, obviously)",
+            "polarity": 0.018229166666666678,
+            "subjectivity": 0.45416666666666666
+        }
+    ]
+}

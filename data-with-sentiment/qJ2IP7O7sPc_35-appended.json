@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 15:00:34",
+    "url": "https://www.youtube.com/watch?v=qJ2IP7O7sPc",
+    "time_now": "2021-11-05 16:54:33",
+    "ups": "103317",
+    "downs": "1674",
+    "views": "655050",
+    "top_comments": [
+        {
+            "comment": "WE NEED BGMI LITE \ud83d\ude4f",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "WE NEED BGMI LITE \ud83d\ude4f",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "WE NEED BGMI LITE \ud83d\ude4f",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I get emotional to hear the last music \ud83d\ude2d\ud83e\udd72\ud83e\udd72",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.35833333333333334
+        },
+        {
+            "comment": "We need bgmi lite",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "We need bgmi lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I get emotional to hear the last music \ud83d\ude2d\ud83e\udd72\ud83e\udd72",
+            "polarity": 0.0,
+            "subjectivity": 0.35833333333333334
+        },
+        {
+            "body": "Kaztro \ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need bgmi lite",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Moyilali entry \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kaztro \ud83d\udc99",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Chalo bgmi lite ki bheek mang leta hu jaldi se",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We need bgmi lite \ud83d\ude4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

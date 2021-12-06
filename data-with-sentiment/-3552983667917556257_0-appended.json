@@ -1,0 +1,171 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj57tf/game_developers_still_didnt_get_it/",
+    "time_posted": "2021-10-30 12:38:33",
+    "time_now": "2021-10-30 16:47:06",
+    "ups": 13,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hint44c",
+            "body": "Film grain can also go die",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsyii",
+            "body": "All this!  It's the first thing i turn off.",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "comment_id": "hinsm07",
+            "body": "Motion blur was used all the time during the PS2 era",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsdc0",
+            "body": "Who tf plays with motion blur... Cant see shit",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hinsblu",
+            "body": "I was always under the impression motion blur was used to cover up for under-preforming systems.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hins2i7",
+            "body": "Second film grain",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hins2i7",
+            "body": "Second film grain",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsblu",
+            "body": "I was always under the impression motion blur was used to cover up for under-preforming systems.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsdc0",
+            "body": "Who tf plays with motion blur... Cant see shit",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hinsm07",
+            "body": "Motion blur was used all the time during the PS2 era",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsyii",
+            "body": "All this!  It's the first thing i turn off.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hins2i7",
+            "body": "Second film grain",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsblu",
+            "body": "I was always under the impression motion blur was used to cover up for under-preforming systems.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsdc0",
+            "body": "Who tf plays with motion blur... Cant see shit",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hinsm07",
+            "body": "Motion blur was used all the time during the PS2 era",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsyii",
+            "body": "All this!  It's the first thing i turn off.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hins2i7",
+            "body": "Second film grain",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsblu",
+            "body": "I was always under the impression motion blur was used to cover up for under-preforming systems.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsdc0",
+            "body": "Who tf plays with motion blur... Cant see shit",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hinsm07",
+            "body": "Motion blur was used all the time during the PS2 era",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinsyii",
+            "body": "All this!  It's the first thing i turn off.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

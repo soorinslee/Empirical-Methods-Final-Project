@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-04 07:58:00",
+    "ups": "10749",
+    "downs": "874",
+    "views": "607083",
+    "top_comments": [
+        {
+            "comment": "Aku mintak yg bahasa Indonesia yg ini",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Cool make up for Halloween.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "Irish you where in India I'm in india",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I wish you where in India I'm in india",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ha ha ha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Aku mintak yg bahasa Indonesia yg ini",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "15",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "11:50  omoooo \ud83d\ude31 she looks like Jennie from Black Pink\nBecause the hair was inspired by Jennie \ud83d\udc9c",
+            "polarity": -0.13333333333333333,
+            "subjectivity": 0.3666666666666667
+        }
+    ]
+}

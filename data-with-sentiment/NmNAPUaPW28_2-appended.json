@@ -1,0 +1,104 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-10-31 00:58:29",
+    "ups": "1907",
+    "downs": "16",
+    "views": "19366",
+    "top_comments": [
+        {
+            "comment": "Oh wow your cooking it so yummy thank you\ud83d\udc4d\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Every recipes of your  is awesome. I tried it and it was delicious.Thanks",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "My grandmother made these all the time When I was little.",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Oh wow your cooking it so yummy thank you\ud83d\udc4d\ud83c\udffb",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I might add a little bacon \ud83e\udd53",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I have to make this for my husband! It's one of his favorite cookies... thank you John!\ud83d\ude01\u2764\ud83d\udda4",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I heard that lemon zest is a great addition to shortbreads. Never tried that but going to.\n\nBTW, \"pecan\" is pronounced as pi-KAN in British English and pi-KAHN in American.",
+            "polarity": 0.2,
+            "subjectivity": 0.1875
+        },
+        {
+            "body": "I love you recipes. I\u2019ve made your cream puffs and added cream cheese to the whipping cream and it was awesome. I find the cream cheese is expensive, though, (at least in Canada). I went on YouTube to see if I could make my own cream cheese and I couldn\u2019t believe how easy and cheep it is to make it on your own. Do you have any cream cheese recipes that you would love to share with us? If so, I\u2019d love to learn them.",
+            "polarity": 0.37037037037037035,
+            "subjectivity": 0.748148148148148
+        },
+        {
+            "body": "May I suggest swapping out the vanilla extract for maple syrup and the white sugar for brown sugar? Pairs far better with the pecans.",
+            "polarity": 0.19999999999999998,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "A hot cup of tea would be wonderful with these...or milk",
+            "polarity": 0.625,
+            "subjectivity": 0.925
+        },
+        {
+            "body": "Dude, I just threw out a empty paper towel holder \u2639 I almost saved it thinking \"I could use this for some type of a craft\" then said \"Nope. You know it's just going to sit there collecting dust\" so in the trash it went, lol. Should've gone with my gut eh? \ud83e\udd26\u200d\u2640\ufe0f I love Pecans but I've never made these. I have a brand new bag of Pecans to use up. Now I know what I'll be making with them. Think I'll add a light drizzle of bittersweet chocolate as well... \ud83d\ude0b",
+            "polarity": 0.3472727272727273,
+            "subjectivity": 0.5909090909090908
+        },
+        {
+            "body": "Thanks very much for all your tips! I really love the way you explained and shared your recipe. \u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.3416666666666666,
+            "subjectivity": 0.35333333333333333
+        },
+        {
+            "body": "I\u2019d love to see an Egg Nog recipe from you :)",
+            "polarity": 0.5,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I stopped following.  Enjoyed much more before a social media algorithm became more important.",
+            "polarity": 0.32222222222222224,
+            "subjectivity": 0.4777777777777777
+        },
+        {
+            "body": "This is one of my favorite cookies to buy other than Oreos. So I can't wait to make this cookie, which is coming just in time for Christmas! I'm going to pick some other recipes from your cookie playlist and I'll be set for Christmas.",
+            "polarity": 0.07291666666666667,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "John, you're amazing. I just saw a cookie with this exact texture and wondered what they were called and then you beckoned \u2661 Gosh, you're just the best \u2661 Thank you \u2661",
+            "polarity": 0.6166666666666667,
+            "subjectivity": 0.48333333333333334
+        },
+        {
+            "body": "John, thank you for pronouncing pecan CORRECTLY \ud83d\ude0b\ud83d\udc93\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

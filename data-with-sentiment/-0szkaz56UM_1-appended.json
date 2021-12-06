@@ -1,0 +1,147 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-10-30 20:51:42",
+    "ups": "7476",
+    "downs": "98",
+    "views": "265960",
+    "top_comments": [
+        {
+            "comment": "Breaking Bad",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "I smell a inside job\ud83d\udc40 be careful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "FUN FACT: This was an inside job with that company",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Maybe the insects inside, can help ward em off.\ud83e\udeb3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "OMG she left her jewellery on her dresser ???  Although I'm not wealthy like the woman featured, regardless, before I leave my house I hide my crappy computer from potential thieves...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Breaking Bad",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Inside job",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Seems like a scam",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Obviously commonsense doesn't exist in this household. If I have an expensive jewelries I would secure that to somewhere else away from people.",
+            "polarity": -0.033333333333333326,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Love how she puts a 70k item and 70k worth of trust to a random person hahahhahahahahha",
+            "polarity": 0.10000000000000002,
+            "subjectivity": 0.39999999999999997
+        },
+        {
+            "body": "I hope she gets her jewelry back",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Maybe the insects inside, can help ward em off.\ud83e\udeb3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Breaking Bad my ninja.",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "I smell a inside job\ud83d\udc40 be careful",
+            "polarity": -0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Stop robbing the circuses",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "OMG she left her jewellery on her dresser ???  Although I'm not wealthy like the woman featured, regardless, before I leave my house I hide my crappy computer from potential thieves...",
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Sorry but it's stupid to let your expensive Jewelry in the House and just trust that nothing happens.",
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Don\u2019t tell skyler",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tangerine book",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wouldn't be surprised if they found a Meth Lab in one of the houses.",
+            "polarity": 0.1,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "It won't matter if they catch the burglar they'll be back on the streets the next day.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "FUN FACT: This was an inside job with that company",
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "God dammit Todd!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yeah, no. The burglar was most probably tipped off by one of the exterminators.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "No they should have security",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

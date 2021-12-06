@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 16:00:08",
+    "url": "https://www.youtube.com/watch?v=F8_uSacJwzU",
+    "time_now": "2021-11-01 01:39:36",
+    "ups": "4347",
+    "downs": "49",
+    "views": "77282",
+    "top_comments": [
+        {
+            "comment": "\"Oh you sleeping now I might creep at night\"\ud83d\udc0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Snipe shit\ud83e\udd2b\ud83d\ude08\ud83c\udfaf\ud83d\udcaf\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I swear dude said somthong about being charged w rape (no joke)",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Snapkat homie I view you wess up\ud83e\udd1f\ud83c\udfff\ud83e\udd1f\ud83c\udfff\ud83e\udd1f\ud83c\udfff",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

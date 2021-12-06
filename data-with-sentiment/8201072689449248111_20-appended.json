@@ -1,0 +1,134 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj1aco/paid_150_for_all_of_it/",
+    "time_posted": "2021-10-30 09:16:23",
+    "time_now": "2021-11-03 03:08:57",
+    "ups": 1174,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hin1izw",
+            "body": "It\u2019s got a huge crack on it! You should return it.",
+            "ups": 107,
+            "downs": 0,
+            "polarity": 0.5000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment_id": "hin1goi",
+            "body": "It looks worth more than that! Good deal!",
+            "ups": 51,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.4000000000000001
+        },
+        {
+            "comment_id": "hingju8",
+            "body": "Did GameStop finally change their ridiculous pricing and allow customers to occasionally get a deal?!?",
+            "ups": 14,
+            "downs": 0,
+            "polarity": -0.1111111111111111,
+            "subjectivity": 0.7083333333333334
+        },
+        {
+            "comment_id": "hin2d47",
+            "body": "Kinda looks like the giant thwomp in Super Mario 64.",
+            "ups": 6,
+            "downs": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "comment_id": "hiow1ip",
+            "body": "Gamestop gave me this version as a warranty replacement for a plain One X. I was stoked.",
+            "ups": 8,
+            "downs": 0,
+            "polarity": -0.21428571428571427,
+            "subjectivity": 0.35714285714285715
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hin1goi",
+            "body": "It looks worth more than that! Good deal!",
+            "ups": 49,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.4000000000000001
+        },
+        {
+            "comment_id": "hin1izw",
+            "body": "It\u2019s got a huge crack on it! You should return it.",
+            "ups": 107,
+            "downs": 0,
+            "polarity": 0.5000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment_id": "hiow1ip",
+            "body": "Gamestop gave me this version as a warranty replacement for a plain One X. I was stoked.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": -0.21428571428571427,
+            "subjectivity": 0.35714285714285715
+        },
+        {
+            "comment_id": "hip30c7",
+            "body": "Nice grab, dude!\nGet used to the sound effects of the disc drive on this one!\nI have the same Xbox One X, and EVERYTIME I eject a disc (which I think because of this, is hardly ever now) I'm convinced it's scratching my discs to shit lol.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.25972222222222224,
+            "subjectivity": 0.5944444444444444
+        },
+        {
+            "comment_id": "hingju8",
+            "body": "Did GameStop finally change their ridiculous pricing and allow customers to occasionally get a deal?!?",
+            "ups": 15,
+            "downs": 0,
+            "polarity": -0.1111111111111111,
+            "subjectivity": 0.7083333333333334
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hin1goi",
+            "body": "It looks worth more than that! Good deal!",
+            "ups": 50,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.4000000000000001
+        },
+        {
+            "comment_id": "hin1izw",
+            "body": "It\u2019s got a huge crack on it! You should return it.",
+            "ups": 107,
+            "downs": 0,
+            "polarity": 0.5000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment_id": "hiow1ip",
+            "body": "Gamestop gave me this version as a warranty replacement for a plain One X. I was stoked.",
+            "ups": 7,
+            "downs": 0,
+            "polarity": -0.21428571428571427,
+            "subjectivity": 0.35714285714285715
+        },
+        {
+            "comment_id": "hip30c7",
+            "body": "Nice grab, dude!\nGet used to the sound effects of the disc drive on this one!\nI have the same Xbox One X, and EVERYTIME I eject a disc (which I think because of this, is hardly ever now) I'm convinced it's scratching my discs to shit lol.",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.25972222222222224,
+            "subjectivity": 0.5944444444444444
+        },
+        {
+            "comment_id": "hingju8",
+            "body": "Did GameStop finally change their ridiculous pricing and allow customers to occasionally get a deal?!?",
+            "ups": 15,
+            "downs": 0,
+            "polarity": -0.1111111111111111,
+            "subjectivity": 0.7083333333333334
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-11-01 18:08:38",
+    "ups": "10552",
+    "downs": "43",
+    "views": "144987",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 197,
+            "number_of_replies": 13,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "17:15 \"sex is required here\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I can't help but think the Octogon is what Sahara always wanted to be.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hey X, I got a bunch of malware from vanilla tweaks. Do you know what\u2019s up with that?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If you push waterlogged blocks with a 1 tick pulse, they do indeed get retain their waterlogged state.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "why cant the spiders just fall onto hoppers?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I can't help but think the Octogon is what Sahara always wanted to be.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You also could've used trapdoors ;)",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Fibally a normal feeling episode",
+            "polarity": 0.15,
+            "subjectivity": 0.6499999999999999
+        },
+        {
+            "body": "you could have used waterlogged trapdoors, you can open and close them with redstone. i use that for my witchfarm",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "#TeamSeas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

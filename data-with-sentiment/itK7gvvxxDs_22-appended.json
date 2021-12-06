@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 15:00:32",
+    "url": "https://www.youtube.com/watch?v=itK7gvvxxDs",
+    "time_now": "2021-11-03 11:20:56",
+    "ups": "86007",
+    "downs": "834",
+    "views": "1489258",
+    "top_comments": [
+        {
+            "comment": "I love that one consistent part of the Arctic Warfare splash arts was \"SHE HAS A PUBBY\"",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.375,
+            "subjectivity": 0.425
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'd love to see this for many other old champs like Orianna ^^",
+            "polarity": 0.24375,
+            "subjectivity": 0.41875
+        },
+        {
+            "body": "Pre season 9 vibes. Oh man, why did it take so long.",
+            "polarity": -0.05,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Looking good. Now please riot give me headshot auto cancels back thank you ^^",
+            "polarity": 0.35,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "She looks so slick,im actually excited to play the champ more now",
+            "polarity": 0.4375,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Oh ye, I waited for this for soo long, but... actually the \"old\" splash art of Arcade Caitlyn is better then that new,  thats shape of her face just look a litlle to old as for her. But the rest, I cant wait to see it",
+            "polarity": 0.13106060606060607,
+            "subjectivity": 0.3090909090909091
+        },
+        {
+            "body": "No new champs until you're done updating every old champ. Please and thanks.",
+            "polarity": 0.07727272727272728,
+            "subjectivity": 0.28484848484848485
+        }
+    ]
+}

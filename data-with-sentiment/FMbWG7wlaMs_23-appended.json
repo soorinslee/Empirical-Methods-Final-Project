@@ -1,0 +1,103 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-03 15:28:51",
+    "ups": "35511",
+    "downs": "427",
+    "views": "741397",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1123,
+            "number_of_replies": 100,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "This is one of the prettiest house and also one of my favourite house love you\u2665\ufe0f\ud83d\udc96",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "So nice to see how you define home \ud83c\udfe1",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Absolutely gorgeous house! Congratulations!",
+            "polarity": 1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "What a gorgeous home! I just bought my first home and it is about the size of that master bedroom haha. Hopefully someday I can upgrade to something more substantial too. Congratulations!",
+            "polarity": 0.4875,
+            "subjectivity": 0.5083333333333333
+        },
+        {
+            "body": "Tell me ur rich without telling me ur rich! She'll start:",
+            "polarity": 0.421875,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "What a stunning home \u2764\ufe0f",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "omg i remember the first ever video i've watched from ro was her mario cake in a very small kitchen, stumbling upon this video years later makes me so proud of her!",
+            "polarity": 0.23125,
+            "subjectivity": 0.4633333333333333
+        },
+        {
+            "body": "So gorgeous Ro! im so proud of you for working so hard, and creating a beautiful dream house!",
+            "polarity": 0.5958333333333333,
+            "subjectivity": 0.8604166666666666
+        },
+        {
+            "body": "The cinematography is so good that I thought this was an AD feature for like... eleven minutes. dupped me",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "You should tell \" my castel tour \".I mean its too big man.",
+            "polarity": -0.15625,
+            "subjectivity": 0.39375
+        },
+        {
+            "body": "So nice to see how you define home \ud83c\udfe1",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Love your house and the haircut !!!",
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "if pewdiepie ever saw this house he would give it an S rating beacuse it is truely stunning",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "i love how u manage to make it feel so homey",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "the one name i came up instantly for ro`s barista was barbara hahahah",
+            "polarity": 0.0,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Trisha the Barista \ud83e\udd0c\ud83c\udffd\u2728",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

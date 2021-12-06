@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:13:19",
+    "url": "https://www.youtube.com/watch?v=jVixdD4ABIk",
+    "time_now": "2021-11-06 05:16:41",
+    "ups": "16559",
+    "downs": "53",
+    "views": "204237",
+    "top_comments": [
+        {
+            "comment": "i'm so glad you guys included kapustin in there. he's one of my favorite composers just from the groove he has",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "As a classical pianist, Prokofiev and Debussy wrote some of the most challenging music I\u2019ve ever played, but they\u2019re on opposite spectrums of difficulty. I could talk for hourrss about those two composers",
+            "polarity": 0.25,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Love your reviews on these iconic pieces \ud83d\udc9b",
+            "polarity": 0.5,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Who else here is piano gang\ud83d\ude4b\u200d\u2640",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 13:00:11",
+    "url": "https://www.youtube.com/watch?v=Isl80lkajZU",
+    "time_now": "2021-11-03 07:13:43",
+    "ups": "13132",
+    "downs": "220",
+    "views": "173758",
+    "top_comments": [
+        {
+            "comment": "SIGN UP FOR MY FREE MASTERCLASS: How to Turn Video-Making Into $100k/yr Career\nhttps://bit.ly/3vK6tUe",
+            "likes": 173,
+            "number_of_replies": 41,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Jordan\u2026. They badly CG\u2019ed Lisa in the group shots\u2026 \ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lisa is a Queen",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "American production doesn\u2019t really care about the quality like Korean Production does, American is only in it for the money, Korean Production goes with quality and money, quality to upgrade the group\u2019s (or solo) popularity, and money for promotions and to upgrade a company building\nlook at DJ Snake, Megan Thee Stallion, and Ozuna\u2019s scene and compare it to Lisa\u2019s, see witch one looks better",
+            "polarity": 0.13999999999999999,
+            "subjectivity": 0.33999999999999997
+        },
+        {
+            "body": "Jordan\u2026. They badly CG\u2019ed Lisa in the group shots\u2026 \ud83d\ude2d",
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Lisa is our queen and pride she is far more popular than beyonce normani cardi b megan stallion and justin bieber",
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "Be honest, who was here only to hear Jordan absolutely roast the shit out of this MV?",
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.8999999999999999
+        },
+        {
+            "body": "Thanks for your honest opinion and observation.\ud83d\udc4d",
+            "polarity": 0.4,
+            "subjectivity": 0.55
+        }
+    ]
+}

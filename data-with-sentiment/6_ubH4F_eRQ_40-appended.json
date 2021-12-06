@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:23:10",
+    "url": "https://www.youtube.com/watch?v=6_ubH4F_eRQ",
+    "time_now": "2021-11-06 13:31:39",
+    "ups": "25908",
+    "downs": "2148",
+    "views": "2379175",
+    "top_comments": [
+        {
+            "comment": "Miss you Sir \ud83d\ude2d\ud83d\ude25",
+            "likes": 181,
+            "number_of_replies": 16,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\ude22\ud83d\ude22",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\ude14\ud83d\ude1e\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udc95\ud83c\udf39\u2764\u2764\ud83c\udf39\ud83d\udc95\ud83c\udf39\u2764\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3\ud83c\uddee\ud83c\uddf3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Legend never dies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why die this guy anyone can tell me",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-03 19:35:45",
+    "ups": "11549",
+    "downs": "399",
+    "views": "364415",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 46,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\u029c\u026a\u026a,\ud83d\ude18\ud83d\ude0d\ud83e\udd70\ud83d\ude0a",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "No rishi no jasmine without tarang music so all credit goes to the music channel and team for make such a wonderful track for us \ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "So sweet music \ud83c\udfb6\ud83c\udfb6\ud83c\udfb6\ud83c\udfb6\ud83c\udfb6 nice video \ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.475,
+            "subjectivity": 0.825
+        },
+        {
+            "comment": "Super song \ud83c\udfb5\ud83d\udc4c\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Mind blowing video song \ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

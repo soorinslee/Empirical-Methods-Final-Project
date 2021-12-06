@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 15:00:33",
+    "url": "https://www.youtube.com/watch?v=gqiVuzh5VIQ",
+    "time_now": "2021-11-01 05:46:55",
+    "ups": "9772",
+    "downs": "154",
+    "views": "182061",
+    "top_comments": [
+        {
+            "comment": "What should I react to next...?",
+            "likes": 167,
+            "number_of_replies": 59,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I support liverpool",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bford you missed out on the year 10 vs year 11 el cl\u00e1sico they are legendary",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

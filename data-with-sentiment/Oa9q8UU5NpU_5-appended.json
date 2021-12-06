@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-10-31 13:18:13",
+    "ups": "1859",
+    "downs": "41",
+    "views": "29142",
+    "top_comments": [
+        {
+            "comment": "Dread is such an instant classic! that's an incredible secret in it",
+            "likes": 12,
+            "number_of_replies": 0,
+            "polarity": 0.14166666666666666,
+            "subjectivity": 0.5866666666666667
+        },
+        {
+            "comment": "I want to wish James and everyone who reads this a wonderful,safe and spooky halloween",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I found out about the final easteregg by accident lmao",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "1:05 the other zig-zag floor pattern looks veeeery similar to the one inside the Red Room from Twin Peaks\u2026",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.041666666666666664,
+            "subjectivity": 0.25833333333333336
+        },
+        {
+            "comment": "Woo! Love these vids man!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "DLSS\n\nMakes everything look like Blurry crap",
+            "polarity": -0.8,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Mitten's Journal is a joke. Not even images of the same cat. Mittens aint just gonna have pictures of all the neighbourhood pussy. And that colour card means somewhere it is being broadcast from.",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "The beginning will never get old",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        }
+    ]
+}

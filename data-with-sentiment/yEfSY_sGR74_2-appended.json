@@ -1,0 +1,127 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-10-31 00:57:26",
+    "ups": "2358",
+    "downs": "21",
+    "views": "12332",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 174,
+            "number_of_replies": 31,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "New favorite song. Been waiting for this for a long time. This is even better than the original. Well done Alex.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2922727272727273,
+            "subjectivity": 0.6209090909090909
+        },
+        {
+            "comment": "Amo este cover \ud83d\ude2d\ud83d\ude0d\u2728",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "you is amazing i like you voice power my brothr\n\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "It's a pity you didn't sing the whole song, you cut it off right at the best part.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3464285714285714,
+            "subjectivity": 0.35892857142857143
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It's a pity you didn't sing the whole song, you cut it off right at the best part.",
+            "polarity": 0.3464285714285714,
+            "subjectivity": 0.35892857142857143
+        },
+        {
+            "body": "Wow!! Amazing to hear\ud83d\ude0d\ud83d\ude07\ud83e\udd29\ud83c\udfb6",
+            "polarity": 0.37812500000000004,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "I love you voice",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\ud83d\udc9a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I was only waiting for Alexander Stewart \ud83d\ude0c\ud83d\ude0c\ud83d\ude0c\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83d\ude33\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Big fan brother love from Nepal \ud83c\uddf3\ud83c\uddf5your voice is amaging god bless you brother",
+            "polarity": 0.25,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "Hey....I am from Myanmar......I am your big fan\u2764\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "0.75x \ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb\ud83d\udc4c\ud83c\udffb",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "so good dudeee",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\ud83c\uddf5\ud83c\udded\ud83c\uddf5\ud83c\udded\ud83c\uddf5\ud83c\udded\ud83d\udc48\ud83d\udc48\ud83d\udc48",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Man, I think this is the best cover of this song I've heard.  Well done, sir!",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "New favorite song. Been waiting for this for a long time. This is even better than the original. Well done Alex.",
+            "polarity": 0.2922727272727273,
+            "subjectivity": 0.6209090909090909
+        },
+        {
+            "body": "ur headvoice lissen so crasy, nice work",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "beautiful cover hun. you are adorable with SUCH a beautiful voice \u2764",
+            "polarity": 0.55,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "you is amazing i like you voice power my brothr\n\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ]
+}

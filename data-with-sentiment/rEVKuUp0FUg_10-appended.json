@@ -1,0 +1,102 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-01 09:54:24",
+    "ups": "5824",
+    "downs": "39",
+    "views": "63650",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 500,
+            "number_of_replies": 143,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "Who needs to have gymnastics \ud83e\udd38\u200d\u2642\ufe0f for a lot of money when we can just watch Anna!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pls can u do a how to do splits but this video was really helpful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Tysm! Now I can do a back bend! I\u2019ve been working on it!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "But thank you so much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Who needs to have gymnastics \ud83e\udd38\u200d\u2642\ufe0f for a lot of money when we can just watch Anna!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pls can u do a how to do splits but this video was really helpful",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Tysm! Now I can do a back bend! I\u2019ve been working on it!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "But thank you so much",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "pls do an a auother split I can't do it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi Anna please could you do a piruette tutorial",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Anna How To Make My MoM support me being gymnastic:<",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Anna your videos are really amazing .Can you please give me a heart \ud83d\ude4f\ud83c\udffb\ud83e\udd17 .I am a Big Big fan of you",
+            "polarity": 0.20000000000000004,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "hey anna! i was wondering if it was okay for your heels to be of ground when we bend our knees on the downward dog position, please like this comment if it is okay and tysm this really helped me on my first day!",
+            "polarity": 0.378125,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "body": "How old are you",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Anna, I have one question? I was really flexible abt like 6 months ago, I still KINDA hsve the flexibility but not as much if I do your tuts will I regain it again? Or will it take as long as it took me to get flexible in the first place? If you can respond to this I will gladly appreciate it, thank you!!",
+            "polarity": 0.27625,
+            "subjectivity": 0.42666666666666664
+        }
+    ]
+}

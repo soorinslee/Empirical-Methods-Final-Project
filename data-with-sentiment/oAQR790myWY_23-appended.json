@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:15:40",
+    "url": "https://www.youtube.com/watch?v=oAQR790myWY",
+    "time_now": "2021-11-03 15:28:31",
+    "ups": "13099",
+    "downs": "229",
+    "views": "180487",
+    "top_comments": [
+        {
+            "comment": "\ud83e\udd1d\ud83d\udc4d\ud83c\udffb\ud83d\ude0e",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Musique avec du fran\u00e7ais \ud83d\ude31",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "No comment",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "i luv the song is so perfect",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "D\u00fcnyan\u0131n\n2. En iyi b\u0131rawl stars oynayan ki\u015fisi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83e\udd1d\ud83d\udc4d\ud83c\udffb\ud83d\ude0e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "No comment",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

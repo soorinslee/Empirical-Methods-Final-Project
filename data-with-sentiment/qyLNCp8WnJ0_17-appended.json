@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-02 14:45:20",
+    "ups": "5476",
+    "downs": "142",
+    "views": "129232",
+    "top_comments": [
+        {
+            "comment": "In a very recent video promoting Whole Foods sale prices, you specifically recommended a product, \"Four Sigmatic, Defend, Mushroom Blend Mix.\" On the can there's an explicit warning how this product can expose you to chemicals including lead, which is known in CA to cause birth defects or other reproductive harm. You express concerns about natural and artificial flavors. What's the deal here?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.08499999999999999,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Thanks!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "My wife and I are going to the new Costco tomorrow that they just built a week ago. So excited. We have never been to 1 before!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3025568181818182,
+            "subjectivity": 0.6022727272727273
+        },
+        {
+            "comment": "Truvani protein mix? Has Prop 65 warning. Other protein mixes don't. What think of prop 65 warning? Why on truvani and not on others w same ingrdnts?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.0625,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I picked up that pasta sauce on Friday, LOL and you get trees at your Costco? No trees at mine in Pennsylvania \u2639\ufe0f",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I just found you reading a post that I was on \u201c dr Berg\u201d I\u2019ll be following you. I\u2019m 62 but it\u2019s never too late right ? \ud83c\udf3b\ud83c\udf3b\ud83c\udf3b",
+            "polarity": -0.004761904761904763,
+            "subjectivity": 0.41190476190476194
+        },
+        {
+            "body": "Have you ever considered changing your name to \"Karen\"?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

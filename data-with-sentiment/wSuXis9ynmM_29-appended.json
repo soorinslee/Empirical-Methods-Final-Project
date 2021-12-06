@@ -1,0 +1,81 @@
+{
+    "time_posted": "2021-10-30 12:29:47",
+    "url": "https://www.youtube.com/watch?v=wSuXis9ynmM",
+    "time_now": "2021-11-04 16:11:50",
+    "ups": "58144",
+    "downs": "3127",
+    "views": "2231361",
+    "top_comments": [
+        {
+            "comment": "Modi modi modi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u0907\u0938\u0915\u094b \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940 \u0924\u094b \u0906\u0924\u0940 \u0928\u0939\u0940\u0902 \u092f\u093e \u0915\u0947\u0935\u0932 \u0939\u094b\u0902\u0920 \u0939\u0940 \u0939\u093f\u0932\u093e \u0930\u0939\u093e \u0939\u0948\u0964",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "free main world tour. gujju bhai",
+            "polarity": 0.2833333333333333,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "body": "0:11 these two are discussing immortality",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I proud to be a top cuntry list",
+            "polarity": 0.65,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "\ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Where is the mask????????",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Namo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I bet if it was Rahul Gandhi as a PM in this summit it would have been more cool",
+            "polarity": 0.425,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "Modi modi modi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Modi to Angela: ao kabhi ayodhya... ghumayenge ramandir tumhe\ud83e\udd23\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "johnson's baby \u092e\u094b\u0926\u0940 \u091c\u0940 \u0915\u094b \u0918\u0942\u0930\u0924\u0947 \u0930\u0939\u0924\u0947\u0947 \u0939\u0948\u0902 \ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Modi and Angela can be a couple \ud83d\ude01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

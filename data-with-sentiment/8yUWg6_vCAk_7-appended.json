@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=8yUWg6_vCAk",
+    "time_now": "2021-10-31 21:32:24",
+    "ups": "2794",
+    "downs": "288",
+    "views": "59516",
+    "top_comments": [
+        {
+            "comment": "For some reason I was disappointed with the open beta. I couldn't kill anybody. Im a massive bf fan and usually I do pretty decent. But I hope I'll like the full game.",
+            "likes": 14,
+            "number_of_replies": 2,
+            "polarity": -0.054761904761904776,
+            "subjectivity": 0.6952380952380953
+        },
+        {
+            "comment": "This game had a such great marking till portal, after they went quiet and the beta came it was just a mess of dissapointing things. Specialist feels like they don't belong to this game, I would buy this game when it gets cheaper, I'm not gonna buy this game only for portal so that says something.",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": -0.10833333333333334,
+            "subjectivity": 0.48425925925925917
+        },
+        {
+            "comment": "I would love to have gyro aiming in this.",
+            "likes": 7,
+            "number_of_replies": 4,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I'll say it again, another game that they had a great opportunity to be a fantastic game, and every trailer I see the more dissapointed I get (not to mention the bf beta) the only beautifull thing I see in this game are the maps",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.07142857142857142,
+            "subjectivity": 0.6214285714285713
+        },
+        {
+            "comment": "These massively open maps are not going to get me to drop BF4.",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "WW1",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

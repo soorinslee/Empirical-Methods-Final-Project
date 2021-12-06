@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-03 03:06:41",
+    "ups": "11332",
+    "downs": "116",
+    "views": "138649",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 190,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "\"Ninjitsu?!\"\n\"It's just Kicker with extra steps\"\nGot me good with that one. The reference wasn't lost on me (as I fear it may have been for many).",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.4000000000000001
+        },
+        {
+            "comment": "Simic value engine with no real win con gets me every time.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.26666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So... every thing that is optional to do has a cost and benefit, like the kicker mechanic.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why is this so true?",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Let's see if what he claims is true by going down the list of original Ravnica mechanics\n\nForecast: The forecast effect is the real spell and the \"real spell\" is the kicker\nHaunt: You sacrifice the creature and another creature to get the effect again\nRadiance: This one is definitely not kicker\nConvoke: The kicker cost is tapping permanents to lower the spell's cost\nTransmute: The logic he used for cycling applies here, but honestly I think it's bullshit\nReplicate: You pay the kicker cost and you get extra copies\nGraft: You pay a kicker cost of removing counters from permanents with graft to put them on the creature\nHellbent: Sometimes you get an additional ability if you have no cards in hand\nDredge: This is definitely not kicker unless you want to say it's kicker for card draw\nBloodthirst: The kicker cost is having to do damage to the opponent that turn",
+            "polarity": 0.17438271604938269,
+            "subjectivity": 0.4765432098765432
+        },
+        {
+            "body": "When you realize he has a point...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "MTG CONFLUX PODCAST GOT THERE FIRST !!!",
+            "polarity": 0.48828125,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Lifelink?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "*brain explodes*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Was about to bring up islandwalk until the horsemanship point came up. So islandwalk is horsemanship then.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

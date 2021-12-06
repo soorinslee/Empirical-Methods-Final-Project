@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-05 16:54:26",
+    "ups": "12009",
+    "downs": "425",
+    "views": "385475",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 47,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Jasmine very very very beautiful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "So sweet music \ud83c\udfb6\ud83c\udfb6\ud83c\udfb6\ud83c\udfb6\ud83c\udfb6 nice video \ud83d\ude42\ud83d\ude42\ud83d\ude42\ud83d\ude42",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.475,
+            "subjectivity": 0.825
+        },
+        {
+            "comment": "Jasmine di and Rishi bro \ud83d\udc95\ud83d\udc9e\ud83d\udc6b\nBest song I love tarang music\ud83c\udfb6\nOdisha's no 1 music platform \ud83d\udc97\ud83d\udc97\ud83d\udc97",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "May our Odia film industry develop more by the grace of God.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

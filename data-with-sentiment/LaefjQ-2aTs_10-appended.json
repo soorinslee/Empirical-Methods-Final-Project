@@ -1,0 +1,90 @@
+{
+    "time_posted": "2021-10-30 13:58:43",
+    "url": "https://www.youtube.com/watch?v=LaefjQ-2aTs",
+    "time_now": "2021-11-01 09:54:05",
+    "ups": "1046",
+    "downs": "288",
+    "views": "188652",
+    "top_comments": [
+        {
+            "comment": "Earth corruption level on peak",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "In many states in India especially North Indian States no one is wearing mask in public places",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.5222222222222223
+        },
+        {
+            "comment": "251 dislikers are  bhaktandus \ud83e\udd23\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Delhi me ho rahe protest ko live coverage kyo nahi dikhate.... Student apne huk keliye ladh rahe hai....",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "As elections approach , corona menace will crawl in , with ardent support from health ministry and paparazzi. Corona is only an election booster for Bjp.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Hhh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "251 dislikers are  bhaktandus \ud83e\udd23\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "shut up RANDTV... darbari media of Sonia Maino",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "In many states in India especially North Indian States no one is wearing mask in public places",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.5222222222222223
+        },
+        {
+            "body": "KO7u",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Delhi me ho rahe protest ko live coverage kyo nahi dikhate.... Student apne huk keliye ladh rahe hai....",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "everyone.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy Diwali",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Won't be a wonder if the next wave would contain the majority of the so called \"Vaccinated\" people who are infected.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-03 15:28:05",
+    "ups": "26585",
+    "downs": "601",
+    "views": "444149",
+    "top_comments": [
+        {
+            "comment": "GJJJJJJJJJJB\nSOOOOOOONG\n\nLOVE FROM RAJASTHAN",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Opppppppppppppppp",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "very-very scared PLS HELP MEEEEEEE NOOOOOOOOO",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "For me from 00:19 to 00:49 is the one of the best parts (except the drop\ud83d\udd25\ud83d\udd25\ud83d\udd25)",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Omg only word possible to say",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "It's weird but damn good!",
+            "polarity": 0.1875,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Tok niceeee \ud83d\udc4d\ud83d\ude1c",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "This is Sick",
+            "polarity": -0.7142857142857143,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "body": "Very boring song",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=5C3uUlBSYY0",
+    "time_now": "2021-11-02 02:23:58",
+    "ups": "2501",
+    "downs": "180",
+    "views": "156981",
+    "top_comments": [
+        {
+            "comment": "Claim your \u201chere within an hour\u201d ticket right here\ud83c\udfc6",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "comment": "I was shocked by Melissa wiping lipstick on her dads T-shirt oh Melissa of course she regrets it \ud83d\ude00",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.39999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Yeah !\nThis story so funny and cute \ud83e\udd70 \nVery good \ud83d\udc4f",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.5533333333333333,
+            "subjectivity": 0.9266666666666667
+        },
+        {
+            "comment": "The FitnessGram\u2122 Pacer Test is a multistage aerobic capacity test that progressively gets more difficult\u2005as\u2005it continues.\nThe 20\u2005meter pacer test will begin in\u200530 seconds. Line up at the start.\nThe running speed starts slowly, but gets faster each minute after you hear this signal.\nA single lap should be completed each time you hear this sound.\nRemember to run in a straight line, and run as long as possible.\nThe second time you fail to complete a lap before the sound, your test is over.\nThe test will begin on the word start.\nOn your mark, get ready, start.",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.02912087912087913,
+            "subjectivity": 0.454945054945055
+        },
+        {
+            "comment": "Troom troom is the best\ud83d\ude0d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

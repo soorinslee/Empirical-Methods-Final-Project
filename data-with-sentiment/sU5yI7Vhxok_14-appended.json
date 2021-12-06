@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-02 02:23:11",
+    "ups": "7410",
+    "downs": "66",
+    "views": "63148",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 980,
+            "number_of_replies": 25,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\"You as the viewer.\" Yay, I finally made it to the credits of a music video!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\"You as the viewer.\" Yay, I finally made it to the credits of a music video!",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "music is great, should have created a new song instead of a cover.",
+            "polarity": 0.4681818181818182,
+            "subjectivity": 0.6022727272727273
+        },
+        {
+            "body": "Violet you are awesome! Not to mention you are drop dead beautiful!!!!",
+            "polarity": 0.6,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "Brought back to this video over and over for equal parts the AMAZING cover they did, but also the creative they put into the video itself <3",
+            "polarity": 0.42000000000000004,
+            "subjectivity": 0.63
+        },
+        {
+            "body": "I've never liked this song ever. Until now. I'm a convert.",
+            "polarity": -0.3,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Questa cover \u00e8 una bomba !!!! (Sorry Violet, my italian soul coming out\ud83d\ude01), come la precedente di Phill Collins, e il video \u00e8 semplicemente fantastico, complimenti ragazzi, voi e Violet siete un terzetto formidabile, waiting for the next collabs!!\ud83e\udd1f\ud83e\udd1f",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        }
+    ]
+}

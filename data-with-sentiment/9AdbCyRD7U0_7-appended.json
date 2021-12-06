@@ -1,0 +1,59 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-10-31 21:32:37",
+    "ups": "5689",
+    "downs": "97",
+    "views": "222791",
+    "top_comments": [
+        {
+            "comment": "Wow and I thought the volcano was just throwing poo poo nugget\ud83d\ude06\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude06",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I mean they had a good run. But I was just a matter of time",
+            "polarity": 0.19374999999999998,
+            "subjectivity": 0.64375
+        },
+        {
+            "body": "OPEN IT. \n\nOPEN IT.",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I kinda wanted them to poke it like a molten lava chocolate cake that oozes liquid chocolate. Was there liquid lava in the ball, or was it like a charcoal briquette, purely solid?",
+            "polarity": -0.1,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "body": "Touch the rock",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow and I thought the volcano was just throwing poo poo nugget\ud83d\ude06\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude06",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "And rolls \ud83d\udee2",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "!La Cumre Vieeja",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Can i buy one? They look cool as hek",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        }
+    ]
+}

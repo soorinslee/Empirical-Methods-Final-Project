@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-11-01 05:47:21",
+    "ups": "2239",
+    "downs": "24",
+    "views": "32440",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 137,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I've only painted minis so far.. I haven't even played a game yet. I know the rules and how to play. Its just that none of my friends are into 40k, and I'm still on the fence about going to a local store to play.. I guess this is the sign that I need to just get going and do it.",
+            "polarity": -0.07500000000000001,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "1:42\n\nScott: \"I like to describe myself as a casual tryhard\"\n\n*cuts to motorized camera dolly/slider shots*\n\nMe: YEP SOUNDS ABOUT RIGHT",
+            "polarity": -0.1071428571428572,
+            "subjectivity": 0.7011904761904761
+        }
+    ]
+}

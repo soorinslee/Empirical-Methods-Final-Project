@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-06 09:24:12",
+    "ups": "112697",
+    "downs": "2423",
+    "views": "2923266",
+    "top_comments": [
+        {
+            "comment": "feel me NOW \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 who ever reads this comment will get a fire hart (PLS show it put 20 \ud83d\udd25)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "P",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "its Red light Green light not simon says silly",
+            "polarity": 0.020000000000000018,
+            "subjectivity": 0.515
+        },
+        {
+            "body": "Bc u said Simon says, I will like the video!\ud83e\udd70",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Can you do pokemon in 90000000 days",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

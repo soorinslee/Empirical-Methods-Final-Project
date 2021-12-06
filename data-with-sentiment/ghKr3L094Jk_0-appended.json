@@ -1,0 +1,126 @@
+{
+    "time_posted": "2021-10-30 14:00:16",
+    "url": "https://www.youtube.com/watch?v=ghKr3L094Jk",
+    "time_now": "2021-10-30 16:45:44",
+    "ups": "5177",
+    "downs": "112",
+    "views": "54727",
+    "top_comments": [
+        {
+            "comment": "Be you all day",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy halloween bri",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bri be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you bri you can do this \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\ude0d\ud83d\udc49\ud83d\udc48",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Beyou",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bri be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "hello am fan*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "HLLO AN FN",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you and be amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Be you :)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Be you everybody",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you bre",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy halloween bri",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I'm still going trick or treating",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You are the best one ever",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you all day",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

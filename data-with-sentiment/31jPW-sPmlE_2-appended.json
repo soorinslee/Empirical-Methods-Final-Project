@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-10-31 00:57:59",
+    "ups": "4674",
+    "downs": "106",
+    "views": "178032",
+    "top_comments": [
+        {
+            "comment": "I'm not Christian but pope Francis seems like a holy person just like dalai lama.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Did Pope gifted AirPods to the diplomats?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Message sent to china , vetican still recognise TAIWAN as a country. \ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sir plz reduce petroleum prices...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The lion of India..",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Modiji should speak about forced conversion by means of foreign money\nwhich are bought by missionaries...",
+            "polarity": -0.21250000000000002,
+            "subjectivity": 0.1625
+        },
+        {
+            "body": "This is called freedom regardless what your religion is  Very specials. America. Stands with India",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Modi ji bhi na number 1 sigma hain... Jahan log English bolte hain unko Hindi sunate hain garv se aur jo Italian bol raha hai usko English bol ke troll kar rahe hain.. Baaki leaders kahenge bhai hamse bhi English mein batiya liya karo \ud83e\udd23\ud83e\udd23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Okay now modi ji is madeen",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Message sent to china , vetican still recognise TAIWAN as a country. \ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Did Pope gifted AirPods to the diplomats?",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-03 23:43:47",
+    "ups": "1785",
+    "downs": "36",
+    "views": "22458",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I'd love to join the giveaway. I've never tried the original Acqua Di Gio. I do have Profumo and Profondo, and tried Profondo Lights",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.675
+        },
+        {
+            "comment": "Acqua Di Gio was my very first cologne I\u2019ve ever owned in high school and was my signature scent for quite a while until I got a couple more  fragrances to add to my collection and would alternate between them. I\u2019ve only ever bought that one bottle of Acqua but to me it\u2019s still a nostalgic scent.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08083333333333333,
+            "subjectivity": 0.5788888888888889
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ADG literally my sig scent in high school",
+            "polarity": 0.16,
+            "subjectivity": 0.5399999999999999
+        },
+        {
+            "body": "Never owned a aqua di gio or a flanker, will be happy to have one",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Never smelt Acqua Di Gio before.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

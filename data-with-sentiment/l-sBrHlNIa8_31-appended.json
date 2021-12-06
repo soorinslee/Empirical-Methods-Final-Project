@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-05 00:25:47",
+    "ups": "4112",
+    "downs": "45",
+    "views": "115511",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 137,
+            "number_of_replies": 5,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Ang galing talaga ninyong lahat... pag naumpisahan ko manuod ng youtube channel nyo di kona mapigilan kahit paulit ulit kong panuodin/pakinggan ang galing lang talaga. Nakaka gigi vibes talaga! Kudos to gigi and the band!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ganda ng rendition.. excellent and amazing.. i love it\u2764\u2764\u2764",
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "Live po ba ito or lipsink??",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.5
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-03 23:43:15",
+    "ups": "11748",
+    "downs": "121",
+    "views": "145691",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 198,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "J\u00f3l van b\u00e0ttya nevettem",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Let's not forget how every card type is a creature:\n* Sorceries: Evoke creatures\n* Instants: Evoke creatures with flash\n* Enchantments: Creatures that can't attack or block\n* Artifacts: (Mostly) colorless creatures that can't attack or block\n* Lands: Mana creatures with haste and strange casting rules\n* Planeswalkers: Creatures that use counters as activation costs for their abilities that can be attacked, but can't attack or block\n* Creatures: Creatures",
+            "polarity": -0.09999999999999999,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "body": "this is giving me flashbacks to smallant's \"all moves are dig\" theory",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Banding",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What about Banding? (Seriously, me and a buddy are debating this, and we do not think it is either horsemanship OR kicker)",
+            "polarity": -0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-10-30 16:46:10",
+    "ups": "371",
+    "downs": "6",
+    "views": "8479",
+    "top_comments": [
+        {
+            "comment": "\u201cI\u2019m gonna make soup.\u201d\n\u201cChef Claudio is wearing my soup\u2026\u201d",
+            "likes": 37,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Eric smiled more times in the finale than probably his whole life",
+            "likes": 10,
+            "number_of_replies": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "comment": "The enthusiasm in Eric's grandpa's face \ud83e\udd7a",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Thea's appetizer looks so good tho",
+            "likes": 8,
+            "number_of_replies": 2,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "Eric's family looks so supportive and lovely with such big smiles",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.5875
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love when he said \"This is so Canadian\" \ud83d\ude06",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "No season 7 smh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "noti gang",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc4d Great",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "\"my grandpa on a plate\"\ud83d\ude02\ud83e\udd72\ud83e\udd24\ud83e\udd72",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "pov: re-watching these clips even you've already watched videos 'bout MasterChef Canada finale",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Eric smiled more times in the finale than probably his whole life",
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.3666666666666667
+        },
+        {
+            "body": "\ud83d\ude0b\ud83d\ude0b\ud83d\ude0b",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"This is something I would love to serve in my restaurant \"\nAlvin did just that when he opened R&D with Eric\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Eric's family looks so supportive and lovely with such big smiles",
+            "polarity": 0.25,
+            "subjectivity": 0.5875
+        },
+        {
+            "body": "The last couple, which Season ?",
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "body": "so is there gonna be an every main and every desert? or is there already videos",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "The enthusiasm in Eric's grandpa's face \ud83e\udd7a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice video",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Thea's appetizer looks so good tho",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "i love your videos",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\u201cI\u2019m gonna make soup.\u201d\n\u201cChef Claudio is wearing my soup\u2026\u201d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "They really milking these huh",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "I am from poor masterchef want to join competition",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-05 21:02:48",
+    "ups": "12084",
+    "downs": "90",
+    "views": "241166",
+    "top_comments": [
+        {
+            "comment": "Everyone from Indiana is screaming rn",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "MY DAD WAS BORN THERE!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Love watching this in my dorm at IU\ud83d\ude2d\u2665\ufe0f\ud83e\udd0d",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

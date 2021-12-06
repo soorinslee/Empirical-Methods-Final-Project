@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-03 23:43:38",
+    "ups": "626",
+    "downs": "167",
+    "views": "60381",
+    "top_comments": [
+        {
+            "comment": "According to nbc news,\n\n\"Younger, Southern, rural and white\" are getting covid-19.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Natural immunity. So enough with the mandates.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "And this is bad?? What's with the tone and music of this story",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.6999999999999998,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I got, my self a forty, I got my self a shorty...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Covid vaccine is still on an early stage so it is very dangerous to human body. Btw, what are the ingredients of making a covid vaccine?",
+            "polarity": -0.22666666666666668,
+            "subjectivity": 0.46666666666666673
+        },
+        {
+            "body": "Just a day ago the news was saying it was sky rocketing. Mixed messages",
+            "polarity": 0.0,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "They are dropping due to vaccination. Clear.",
+            "polarity": -0.01249999999999999,
+            "subjectivity": 0.37916666666666665
+        },
+        {
+            "body": "Media not reporting it",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Not here",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Cases are going down for the same reason they went down after the first wave. Delta rolled through, infected tons of people, then the cases went down. It's the exact same thing that will happen when the next variant rolls through.",
+            "polarity": 0.004166666666666655,
+            "subjectivity": 0.21250000000000002
+        },
+        {
+            "body": "Take one to two tablets of albendazole, niclosamide, pyramex, ivermectin, hydroxychloroquine, a day until you get better. It is effective even if you take it for a day or two.\n230 million people in Utah, India restored daily life with ivermectin.",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.43333333333333335
+        }
+    ]
+}

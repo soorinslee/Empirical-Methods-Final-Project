@@ -1,0 +1,118 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-10-31 00:58:25",
+    "ups": "3714",
+    "downs": "253",
+    "views": "162474",
+    "top_comments": [
+        {
+            "comment": "C\u2019es nulle spid game",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "De toute fa son c\u2019es on anglai",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "squid gameeeeeeeeee",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I see  a squid game cookie",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "6",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "5 cookies and I love your vid \ud83e\udd70\ud83e\udd70",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "epinyl",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "si",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "squid gameeeeeeeeee",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tude ingl\u00eaxs",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2 cookis",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I found 5 Squid Game cookies",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "De toute fa son c\u2019es on anglai",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "3 Cookies",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "C\u2019es nulle spid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "It's cool cookies",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "I think there was three cookies in the video but I still like your video",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "and who ever likes thisw comment theyr so gonna be smart theyre videos dont a single scense at all you should just delete the channel like why you make stuff up that dont make scense at all aahhhhhhhh",
+            "polarity": 0.07142857142857142,
+            "subjectivity": 0.4285714285714286
+        }
+    ]
+}

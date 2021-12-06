@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:08:00",
+    "url": "https://www.youtube.com/watch?v=XOkUo3OfhWY",
+    "time_now": "2021-11-01 01:39:58",
+    "ups": "1890",
+    "downs": "46",
+    "views": "42192",
+    "top_comments": [
+        {
+            "comment": "#Teamseas!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "#Teamseas!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Plot twist: The creeper is actually a player in disguise",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "#TEAM SEAS",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hello branzy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

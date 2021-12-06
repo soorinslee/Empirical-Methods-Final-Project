@@ -1,0 +1,58 @@
+{
+    "time_posted": "2021-10-30 14:30:06",
+    "url": "https://www.youtube.com/watch?v=ijkvTYX1eAc",
+    "time_now": "2021-10-31 21:32:26",
+    "ups": "4148",
+    "downs": "23",
+    "views": "67284",
+    "top_comments": [
+        {
+            "comment": "Lucario: \"Not yet, Ash! I can do this!\"",
+            "likes": 400,
+            "number_of_replies": 7,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "srsly I don\u2019t care abt location that much just bring back greninja!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Us: come on Ash, use Gengar and Dragonite\n\nAsh: Bold of you to expect me to use Gengar and Dragonite",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I say 8.5 because lucario got beat up like a rag doll, would be nice to show ash having better strategies. It gets a boost just because of Leon is so cool I bet the next episode will be a 10!",
+            "polarity": 0.36250000000000004,
+            "subjectivity": 0.5375
+        },
+        {
+            "body": "Zack how do you get all the journey episodes I  only got 48 episodes",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "My only reason for not giving this episode a 10/10 was because Ash just felt less competent than he should be so he could be backed into a corner for that scene. It wasn't nearly as bad as some scenes in Journeys that just make him be a complete idiot for the plot to happen but it still bothered me a little. The animation also felt a bit lacking, too many static shots and there wasn't much weight behind the attacks. Hopefully next week's episode has animation on par with Ash vs Volkner. Everything else was pretty much perfect, they took the time to develop everything that needed to be developed and also explain some things that needed to be explained, like the fact that you can only use one special gimmick in each battle, so now we don't have to wonder why Ash just doesn't use two or three at the same time in every battle. And Pikachu fucking DABBED. I mean c'mon, best episode just for that.",
+            "polarity": 0.06383219954648527,
+            "subjectivity": 0.580187074829932
+        },
+        {
+            "body": "Ash x Bea \nOr\nAsh x Korrina",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sorry I said that weirdly you should probably put Lucario in S tier",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

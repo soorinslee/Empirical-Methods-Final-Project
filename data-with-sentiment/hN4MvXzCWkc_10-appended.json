@@ -1,0 +1,25 @@
+{
+    "time_posted": "2021-10-30 22:25:47",
+    "url": "https://www.youtube.com/watch?v=hN4MvXzCWkc",
+    "time_now": "2021-11-01 09:53:44",
+    "ups": "211",
+    "downs": "3",
+    "views": "23229",
+    "top_comments": [
+        {
+            "comment": "Beautiful songs",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Maravilhoso, adorei boa escolha susseso para si beijinhos \ud83c\uddf5\ud83c\uddf9\ud83d\ude4b\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

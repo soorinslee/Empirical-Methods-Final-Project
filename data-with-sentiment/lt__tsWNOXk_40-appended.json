@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-06 13:31:40",
+    "ups": "7826",
+    "downs": "489",
+    "views": "122437",
+    "top_comments": [
+        {
+            "comment": "Modern man is not the man who goes off to discover himself, his secrets, and his hidden truth; he is a man who tries to invest himself in something beneficial for the future.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.016666666666666663,
+            "subjectivity": 0.2895833333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I remember when you talked more normally instead of trying to be black",
+            "polarity": 0.16111111111111112,
+            "subjectivity": 0.5277777777777778
+        },
+        {
+            "body": "Men don\u2019t follow trends. Thats for women",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I bet everything he says points towards his affiliate links",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I agree with nothing he just listed besides Chelsea boots. But even that, to each their own \ud83e\udd37\ud83c\udffb",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

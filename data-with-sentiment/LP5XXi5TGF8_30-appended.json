@@ -1,0 +1,75 @@
+{
+    "time_posted": "2021-10-30 15:06:57",
+    "url": "https://www.youtube.com/watch?v=LP5XXi5TGF8",
+    "time_now": "2021-11-04 20:18:27",
+    "ups": "202839",
+    "downs": "262",
+    "views": "1510441",
+    "top_comments": [
+        {
+            "comment": "\uc548\ubb34 \uc9c4\uc9dc \uc798 \uc9e0\ub2e4 13\uba85\uc774\uba74 \uba87\uba85\uc740 \uc548\ubcf4\uc77c\ub9cc\ud55c\ub370 \uce7c\uad70\ubb34\uc5d0 \ub3d9\uc120\uc744 \uc798\uc9dc\uc11c \uba64\ubc84\ub4e4 \uc798 \ubcf4\uc774\ub294 \ub4ef",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "OMG Yes, finally someone does 007 dance edition. Freakin Awesome Guys \ud83d\ude1d\u2620\ufe0f\ud83d\udc4d\ud83c\udffd",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Keep going carats!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I am reminded of those days they gave us so many versions of Pretty you\ud83d\udc95",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I watch this religiously everyday",
+            "polarity": -0.2,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "MINGHAAAOOOOSOSOAOA",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\uadfc\ub370 \uc65c \uc815\ud55c\ud30c\ud2b8 \ub2e4\ub978\uba64\ubc84\uac00 \ud55c\uac74\uac00\uc694??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This era has got to be one of the funnest, genuine and exciting era that I\u2019ve ever experienced with them. Here\u2019s to more breakthroughs and amazing music with you, Seventeen!",
+            "polarity": 0.55,
+            "subjectivity": 0.72
+        },
+        {
+            "body": "0:44\u2764",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jeonghan is MVP !!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So all this time..Cheol was drawing a heart with his finger..and here i thought he was casting a spell on us or sth \ud83d\ude35\u200d\ud83d\udcab\ud83d\ude35\u200d\ud83d\udcab\ud83d\ude35\u200d\ud83d\udcab",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

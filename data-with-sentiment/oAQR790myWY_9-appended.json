@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 13:15:40",
+    "url": "https://www.youtube.com/watch?v=oAQR790myWY",
+    "time_now": "2021-11-01 05:47:05",
+    "ups": "12248",
+    "downs": "211",
+    "views": "159403",
+    "top_comments": [
+        {
+            "comment": "0:25 RESPECT",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "B\u00f6yle pro luk g\u00f6rmedim Eray (HYRA) abi doj HYRA n\u0131n i\u015fi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sen karakter katili bir goldsun",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Awesome",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "9:14 Hyra dancing to the beat",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

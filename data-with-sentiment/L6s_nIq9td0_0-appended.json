@@ -1,0 +1,147 @@
+{
+    "time_posted": "2021-10-30 12:02:50",
+    "url": "https://www.youtube.com/watch?v=L6s_nIq9td0",
+    "time_now": "2021-10-30 16:46:00",
+    "ups": "599",
+    "downs": "42",
+    "views": "13165",
+    "top_comments": [
+        {
+            "comment": "Tomorrow is my sons birthday and seeing all these costumes makes me want to wake him up and let him dress as his costume for 2 days in a row \ud83d\ude02",
+            "likes": 14,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "hahaha it\u2019s so funny how everyone\u2019s celebrating holidays when i\u2019ve never celebrated holidays or even birthdays XD. Hope you all have a blessed weekend:)",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.19375,
+            "subjectivity": 0.7875
+        },
+        {
+            "comment": "Trash.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wow they really went all out for Halloween!! Nicely done too!!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "I'm attending a Halloween party myself as Jason Voorhees or something this is so cool\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "They were \ud83e\udd21 mask 24/7 365 \nnothin new here",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Why Americans celebrate Halloween is beyond my imagination, why do we have to celebrate death and those who commit it, isn't it bad and won't it bring more death and evil to the people in the country? I think is bad celebration and they should counsel it.",
+            "polarity": -0.47499999999999987,
+            "subjectivity": 0.7083333333333333
+        },
+        {
+            "body": "I'm sick so I can't dress up for halloween",
+            "polarity": -0.7142857142857143,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "body": "That cardi b costume was on point. She did that!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm attending a Halloween party myself as Jason Voorhees or something this is so cool\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I dont celebrate the devils birthday",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You know it's not an interesting story when the comment section is empty.",
+            "polarity": 0.2,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Tomorrow is my sons birthday and seeing all these costumes makes me want to wake him up and let him dress as his costume for 2 days in a row \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kelly Ripa used to be such a doll... now she just looks weird.",
+            "polarity": -0.25,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "It\u2019s nice that celebrities is dressing up for Halloween",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The Ted Lasso costume looks like Bernie, from Weekend at Bernie\u2019s.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Gonna dress up as Johnny sins for halloween",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "May God help you All \ud83d\ude4f. Celebrating Halloween is demonic. Opening the door for evil to entice you all. \u271d\ufe0f.",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Expect a lot of Squid game costumes",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I'm only interested if they wanna know what I am wearing",
+            "polarity": 0.125,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Wow they really went all out for Halloween!! Nicely done too!!",
+            "polarity": 0.45,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "hahaha it\u2019s so funny how everyone\u2019s celebrating holidays when i\u2019ve never celebrated holidays or even birthdays XD. Hope you all have a blessed weekend:)",
+            "polarity": 0.19375,
+            "subjectivity": 0.7875
+        },
+        {
+            "body": "Trash.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I just love when the notification pops up \u201cyou have a new subscriber\u201d it makes me so happy\ud83d\udcaf",
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.5272727272727272
+        }
+    ]
+}

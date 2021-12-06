@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 10:58:46",
+    "url": "https://www.youtube.com/watch?v=5kE9PacqtUw",
+    "time_now": "2021-11-02 02:23:52",
+    "ups": "1655",
+    "downs": "343",
+    "views": "128198",
+    "top_comments": [
+        {
+            "comment": "How they don't wear masks in public and imprison us if we don't really amazes me!",
+            "likes": 3,
+            "number_of_replies": 2,
+            "polarity": 0.125,
+            "subjectivity": 0.13333333333333333
+        },
+        {
+            "comment": "How many of them are criminals for dancing with the evils and destroying the world.",
+            "likes": 2,
+            "number_of_replies": 2,
+            "polarity": 0.15,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "Putin Xinnie The Pooh they are still holiday",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Where is Taliban leader? He already beat America right.he should be here.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The people will reject your Red green communist totalitarianism.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.15
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What a joke Russia and China leaders not goin, the G20 is just a tea party, nothing can be accomplished",
+            "polarity": 0.2,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "What happen if under the earth ground the Cruel Oil is like the Car engine oil absorbing the heat from the Sun ray heat, have over digged over consumed, end result short of cruel oil under the ground absorbing the Sun Ray heat ?",
+            "polarity": -0.32,
+            "subjectivity": 0.8400000000000001
+        },
+        {
+            "body": "All those leaders in these meetings are the ones that cost the world to colapse and responsible of climate change including the global pandemic.",
+            "polarity": 0.1,
+            "subjectivity": 0.275
+        },
+        {
+            "body": "You young people have been brainwashed",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        }
+    ]
+}

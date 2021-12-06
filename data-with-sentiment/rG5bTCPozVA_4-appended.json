@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-10-31 09:12:01",
+    "ups": "331",
+    "downs": "3",
+    "views": "4593",
+    "top_comments": [
+        {
+            "comment": "Wrong video I know, but your \"how to change a toilet fill valve and flush valve\" video was a great help, so thank you \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udcaa\ud83c\udffb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0888888888888889,
+            "subjectivity": 0.5499999999999999
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Powerful job. Your attention to detail means the end result is top class.",
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Cast iron refund?! \nYour perceived expertise at a wide range of jobs might be enhanced by taking account of YouTube's habit of hiding the bottom right portion of literally every single thumbnail.",
+            "polarity": 0.03809523809523809,
+            "subjectivity": 0.3833333333333333
+        }
+    ]
+}

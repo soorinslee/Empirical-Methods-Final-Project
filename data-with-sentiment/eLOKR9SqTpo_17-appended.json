@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 14:00:14",
+    "url": "https://www.youtube.com/watch?v=eLOKR9SqTpo",
+    "time_now": "2021-11-02 14:45:17",
+    "ups": "12070",
+    "downs": "1484",
+    "views": "1271053",
+    "top_comments": [
+        {
+            "comment": "Wow fantastic",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "\ud83d\ude01\ud83d\ude01\ud83d\ude06\ud83d\ude06\ud83d\ude05\ud83d\ude05",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Haha",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "When the mom says I\n Falling  I was like what",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "zg=. \u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "who miss the old 123 go if you miss it just tape in old 123 go",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "123GO",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1:56 \u0427\u0423\u0412\u0421\u0422\u0412\u0418\u0422\u0415\u041b\u042c, \u0422\u042b \u041d\u0415\u041e\u0411\u0425\u041e\u0414\u0418\u041c\u041e \u0421\u0414\u0415\u041b\u0410\u0422\u042c \u041f\u0420\u0415\u0414\u0423\u041f\u0420\u0415\u0416\u0414\u0415\u041d\u0418\u0415. \u041a\u041b\u0415\u0419 CUZ \u042f\u0414\u041e\u0412\u0421\u041a\u0418\u0419\ud83d\ude11 \u041d\u041e \u041f\u0420\u0418\u042f\u0422\u041d\u041e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

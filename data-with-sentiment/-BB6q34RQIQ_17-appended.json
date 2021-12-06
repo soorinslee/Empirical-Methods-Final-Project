@@ -1,0 +1,49 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-02 14:45:09",
+    "ups": "559",
+    "downs": "133",
+    "views": "53735",
+    "top_comments": [
+        {
+            "comment": "It\u2019s going to get worse it\u2019s not going to get any better",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lowest is Florida",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u6551\u6551\u6211\u4eec\u5bb6\u5c0f\u5b69\uff0c\u6211\u5bb6\u5c0f\u5b69\u6b63\u906d\u53d7\u7535\u78c1\u6b66\u5668\u6253\u51fb\uff0c\u8bb0\u5fc6\u529b\u975e\u5e38\u5dee\uff0c\u5e38\u5e38\u5fd8\u8bb0\u521a\u521a\u53d1\u751f\u7684\u4e8b\u60c5\u3002",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Cases are rising in my State, (Michigan).",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "the masks really work \ud83d\ude02",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "what is the acceptable level of infections and deaths to stop wearing masks?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Dang it, I wonder what the next political football will be. Now that everyone is polarized, the next stage in polarization can go forward.",
+            "polarity": 0.0,
+            "subjectivity": 0.03333333333333333
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 07:52:22",
+    "url": "https://www.youtube.com/watch?v=n7Q5KyPXGGU",
+    "time_now": "2021-11-05 08:40:10",
+    "ups": "83498",
+    "downs": "150",
+    "views": "569186",
+    "top_comments": [
+        {
+            "comment": "\uc5d4\uc2dc\ud2f0 \ub178\ub798 \ud55c\ubc88\ub3c4 \uc548\ub4e4\uc5b4\ubcf4\uace0 \ubba4\ube44\ub3c4 \uc548\ubcf4\uace0 \uac4d \uc5d4\uc2dc\ud2f0 \uc601\uc0c1\uc790\uccb4\ub97c \ucca8\ubcf4\ub294\ub370 \ud638\uae30\uc2ec\uc5d0 \ubcf4\uac8c \ub41c \uc774 \uc601\uc0c1\uc73c\ub85c \ub178\ub798\uac00 \ub418\uac8c \uc88b\ub2e4\ub294\uac78 \ucca8 \uc54c\uc558\ub124 \ucda4\ub3c4 \uc815\ub9d0 \uc798 \ucd94\uace0 \uba4b\uc788\ub2e4\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uc774\ub9c8\ud06c \ubc40\ud30c\uc774\uc5b4 \uac19\uc544\u3160\u3160\u3160\u3160\u3160 \uc560\ub4e4 \ub2e4 \u3139\u3147 \ubc40\ud30c\uc774\uc5b4\uc784... \uc774\ubc88 \ud65c\ub3d9 \ucee8\uc149 \ucde8\uc800 \uc81c\ub300\ub85c\uc57c",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Everyone is EXTRA good looking in this performance",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "comment": "\uc6b0\ub9ac\uce60 \uc9c4\uc9dc \uc0ac\ub791\ud574 \ub610 \uc0ac\ub791\ud574...",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uc9c4\ucc0c \uc74c\uc911\uc758\uc0c1 \uac1c\uc774\uc05c\ub4ef \u3139\u3147 \uadc0\uc871\uac19\uc774 \uc785\ud600\ub188 \uadc0\uc871\uc758 \uc0ac\ubcf5\uc73c\ub08c\n\ud574\ucc2c\uc774 \ub108\ubb34 \uc798\uc5b4\uc6b8\ub9ac\uace0 \uc815\uc7ac\ud604 \u3139\u3147 \uadc0\uc871\uc778\uc904..\ub098\uc758 \uc655\uc790\ub2d8\ud574\ub77c \uc9c4\uc9dc",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Pogi ni Johnny huhu \u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Everything is perfect! \ud83d\udc9a\ud83d\udd25",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I am trying to avoid staning NCT because they have too many members but clearly I Stan NCT. Just do not ask me who is who because I do not know. \ud83e\udd23\ud83e\udd23 I am going to pretend for another couple of weeks that I do not secretly Stan them. Lol",
+            "polarity": 0.4,
+            "subjectivity": 0.5708333333333333
+        },
+        {
+            "body": "Taeil is definitely my second favorite vocalist in Kpop\u2026 forever. This just solidified it.",
+            "polarity": 0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "\uc720\ud0c0 \ub118 \uba4b\uc788\uace0 \uc798\ud55c\ub2e4!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-02 02:23:12",
+    "ups": "13122",
+    "downs": "274",
+    "views": "142662",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 721,
+            "number_of_replies": 14,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Violet has out done herself on this cover!!! I absolutely love it!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "3:29 failed opportunity for Chucky to play the drum fill",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "Masterpiece",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Not sure if it's the the synth, vocals, or the visuals... Goosebumps every time.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.8888888888888888
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "MORE PLEASE <3",
+            "polarity": 0.75,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Sounds pretty good. Never heard of you before but hopefully it works out for you.",
+            "polarity": 0.475,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I'm sure it was also Dave's pleasure to die in your video :)",
+            "polarity": 0.5,
+            "subjectivity": 0.9444444444444444
+        },
+        {
+            "body": "What the goonny goo goo is this \ud83d\ude02\ud83d\ude02\ud83d\ude02 \u2026",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That was dark, awesome and goose bumpy good!",
+            "polarity": 0.5750000000000001,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Such a beautiful song.... wasted for a Halloween performance by an awesome singer...",
+            "polarity": 0.4125,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "I don't think there's a single British person on earth who hears in the air, and doesn't immediately recall the Cadbury gorilla advert",
+            "polarity": -0.03571428571428571,
+            "subjectivity": 0.10714285714285714
+        },
+        {
+            "body": "I always loved the original and like Nonpoint's cover.  Yours brings a great feel, like this should have been on the original Crow or Sons of Anarchy soundtracks!  Thank you!!",
+            "polarity": 0.65185546875,
+            "subjectivity": 0.7625
+        },
+        {
+            "body": "That's simply wonderful, great version with an italian duo (like me\ud83d\ude0a), thanks Violet for have choosen to collabs with Melodicka Bro, a big kiss from Italy \ud83d\ude18\u2764\ud83d\udda4",
+            "polarity": 0.4,
+            "subjectivity": 0.41
+        }
+    ]
+}

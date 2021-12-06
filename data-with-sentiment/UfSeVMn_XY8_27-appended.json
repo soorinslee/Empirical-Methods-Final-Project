@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-11-04 07:58:04",
+    "ups": "6063",
+    "downs": "464",
+    "views": "396661",
+    "top_comments": [
+        {
+            "comment": "IT is a good day it's me violet \u263a\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "i love it but the dog and the baby give me nightmares",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude21\ud83d\ude30\ud83d\ude21\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude30\ud83d\ude21\ud83d\ude21\ud83d\ude21\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude21\ud83d\ude21\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30\ud83d\ude30",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

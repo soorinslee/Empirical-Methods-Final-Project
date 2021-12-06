@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:59:20",
+    "url": "https://www.youtube.com/watch?v=zHZnQn6D-2E",
+    "time_now": "2021-11-05 04:33:40",
+    "ups": "11820",
+    "downs": "191",
+    "views": "163174",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "this was sooooo good! Well done! Studio fix videos are my fav on your channel",
+            "polarity": 1.0,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "This makeover was so amazing Alexandra!!! Plants dividing the space, the lamp, all of it just amazing!! Forever amazed by your eye for design and function!\u2728",
+            "polarity": 0.96875,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "More James \ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "So so good!",
+            "polarity": 0.875,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "This is such a beautiful makeover! But where is the kitchen? And how does the kitchen go with this makeover?",
+            "polarity": 0.5,
+            "subjectivity": 0.75
+        }
+    ]
+}

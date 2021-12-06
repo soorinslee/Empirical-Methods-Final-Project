@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-02 14:44:46",
+    "ups": "2945",
+    "downs": "73",
+    "views": "58431",
+    "top_comments": [
+        {
+            "comment": "I still love it how the best boss with the best music, aside from Bowser himself, can be defeated so easily like that.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7333333333333334,
+            "subjectivity": 0.5083333333333333
+        },
+        {
+            "comment": "You always cover stuff everyone else has covered.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Found out about #6 looking for a way to bypass level 6-7. My seven year old self somehow made it past a gauntlet of chomps, bomb platforms, and bandits, and yet failed to enter a pipe that was clearly the way out at the end. Kids are stupid, except when they\u2019re not.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.27,
+            "subjectivity": 0.42666666666666664
+        },
+        {
+            "comment": "Fun fact: that Naval Piranha easter egg is referenced in Yoshi's Woolly World. In that game you can still throw an egg (or a yarn ball I guess) at it and Kamek will react the same way. But he'll still make you fight him.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05000000000000001,
+            "subjectivity": 0.23125
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I would try the Yoshi's Island trick on the frog boss because it works so well in the piranha plant boss but to no avail",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So cool still seeing these videos being made, this was the first ever gaming related YouTube channel I ever watched, and fairly certain the very first channel I subbed to lol. Very first vid was the mario galaxy easter egg vid. Amazing to see you're still going. More power to ya!",
+            "polarity": 0.3876984126984127,
+            "subjectivity": 0.5468253968253969
+        },
+        {
+            "body": "Meow",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

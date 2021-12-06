@@ -1,0 +1,119 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-10-30 16:46:15",
+    "ups": "1032",
+    "downs": "8",
+    "views": "7631",
+    "top_comments": [
+        {
+            "comment": "Please do a cook book",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\ude0b\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I\u2019ve never heard of this before",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please do a cook book",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I\u2019ve never heard of these but I love pecans and cookies so I\u2019ll definitely make them!! I really want to add cardamom though, how much should I add?",
+            "polarity": 0.22499999999999998,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Wow \ud83c\udf3c\ud83c\udf3c\ud83c\udf3c\ud83e\udd70\ud83e\udd70\ud83e\udd70\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Por favor pongan el traductor en espa\u00f1ol \ud83d\ude4f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Will it work with almonds?  Do you have to do anything different?",
+            "polarity": 0.0,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "\ud83d\ude0d\ud83d\ude0d I haven't had Pecan Sandies in so long and I've never made them myself. I've got to try them this fall!!",
+            "polarity": -0.078125,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Looks delicious, I have tried several of your cookie recipes and their so tasty. \ud83d\ude0d",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "These look amazing. Pecans Sandies were my moms favorite cookie.  What kitchen scale do you use.  I was thinking of adding one to my kitchen supplies!",
+            "polarity": 0.6125,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "My favorite store bought cookie! Eat with hot black tea.....drooling. I bet homemade is much nicer. Thank you for this recipe.",
+            "polarity": 0.22708333333333336,
+            "subjectivity": 0.6208333333333333
+        },
+        {
+            "body": "My neighbor is getting a tin of these at Christmas.  Thanks!",
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "It's ok John, you live in the northeast now so you can say PeCAN instead of PeCON. Besides doesnt PeCAN Sandie just sound better \ud83d\ude00",
+            "polarity": 0.3840909090909091,
+            "subjectivity": 0.475
+        },
+        {
+            "body": "Ooh, gorgeous! I would definitely add caraway seeds and sorry I'd have to omit the pecans as my husband has a nut allergy.",
+            "polarity": 0.125,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "Mega Virgo \ud83e\udd23 Those look delicious. Love pecans.",
+            "polarity": 0.75,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "It's like ghoripa",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Que delicia!!!!\ud83d\udc4d\ud83c\udffb\ud83d\udc4f\ud83c\udffb\ud83d\udc4f\ud83c\udffb\u2665\ufe0f\ud83c\udf39",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi I am writing form Turkey. I love your recipes. But I guess I don\u2019t have enough molds to make these recips. Maybe I need to earn money and have a private kitchen \u263a\ufe0f\ud83d\ude4f\ud83c\udffb\ud83d\ude0d",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.4916666666666667
+        },
+        {
+            "body": "WOW ! that looks so easy to make and if they were for me and my family I wouldn't care what shape they had lol. Thank you for the video.",
+            "polarity": 0.4527777777777778,
+            "subjectivity": 0.8444444444444444
+        },
+        {
+            "body": "I can't wait to make these. Pecan Sandies are favorite cookies. Thank you!",
+            "polarity": 0.625,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-06 09:24:39",
+    "ups": "7795",
+    "downs": "481",
+    "views": "121645",
+    "top_comments": [
+        {
+            "comment": "Modern man is not the man who goes off to discover himself, his secrets, and his hidden truth; he is a man who tries to invest himself in something beneficial for the future.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.016666666666666663,
+            "subjectivity": 0.2895833333333333
+        },
+        {
+            "comment": "Let me see if I understand this, you want us to buy stuff from H&M(the most accessible store in the world), wear items that \u201cdesigners are pumping out like crazy\u201d in order to stand out? Stand out by wearing what everyone else is wearing. Flawless",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.31875,
+            "subjectivity": 0.69375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Who cares if some clothing is played out or out of style, what just because its out of style you cant wear it anymore?? Like me personally i like that old school 2000s look and i don't care what people think",
+            "polarity": 0.05,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Thanks for the advice, I will not wear what you say I shouldn't. Thankyou \ud83d\ude06",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

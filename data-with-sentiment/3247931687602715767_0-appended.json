@@ -1,0 +1,45 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj4vsv/how_can_people_like_brawlhalla/",
+    "time_posted": "2021-10-30 12:22:08",
+    "time_now": "2021-10-30 16:47:10",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinqhef",
+            "body": "Hahahaha git gud half the stuff u said is straight up lied bro.",
+            "polarity": 0.07777777777777779,
+            "subjectivity": 0.35555555555555557
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hinqhef",
+            "body": "Hahahaha git gud half the stuff u said is straight up lied bro.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.07777777777777779,
+            "subjectivity": 0.35555555555555557
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinqhef",
+            "body": "Hahahaha git gud half the stuff u said is straight up lied bro.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.07777777777777779,
+            "subjectivity": 0.35555555555555557
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinqhef",
+            "body": "Hahahaha git gud half the stuff u said is straight up lied bro.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.07777777777777779,
+            "subjectivity": 0.35555555555555557
+        }
+    ]
+}

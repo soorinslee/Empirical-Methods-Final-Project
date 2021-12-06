@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-10-31 05:05:09",
+    "ups": "3157",
+    "downs": "225",
+    "views": "168505",
+    "top_comments": [
+        {
+            "comment": "happy halloween for tomorrow \ud83e\udd58",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I am watching this on heloweeen! :D",
+            "likes": 2,
+            "number_of_replies": 4,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\u042f   \u043b\u0435\u0441\u044f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Pennywise and you have your mediation OK I just know you\u2019re the best YouTube or ever thanks for teaching me how to make all the stuff for my drawers where they look so cool by",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5125,
+            "subjectivity": 0.4125
+        },
+        {
+            "comment": "do jumanji",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I like the ideas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lalilu voice is back and happy Halloween lalilu,",
+            "polarity": 0.4,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Lalilu is back yeah",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow what a beautiful video \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\u2764\u2764\u2764\u2764",
+            "polarity": 0.475,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Wtf thats the worst dam shipbi ever seennin my life so first off penywise is a male and second off pennywise is like 2000000 and Georgie is probably  about  8",
+            "polarity": -0.25,
+            "subjectivity": 0.4866666666666667
+        },
+        {
+            "body": "Woooooooooooooow",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "do jumanji",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Creepy is ugly",
+            "polarity": -0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "No just no he\u2019s a little kid you dummy",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        }
+    ]
+}

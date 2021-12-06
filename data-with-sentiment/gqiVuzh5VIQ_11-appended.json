@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:00:33",
+    "url": "https://www.youtube.com/watch?v=gqiVuzh5VIQ",
+    "time_now": "2021-11-01 14:01:19",
+    "ups": "10091",
+    "downs": "161",
+    "views": "189680",
+    "top_comments": [
+        {
+            "comment": "What should I react to next...?",
+            "likes": 169,
+            "number_of_replies": 60,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "5:49 My eyes\u2026",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Lingard was my favourite player and now I love him Evan more because he is a meme",
+            "polarity": 0.5,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "I was actually getting ready to screen record Bford doing a TikTok dance \ud83d\ude02",
+            "polarity": 0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "YOUr mocking united shut up Fam you support fc Cincinnati one of the worst teams in the mls",
+            "polarity": -1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "BFord: LaCrocs",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

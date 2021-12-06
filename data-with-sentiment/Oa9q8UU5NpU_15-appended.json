@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-02 06:30:35",
+    "ups": "2841",
+    "downs": "67",
+    "views": "54470",
+    "top_comments": [
+        {
+            "comment": "DLSS\n\nMakes everything look like Blurry crap",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "That bit at the beginning where he's like \"Where are the Cheetos?\" \nSome people don't know that skit was written by Dan Harmon. They just kinda gloss over the credits shown in the full video of it / game it's from.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.025000000000000022,
+            "subjectivity": 0.47500000000000003
+        },
+        {
+            "comment": "Fun fact: that Naval Piranha easter egg is referenced in Yoshi's Woolly World. In that game you can still throw an egg (or a yarn ball I guess) at it and Kamek will react the same way. But he'll still make you fight him.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05000000000000001,
+            "subjectivity": 0.23125
+        },
+        {
+            "comment": "I still love it how the best boss with the best music, aside from Bowser himself, can be defeated so easily like that.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7333333333333334,
+            "subjectivity": 0.5083333333333333
+        },
+        {
+            "comment": "Found out about #6 looking for a way to bypass level 6-7. My seven year old self somehow made it past a gauntlet of chomps, bomb platforms, and bandits, and yet failed to enter a pipe that was clearly the way out at the end. Kids are stupid, except when they\u2019re not.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.27,
+            "subjectivity": 0.42666666666666664
+        }
+    ],
+    "comments_since_last_sample": []
+}

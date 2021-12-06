@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:28:29",
+    "url": "https://www.youtube.com/watch?v=GK0J6xd6XNc",
+    "time_now": "2021-10-31 13:17:54",
+    "ups": "2600",
+    "downs": "170",
+    "views": "118927",
+    "top_comments": [
+        {
+            "comment": "Spotify Playlist \u27a4 https://sptfy.com/gangstercity",
+            "likes": 24,
+            "number_of_replies": 11,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nice",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "POUSO ALTO-SP\ud83c\udde7\ud83c\uddf7\ud83d\udee3\ufe0f\ud83d\ude98\ud83c\udfb6\ud83d\udd7a\ud83c\udffb",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u2728\u2728\u2728\u2728",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "678\ud83c\udfcd\ufe0f\ud83d\udc4c\ud83e\udde0\ud83d\udc42\ud83e\uddb6\ud83d\udc85\ud83d\udc11\ud83e\udd9e1122MONDEVxxxxx",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This song is Very  ???",
+            "polarity": 0.2,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Rassemblement se suit ,\u00e9lection de jadis scanner ,nouveau atelier a mettre en sc\u00e8ne.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Film's??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

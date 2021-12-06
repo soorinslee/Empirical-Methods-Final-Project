@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:00:24",
+    "url": "https://www.youtube.com/watch?v=pTIz3Mu59fE",
+    "time_now": "2021-11-02 10:38:10",
+    "ups": "690",
+    "downs": "29",
+    "views": "35992",
+    "top_comments": [
+        {
+            "comment": "Amanda you are as real as the first cup of coffee.  Don\u2019t we all have bad days but how many have the guts to face the camera.  As they say, You Go Girl. From a Big 52 Fan\ud83d\ude4f\ud83c\udffd",
+            "likes": 19,
+            "number_of_replies": 1,
+            "polarity": 0.05000000000000003,
+            "subjectivity": 0.38
+        },
+        {
+            "comment": "Hi Amanda, I hope that your day got better. The cake looks really good! Also, I loved your daughter's comment at the end. \ud83d\udc96",
+            "likes": 13,
+            "number_of_replies": 1,
+            "polarity": 0.6916666666666668,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "comment": "This is refreshing. It is exactly how I cook. Leaning in to read the recipe",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.375,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "Everything about you, Amanda, is real and you are breath of fresh air.  How lucky you are to have Miss Addison goofing around with you in the kitchen - I miss those days with my daughters.  The cake looks amazing.",
+            "likes": 7,
+            "number_of_replies": 1,
+            "polarity": 0.35833333333333334,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "Everything about this was comforting!",
+            "likes": 4,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

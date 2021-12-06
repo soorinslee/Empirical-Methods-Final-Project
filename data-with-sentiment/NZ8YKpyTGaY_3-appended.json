@@ -1,0 +1,142 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-10-31 05:05:05",
+    "ups": "4518",
+    "downs": "342",
+    "views": "204877",
+    "top_comments": [
+        {
+            "comment": "squid game is everywhere and also squid game is life",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "4 times",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy Halloween from a Indian girl \ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "HELP WHAT IS THIS LMAO \ud83d\udc80",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "why.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Happy",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Hou je bek de Starbucks",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Happy Halloween to the Troom Troom family \ud83c\udf83 ! \ud83d\udc7b",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I only saw one cookie if the two cookies in the beginning counted then it would be 3 cookies",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "This is so cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "I love your channel so much I saw the cookie for times",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "2",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "5",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4 times",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Squid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "3",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I Love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Happy Halloween from a Indian girl \ud83d\ude2d",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "HELP WHAT IS THIS LMAO \ud83d\udc80",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "squid game is everywhere and also squid game is life",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

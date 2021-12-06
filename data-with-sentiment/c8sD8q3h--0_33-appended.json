@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 08:30:09",
+    "url": "https://www.youtube.com/watch?v=c8sD8q3h--0",
+    "time_now": "2021-11-05 08:40:09",
+    "ups": "12551",
+    "downs": "1457",
+    "views": "399566",
+    "top_comments": [
+        {
+            "comment": "Cheap Editing. \nSasti Model. \nGareebo ka Tony kakkar.",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Kisi ne dekha Gana to 1 min ke baad chalu hua jab tak to bas comment hi pade \ud83e\udd27\ud83e\udd27\ud83e\udd23\ud83e\udd23",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Sab ko singer banna hai \ud83d\ude02\ud83d\ude02",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Mast video song hai",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "https://youtu.be/8dQkxq9QHFY",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

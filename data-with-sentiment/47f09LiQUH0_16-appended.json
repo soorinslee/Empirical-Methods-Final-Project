@@ -1,0 +1,16 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-11-02 10:37:49",
+    "ups": "7679",
+    "downs": "335",
+    "views": "164857",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Weird",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

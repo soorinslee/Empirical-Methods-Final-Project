@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-11-01 05:46:54",
+    "ups": "2692",
+    "downs": "112",
+    "views": "257952",
+    "top_comments": [
+        {
+            "comment": "When Koolaid is famous and everyone is drinking it: 0:48",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "MrBeast is gonna Pay to Win.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Its even if it has Jimmy face on it\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Edit fake fake fake",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "easyyyyyyyyyy",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "MrBeast is gonna Pay to Win.",
+            "polarity": 0.8,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Bruh u even needed to turn ppl lips blue",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Part 3 please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "ohh dream was come",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1:40 8s it dream",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1:36 dream meet mr beast",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

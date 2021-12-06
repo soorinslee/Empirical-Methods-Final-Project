@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 13:30:05",
+    "url": "https://www.youtube.com/watch?v=LkoBOAzkrgE",
+    "time_now": "2021-11-01 09:53:58",
+    "ups": "11957",
+    "downs": "135",
+    "views": "70285",
+    "top_comments": [
+        {
+            "comment": "song name- xenogenesis \nsong maker- thefatrat",
+            "likes": 174,
+            "number_of_replies": 9,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ennaku 9 diamonds spin Laiyea bundle kadachiduchi\ud83d\ude0d\ud83d\ude0bSemma lucky",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "U might be the next diamond King lol\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Bro I got that bundle for 9 diamond",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ONLY 4K TO GO BRO.......\n\n\n\n\n500K REX FAMILY \ud83e\udd19\u2764\ufe0f\ud83d\ude07",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "U might be the next diamond King lol\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bro I got that bundle for 9 diamond",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What if I say I got bundle in free spin\ud83e\udd23",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I also got in second last spin",
+            "polarity": 0.0,
+            "subjectivity": 0.03333333333333333
+        },
+        {
+            "body": "mother swer i got fist skin in only 9 diamonds",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-01 09:53:32",
+    "ups": "9632",
+    "downs": "8",
+    "views": "64584",
+    "top_comments": [
+        {
+            "comment": "Jackson Wang can make everything sold out",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "By somehow I just become is big fan, he is sooooo talented in soooo many ways",
+            "likes": 5,
+            "number_of_replies": 3,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Come on jackson \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Ohhh yeeeh jackson\ud83e\udd29\ud83e\udd29\ud83e\udd29\u2764\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "If you want a *PERFORMANCE* , the one to call is Jackson Wang",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "SHEEEEEEEEEEEEEEEEEESH",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "As always Jackson stage will always be \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Should have a better resolution version for this....",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "To watch him dance again.. Wow, it bring all the memories back again.. I remembered the first time I fell in love with him, it's when I saw him dance.. but then I fell in love with his voice too.. And now, everything about him, all the positive energy that he always brings..",
+            "polarity": 0.2628787878787879,
+            "subjectivity": 0.5131313131313131
+        }
+    ]
+}

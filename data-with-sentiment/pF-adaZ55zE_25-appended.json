@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 12:56:54",
+    "url": "https://www.youtube.com/watch?v=pF-adaZ55zE",
+    "time_now": "2021-11-03 23:43:52",
+    "ups": "3919",
+    "downs": "45",
+    "views": "40096",
+    "top_comments": [
+        {
+            "comment": "I saw that cover girl clean make up on another video and looks like they changed the cap color?  I loved the note a smell! I haven\u2019t seen the foundation in any store near me because I want to revisit the foundation! That was my foundation back in mid 80\u2019s and early 90\u2019s! I am so interested in the Milan. I\u2019ve been really loving their eye liner and eyebrow micro pencil!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.31145833333333334,
+            "subjectivity": 0.45624999999999993
+        },
+        {
+            "comment": "That Cover Girl smell takes me back to middle school in the mid 90s!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Loved the final look!! \ud83d\ude0d\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Emily, I just wanted you to know that I watch all your videos and I also read all your descriptions and I still love your profound and random thought.  Just wanted you to know that I read and appreciate your thoughts! Lots of love from England x\ud83d\ude18",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.11458333333333334,
+            "subjectivity": 0.675
+        },
+        {
+            "comment": "Dear Emily, I enjoyed the Charlotte Tilbury so much and know this one will be just as great. Good morning Violetta hope you have a great day, a fellow makeup junkie too.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That\u2019s a pretty lip color!",
+            "polarity": 0.3125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I just purchased the Covergirl Clean Matte and I absolutely LOVE it! I used to use it years ago, pre-Youtube. It is a beautiful light coverage that lasts all day! I don't even set it with powder! Don't sleep on Covergirl Clean makeup!",
+            "polarity": 0.5850000000000001,
+            "subjectivity": 0.74
+        }
+    ]
+}

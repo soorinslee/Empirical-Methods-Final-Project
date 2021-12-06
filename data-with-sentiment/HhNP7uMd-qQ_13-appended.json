@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-31 01:55:02",
+    "url": "https://www.youtube.com/watch?v=HhNP7uMd-qQ",
+    "time_now": "2021-11-01 22:15:45",
+    "ups": "257",
+    "downs": "14",
+    "views": "26588",
+    "top_comments": [
+        {
+            "comment": "\uc9c4\uc9dc\ub8e8 5\ubd84\uc548\uc5d0 \uc7a4\uc5b4\uc694\u314b\u314b",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "1\ubd84\ub3c4 \uc548\ub400\ub294\ub370 \uc878\ub9bc.",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud734~   \ub9c8\uc74c\uc740   \ud3b8\uc548\ud574\uc9c0\uace0   \ub530\ub4ef\ud55c   \ub290\ub08c\uc774\ub4e4\uc5b4\uc694.~\u2661",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uac10\uc0ac\ud569\ub2c8\ub2e4",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ub4ef\uae30 \ub108\ubb34\uc88b\uc544\uc694",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

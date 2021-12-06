@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-05 04:32:57",
+    "ups": "28359",
+    "downs": "641",
+    "views": "507904",
+    "top_comments": [
+        {
+            "comment": "The last NCS10 Release",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.06666666666666667
+        },
+        {
+            "comment": "*Hello gringa guys, this is Lucas and I'm loving the ncs songs. greetings from Brazil \ud83c\udde7\ud83c\uddf7*",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "0:17 This beat is scarier than horror movie's sounds\ud83d\ude08\ud83d\ude19",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Sounds like a doom soundtrack",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nice\ud83d\ude0a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This has got to be my new favorite.",
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.7272727272727273
+        },
+        {
+            "body": "Thanks \ud83d\udc4d bro love you song",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Love you sonng bhai",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

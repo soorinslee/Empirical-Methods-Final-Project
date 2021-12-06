@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-10-31 21:33:01",
+    "ups": "3918",
+    "downs": "208",
+    "views": "160257",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udc99\ud83d\udc99\ud83d\udc99",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83c\udf4f\ud83c\udf4e\ud83d\udc99\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udca0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Awesome bro",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\u0416\u0410\u041b\u041a\u041e \u0425\u041e\u041c\u042f\u041a\u041e\u0412 \u042d\u0422\u041e \u0418\u0417\u0414\u0415\u0412\u0410\u0422\u0415\u041b\u042c\u0421\u0422\u0412\u041e!!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Joga Scarfall",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "They're soooo cute",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\u0e40\u0e25\u0e35\u0e49\u0e22\u0e07\u0e22\u0e32\u0e01\u0e44\u0e2b\u0e21\u0e04\u0e23\u0e31\u0e1a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Your hamster is very smart and this video is so funny and interesting as if the hamsters are scientists",
+            "polarity": 0.3428571428571428,
+            "subjectivity": 0.7785714285714286
+        },
+        {
+            "body": "ANIMAL ABUSE 0:42",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

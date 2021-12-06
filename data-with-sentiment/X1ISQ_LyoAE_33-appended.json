@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-05 08:40:52",
+    "ups": "1836",
+    "downs": "38",
+    "views": "23230",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I found out last winter, in the windy crisp cold dry air of Las Vegas, that the brilliant, effervescent, zesty citrus of Dior Eau Sauvage EDT is fantastic. It cuts right through that chilled air.",
+            "polarity": 0.16700680272108845,
+            "subjectivity": 0.645578231292517
+        },
+        {
+            "body": "I would love to enter the giveaway, my brother rocks Perry Ellis 360 red and I absolutely love it, but I have never tried ADG. Thank you Ash for the opportunity.",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.39999999999999997
+        }
+    ]
+}

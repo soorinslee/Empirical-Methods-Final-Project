@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-03 11:20:54",
+    "ups": "9063",
+    "downs": "35",
+    "views": "106949",
+    "top_comments": [
+        {
+            "comment": "The terraforming contrasts very nicely with the Octagon. I didn\u2019t think of snow until you mentioned it. It\u2019s at it\u2019s awkward stage that all art goes through. The coral will bring it to life \u2026or death really.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.12666666666666668,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "comment": "That intro song never gets old",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It's not snow - It's the Ashes of people who didn't payed in the barrel.\n\n#PayInTheBarrel",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"They're refilling, AUTOMAGICALLY\"!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just by the name alone and the first minute or so. I knew exactly what this vid was all about. \ud83e\udd23\nShould have put a #PayInTheBarrel sign on the Octagon signs.",
+            "polarity": 0.25,
+            "subjectivity": 0.29166666666666663
+        },
+        {
+            "body": "From what I can tell it's not the signs the other hermits aren't seeing, it's the actual barrels ;) With signs plastered all over them they're kind of well hidden.",
+            "polarity": 0.11166666666666666,
+            "subjectivity": 0.5416666666666667
+        },
+        {
+            "body": "Wouldn't it be cool to have a flying obstacle course around octagon island, but instead of passing through circular rings you'd pass through octagonal ones. Doc could even make redstone that wirelessly checks if players passed through each ring and automatically records the fastest time(s) in something like a leaderboard.",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        }
+    ]
+}

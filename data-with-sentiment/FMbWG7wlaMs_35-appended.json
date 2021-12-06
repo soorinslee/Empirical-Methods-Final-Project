@@ -1,0 +1,63 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-05 16:55:03",
+    "ups": "40534",
+    "downs": "474",
+    "views": "869860",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1267,
+            "number_of_replies": 108,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "I wish that was my house you are the best baker you\u2019re here or beautiful I wish I Was you you\u2019re so pretty like beautiful",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7375,
+            "subjectivity": 0.825
+        },
+        {
+            "comment": "You\u2019re like a house mom",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The only thing that gets me is the doors... the so solid and dark. Feels cold n scary almoat",
+            "polarity": -0.25,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Literally my dream house",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The misery of rich people, his room is my whole apartment, I laugh too no hate she deserves it !.",
+            "polarity": 0.34375,
+            "subjectivity": 0.5375
+        },
+        {
+            "body": "Is this a thing to have all of your shoes twice? \ud83d\ude02 In the dressing room there are two rows of the exact shoes right behind another. I might be wrong but it doesn't look like different pair of shoes. I'm confused \ud83d\ude02\ud83e\udd29",
+            "polarity": -0.1273809523809524,
+            "subjectivity": 0.6142857142857143
+        },
+        {
+            "body": "I'm obsessed with your kitchen bedroom \ud83e\udd29\ud83e\udd29",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "damn girl, that is a nice house. you deserve it for all the hard work that you do :)",
+            "polarity": 0.26944444444444443,
+            "subjectivity": 0.8472222222222222
+        }
+    ]
+}

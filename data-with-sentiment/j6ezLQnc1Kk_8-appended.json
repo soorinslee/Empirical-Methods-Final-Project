@@ -1,0 +1,76 @@
+{
+    "time_posted": "2021-10-30 11:30:13",
+    "url": "https://www.youtube.com/watch?v=j6ezLQnc1Kk",
+    "time_now": "2021-11-01 01:40:14",
+    "ups": "2085",
+    "downs": "56",
+    "views": "98802",
+    "top_comments": [
+        {
+            "comment": "You know what I was in a holding cell once and I would have loved one if those dorms in comparison, get out of your ivory tower Hayes!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.875,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "Horrifying nightmare building. Hysterical.  I would not accept the building as a gift   Sometimes it's cheaper and wiser to say no thank you and take a pass.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.95,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Would rather watch reruns of All in the Family.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You know what I was in a holding cell once and I would have loved one if those dorms in comparison, get out of your ivory tower Hayes!",
+            "polarity": 0.875,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Kinzinger is a good guy, a loyal American, and he\u2019s sane.  Scary to think who might be taking his place.  We needed some good people on the GOP side, but after 2022, we may not have any.\n\nWe had the chance to turn things around by SEVERELY punishing the Capitol rioters.  But we have NOT done so.  And the DOJ is serving the enemy.",
+            "polarity": 0.24666666666666665,
+            "subjectivity": 0.6066666666666667
+        },
+        {
+            "body": "Did ALL the republicans agree to cut the corporate & riches Taxes. Or was there a enough , just to pass for them..????",
+            "polarity": 0.0,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "The US is like an asylum.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "He's the old man in Squid Games, build a penitentiary to house students. Next they (the students) will have to comply to his deranged dorm rules. \ud83d\ude14",
+            "polarity": 0.05,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Diogenes is taking up his lantern \ud83d\udd02 again.  Looking for ONE honest man in trump's Repuglycon party and is his arm getting tired. \ud83d\ude29",
+            "polarity": 0.09999999999999998,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Every capital police officer should sue faux news for libel. They only understand money",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Those are a whole lot nicer than some at UT Austin",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I have been getting problem to get MSNBC and  CNN news out by the social media with trump is no problem president Joe Biden government should not over look anything social media",
+            "polarity": 0.03333333333333333,
+            "subjectivity": 0.06666666666666667
+        }
+    ]
+}

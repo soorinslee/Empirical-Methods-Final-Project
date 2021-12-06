@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-02 10:37:31",
+    "ups": "38180",
+    "downs": "266",
+    "views": "544564",
+    "top_comments": [
+        {
+            "comment": "If you're using azalea bushes on the floor maybe try melons?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "AND MORE ISKALLIUM!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.5
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I am really glad you are back making regular videos. They are the best imo and i enjoy them a lot",
+            "polarity": 0.38,
+            "subjectivity": 0.37538461538461537
+        },
+        {
+            "body": "\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Would it still feel cozy if you know that underneath of it were some diorite?",
+            "polarity": -0.19999999999999998,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Many people complain about mobspawns only at light 0. I know this because my minecraft server got pants when I implemented it.",
+            "polarity": 0.3,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "I qould hire gem. Her trees are great!",
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I love how VPN ads are always about things VPNs dont really do, but never about things that VPNs actually do.",
+            "polarity": 0.2333333333333333,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "turning this biome into a bihome",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "you missed \"turning this biome in to a bi-home\" over \"turning this biome into a base\" huh?",
+            "polarity": -0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

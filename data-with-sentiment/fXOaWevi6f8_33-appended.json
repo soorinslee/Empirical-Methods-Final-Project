@@ -1,0 +1,95 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-05 08:40:30",
+    "ups": "18422",
+    "downs": "354",
+    "views": "1157503",
+    "top_comments": [
+        {
+            "comment": "we Indians throw cardamom into everything from tea to rice without realising how expensive it is \ud83e\udd23\ud83e\udd23\ud83e\udd23 I myself didn\u2019t know that it was so expensive",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "*great video, sharp images, well-composed footage*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3375,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "Pretty much Depends on where you located at, I mean we get it for free in every shop if we ask for it. Doesn\u2019t cost you money like literally pay nothing.! If you want to do business with this\nE-mail me I can arrange it for free. Give me 1/2 Dollars for 1KG.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.20750000000000002,
+            "subjectivity": 0.6975
+        },
+        {
+            "comment": "Any malayalis?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "*great video, sharp images, well-composed footage*",
+            "polarity": 0.3375,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "\u0d07\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d3f...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lot of Tamils in Idukki but why they don't join TN as kanyakumari district?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Some merchants recently  colouring the cardamom green  to get higher profit .",
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.35000000000000003
+        },
+        {
+            "body": "Elaichii.....",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Saffron/kasar finally a worthy opponent",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Not that expensive in India.",
+            "polarity": -0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "The spice which brought colonial powers to India . Pepper and cardamom",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pretty much Depends on where you located at, I mean we get it for free in every shop if we ask for it. Doesn\u2019t cost you money like literally pay nothing.! If you want to do business with this\nE-mail me I can arrange it for free. Give me 1/2 Dollars for 1KG.",
+            "polarity": 0.20750000000000002,
+            "subjectivity": 0.6975
+        },
+        {
+            "body": "\u0d07\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d3f \u0d15\u0d3e\u0d7c \u0d09\u0d23\u0d4d\u0d1f\u0d4b\u2764\ufe0f?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "not my spice of choice but I can appreciate the process",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

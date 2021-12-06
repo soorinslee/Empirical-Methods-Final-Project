@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-03 19:36:32",
+    "ups": "6056",
+    "downs": "164",
+    "views": "158962",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I avoid as much plastic as possible. Those single use plastics are totally the worst thing ever!",
+            "polarity": -0.1742857142857143,
+            "subjectivity": 0.6328571428571428
+        },
+        {
+            "body": "Many people are not aware that toddlers today  on average will consume 3xs the sugar toddlers did in the 90s! Processed foods are  not good for anyone let alone children.",
+            "polarity": -0.040624999999999994,
+            "subjectivity": 0.4375
+        },
+        {
+            "body": "Laird get pump\u2019d is already sold out for all buying options. \ud83d\ude29",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "We have Rao's at Costco in NC. Planning on going this weekend, so I hope it's on sale!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

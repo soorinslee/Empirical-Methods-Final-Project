@@ -1,0 +1,69 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-02 10:37:19",
+    "ups": "13390",
+    "downs": "279",
+    "views": "148275",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 736,
+            "number_of_replies": 14,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "what the fuck?",
+            "polarity": -0.4,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Such a great kisser \ud83d\ude0d",
+            "polarity": 0.4,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "10 out of 10inches !",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is awsome !!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "O.K the check tat I have seen in other media and thought looked a little silly but seeing it in the flesh so to speak hmm not so silly.\n\nAn interesting take.",
+            "polarity": -0.1625,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Fabulous!",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Good job",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I'd like to hear her cover don't talk to strangers or any cover of Dio.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Phil Collins wrote the original song due to the emotions following his first divorce. This song is something like \"an alternative way for dealing with post-divorce depression\". Suddenly, it's much spookier.",
+            "polarity": 0.13999999999999999,
+            "subjectivity": 0.3516666666666667
+        },
+        {
+            "body": "Your voice is not really to my taste but I find I keep watching your vids bc you pick pretty interesting songs and sometimes it all really clicks for me and think that was great",
+            "polarity": 0.33,
+            "subjectivity": 0.53
+        }
+    ]
+}

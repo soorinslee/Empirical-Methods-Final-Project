@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-06 13:31:13",
+    "ups": "4013",
+    "downs": "114",
+    "views": "96210",
+    "top_comments": [
+        {
+            "comment": "\"super secret Easter Eggs\"\n\n\"..you can find these obvious, blatant The Shining references peppered throughout Layers of Fear 2 by playing normally\"",
+            "likes": 7,
+            "number_of_replies": 2,
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.6033333333333333
+        },
+        {
+            "comment": "Chipsturs! Long time no chat! Your old buddy Aaron from RetroLiberty sending you love! <3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.415625,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "I could watch this channel all day. In fact I'm going to ty james",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

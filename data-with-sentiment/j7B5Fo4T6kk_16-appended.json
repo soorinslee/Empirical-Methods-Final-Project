@@ -1,0 +1,72 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-02 10:37:28",
+    "ups": "10771",
+    "downs": "367",
+    "views": "330144",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 42,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Jasmine di is a best actor",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "comment": "My favorite  Queen Jasmine Queen bhoomika Queen",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Rishi u are superb \ud83d\udc4c\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Kya he yarr ese kyun vdo bante ho.....\nMujhe rona ata hain.....\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow it's very heart touching song ..\nI am listen again and again \u2764\ufe0f\u2764\ufe0f\ud83e\udd70\ud83e\udd70",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Upload lyrics",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tamara nambar dia",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mu tamara bahuta bada fine",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Best forever \ud83d\udc95\ud83d\udc9e\ud83e\udd70\ud83d\ude18\ud83d\udc98\ud83d\udc95\ud83d\udc95\ud83d\udc9e\ud83d\udc9e\ud83d\udc9e",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ]
+}

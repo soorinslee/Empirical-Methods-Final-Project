@@ -1,0 +1,96 @@
+{
+    "time_posted": "2021-10-30 19:54:21",
+    "url": "https://www.youtube.com/watch?v=wyuzWVBaP0U",
+    "time_now": "2021-11-01 09:53:58",
+    "ups": "150207",
+    "downs": "2150",
+    "views": "1160403",
+    "top_comments": [
+        {
+            "comment": "Hi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "gyan bhai DJ AIOKda do lakshit 4214y",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "lakshit 4214y",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "gyan bhai DJ AIOKda do lakshit 4214y",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "thik",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Muga bhi dj alok chaia",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hii",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "39",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "60",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bhai Me Abbbulha46 I'd",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mere pass Nahin Hai",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Mere pass",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Gyan bhaiya hello Gyan bhaiya Dekhe mere ko number de diya Apna mere ko call kijiye aur ya na mere ko gift kar dijiye donon likhe screen Mein Giri Hui Nahin To Nahin Munde De Diye mere ko Suna main Akela rahata hun",
+            "polarity": -0.36666666666666664,
+            "subjectivity": 0.4666666666666667
+        },
+        {
+            "body": "Hello Gyan bhaiya hello Bhaiya mere ko donon Lekar screen chahie place main Garib ho mere ko donon Ke Liye Koi screen gift kar do Yahi Mein request karta hun phone number dene",
+            "polarity": -0.2777777777777778,
+            "subjectivity": 0.4444444444444444
+        },
+        {
+            "body": "meramas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

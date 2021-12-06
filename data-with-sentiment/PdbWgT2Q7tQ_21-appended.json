@@ -1,0 +1,59 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-03 07:13:39",
+    "ups": "18015",
+    "downs": "171",
+    "views": "225792",
+    "top_comments": [
+        {
+            "comment": "The low notes in this <3, y'all each sounded amazing. This gave me Disney vibes, especially at 1:47 - I love how y'all made this your own",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.45,
+            "subjectivity": 0.8000000000000002
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "this cover is so good that it got my heart bleeding in tears :\")",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "why does this sound so autotuned?",
+            "polarity": 0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "why aren\u2019t we talking about christina!!!\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I forgot how obsessed I am with your music",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Your voices are really good for this song! I really like when you guys cover Billie Eilish songs, especially this one! Too bad Kath can't be here.",
+            "polarity": 0.09375000000000003,
+            "subjectivity": 0.6166666666666667
+        },
+        {
+            "body": "So so good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Go Amy!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i need to talk about their hair and outfits--- look soooo damn good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

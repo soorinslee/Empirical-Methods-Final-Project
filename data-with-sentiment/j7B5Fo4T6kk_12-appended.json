@@ -1,0 +1,102 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-01 18:08:26",
+    "ups": "10266",
+    "downs": "323",
+    "views": "305706",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 38,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Superb video...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Asima mam to pura   sabse  achhi singer hen  haman sagar  sar",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Love you Risi bro and best hero \ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "Jasmin  mam  aau Risi  sar   good look",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Rishi u are superb \ud83d\udc4c\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Kya he yarr ese kyun vdo bante ho.....\nMujhe rona ata hain.....\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Jasmine di is a best actor",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Nice song\ud83d\ude19\ud83d\ude19",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83d\ude23\ud83d\ude23\ud83d\ude23",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "My favorite  Queen Jasmine Queen bhoomika Queen",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Maya serlia  Actor  Jasmine Queen  only  one  Odisha Queen",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "My Jasmine Queen",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Amazing song\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Super Song \nBetefull songs \nlike",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ]
+}

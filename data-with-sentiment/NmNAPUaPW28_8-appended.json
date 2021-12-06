@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-11-01 01:40:26",
+    "ups": "2854",
+    "downs": "16",
+    "views": "34804",
+    "top_comments": [
+        {
+            "comment": "Oh waw..so amazing\nThank you my dear sweet and smiley John for this great recipe.\nYou always make my day and I am grateful I found your channel through the pandemic because I gett happy when I watch you cook and hear your nice comforting voice\ud83c\udf3a\ud83c\udf3c\u2763\ud83c\udf41",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.63,
+            "subjectivity": 0.86
+        },
+        {
+            "comment": "I love your videos, I'm a chef and I love making cooking videos!\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89\ud83c\udf89",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "These are my favorite cookies and nobody puts out good recipes, thank u\ud83d\ude2d\u2764\ufe0f",
+            "polarity": 0.6,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "These are my favorite cookies ever!! Thank You!",
+            "polarity": 0.9765625,
+            "subjectivity": 1.0
+        }
+    ]
+}

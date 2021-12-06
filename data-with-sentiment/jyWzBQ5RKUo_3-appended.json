@@ -1,0 +1,128 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=jyWzBQ5RKUo",
+    "time_now": "2021-10-31 05:04:39",
+    "ups": "7276",
+    "downs": "28",
+    "views": "87019",
+    "top_comments": [
+        {
+            "comment": "Follow me on Twitch If you want to catch some classic Skyblock Modpack streams!\nhttps://www.twitch.tv/xisuma",
+            "likes": 123,
+            "number_of_replies": 6,
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "#Teamseas",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Didnt X clear out a mineshaft with a bunch of mob spawners to turn into a string farm?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.10000000000000002,
+            "subjectivity": 0.3833333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Glad to see you\u2019re feeling better now!",
+            "polarity": 0.5625,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "My guy forgot about waterlogged trapdoors for the spider farm lmao",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Could have used waterlogged trapdoors. That's my go-to for these situations since the aquatic update. Also can take advantage of pack spawning by placing 5 strings from the top spawning platform all the way around. Gnembon explains it in his enderman farm and iskall uses it in his guardian farm.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Can anyone tell me the mod",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Which vanilla tweaks pack is the spawning spheres one?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#Teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Didnt X clear out a mineshaft with a bunch of mob spawners to turn into a string farm?",
+            "polarity": 0.10000000000000002,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "body": "Actually you have a little less spawning spaces... spider require 2x2 space, so it's 4 times less...",
+            "polarity": -0.13020833333333331,
+            "subjectivity": 0.18333333333333332
+        },
+        {
+            "body": "*Do we tell him that he could've used trapdoors or...?*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hey if you extend the roof on the spider farm I think you will increase rates!\ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "In the words of Edward Nygma, \"That is grand-scale cheating, Batman!\"",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "please say acacia right",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "There is nothing wrong just a suggiestion. You could also use waterligged trapdoors next time its just a bit cheaper",
+            "polarity": -0.25,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "#payinthebarrel at octagon",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Fun fact. Founded is a proper word, it just means that you have established something (usually done in the context of a town, nation or organisation)",
+            "polarity": 0.016666666666666663,
+            "subjectivity": 0.18333333333333335
+        },
+        {
+            "body": "\u0160\u00f6\u00f8\u00f1...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Cmiiw but wasnt there a time where the hermits cleared out a mineshaft and then left the spawners behind. Wouldn't that be a little bit better?\n\nEdit: nvm",
+            "polarity": -0.021875000000000006,
+            "subjectivity": 0.425
+        },
+        {
+            "body": "Somebody needs to tell him its pronounced ah-Kay-shee-ah",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Waterlogged trapdoors...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

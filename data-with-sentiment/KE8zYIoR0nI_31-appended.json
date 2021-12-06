@@ -1,0 +1,80 @@
+{
+    "time_posted": "2021-10-30 14:20:29",
+    "url": "https://www.youtube.com/watch?v=KE8zYIoR0nI",
+    "time_now": "2021-11-05 00:26:01",
+    "ups": "225796",
+    "downs": "2479",
+    "views": "4335071",
+    "top_comments": [
+        {
+            "comment": "Subscribe for 136,500,000 skittles :)",
+            "likes": 14416,
+            "number_of_replies": 490,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "No one: \nNot a single soul:\nRalph: *violently builds entire skittle factory in less than a second*",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.18619047619047618,
+            "subjectivity": 0.3811904761904762
+        },
+        {
+            "comment": "I like how every character haves an inventory that suits him",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The night I came home!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Everyone loves Becker <3",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "2:46 hacker necked his dimonds then got in his space",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Sus",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You have been Reuploaded this over and over again...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "anyone not ignoring the fact it was 4 am?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "bruh, it is november 4th, and i got pinged about this video 6 hours ago, the hell",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The night I came home!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

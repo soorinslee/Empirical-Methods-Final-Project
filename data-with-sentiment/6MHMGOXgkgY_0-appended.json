@@ -1,0 +1,132 @@
+{
+    "time_posted": "2021-10-30 14:01:58",
+    "url": "https://www.youtube.com/watch?v=6MHMGOXgkgY",
+    "time_now": "2021-10-30 16:45:43",
+    "ups": "5526",
+    "downs": "96",
+    "views": "51303",
+    "top_comments": [
+        {
+            "comment": "This is just like Spider-Man far from home",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "DAY 77 OF TELLING JOSH TO PLAY RUST AND TRAIL MAKERS",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "E",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is so unique",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.375,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "This is like spider man far from home.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "hm intreasting",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You post your videos slower than jelly and Crania",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "DAY 77 OF TELLING JOSH TO PLAY RUST AND TRAIL MAKERS",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "E",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Slogo do u know roblox is shut down",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "Their are so many bots and self promoters in Josh's comments these days smh.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Defeat elemental dragons make a video about that",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is just like Spider-Man far from home",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Can you do speed run this and hunters but in DC superhero mode",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is like spider man far from home.",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "This is so unique",
+            "polarity": 0.375,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "hi people's\ud83d\ude01",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kraner scared from siren head",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love this video",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "1hourgang",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "is it just me or is the video shorter than i thought it would",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-10-31 00:57:41",
+    "ups": "930",
+    "downs": "39",
+    "views": "62972",
+    "top_comments": [
+        {
+            "comment": "This is amazing:) <3",
+            "likes": 8,
+            "number_of_replies": 1,
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "comment": "lol did u have some kind of editing software to make everything thats red blue? because people have blue lips and blue spots on their face. either way, this is amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "cool",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "lol did u have some kind of editing software to make everything thats red blue? because people have blue lips and blue spots on their face. either way, this is amazing",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "what is the program who you use to change the colors? ",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bruh the guards look blue and workers and leader",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "Epik Gamer Moment",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "That so Funny :) lol love ur vids keep the content Going",
+            "polarity": 0.5125,
+            "subjectivity": 0.8250000000000001
+        },
+        {
+            "body": "NO NO NOOOOOO ITS IN ENGLISH",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hello",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Oh skit",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

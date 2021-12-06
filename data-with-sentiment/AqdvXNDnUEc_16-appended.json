@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-02 10:37:15",
+    "ups": "36205",
+    "downs": "448",
+    "views": "668698",
+    "top_comments": [
+        {
+            "comment": "I took a shot of Yak 4 this 1",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This song fire af",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "snare too fkn loud wtf",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": -0.2,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "damn jackboy kmmfsl",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "niggas really be jockin durks style. ( flow , beats , edits, melody etc ) shit is comedy lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.5666666666666667
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "https://youtu.be/Kd7p8mXd2HM",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Where the beginning from?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "3:15",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

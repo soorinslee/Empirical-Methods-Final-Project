@@ -1,0 +1,64 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-02 10:37:39",
+    "ups": "100258",
+    "downs": "2156",
+    "views": "2513385",
+    "top_comments": [
+        {
+            "comment": "I love your videos",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I wanna join in",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Late!",
+            "polarity": -0.375,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "did you know the day you made this it was the day my mom mom dog died",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "7:30 he said Simon says they LOST",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I gave like because Simon said. ( I am Simon)",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "first it was a triangle",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Hey Preston I'm a big fan can I get a shout-out \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "I subed",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Preston November 5 is my birthday",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

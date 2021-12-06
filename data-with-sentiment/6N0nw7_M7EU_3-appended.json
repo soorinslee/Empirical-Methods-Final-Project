@@ -1,0 +1,106 @@
+{
+    "time_posted": "2021-10-30 14:00:03",
+    "url": "https://www.youtube.com/watch?v=6N0nw7_M7EU",
+    "time_now": "2021-10-31 05:05:06",
+    "ups": "3223",
+    "downs": "38",
+    "views": "58048",
+    "top_comments": [
+        {
+            "comment": "I love how you say drink responsibly before you just put a straw in the whole thing. That is epic.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.24999999999999997,
+            "subjectivity": 0.48749999999999993
+        },
+        {
+            "comment": "90% of the liquid he pours is water.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sounds like a long night of drinking n throwing up the next day",
+            "polarity": -0.025,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Let's go Brandon drink?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be sure to rest your voice Sky! Sounds like you could use a few days off. Stay safe, and be well this Halloween!",
+            "polarity": 0.35000000000000003,
+            "subjectivity": 0.4962962962962963
+        },
+        {
+            "body": "Tipsy Bartender I had a slamming party for my 55 birthday my friend had made your Sweet Jesus Lord they killing me and I have been trying to find the ingredients to make for my 63 birthday \nPlease tell me what goes in it  ?",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "That's almost identical to the way I make my Jungle Juice I just don't use gin I hate gin",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "\u043b\u0443\u0447\u0448\u0435 \u0431\u044b \u043c\u044b \u044d\u0442\u043e\u0442 \u043a\u043e\u043a\u0442\u0435\u0439\u043b\u044c \u0441\u044b\u0440\u044b\u043c \u0441\u044a\u0435\u043b\u0438\u00a9 >_<",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Then a little bit of rum \ud83d\ude02\ud83e\udd23empty\u2019s the whole bottle",
+            "polarity": 0.0062500000000000056,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "I love how you say drink responsibly before you just put a straw in the whole thing. That is epic.",
+            "polarity": 0.24999999999999997,
+            "subjectivity": 0.48749999999999993
+        },
+        {
+            "body": "This drink looks like death",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Boy you sick sick lol",
+            "polarity": -0.20952380952380953,
+            "subjectivity": 0.8047619047619047
+        },
+        {
+            "body": "90% of the liquid he pours is water.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bro you sick?",
+            "polarity": -0.7142857142857143,
+            "subjectivity": 0.8571428571428571
+        },
+        {
+            "body": "smells more like 7 bucks a bottle lol",
+            "polarity": 0.65,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Dude, what's with your voice? Aren't you ill? Hope everything  alright. Stay tips... healthy!",
+            "polarity": 0.0625,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "He sound like he already had a few",
+            "polarity": 0.1,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Got the rona?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

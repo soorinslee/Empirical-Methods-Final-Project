@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-03 11:21:22",
+    "ups": "605",
+    "downs": "154",
+    "views": "58512",
+    "top_comments": [
+        {
+            "comment": "They are dropping because people aren\u2019t watching the news as much.",
+            "likes": 4,
+            "number_of_replies": 1,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Simple answer. People are running out of paid time off",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.35714285714285715
+        },
+        {
+            "comment": "Use magic mineral solution in your humidifier (don't drink it) as prophylaxis or recovery aid.\nAlso order an antiparasite cleanse if you can't get Ivermectin and use as a recovery aid.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "PLEASE SHUT UP ABOUT COVID-19!!!!!!!!!!!!!!! I AM SO DAMB TIRED OF HEARING ABOUT IT!!!!!!!!!! STOP LIVING IN FEAR YOU PEOPLE!!!!!!!!!!!!!!!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -1.0,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Let\u2019s not forget all the morons who\u2019ve died from not being vaccinated",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Covid|9 is accumulative and permanently stay at human body's T-Cell THen cause it malfunction to replicate, destroy and spread even you have fully recovered from infection or fully vaccinated. \nCovid|9 has the structure of HIV whereby vaccine try to deceive your immunity system to create T-Cell perish together with the virus just like overclocking immunity system temporarily but unable to deceive the variant.",
+            "polarity": -0.2333333333333333,
+            "subjectivity": 0.19999999999999998
+        }
+    ]
+}

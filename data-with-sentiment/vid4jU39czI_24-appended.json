@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 14:16:44",
+    "url": "https://www.youtube.com/watch?v=vid4jU39czI",
+    "time_now": "2021-11-03 19:35:55",
+    "ups": "16005",
+    "downs": "250",
+    "views": "383362",
+    "top_comments": [
+        {
+            "comment": "Happy Halloween\u2026.",
+            "likes": 1732,
+            "number_of_replies": 136,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "omigot",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "What is this a video for adhd ridden children?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I dont comment because whatever I usually want to say it's probably already down there. But the editor did such a good job I spat on my screen I laughed so hard. Please give that guy a raise or in the very least have them edit every video, seriously keep it up!",
+            "polarity": -0.012986111111111115,
+            "subjectivity": 0.44590277777777776
+        },
+        {
+            "body": "That cliff hanger of a ending though......... man had me looking like PurpleCliffe by the end, chips and all xD",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Guess who has ptsd on Registee",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mikey's \"ha ha it is I\" gives me life",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

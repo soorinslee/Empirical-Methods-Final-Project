@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-04 03:50:10",
+    "ups": "3710",
+    "downs": "41",
+    "views": "100253",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 116,
+            "number_of_replies": 3,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Gurl, who hurt you? damn so good",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Watch Eric Carmen too. The original is better but this singer is beautiful",
+            "polarity": 0.5750000000000001,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Ang galing talaga ninyong lahat... pag naumpisahan ko manuod ng youtube channel nyo di kona mapigilan kahit paulit ulit kong panuodin/pakinggan ang galing lang talaga. Nakaka gigi vibes talaga! Kudos to gigi and the band!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83d\udc96\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39 Today this will reach more than 100k views .... road to million views . . #\u261d",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Ito tlaga gusto q manalo s tawag ng tanghalan galing ng boses nya",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

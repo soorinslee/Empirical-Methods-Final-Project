@@ -1,0 +1,50 @@
+{
+    "time_posted": "2021-10-30 16:00:05",
+    "url": "https://www.youtube.com/watch?v=6dOqeFBvvZs",
+    "time_now": "2021-11-06 01:09:45",
+    "ups": "41319",
+    "downs": "294",
+    "views": "608396",
+    "top_comments": [
+        {
+            "comment": "Am I the only one that hears \u201cunderside\u201d every time Iskall says: \u201cAndesite\u201d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Hello",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Use sea lanterns in the elevator",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "FINLAAAAAAND TERVE PERKELE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Next episode can you try and get netherite? Pls",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "put lantanas in a 1 by1 hole and with moss carpets above it",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        }
+    ]
+}

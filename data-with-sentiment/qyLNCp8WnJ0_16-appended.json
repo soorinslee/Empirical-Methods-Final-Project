@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-02 10:38:08",
+    "ups": "5409",
+    "downs": "141",
+    "views": "127570",
+    "top_comments": [
+        {
+            "comment": "In a very recent video promoting Whole Foods sale prices, you specifically recommended a product, \"Four Sigmatic, Defend, Mushroom Blend Mix.\" On the can there's an explicit warning how this product can expose you to chemicals including lead, which is known in CA to cause birth defects or other reproductive harm. You express concerns about natural and artificial flavors. What's the deal here?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.08499999999999999,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "My wife and I are going to the new Costco tomorrow that they just built a week ago. So excited. We have never been to 1 before!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3025568181818182,
+            "subjectivity": 0.6022727272727273
+        },
+        {
+            "comment": "Thanks!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Truvani protein mix? Has Prop 65 warning. Other protein mixes don't. What think of prop 65 warning? Why on truvani and not on others w same ingrdnts?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.0625,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "Stop promoting your sponsored crud From other companies when your in Costco\u2026.that is so ghetto! Your are notorious for doing this.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I lost 30 lbs started in February. The Dr. Says I'm doin great my A1c 6.7 it was 8.\nMy weight was 220 now 190.",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Thanks!",
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        }
+    ]
+}

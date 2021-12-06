@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 16:00:11",
+    "url": "https://www.youtube.com/watch?v=yEfSY_sGR74",
+    "time_now": "2021-11-01 14:01:00",
+    "ups": "4899",
+    "downs": "54",
+    "views": "52540",
+    "top_comments": [
+        {
+            "comment": "So excited about this one!!! Love u guys so much <3",
+            "likes": 279,
+            "number_of_replies": 39,
+            "polarity": 0.60810546875,
+            "subjectivity": 0.6375
+        },
+        {
+            "comment": "One of the Best male version so far. \ud83d\udc9b \ud83d\udc9b \ud83d\udc9b",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment": "love youuuuuuuuuuuuuuuu!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Wow\ud83e\udd7amy fav \ud83d\ude16\ud83d\udd25\ud83d\udd25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I- \nWow!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "wow he's perfect!!\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "This a hard record to cover.. Good job man!",
+            "polarity": 0.29166666666666663,
+            "subjectivity": 0.5708333333333333
+        },
+        {
+            "body": "Love it \ud83d\ude0c just beautiful \ud83d\ude3b",
+            "polarity": 0.675,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "love youuuuuuuuuuuuuuuu!",
+            "polarity": 0.625,
+            "subjectivity": 0.6
+        }
+    ]
+}

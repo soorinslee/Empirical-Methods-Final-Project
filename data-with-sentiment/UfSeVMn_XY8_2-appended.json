@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=UfSeVMn_XY8",
+    "time_now": "2021-10-31 00:58:30",
+    "ups": "2766",
+    "downs": "183",
+    "views": "140703",
+    "top_comments": [
+        {
+            "comment": "Make a part 2 with Billy and his friend",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I am watching this on heloweeen! :D",
+            "likes": 2,
+            "number_of_replies": 4,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "happy halloween for tomorrow \ud83e\udd58",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "\u042f   \u043b\u0435\u0441\u044f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love the crib",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Yay \ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83e\udd21",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83e\uded4\ud83e\uded4\ud83e\udd6a\ud83c\udf55\ud83c\udf55\ud83e\udd68\ud83c\udf60\ud83c\udf60\ud83c\udf60\ud83c\udf51\ud83c\udf52\ud83e\udd66\ud83c\udf52\ud83e\udd5d\ud83e\udd5d\ud83e\udd6c\ud83e\udd55\ud83e\udd55\ud83e\udd56\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55\ud83e\udd55",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Try to Buy and then Try Reading the Christianity Book that will Change your life Forever Called: \"Holy Bible\" (you Don't have to read all of the Scripture Reading in the Bible but at least Plenty in The Old and then Later on The New Testament) but the Best Part about this Book it Takes Away Confusions such as: \"Why do Bad things Happen to Me?\",\"Why am i So Terrified about Protecting my life even though it's just a Choice we need to Make a Decision on?\",and More Questions that many People like the Scientists and Professors does Talk About, But Unfortunately (Since 1968 Not just in America but around the World) Doesn't Explain it in Biblical Evidences at all many Years After Charles Darwin's Evolution Theory Became More Active than not,but Don't be Afraid about that Because Reading the Bible will make your Life Better not making your Life Difficult",
+            "polarity": 0.06268939393939396,
+            "subjectivity": 0.5325757575757576
+        },
+        {
+            "body": "SO GOOD",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Pennywise and you have your mediation OK I just know you\u2019re the best YouTube or ever thanks for teaching me how to make all the stuff for my drawers where they look so cool by",
+            "polarity": 0.5125,
+            "subjectivity": 0.4125
+        }
+    ]
+}

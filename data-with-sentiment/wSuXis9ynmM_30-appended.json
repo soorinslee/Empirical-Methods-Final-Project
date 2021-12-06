@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 12:29:47",
+    "url": "https://www.youtube.com/watch?v=wSuXis9ynmM",
+    "time_now": "2021-11-04 20:19:09",
+    "ups": "58264",
+    "downs": "3137",
+    "views": "2241621",
+    "top_comments": [
+        {
+            "comment": "Modi modi modi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Modiji \u0123reat",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Digital pm..Moddi baba ..godi Media",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Odd in gathering",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Real is hugging each other but weapons wants build. \ud83d\ude08\ud83d\ude05\ud83d\ude05\ud83d\ude05\ud83e\udd23\ud83e\udd23\ud83d\ude02",
+            "polarity": 0.09166666666666667,
+            "subjectivity": 0.25833333333333336
+        },
+        {
+            "body": "Modiji \u0123reat",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "USA PM vs India PM \ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u092b\u094b\u091f\u094b\u091c\u0940\u0935\u0940",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If not Modi who else \u2026 he is one and only one",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 13:55:07",
+    "url": "https://www.youtube.com/watch?v=31jPW-sPmlE",
+    "time_now": "2021-11-01 01:40:09",
+    "ups": "7072",
+    "downs": "228",
+    "views": "345502",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udc9e\ud83d\udc90\ud83c\udf3f\ud83c\uddfb\ud83c\udde6\u271d\ufe0f\ud83c\uddfb\ud83c\udde6\ud83c\udf3f\ud83d\udc90\ud83d\udc9eDIEU\ud83d\udc9e\ud83d\udc90 PROT\u00c8GEZ VOTRE UNIQUE \ud83c\udf3f\ud83d\udc90ET AUTHENTIQUE\ud83d\udc9e\ud83d\udc90 VICAIRE \ud83d\udc9e\ud83e\udd81\ud83d\udc9eSUR LA TERRE \ud83d\udc90\ud83c\uddfb\ud83c\udde6LE SOUVERAIN PONTIFE\u26d1\ud83c\udf3f\ud83e\uddd6\u200d\u2642\ufe0f\ud83d\udc07\ud83c\udf3f\u26d1 R\u00c9GNANT\ud83d\udc90\ud83c\uddfb\ud83c\udde6 SA SAINTET\u00c9\ud83d\udc9e\ud83e\udd70\ud83d\udc9e LE PAPE FRAN\u00c7OIS\ud83d\udc9e\ud83e\udd70\ud83d\udc9e !!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.732421875,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Dil se acha lagta hai year jab apne pm ko west mai itni respect milti hai...\ud83d\ude0a\u2764\ufe0f\ud83c\uddee\ud83c\uddf3\u2764\ufe0f...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "A historic moment when Hinduism encounters Catholicism at highest ranks.\nMutual respect and tolerance will bring two very different worlds together in harmony with enormous potential for future collaborations and enrichment.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.561
+        },
+        {
+            "comment": "How many Muslims are converted to Christianity also at very fast rate in India.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.38,
+            "subjectivity": 0.64
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Special",
+            "polarity": 0.35714285714285715,
+            "subjectivity": 0.5714285714285714
+        },
+        {
+            "body": "He is very happy because ....it is baby's day out.....after corona restrictions.\nUlakam chuttom Valibhan",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "But when return....ask his RSS counterparts not to ill-treatment the Christians....and open his mouth and speak for Christians.",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "A historic moment when Hinduism encounters Catholicism at highest ranks.\nMutual respect and tolerance will bring two very different worlds together in harmony with enormous potential for future collaborations and enrichment.",
+            "polarity": 0.0,
+            "subjectivity": 0.561
+        }
+    ]
+}

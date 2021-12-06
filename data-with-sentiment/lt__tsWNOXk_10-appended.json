@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-01 09:54:18",
+    "ups": "5900",
+    "downs": "304",
+    "views": "84355",
+    "top_comments": [
+        {
+            "comment": "0:33 - Bomber jackets\n1:28 - Chelsea Boots \n2:20 - Ripped jeans \n3:39 - Flannels\n5:19 - Skin tight joggers",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.17857142857142858,
+            "subjectivity": 0.2857142857142857
+        },
+        {
+            "comment": "Joggers have been played out since 2017.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "My advice to my fellow brothers: never follow trends just to fit in",
+            "polarity": 0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Nah man. Bomber jackets will always be a classic and flannel shirts too. How about you just say alternatives to flannels and bomber jackets.  Crazy stuff going on here. Good video though",
+            "polarity": 0.08888888888888886,
+            "subjectivity": 0.5555555555555556
+        },
+        {
+            "body": "the problem with this is that I live in New Zealand so everyone is either super casual or just wears serfer and scaiter clothes so most of this isn't plaid out. I have only seen one person ever wear a chelsy boot this year.",
+            "polarity": 0.10101010101010098,
+            "subjectivity": 0.6646464646464646
+        }
+    ]
+}

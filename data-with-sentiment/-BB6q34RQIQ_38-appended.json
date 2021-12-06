@@ -1,0 +1,50 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-06 05:17:28",
+    "ups": "674",
+    "downs": "186",
+    "views": "65384",
+    "top_comments": [
+        {
+            "comment": "Because people are getting it then gaining real natural immunity.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "Nobody caresss.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "What's that smell Ho yes its \ud83d\udc02\ud83d\udca9",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Yeah we have herd immunity. It's over. Forget about it.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Dude Florida\u2019s cases are down with any restrictions\u2026",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "Nobody caresss.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

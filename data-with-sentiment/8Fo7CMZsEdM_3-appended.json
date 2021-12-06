@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 14:30:11",
+    "url": "https://www.youtube.com/watch?v=8Fo7CMZsEdM",
+    "time_now": "2021-10-31 05:04:36",
+    "ups": "1619",
+    "downs": "71",
+    "views": "18866",
+    "top_comments": [
+        {
+            "comment": "When is part 3 squid game?",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "So awesome",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "1:43 THE DEMON FACE IS BACK",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83d\udda4\ud83d\udda4\ud83d\udda4",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My Best Frends Brawl Stars\ud83d\udc93",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "DEEPEST SLEEP",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lunar Piper origin?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

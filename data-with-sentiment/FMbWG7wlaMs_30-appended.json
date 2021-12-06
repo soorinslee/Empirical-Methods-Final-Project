@@ -1,0 +1,113 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=FMbWG7wlaMs",
+    "time_now": "2021-11-04 20:19:18",
+    "ups": "39034",
+    "downs": "453",
+    "views": "831942",
+    "top_comments": [
+        {
+            "comment": "A HUGE thanks to Drew and Linda Scott for helping design the interior of my new home! Go follow them on YouTube! https://www.youtube.com/athome. \n\nWould you like to see any other videos of the house? I can show whats in my fridge, pantry, Mike's Office, and more! Let me know ",
+            "likes": 1215,
+            "number_of_replies": 105,
+            "polarity": 0.2626136363636363,
+            "subjectivity": 0.48590909090909096
+        },
+        {
+            "comment": "This looks so much like rebecca zamolo house",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Your dress is adorable, Ro!\n\nDoes anyone know where I can get/order it?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.625,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It\u2019s BEAUTIFUL I LOVE IT",
+            "polarity": 0.675,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Bella the barista",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This looks so much like rebecca zamolo house",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Name her Joe or jolene!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Or just bear ? I think bear is better",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Your dress is adorable, Ro!\n\nDoes anyone know where I can get/order it?",
+            "polarity": 0.625,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "How abt Barry?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2018\u2018Where I bake my videos\u2019\u2019 \nRo you\u2019re so cute \ud83e\udd70",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I remember watching her Mario cake video ages ago, it\u2019s so amazing how far she\u2019s come! :)",
+            "polarity": 0.4083333333333334,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "body": "Your house is absolutely beautiful.. I love the way its decorated!\ud83d\udc4d\u2764",
+            "polarity": 0.675,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "What\u2019s the name of the sectional and is it also from Wayfare?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Such a beautiful house!! This is legit my new house goals!!\ud83c\udf1f\u2764\ufe0f Dunno about everyone else but I fell in love with those pocket windows\ud83d\ude0d",
+            "polarity": 0.40909090909090906,
+            "subjectivity": 0.6386363636363637
+        },
+        {
+            "body": "I think the name Gina would be great for your little barista. Or Bijou which means jewel in French.",
+            "polarity": 0.2041666666666667,
+            "subjectivity": 0.4166666666666667
+        },
+        {
+            "body": "Hey Ro\ud83d\udc9b I Love your house and all of your videos but can you make a new video of trying kitchen gadgets whit Justine Pleassssss\ud83d\udc9b",
+            "polarity": 0.3181818181818182,
+            "subjectivity": 0.5272727272727272
+        },
+        {
+            "body": "no i will not except this go back now yk for the memories",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I was cackling when Drew basically looks down to the floor to look at Ro while she talks \ud83d\ude02\ud83d\udc96",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        }
+    ]
+}

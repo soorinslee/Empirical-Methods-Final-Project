@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 11:00:18",
+    "url": "https://www.youtube.com/watch?v=mN8vCV8oDvc",
+    "time_now": "2021-10-31 05:04:27",
+    "ups": "859",
+    "downs": "8",
+    "views": "12861",
+    "top_comments": [
+        {
+            "comment": "This walking gets me walking over to my bass & dusting it off. Thanks Scott \ud83d\udc4d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.024999999999999994,
+            "subjectivity": 0.35
+        },
+        {
+            "comment": "Fun lesson!  Seems to be some typos in the tab - roots and third page. (Still has you playing 5th). Sorry to be that guy. Just hope you can fix it for future people.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.03125,
+            "subjectivity": 0.33125
+        },
+        {
+            "comment": "Great video \u2026 once I finish the fretboard accelerator course i will look to enroll next year \u2026 the fretboard accelerator is a great course that is really teaching me the fretboard as well as the triads \u2026 \u201c visualize and verbalize \u201c \ud83d\ude42 and hope u don\u2019t wind up in bass jail \ud83e\udd74 hahaha. SBL rocks.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.24999999999999997,
+            "subjectivity": 0.37142857142857144
+        },
+        {
+            "comment": "I loved the intro \ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": []
+}

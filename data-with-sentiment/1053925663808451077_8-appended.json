@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qiyyjx/i_found_the_battle_royale_that_i_was_looking_for/",
+    "time_posted": "2021-10-30 06:44:55",
+    "time_now": "2021-11-01 01:42:29",
+    "ups": 2,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "himpxrr",
+            "body": "Another game you can play with only bots if you have a phone that is good enough or a Nintendo device is the new Pok\u00e9mon unite, it\u2019s a great 5v5 moba With amazing balancing",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.26233766233766237,
+            "subjectivity": 0.6577922077922078
+        },
+        {
+            "comment_id": "himnxt3",
+            "body": "Lmao",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment_id": "himnq4j",
+            "body": "[deleted]",
+            "ups": -1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "himpxrr",
+            "body": "Another game you can play with only bots if you have a phone that is good enough or a Nintendo device is the new Pok\u00e9mon unite, it\u2019s a great 5v5 moba With amazing balancing",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.26233766233766237,
+            "subjectivity": 0.6577922077922078
+        },
+        {
+            "comment_id": "himnq4j",
+            "body": "[deleted]",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himnxt3",
+            "body": "Lmao",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "himpxrr",
+            "body": "Another game you can play with only bots if you have a phone that is good enough or a Nintendo device is the new Pok\u00e9mon unite, it\u2019s a great 5v5 moba With amazing balancing",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.26233766233766237,
+            "subjectivity": 0.6577922077922078
+        },
+        {
+            "comment_id": "himnq4j",
+            "body": "[deleted]",
+            "ups": 0,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "himnxt3",
+            "body": "Lmao",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        }
+    ]
+}

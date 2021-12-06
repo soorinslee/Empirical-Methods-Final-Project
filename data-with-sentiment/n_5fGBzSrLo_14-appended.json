@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-02 02:23:28",
+    "ups": "28880",
+    "downs": "411",
+    "views": "539624",
+    "top_comments": [
+        {
+            "comment": "I\u2019ve been stuck in silver 3 for so long \ud83d\ude14. I REALLY need help and wish you could help me Sunless but I doubt it and I understand because your job and daily life.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.05000000000000001,
+            "subjectivity": 0.20000000000000004
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Atena is trash bro",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This video was a close one. Love watching these videos always great",
+            "polarity": 0.65,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "Athena: Oh my god an open net!\ud83d\ude31",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "7:11 was hilarious \ud83e\udd23",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "how do i get this map",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

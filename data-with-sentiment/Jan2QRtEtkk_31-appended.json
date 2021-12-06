@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:00:08",
+    "url": "https://www.youtube.com/watch?v=Jan2QRtEtkk",
+    "time_now": "2021-11-05 00:26:23",
+    "ups": "46026",
+    "downs": "1173",
+    "views": "1211696",
+    "top_comments": [
+        {
+            "comment": "Where have the men gone? Girl, have you listened to yourself lately?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I don't exist to defend young women I don't even know. If it were a family member, or a senior or child than yes.",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        }
+    ]
+}

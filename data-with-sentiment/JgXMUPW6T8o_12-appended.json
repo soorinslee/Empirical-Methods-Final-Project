@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 15:35:23",
+    "url": "https://www.youtube.com/watch?v=JgXMUPW6T8o",
+    "time_now": "2021-11-01 18:09:07",
+    "ups": "2402",
+    "downs": "26",
+    "views": "35258",
+    "top_comments": [
+        {
+            "comment": "Also I'm a total liar, my friend Mark just reminded me that I played in a Guildball tournament a couple years ago. That was likely my first tournament, but I forgot. Sorry!",
+            "likes": 150,
+            "number_of_replies": 4,
+            "polarity": -0.09375,
+            "subjectivity": 0.7708333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Now try an Infinity tournament! From my experience only GW/Privateer Press games had unpleasant tournaments... smaller communities just don't have the stamina for letting them exist; They either kill the community or they bounce out.",
+            "polarity": -0.21666666666666665,
+            "subjectivity": 0.8166666666666668
+        },
+        {
+            "body": "As a longtime tournament organizer, I will tell you that the organizer's and the store's views greatly impact their events.  I'm a community guy.  I play games for fun- real life is stressful enough.  I always try to win, but the experience matters more.  I'd rather lose a close game than mudstomp my opponent into oblivion.  I carry that attitude into my events.  I encourage players to be creative and play what they want to play and not just net-deck by ensuring that even those that lose all their games walk away with something.  I give away prizes that have nothing to do with beating your opponent, in fact usually something that is likely leading to your own downfall (for ASOIAF, something like first player to roll all misses on a 7 die attach would get something).  I also encourage my opponents to consider the toughest meta in their own list building, don't just bring the meta, but instead think about ways to counter the meta while building what they want to play.  Local events are the way to go if you want a fun experience.  You won't catch me playing in larger, uber-competitive events anymore.  I've done that and winning doesn't mean as much to me as having a good time playing and experimenting.  I want diversity in my opponents, their lists and their playstyles.  You're more likely to get that at smaller shop events that at uber-competitions at Adepticon, GenCon or Origins.\n\nAlso, you really need to get out and just hang at your store more often, even if its just to play a pickup game or two with different players or chew the fat with them.  I spend more time than I care to admit in my FLGS, but they make it easy to.",
+            "polarity": 0.2420977011494253,
+            "subjectivity": 0.5380747126436781
+        }
+    ]
+}

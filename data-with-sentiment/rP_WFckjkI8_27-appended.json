@@ -1,0 +1,16 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-11-04 07:57:28",
+    "ups": "3213",
+    "downs": "50",
+    "views": "81239",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Hey great review! But samsung is known for baking benchmark detection in the kernel so when you run a benchmark on it it will ramp up all cores if you do the same thing on a stock android phone it won't be the case \ud83d\ude0a",
+            "polarity": 0.5,
+            "subjectivity": 0.4375
+        }
+    ]
+}

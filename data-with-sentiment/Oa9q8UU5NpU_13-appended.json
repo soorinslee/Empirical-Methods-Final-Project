@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=Oa9q8UU5NpU",
+    "time_now": "2021-11-01 22:16:03",
+    "ups": "2661",
+    "downs": "63",
+    "views": "49454",
+    "top_comments": [
+        {
+            "comment": "DLSS\n\nMakes everything look like Blurry crap",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "That bit at the beginning where he's like \"Where are the Cheetos?\" \nSome people don't know that skit was written by Dan Harmon. They just kinda gloss over the credits shown in the full video of it / game it's from.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.025000000000000022,
+            "subjectivity": 0.47500000000000003
+        },
+        {
+            "comment": "Your  Easter egg hunting skills are lacking. This is more of a Easter repost. Lazy at best",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "You always cover stuff everyone else has covered.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

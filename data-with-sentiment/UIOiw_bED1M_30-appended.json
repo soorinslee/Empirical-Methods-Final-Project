@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-04 20:18:54",
+    "ups": "8105",
+    "downs": "230",
+    "views": "217151",
+    "top_comments": [
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Can you get Alex onto the PC version and recommend his trademark optimized settings? I'm struggling.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Now things have drastically changed in the cloud, what about a NVidia Shield running the 3080 tier? This is out perforning the physical consoles now.",
+            "polarity": 0.0,
+            "subjectivity": 0.14285714285714285
+        },
+        {
+            "body": "Can't help but think this game could really use a quality motion blur pass.",
+            "polarity": -0.1,
+            "subjectivity": 0.30000000000000004
+        }
+    ]
+}

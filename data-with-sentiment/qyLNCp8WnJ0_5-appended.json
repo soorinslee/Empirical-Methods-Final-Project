@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-10-31 13:18:41",
+    "ups": "3698",
+    "downs": "96",
+    "views": "75800",
+    "top_comments": [
+        {
+            "comment": "You're too picky and fancy .  I buy what I like and that crap you're talking , you can just can it .  You're not the Continental , wow wee wow wow !",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.11875000000000002,
+            "subjectivity": 0.95
+        },
+        {
+            "comment": "This is not about food or Costco (love Costco).\nWhat concerns me is seeing all those people not wearing masks. Florida had approx 13,000 Covid cases in the last week and about 870 deaths. My 90 yr old father recently moved there and I am worried about him living there. I'm afraid to go visit.  So, how can you feel safe not wearing a mask?",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.41944444444444445
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Rao's is on sale at my local Costco in CT",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "not all people have Costco i wish we did but we only have sams here can you show some stuff at sams please thanks God Bless you and your family",
+            "polarity": 0.1,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "We have Rao\u2019s at Costco, Sprouts, and Albertson\u2019s here in Las Vegas, NV.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bought the sardines that are on sale and couldn't eat them! The skin and smoke flavoring is repulsive so I'll stick with Costco's normally stocked sardines that are skinless and flavored only with salt -- these I buy by the case. Rao's also one of my favorites at Costco but not on sale here in Wisconsin.",
+            "polarity": 0.075,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "Is Rao's better  choice than the ORGANIC brand????",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "He has good hair\ud83d\udc4d. His assessment of food is so useful and helpful to us all\ud83c\udf72",
+            "polarity": 0.5,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "My favourite is King Oscar Brisling Sardines in Extra Virgin Olive Oil with Hot Jalapeno Peppers. Would be nice if Costco carried it.",
+            "polarity": 0.2833333333333333,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "I dump the kcup coffee into my pour over filter \ud83d\ude08",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

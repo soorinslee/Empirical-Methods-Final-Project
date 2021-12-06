@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-04 12:04:15",
+    "ups": "28708",
+    "downs": "92",
+    "views": "269788",
+    "top_comments": [
+        {
+            "comment": "Plot twist: the reason he left was because his mom walked in on him screaming. I think you know what happens next :)",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "A",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

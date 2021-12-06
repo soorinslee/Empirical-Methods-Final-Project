@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 12:45:00",
+    "url": "https://www.youtube.com/watch?v=BH-J-KX-7Z4",
+    "time_now": "2021-10-31 05:05:11",
+    "ups": "1012",
+    "downs": "17",
+    "views": "8893",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "You are so warm and comfortable to be around. I never miss any of your videos.",
+            "polarity": 0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Hi, mommy. It\u2019s Deb in Dallas.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Great ideas!  I love the french horn too!  I think it would be beautiful on the back of a chair as well.",
+            "polarity": 0.47000000000000003,
+            "subjectivity": 0.47000000000000003
+        },
+        {
+            "body": "How are you doing? I struggle as well, so I know exactly how u feel. Glad to see you up and around and feeling better.",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "I think you should put some berries in the bowl  to give it a little color.",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Great video, finds, makeovers. \u2764\ufe0f\u2728\ud83c\udf84. Looking forward to all your Christmas videos \ud83c\udde8\ud83c\udde6\u2764\ufe0f",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I love this.Thank you",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Thank you for sharing this video. It was so inspiring!!",
+            "polarity": 0.78125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Great ideas!",
+            "polarity": 1.0,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I love the book stack and the French horn swag!!",
+            "polarity": 0.25,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "a couple of wonderful ideas. Thank you",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I love them all",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

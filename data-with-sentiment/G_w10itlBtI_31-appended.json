@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 14:39:23",
+    "url": "https://www.youtube.com/watch?v=G_w10itlBtI",
+    "time_now": "2021-11-05 00:26:32",
+    "ups": "14278",
+    "downs": "180",
+    "views": "235803",
+    "top_comments": [
+        {
+            "comment": "Visit\u00a0https://simplisafe.com/modustrial\u00a0to learn more and to get at least 30% off your SimpliSafe security system!",
+            "likes": 39,
+            "number_of_replies": 7,
+            "polarity": 0.0625,
+            "subjectivity": 0.45
+        },
+        {
+            "comment": "Before you even mentioned the attachment for the slow close rails I was thinking \"man, push-to-open drawers would be slick\". \n\nThat gets my vote.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.275,
+            "subjectivity": 0.38749999999999996
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Love everything you've done so far. But your island really needs an overhang and bar stools on the open side. My two cents. Best of luck.",
+            "polarity": 0.36,
+            "subjectivity": 0.5199999999999999
+        },
+        {
+            "body": "Push to open",
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        }
+    ]
+}

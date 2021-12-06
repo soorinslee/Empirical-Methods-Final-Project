@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 12:27:30",
+    "url": "https://www.youtube.com/watch?v=MRr7Dxo1zy8",
+    "time_now": "2021-10-31 13:18:46",
+    "ups": "833",
+    "downs": "43",
+    "views": "35807",
+    "top_comments": [
+        {
+            "comment": "\u06a9\u0627\u0634 2022 \u06c1\u06cc \u0648\u06c1 \u0633\u0627\u0644 \u06c1\u0648 \u062c\u0633 \u0645\u06cc\u06ba \u06c1\u0645 \u0633\u0628 \u06a9\u0648 \u0645\u06a9\u06c1 \u0648 \u0645\u062f\u06cc\u0646\u06c1 \u2764\ufe0f \u06a9\u06cc \u062d\u0627\u0636\u0631\u06cc \u0646\u0635\u06cc\u0628 \u06c1\u0648\u062c\u0627\u0626\u06d2. \u0622\u0645\u06cc\u0646 \ud83e\udd32..",
+            "likes": 3,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The definition of delicious! Looks soo tasty recipe!! Awesome and delicious thanks for sharing the amazing recipe and videos \u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.76,
+            "subjectivity": 0.8200000000000001
+        },
+        {
+            "comment": "Home made butter \ud83e\uddc8 banana chai tha \ud83d\ude23",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "behtreen \u2764\ufe0f\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Mashallah. Great food fusion. I m big fan of your channel and your all Recipes are awesome, outstanding, perfect \u2764\ufe0f\u2764\ufe0f\ud83d\udc96\ud83e\udd70\ud83d\udc9d\ud83d\udc9e\ud83c\udf39\u2763\ufe0f",
+            "polarity": 0.6599999999999999,
+            "subjectivity": 0.745
+        }
+    ]
+}

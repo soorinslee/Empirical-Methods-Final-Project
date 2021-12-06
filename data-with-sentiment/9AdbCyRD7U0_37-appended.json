@@ -1,0 +1,76 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-06 01:10:02",
+    "ups": "17962",
+    "downs": "261",
+    "views": "687581",
+    "top_comments": [
+        {
+            "comment": "\"Whatchu know about rollin down in the deep\"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.07777777777777779,
+            "subjectivity": 0.34444444444444444
+        },
+        {
+            "comment": "anyone down for some hot potato \ud83d\ude2e\u200d\ud83d\udca8",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.04722222222222221,
+            "subjectivity": 0.5694444444444445
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Igneous i see",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Natural mortar",
+            "polarity": 0.1,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "\"Whatchu know about rollin down in the deep\"",
+            "polarity": -0.07777777777777779,
+            "subjectivity": 0.34444444444444444
+        },
+        {
+            "body": "Me waiting for it to explode : \n:D -> :) -> :| -> :[",
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "anyone down for some hot potato \ud83d\ude2e\u200d\ud83d\udca8",
+            "polarity": 0.04722222222222221,
+            "subjectivity": 0.5694444444444445
+        },
+        {
+            "body": "It is a ball not bomb... \ud83e\udd26",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I gat a good idea those people can sale the ash to farmers that stuff is really good for plants \ud83c\udf31",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "what do you expect? its a damn volcano.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Everyone talking about the stone,me wondering how she says the volcanos name\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Valcnologist is a thing? They really got a job for everything",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

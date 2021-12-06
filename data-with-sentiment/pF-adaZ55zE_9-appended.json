@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 12:56:54",
+    "url": "https://www.youtube.com/watch?v=pF-adaZ55zE",
+    "time_now": "2021-11-01 05:47:31",
+    "ups": "3231",
+    "downs": "40",
+    "views": "30228",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Emily, I\u2019d love to see you do a very natural no-makeup makeup look.  \ud83d\ude0d",
+            "polarity": 0.315,
+            "subjectivity": 0.56
+        },
+        {
+            "body": "They just aired a Cetaphil commercial and changed the formula, probably a mistake. The combination of Maybelline concealer and brightener together is a winner. Lynn",
+            "polarity": 0.05,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "I #boop myself a lot! \ud83d\ude02 It\u2019s so aggravating when your eye shadow is at perfection level \ud83d\ude04",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I am in love with that bronzer!!!!!!!!",
+            "polarity": 1.0,
+            "subjectivity": 0.6
+        }
+    ]
+}

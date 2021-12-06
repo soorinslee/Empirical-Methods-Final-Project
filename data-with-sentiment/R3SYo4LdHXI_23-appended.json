@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 16:00:12",
+    "url": "https://www.youtube.com/watch?v=R3SYo4LdHXI",
+    "time_now": "2021-11-03 15:27:59",
+    "ups": "6545",
+    "downs": "77",
+    "views": "154474",
+    "top_comments": [
+        {
+            "comment": "Syko sound like a uninterested Florida boii lol \ud83d\udd25",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.55
+        },
+        {
+            "comment": "Sykobob got duH best verse",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.44999999999999996
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "U can buy dem niggas Rollies but u still gotta watch em \ud83d\udcaf dat shit was hard af",
+            "polarity": -0.24583333333333335,
+            "subjectivity": 0.6708333333333334
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj55oo/it_risk_consultant_says_new_world_devs_should_be/",
+    "time_posted": "2021-10-30 12:35:35",
+    "time_now": "2021-11-06 09:25:38",
+    "ups": 8,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hio8hgy",
+            "body": "This is really bad.\n\nOne of the very first things we run into with software engineering is NEVER, and I mean NEVER trust user input. Anything from the client is considered user input. \n\nAll data from the client needs to be sanity checked, sanitized and reliant on the server for the ultimate confirmation. \n\nThis is crazy, really.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.18124999999999994,
+            "subjectivity": 0.6479166666666667
+        },
+        {
+            "comment_id": "hintel8",
+            "body": "Kind of glad I didn't get into this at this point.  Not like I have time for MMOs anymore, but I have never heard of such a game breaking exploit.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.17500000000000002,
+            "subjectivity": 0.7
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hio8hgy",
+            "body": "This is really bad.\n\nOne of the very first things we run into with software engineering is NEVER, and I mean NEVER trust user input. Anything from the client is considered user input. \n\nAll data from the client needs to be sanity checked, sanitized and reliant on the server for the ultimate confirmation. \n\nThis is crazy, really.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.18124999999999994,
+            "subjectivity": 0.6479166666666667
+        },
+        {
+            "comment_id": "hintel8",
+            "body": "Kind of glad I didn't get into this at this point.  Not like I have time for MMOs anymore, but I have never heard of such a game breaking exploit.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.17500000000000002,
+            "subjectivity": 0.7
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hio8hgy",
+            "body": "This is really bad.\n\nOne of the very first things we run into with software engineering is NEVER, and I mean NEVER trust user input. Anything from the client is considered user input. \n\nAll data from the client needs to be sanity checked, sanitized and reliant on the server for the ultimate confirmation. \n\nThis is crazy, really.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": -0.18124999999999994,
+            "subjectivity": 0.6479166666666667
+        },
+        {
+            "comment_id": "hintel8",
+            "body": "Kind of glad I didn't get into this at this point.  Not like I have time for MMOs anymore, but I have never heard of such a game breaking exploit.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.17500000000000002,
+            "subjectivity": 0.7
+        }
+    ]
+}

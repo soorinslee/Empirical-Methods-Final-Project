@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=AqdvXNDnUEc",
+    "time_now": "2021-11-03 11:20:35",
+    "ups": "37728",
+    "downs": "485",
+    "views": "750126",
+    "top_comments": [
+        {
+            "comment": "Kodak has really grown",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "\ud83d\udd25\ud83d\udd25\ud83d\udcab\ud83d\udcab",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Damn this go hard",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2916666666666667,
+            "subjectivity": 0.5416666666666666
+        },
+        {
+            "comment": "Sounds better slowed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "YAK done snapped \ud83d\udc4c\ud83d\udc4c\ud83e\udd43\ud83d\ude0e\ud83e\udd21\ud83d\udeab\ud83d\udeab",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": []
+}

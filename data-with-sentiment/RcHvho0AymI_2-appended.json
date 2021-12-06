@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 12:07:22",
+    "url": "https://www.youtube.com/watch?v=RcHvho0AymI",
+    "time_now": "2021-10-31 00:58:03",
+    "ups": "347",
+    "downs": "28",
+    "views": "23863",
+    "top_comments": [
+        {
+            "comment": "NCB agencies need to investigate. Because this agency doing nothing for big dealer",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "Wow!! Former Attorney General & Advocate of the Supreme Court, after seeing the facts stated - NCB stretched the case too far against Aryan ? Aryan should not have been arrested ? So, it is true that NCB made an illegal arrest and was trying to frame Aryan. Wankhede certainly should be held accountable for damage caused to Aryan. NCB should take note.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0300595238095238,
+            "subjectivity": 0.46904761904761905
+        },
+        {
+            "comment": "Mukul sir salute",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "He is a legal legend. Thanks, Zain.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "6:08 EXACTLY, when everyone came to know that ncb has clarified that no consumption/recovery of drugs from Aryan  I have seen people calling Aryan a PEDDLER \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": 0.25,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Such lawyers are a disgrace for our country.  \nThis proves the entire business of law and legal system is a waste and of no real use for the common man.  This entire profession is fooling the public standing for the unethical immoral groups where they get to earn illegal money in crores.  Any Tom duck and Harry can commit any crime in our country and get away by purchasing top lawyers to fight their case.",
+            "polarity": -0.009090909090909089,
+            "subjectivity": 0.346969696969697
+        },
+        {
+            "body": "Iska matlab  what I resumed is who takes dugs just be free Shahrukh Khan is with us don't worry.",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        }
+    ]
+}

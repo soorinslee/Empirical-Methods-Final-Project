@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-02 02:23:27",
+    "ups": "4711",
+    "downs": "50",
+    "views": "58641",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Here's hoping Nintendo would add Zelda Master Quest and the other 64DD games to their Nintendo Online service!",
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "Where can I buy your shirt from this episode? I love it.",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Hey that Pokemon TCG bg music \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Not gunna lie i thought the n64 dd ran on a normal disc like the ps1 not a floppy disk",
+            "polarity": 0.15,
+            "subjectivity": 0.6499999999999999
+        },
+        {
+            "body": "@7:09 I was on the testing team for the North American release of Kirby Tilt 'n' Tumble.\nWe had a WideBoy for capturing bug footage on the N64, and we all had a great time tilting the console to play it. It did take some getting used to, mostly because the vertical cartridge orientation of the N64 caused us to hold the console with the rear side up.\nGood times.",
+            "polarity": 0.5,
+            "subjectivity": 0.4625
+        }
+    ]
+}

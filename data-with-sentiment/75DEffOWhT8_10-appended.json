@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 16:00:13",
+    "url": "https://www.youtube.com/watch?v=75DEffOWhT8",
+    "time_now": "2021-11-01 09:53:46",
+    "ups": "23378",
+    "downs": "76",
+    "views": "202499",
+    "top_comments": [
+        {
+            "comment": "John Brain \u0442\u044b \u043b\u0438 \u044d\u0442\u043e?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "*Berdly has left the Dark World... somehow.",
+            "polarity": -0.075,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Gamers never lose, they just strategically use smart tactics to evade challenging opponents till they regain their composure. It's a mind game thing, normies wouldn't get it",
+            "polarity": 0.10476190476190476,
+            "subjectivity": 0.6809523809523809
+        },
+        {
+            "body": "The explosion woke my cat lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "0:46 A-",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

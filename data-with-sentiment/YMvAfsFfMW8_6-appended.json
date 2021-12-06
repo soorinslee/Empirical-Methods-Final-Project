@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 12:51:02",
+    "url": "https://www.youtube.com/watch?v=YMvAfsFfMW8",
+    "time_now": "2021-10-31 17:25:47",
+    "ups": "3281",
+    "downs": "391",
+    "views": "274917",
+    "top_comments": [
+        {
+            "comment": "What hacks do your parents use?\ud83d\ude0f",
+            "likes": 48,
+            "number_of_replies": 16,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love you so much",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "How to Play with THE FLUFFIEST SLIME \r\nhttps://youtu.be/xTymLtmi3H0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Jokiiing hahahahahahahhhahahahahaaaq",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "How to Play with THE FLUFFIEST SLIME \r\nhttps://youtu.be/xTymLtmi3H0",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Tffgf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love you so much",
+            "polarity": 0.35,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I wish i was been rich",
+            "polarity": 0.375,
+            "subjectivity": 0.75
+        }
+    ]
+}

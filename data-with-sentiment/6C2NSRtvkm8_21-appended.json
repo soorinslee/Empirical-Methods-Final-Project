@@ -1,0 +1,54 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-03 07:14:03",
+    "ups": "16469",
+    "downs": "173",
+    "views": "361527",
+    "top_comments": [
+        {
+            "comment": "Fergie: Pausing\nMe: Popcorn",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "How does one get a job at the royal armoury? that is a dream job!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "React to the guns in State of Decay 2.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You guys should show him the days gone weapons",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "22:10 OMG that is my biggest pet peeve in this game... I noticed it 1 minute in... \nThat and the fact it doesn't work perfectly in Ultrawide  resolution, we have Unreal to blame for that.",
+            "polarity": 0.3,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "The berretta felt so weird and I couldn't explain it. Thank you for saving me from that.",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "He should review the guns in DayZ, I think they're very accurate because full auto is only ever useful when you need to save yourself because the recoil is hard.",
+            "polarity": 0.1756666666666667,
+            "subjectivity": 0.583
+        },
+        {
+            "body": "Jonathan is one of us!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 12:00:23",
+    "url": "https://www.youtube.com/watch?v=mwnMJkIfEQ4",
+    "time_now": "2021-11-01 18:08:57",
+    "ups": "5602",
+    "downs": "322",
+    "views": "308880",
+    "top_comments": [
+        {
+            "comment": "We see you",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm so glad that the truth is FINALLY coming out, and I'm just livid that people's lives were ruined for telling the WHOLE Truth. \ud83d\ude21 I'm just hoping that the people that did WRONG get THEIR lives ruined. \ud83e\udd1e",
+            "polarity": 0.04999999999999999,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "I love the Streisand and boomerang effects thank you Rachel you tell them so well \u270c\ud83d\udc99from Montana",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "We see you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Bill looks very different without his glasses on. I hope his optimism on climate/environment is well founded.",
+            "polarity": 0.0,
+            "subjectivity": 0.78
+        },
+        {
+            "body": "Why is Durham still there, Why is Dejoy still there? These people should have been removed months ago",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

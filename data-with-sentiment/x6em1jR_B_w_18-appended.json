@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 12:51:29",
+    "url": "https://www.youtube.com/watch?v=x6em1jR_B_w",
+    "time_now": "2021-11-02 18:52:41",
+    "ups": "5372",
+    "downs": "296",
+    "views": "242977",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Do you even care about their feeling? Stop abusing animal, you are a brutal bloody monster",
+            "polarity": -0.8375,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "The hamster is very smart and cute",
+            "polarity": 0.3892857142857143,
+            "subjectivity": 0.9178571428571429
+        },
+        {
+            "body": "Este canal maltrata a los hamsters >:( los hace sufrir",
+            "polarity": -0.75,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "i love these videos :D could you make a roblox course for the hamsters?",
+            "polarity": 0.75,
+            "subjectivity": 0.8
+        }
+    ]
+}

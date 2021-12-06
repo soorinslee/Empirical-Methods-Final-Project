@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-11-01 05:47:26",
+    "ups": "1522",
+    "downs": "30",
+    "views": "80525",
+    "top_comments": [
+        {
+            "comment": "I like how Beccy wasn't just strategizing her appetizer, but the whole course meal.",
+            "likes": 9,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "I love how Claudio just didn\u2019t say anything and complemented the soup when it poured on him.",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\"This dish is like my grandpa on a plate\"\nMe who is confused, \"Ok.... Nice dish..... Good cooking... umm....\"",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "comment": "I love Claudio's reaction at having food thrown on him xD\n\nAny person's reaction : \"You clumsy moron, look at what you've done you donut!!!\" \nClaudio's reaction : *YUM!* xD",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.26666666666666666,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "LOVING how active the channel has become the past fortnight or so!",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.051388888888888894,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": []
+}

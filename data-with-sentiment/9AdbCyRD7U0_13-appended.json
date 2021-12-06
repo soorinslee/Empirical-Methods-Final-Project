@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-01 22:16:11",
+    "ups": "7476",
+    "downs": "121",
+    "views": "297914",
+    "top_comments": [
+        {
+            "comment": "Its a Volcano's tonsil stone",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This  channel   never  uses  click baits.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Where's the explosion?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Even the volcanos shooting this year",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It be cool if it was an egg",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Shot a little dookie ball",
+            "polarity": -0.1875,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Character development",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The end of white peoples rulership",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nature has finally declared war.",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "That's just a lava ball, bombs explode... They didn't...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

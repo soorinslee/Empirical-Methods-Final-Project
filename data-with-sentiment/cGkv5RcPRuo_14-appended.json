@@ -1,0 +1,98 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-02 02:23:13",
+    "ups": "22961",
+    "downs": "526",
+    "views": "340999",
+    "top_comments": [
+        {
+            "comment": "\ud83d\udd25 Awesome Music again \u274c\u26d4\ufe0f\u2666\ufe0f\ud83d\udc9c\ud83d\udcaf\ud83d\udcaf\ud83d\ude49",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I can listen to this music for the rest of my life . I need this music to calm me down",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.07222222222222223,
+            "subjectivity": 0.5194444444444445
+        },
+        {
+            "comment": "I love this mix",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "That\u2019s fire",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I suppose I should finish my Audio Project called Murder Case",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Great selection to focus on my work while listening, thank you! <3",
+            "polarity": 1.0,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "\ud83d\udc93\ud83d\udc51\u2728\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I can listen to this music for the rest of my life . I need this music to calm me down",
+            "polarity": 0.07222222222222223,
+            "subjectivity": 0.5194444444444445
+        },
+        {
+            "body": "I love this mix",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Amazing work here!! \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+            "polarity": 0.9375000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Pls",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This song look creepy and cool",
+            "polarity": -0.07500000000000001,
+            "subjectivity": 0.825
+        },
+        {
+            "body": "free step",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Wow amazing\ud83d\udd25",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Good job \ud83d\udc99 and you are the best ncs I like all your songs and have a good day !",
+            "polarity": 0.8583333333333334,
+            "subjectivity": 0.5000000000000001
+        },
+        {
+            "body": "\ud83d\udd25 Awesome Music again \u274c\u26d4\ufe0f\u2666\ufe0f\ud83d\udc9c\ud83d\udcaf\ud83d\udcaf\ud83d\ude49",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

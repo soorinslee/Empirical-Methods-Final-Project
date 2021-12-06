@@ -1,0 +1,70 @@
+{
+    "time_posted": "2021-10-30 14:45:05",
+    "url": "https://www.youtube.com/watch?v=z7u0cKvZ8Fk",
+    "time_now": "2021-10-31 09:11:51",
+    "ups": "1092",
+    "downs": "83",
+    "views": "67453",
+    "top_comments": [
+        {
+            "comment": "When it comes to the world of investing, most people don't know where to start. Fortunately, great investors of the past and present can provide us with guidance.*..",
+            "likes": 32,
+            "number_of_replies": 26,
+            "polarity": 0.2625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Happy Halloween\ud83c\udf83\ud83d\udc7b\u2620\ufe0f......And happy Indian festival diwali\ud83c\udf87\u2728\ud83c\udf86.....Because  I am iku from india...\ud83c\uddee\ud83c\uddf3",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Yes!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Happy Halloween\ud83e\udddf\u200d\u2642\ufe0f\ud83e\udd87\ud83d\udc7b\ud83e\udddb\u200d\u2640\ufe0f\ud83e\udddb\u200d\u2640\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "When is Halloween \ud83c\udf83",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hahahahahaha\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf83\ud83c\udf91",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude1ahahahahahahahaha",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yes!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Happy Halloween\ud83e\udddf\u200d\u2642\ufe0f\ud83e\udd87\ud83d\udc7b\ud83e\udddb\u200d\u2640\ufe0f\ud83e\udddb\u200d\u2640\ufe0f",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

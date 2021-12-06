@@ -1,0 +1,75 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-01 05:47:22",
+    "ups": "8922",
+    "downs": "69",
+    "views": "166715",
+    "top_comments": [
+        {
+            "comment": "you in the bar with all the college boys lmaoooo love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "How exciting!!\ud83e\udd29",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My sister is my Uber driver and drives me everywhere, she LOVES me A LOT\ud83e\udd70\ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love the movie happy Gilmore\ud83d\ude0d\ud83d\ude06\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.8
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "YOURE TELLING ME YOU CAME TO BLOOMINGTON & I DIDNT MEET YOU OMG",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I live here and I wish I would've known that toy were in the same state as me!!!!",
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.3125
+        },
+        {
+            "body": "you in the bar with all the college boys lmaoooo love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "it was so good to meet you guys! i hope you loved IU \u2764\ufe0f",
+            "polarity": 0.7875,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Omg I go to IU!! So sad I didn\u2019t know you were here :(",
+            "polarity": -0.625,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "omg you should do schoolisha goes to college for a day and follow around a college student for 24 hours or switch lives with one for the day",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Omg I live in Indiana!!! So wild to see you taking pics at IU, which is like 45 min away from me\ud83d\ude02",
+            "polarity": 0.18316761363636364,
+            "subjectivity": 0.45
+        }
+    ]
+}

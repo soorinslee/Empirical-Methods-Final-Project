@@ -1,0 +1,88 @@
+{
+    "time_posted": "2021-10-30 11:00:18",
+    "url": "https://www.youtube.com/watch?v=mN8vCV8oDvc",
+    "time_now": "2021-10-30 20:51:16",
+    "ups": "682",
+    "downs": "6",
+    "views": "9271",
+    "top_comments": [
+        {
+            "comment": "AAAAHHHHHHHH!!!!!!! You just clarified the mystery that's boggled my brain for years. A long time ago I was speaking to a school teacher that played jazz piano and she asked me if I could play jazz (because of my name) and I said I don't understand walking bass. I told her, all I know is R+5 and she said, \"That's enough\".",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment": "I loved the intro \ud83d\ude02\ud83d\ude02",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "This walking gets me walking over to my bass & dusting it off. Thanks Scott \ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.024999999999999994,
+            "subjectivity": 0.35
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Superb exercise",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "First time I've ever understood anything about walking bass lines. Good stuff.",
+            "polarity": 0.26666666666666666,
+            "subjectivity": 0.4777777777777778
+        },
+        {
+            "body": "I loved the intro \ud83d\ude02\ud83d\ude02",
+            "polarity": 0.7,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "I swear every 5th ad I see on YouTube is Scott.  You must be crushing it.",
+            "polarity": 0.4,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Please stop  with your ads!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please stop  with your ads!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please stop  with your ads!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please stop  with your ads!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please stop  with your ads!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Please stop with your ads!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Thanks Scott!",
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        }
+    ]
+}

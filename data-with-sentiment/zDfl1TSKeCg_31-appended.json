@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 15:31:04",
+    "url": "https://www.youtube.com/watch?v=zDfl1TSKeCg",
+    "time_now": "2021-11-05 00:26:30",
+    "ups": "17378",
+    "downs": "227",
+    "views": "223509",
+    "top_comments": [
+        {
+            "comment": "\ud83c\udfa7 \u0938\u0941\u0928\u093f\u090f #TheRanveerShow \u0939\u093f\u0902\u0926\u0940 Spotify \u092a\u0930:\r\nhttps://open.spotify.com/episode/6OOFcnr13qIFp2N9T1stLf\n\n\u0939\u092e\u093e\u0930\u093e Telegram Community Join \u0915\u0930\u0947\u0902 - https://t.me/beerbicepsguy",
+            "likes": 121,
+            "number_of_replies": 8,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I was muthmar \ud83d\ude05\ud83d\ude05\ud83d\ude05",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "great information to everyone  .",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "simple  to f##k 100 different giirls which is possible by this Ranveer Allahabdi, in real we live in Dreams",
+            "polarity": 0.05113636363636363,
+            "subjectivity": 0.6767857142857143
+        }
+    ]
+}

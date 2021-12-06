@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 12:56:54",
+    "url": "https://www.youtube.com/watch?v=pF-adaZ55zE",
+    "time_now": "2021-11-01 18:09:19",
+    "ups": "3461",
+    "downs": "42",
+    "views": "33119",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm always so behind with your videos, and that makes me sad because they always bring me such joy. This was no exception",
+            "polarity": -0.024999999999999994,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "I can't handle the noxema smell. More power to you.",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

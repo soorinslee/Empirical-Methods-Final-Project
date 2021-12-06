@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 14:30:01",
+    "url": "https://www.youtube.com/watch?v=47f09LiQUH0",
+    "time_now": "2021-10-31 09:11:37",
+    "ups": "4018",
+    "downs": "200",
+    "views": "94499",
+    "top_comments": [
+        {
+            "comment": "This was cute. Truthfully I don\u2019t understand gender reveals\u2026 I hope this mainstream trend dies out soon enough..",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "Well, was expecting a rainbow smoke \ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This is a cool idea! \ud83d\udc4d",
+            "polarity": 0.4375,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Im still confused how gender reveals work",
+            "polarity": -0.4,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Wtf",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Anything for the fb likes",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I mean if nobody dies or there isnt 10000\u2019s of dollars of property damage then was it really worth it?",
+            "polarity": -0.0062500000000000056,
+            "subjectivity": 0.39375
+        },
+        {
+            "body": "I love it very creative \ud83d\udc9c\ud83d\udc9c\ud83d\udc9c",
+            "polarity": 0.575,
+            "subjectivity": 0.8
+        }
+    ]
+}

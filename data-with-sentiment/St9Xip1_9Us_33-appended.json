@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 15:07:55",
+    "url": "https://www.youtube.com/watch?v=St9Xip1_9Us",
+    "time_now": "2021-11-05 08:40:47",
+    "ups": "3535",
+    "downs": "92",
+    "views": "82819",
+    "top_comments": [
+        {
+            "comment": "\ud83e\udd29\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a\ud83d\udc9a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This is my dream. I wish to live like this rest of my life, exploring the world. And there are so many people doing it. But one thing that I don\u2019t understand how do you manage finances? How do you earn money to keep up with this life. And monthly expenses would be on higher side in this life the regular city life. I don\u2019t understand how you earn to manage this life. Not only you. But everyone els who are living on the road",
+            "polarity": 0.17727272727272728,
+            "subjectivity": 0.5153846153846153
+        },
+        {
+            "body": "Impossible to live on road since one year, as per lockdown situations, ???",
+            "polarity": -0.26515151515151514,
+            "subjectivity": 0.75
+        }
+    ]
+}

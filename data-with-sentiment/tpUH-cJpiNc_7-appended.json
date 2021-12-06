@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 13:34:18",
+    "url": "https://www.youtube.com/watch?v=tpUH-cJpiNc",
+    "time_now": "2021-10-31 21:32:58",
+    "ups": "6691",
+    "downs": "66",
+    "views": "77780",
+    "top_comments": [
+        {
+            "comment": "There is something magical about the way you say \u201c Hey guys and welcome back to my YouTube channel\u201d. It sets a mood for me \u2764\ufe0f\u2728",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "The outfit was literally the prettiest",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You look so good in Indian clothes. You should wear them often",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

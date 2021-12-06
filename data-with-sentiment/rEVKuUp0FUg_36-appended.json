@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=rEVKuUp0FUg",
+    "time_now": "2021-11-05 21:02:59",
+    "ups": "7924",
+    "downs": "72",
+    "views": "119244",
+    "top_comments": [
+        {
+            "comment": "Are you up for the challenge? I am demonstrating the stretches at a beginner level in this video but if it\u2019s too easy you can go deeper into them \ud83d\udc99",
+            "likes": 597,
+            "number_of_replies": 159,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "I am doing yoga/exercises every day and it is so hard to find a good video but when I found your Chanel I subscribed right away and now I watch 5 videos every night for my routine I loved your channel keep up the good work",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.41880952380952385,
+            "subjectivity": 0.6154761904761904
+        },
+        {
+            "comment": "I hate anna",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "\ud83e\udd70\u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Hi Anna!! I am your biggest fan! \nI have a question can we get taller from stretching? How can we get taller easily? In 1 Or 2 weeks? \n\nFrom Your Biggest fan from India!",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5416666666666667,
+            "subjectivity": 0.8333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hello, please what's the background song, please? I really love it. Song and artist name, please?",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I love your stretching",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I hate anna",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Hi I am Subha shree G I am 12 years old and I am from India Tamil Nadu In instagram page I comment like this can you help me  to get me full body fexability Anna   you reply to me yes\u2764\ufe0fso how will you teach me \ud83d\ude44\ud83d\ude44\ud83e\udd28\ud83e\udd28",
+            "polarity": 0.22499999999999998,
+            "subjectivity": 0.375
+        }
+    ]
+}

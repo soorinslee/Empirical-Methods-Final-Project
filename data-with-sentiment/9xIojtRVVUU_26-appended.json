@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-04 03:50:03",
+    "ups": "11309",
+    "downs": "18",
+    "views": "92853",
+    "top_comments": [
+        {
+            "comment": "That dance group was awesome!! Go Team Wang!!",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Love it when he dances!! SWAG !",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Panthepack ...YAY !!!!",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "HERE CRAZY FANGIRL FROM AUSTRALIA OF AVATAR JACKSON WANG!!!\ud83d\udd4a\ufe0f",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Jackson Wang & Panthepack added spiciness & fire to the show. How I love Jackson's dance, very smooth yet powerful, and full of swag, loved it!!\ud83d\udd25\ud83d\udd25\ud83d\udc95",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.47400000000000003,
+            "subjectivity": 0.72
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "el vocal de jsheon no es chiste",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The BEST <3",
+            "polarity": 1.0,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "Thank you Jackson for betraying kpop/GOT7 fans around the world. Thank you Jackson for abandoning Hong Kong citizens and Taiwanese people. Thank you Jackson for supporting the oppression of Hong Kong citizens and choosing to become a servant of the Xi Jinping regime, leaving the majority of Taiwanese who oppose and resist the annexation of China. At the end of the day, Jackson, who played for Hong Kong's fencing 'national team', was almost mistaken for a great patriot. I no longer believe in Jackson pretending to be a Chinese patriot now. Because betraying once is difficult, but betraying more than once is easy. Recently, he appeared on a TV station in a country called the United States, which has problems with the Xi Jinping regime, and is making music in American English. Don't believe him. and don't believe his music. he just likes money.",
+            "polarity": 0.16481481481481483,
+            "subjectivity": 0.39814814814814814
+        }
+    ]
+}

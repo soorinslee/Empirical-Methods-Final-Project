@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=PdbWgT2Q7tQ",
+    "time_now": "2021-11-04 03:50:06",
+    "ups": "19624",
+    "downs": "194",
+    "views": "251680",
+    "top_comments": [
+        {
+            "comment": "Lissa look like Anne Marie \ud83d\udc97\ud83d\udc97\ud83d\ude42",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I'm literally so obsessed with this cover. Im pretty sure half of these views are from me haha.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.056666666666666664,
+            "subjectivity": 0.671111111111111
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Soo 2 weird questions lol 1. Which one of you opens their mouth the biggest while singing and 2. Have any of you poked your eye or someone else's eye out while moving your hand while singing? I feel like Amy has the biggest mouth open while singing and I think she has also poked an eye out with those swinging hands lmao",
+            "polarity": 0.225,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "AMY!!! \ud83e\udd29",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2026hm",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is one of the best ones ever.",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Y\u2019all have been amazing since the early 2000s",
+            "polarity": 0.35000000000000003,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Yo i got a headache from this lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ]
+}

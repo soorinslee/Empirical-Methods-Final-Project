@@ -1,0 +1,60 @@
+{
+    "time_posted": "2021-10-30 13:00:12",
+    "url": "https://www.youtube.com/watch?v=l-sBrHlNIa8",
+    "time_now": "2021-11-05 12:47:08",
+    "ups": "4343",
+    "downs": "49",
+    "views": "125057",
+    "top_comments": [
+        {
+            "comment": "Gigi , you have made a new standard for this song! Connecting the peace and the pain. Powerful and timeless.",
+            "likes": 147,
+            "number_of_replies": 5,
+            "polarity": 0.14545454545454545,
+            "subjectivity": 0.48484848484848486
+        },
+        {
+            "comment": "Hats off once again \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ganda ng rendition.. excellent and amazing.. i love it\u2764\u2764\u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "comment": "World Class tlaga \ud83d\ude31\ud83d\ude31\ud83d\ude31 Higher and better than many Hollywood stars who sang this! Gigi and Charice Version is Fantastic!!!!! Most Beautiful cover ever!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6458333333333334,
+            "subjectivity": 0.65
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "SOOO BEAUTIFUL  GIRL \ud83d\udc67..GANDA PA KUMANTA \ud83d\ude0d\ud83d\udc96 KA INLOVE. !",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Mahal na kita Gigi De Lana",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "request po, sana ulitin yung HURT. tenkyu :)",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "POP ROCK DIVA, GiGi ,SAKALAM!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

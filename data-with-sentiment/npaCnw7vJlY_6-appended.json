@@ -1,0 +1,84 @@
+{
+    "time_posted": "2021-10-30 13:30:09",
+    "url": "https://www.youtube.com/watch?v=npaCnw7vJlY",
+    "time_now": "2021-10-31 17:24:57",
+    "ups": "5926",
+    "downs": "57",
+    "views": "85411",
+    "top_comments": [
+        {
+            "comment": "Your Mum would be so proud you are really growing into you voice and guitar its perfect !!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Your Mum would be so proud you are really growing into you voice and guitar its perfect !!",
+            "polarity": 0.6666666666666666,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "Amazing Cover Allie!! Happy Halloween!!\ud83c\udf83\ud83d\udc7b\ud83c\udf83\ud83d\udc7b\nCrystal",
+            "polarity": 0.8687500000000001,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "This is the Allie that will leave a legacy and be enormously successful. One in a million voice. Rap is fun but you will get lost in the crowd. Anyone can rap.",
+            "polarity": 0.525,
+            "subjectivity": 0.575
+        },
+        {
+            "body": "She\u2019s simply AMAZING.",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "What \u00e0 beautiful voice!!!\nOnly why screaming? There is no need to!",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Why is this woman singing in the streets? \nShe\u2019s bloody ACE!!!!",
+            "polarity": -1.0,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "im in love you Irish girls are the best  Slough gb  but dad Cork",
+            "polarity": 0.5,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "is the female version of Kurt Cobain's voice",
+            "polarity": 0.0,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "\uc815\ub9d0\ub108\ubb34\ubaa9\uc18c\ub9ac\uac00\uc544\ub984\ub2e4\uc6cc\uc694",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\ud83c\udde7\ud83c\uddf7 Fan",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u042f \u0442\u0432\u043e\u0439 \u0433\u043e\u043b\u043e\u0441 \u0443\u0437\u043d\u0430\u044e \u0438\u0437 \u0442\u044b\u0441\u044f\u0447\u0438.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Have not watch ur vids for 6 years cos I was in a coma according to what my doctor said u still have a great voice",
+            "polarity": 0.35000000000000003,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "cool",
+            "polarity": 0.35,
+            "subjectivity": 0.65
+        }
+    ]
+}

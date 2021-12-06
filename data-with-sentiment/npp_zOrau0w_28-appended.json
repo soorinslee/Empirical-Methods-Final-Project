@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:00:58",
+    "url": "https://www.youtube.com/watch?v=npp_zOrau0w",
+    "time_now": "2021-11-04 12:04:03",
+    "ups": "15151",
+    "downs": "326",
+    "views": "184544",
+    "top_comments": [
+        {
+            "comment": "Well, we have to admit that Chucky is way sexier than Dave",
+            "likes": 829,
+            "number_of_replies": 19,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Omg... Amazing!\ud83d\udc93\ud83e\udd29\ud83d\ude0d\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "10 inches ... LOL but hey I do miss the drum break ... a lot! Now please go, find a cat and sing a killer version of \"Mama\", that laugh has to be your thing :)",
+            "polarity": 0.6,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "This cover just hit different\nLove it, nicely done :)",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Call Beth Hart! How wonderful it would be to be Caught Out In The Rain with Beth and Violet!!!!!!!!!!!!! @",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Great stuff friend \ud83d\udc4f \ud83d\udc4d",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Well that doll got lucky \ud83e\udd23\ud83e\udd23",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.8333333333333334
+        },
+        {
+            "body": "Umm where are the suicide triggers??",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

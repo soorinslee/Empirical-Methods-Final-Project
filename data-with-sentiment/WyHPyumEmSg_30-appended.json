@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 14:24:01",
+    "url": "https://www.youtube.com/watch?v=WyHPyumEmSg",
+    "time_now": "2021-11-04 20:18:49",
+    "ups": "12018",
+    "downs": "126",
+    "views": "150037",
+    "top_comments": [
+        {
+            "comment": "Want THREE (3) Masters booster boxes (2015, 2017, and Ultimate)? It's the Triple Masters giveaway! Just donate in multiples of $4.00 to Trans Lifeline below and I will send one donor ALL THREE boxes on Oct 30 at 6pm PST! I'll mail worldwide! But there's also 45 additional MTG prizes going out to 45 additional donors! You can see the full list here: https://twitter.com/TolarianCollege/status/1454226004130426884?s=20 and you just need to donate in $4 multiples. Each $4 is another chance to get a cool prize! Donate---> https://secure.givelively.org/donate/trans-lifeline/tolarian-community-college-1",
+            "likes": 201,
+            "number_of_replies": 6,
+            "polarity": 0.2625,
+            "subjectivity": 0.7333333333333334
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "But what about banding",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Life is a kicker\u2026.. in my nutz! \ud83d\ude33",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Nice video! Audio is slightly out of sync with the video though...",
+            "polarity": 0.2916666666666667,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "YouTube premium is kicker!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

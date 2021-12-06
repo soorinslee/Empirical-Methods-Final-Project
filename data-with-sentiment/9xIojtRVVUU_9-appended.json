@@ -1,0 +1,62 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-01 05:46:39",
+    "ups": "9490",
+    "downs": "7",
+    "views": "61864",
+    "top_comments": [
+        {
+            "comment": "Jackson has a golden voice and his dance moves are outstanding.",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment": "Ooohh Helloo \ud83e\udd75 HE\u2019s BACK!!! Captain WANG \ud83d\udd25 Look at his moves, smooth, clean, swaaaggg, sexy NICE! NICE! NICE! Think that the whole world wanna see more of this isnt it \ud83d\ude0f HE KILLED IT AGAIN! #jacksonwang \ud83d\udd25\nAND EVERYTHING HE, #Teamwang and #Panthepack have touched are #SOLDOUT \ud83d\ude0e",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.39666666666666667,
+            "subjectivity": 0.6100000000000001
+        },
+        {
+            "comment": "Epic!! Every time Jackson on the stage it is on fire! So proud of him!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.59765625,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "By somehow I just become is big fan, he is sooooo talented in soooo many ways",
+            "likes": 4,
+            "number_of_replies": 3,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Jackson Wang can make everything sold out",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Karencici in black hair I AM FANGIRLING",
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "https://youtu.be/jWa1fS41Ckk\n\nJackson \ud83d\udc51street dance 4 official",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

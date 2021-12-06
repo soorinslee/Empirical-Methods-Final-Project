@@ -1,0 +1,98 @@
+{
+    "time_posted": "2021-10-30 15:00:20",
+    "url": "https://www.youtube.com/watch?v=fXOaWevi6f8",
+    "time_now": "2021-11-05 12:47:33",
+    "ups": "18774",
+    "downs": "367",
+    "views": "1196633",
+    "top_comments": [
+        {
+            "comment": "*great video, sharp images, well-composed footage*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3375,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "India \u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\u2764\ufe0f from India \ud83c\uddee\ud83c\uddf3 Tamil Nadu \u2764\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "From Kerala\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WW3 IS GOING TO KICK OFF ANY MOMENT",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WW3 IS GOING TO KICK OFF ANY MOMENT",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "04:54 BEAUTIFUL",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Neil de Tyson is that you \ud83d\udc40",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow what a coincidence, i was literally in the shop yesterday wondering why it was so expensive. Thx BI!",
+            "polarity": -0.2625,
+            "subjectivity": 0.85
+        },
+        {
+            "body": "\u0d07\u0d1f\u0d41\u0d15\u0d4d\u0d15\u0d3f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f Idukki \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2764\ufe0f from India \ud83c\uddee\ud83c\uddf3 Tamil Nadu \u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Pero bakit ang baho ng spice na yan?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Business insider video team is A class cheapos \n\nThey went to shoot the visuals in theni district of Tamil nadu and in the video they are speaking so much about idukki district in kerala.\n\nIts like visiting california and shooting footage from california and  saying how amazing texas looks like.\n\nEven the languages spoken are different.\n\nonly idukki footage was that of soil erosion portion shown in the video.",
+            "polarity": 0.2,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "India \u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "With the right set of money to invest in this, it could be done produced easier.",
+            "polarity": 0.2857142857142857,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "INDIA is transporting all the cardamom to other countries  & making price hike for Indian people so they can earn both the sides to make our economy to trillion. Also they can easily buy votes from that money in next election. So BJP is doing lot of hard work to be in the first place in entire world.",
+            "polarity": 0.044444444444444446,
+            "subjectivity": 0.4513888888888889
+        }
+    ]
+}

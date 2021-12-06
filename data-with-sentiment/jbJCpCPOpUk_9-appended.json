@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 13:00:32",
+    "url": "https://www.youtube.com/watch?v=jbJCpCPOpUk",
+    "time_now": "2021-11-01 05:47:31",
+    "ups": "3017",
+    "downs": "30",
+    "views": "33380",
+    "top_comments": [
+        {
+            "comment": "This tablet is beautiful than the picture used for the request. Thanks for sharing your talents with us. I absolutely love this table.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5166666666666667,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Ehhh ...w Polsce nie ma sklepow dollar tree\ud83d\ude22\ud83d\ude1e",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Beautiful",
+            "polarity": 0.85,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:08:00",
+    "url": "https://www.youtube.com/watch?v=XOkUo3OfhWY",
+    "time_now": "2021-11-01 09:53:54",
+    "ups": "2004",
+    "downs": "46",
+    "views": "44442",
+    "top_comments": [
+        {
+            "comment": "#Teamseas!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Sorry for being late :) BUT AMAZING WHATTTT THIS IDEA IS SO CREATVE! Keep it up!",
+            "polarity": 0.15937500000000002,
+            "subjectivity": 0.875
+        },
+        {
+            "body": "ok so i dont know if i am right but i am pretty sure its a player controlling the creeper but if it isnt how alot of takes of the perfect thing",
+            "polarity": 0.5071428571428571,
+            "subjectivity": 0.7849206349206349
+        },
+        {
+            "body": "#teamseas",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "is this scripted?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "#team seas\\",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

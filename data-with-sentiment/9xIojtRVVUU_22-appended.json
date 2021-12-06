@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 15:34:04",
+    "url": "https://www.youtube.com/watch?v=9xIojtRVVUU",
+    "time_now": "2021-11-03 11:20:36",
+    "ups": "11072",
+    "downs": "16",
+    "views": "87960",
+    "top_comments": [
+        {
+            "comment": "That dance group was awesome!! Go Team Wang!!",
+            "likes": 8,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Love it when he dances!! SWAG !",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.9765625,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Niceeeeeeee  and smooth welcome back J, nuff respect kid.",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.4000000000000001,
+            "subjectivity": 0.4666666666666666
+        },
+        {
+            "comment": "HERE CRAZY FANGIRL FROM AUSTRALIA OF AVATAR JACKSON WANG!!!\ud83d\udd4a\ufe0f",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": -0.6,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "He is a very good singer \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.9099999999999999,
+            "subjectivity": 0.7800000000000001
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Jackson Wang & Panthepack added spiciness & fire to the show. How I love Jackson's dance, very smooth yet powerful, and full of swag, loved it!!\ud83d\udd25\ud83d\udd25\ud83d\udc95",
+            "polarity": 0.47400000000000003,
+            "subjectivity": 0.72
+        }
+    ]
+}

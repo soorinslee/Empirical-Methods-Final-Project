@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 14:15:02",
+    "url": "https://www.youtube.com/watch?v=cGkv5RcPRuo",
+    "time_now": "2021-11-05 16:54:18",
+    "ups": "28784",
+    "downs": "653",
+    "views": "523293",
+    "top_comments": [
+        {
+            "comment": "Nice\ud83d\ude0a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Sounds like a doom soundtrack",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is the last ncs 10 release I hope 10 years later will release ncs 20 release!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.03333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Absolute badass \ud83d\udc4d",
+            "polarity": 0.2,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "1:56 \ud83e\udd2f\n\n2:11 \ud83d\ude35",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Genres:\n0:00 Synthwave\n0:48 Bass House\n1:49 Jersey Club (?) \n2:11 Hybrid Trap\n2:41 Extratone\n2:55 Bass House",
+            "polarity": -0.15000000000000002,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Thanks",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ]
+}

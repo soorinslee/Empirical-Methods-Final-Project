@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 16:00:09",
+    "url": "https://www.youtube.com/watch?v=Noh8dd2i32c",
+    "time_now": "2021-11-01 14:01:47",
+    "ups": "2749",
+    "downs": "20",
+    "views": "46316",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I live alone and my room are small but wanted to fit a Queen and a desk so only real option is one night stand and desk on the other side and I actually prefer it visually and practically.",
+            "polarity": 0.04517045454545455,
+            "subjectivity": 0.38437499999999997
+        },
+        {
+            "body": "This video came at the right time in our home Reno! Can\u2019t wait to juzsh it up! Also, Where is your sweater from?!",
+            "polarity": 0.5580357142857142,
+            "subjectivity": 0.5357142857142857
+        },
+        {
+            "body": "Hi Nick, how do you know what is the right size nightstand, say you have king size bed do you want tiny side tables, say wall mounted ones like you showed? Does size matter?",
+            "polarity": 0.14285714285714285,
+            "subjectivity": 0.5178571428571428
+        }
+    ]
+}

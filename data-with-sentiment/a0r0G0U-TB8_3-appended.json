@@ -1,0 +1,92 @@
+{
+    "time_posted": "2021-10-30 14:00:01",
+    "url": "https://www.youtube.com/watch?v=a0r0G0U-TB8",
+    "time_now": "2021-10-31 05:05:03",
+    "ups": "921",
+    "downs": "20",
+    "views": "40337",
+    "top_comments": [
+        {
+            "comment": "how to win Masterchef: lose the appetizer round",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "I love it everytime Eric went \"THIS IS MASTERCHEF\"",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "\"This is so Canadian\"\nTook the words straight out of my mouth",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "alvin sounds especially quiet when shouting the amount of time left in the season 4 finale compared to the other ones.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.041666666666666664,
+            "subjectivity": 0.34722222222222215
+        },
+        {
+            "comment": "Keep them coming guys \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "LOVING how active the channel has become the past fortnight or so!",
+            "polarity": 0.051388888888888894,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "7:09 He really looked, over there like:\nBish what?",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "32:35 this man never been to England \ud83d\udc80",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"This dish is like my grandpa on a plate\"\nMe who is confused, \"Ok.... Nice dish..... Good cooking... umm....\"",
+            "polarity": 0.35,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "Lin has always annoyed me. So happy she lost.",
+            "polarity": 0.2,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Loving the energy \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+            "polarity": 0.6,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "Keep them coming guys \ud83d\udcaf\ud83d\udcaf\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Chef Reid and Chef Alexander in the building \ud83d\udd25\ud83c\uddef\ud83c\uddf2\ud83d\udcaf\ud83d\udc48\ud83d\udc48\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I like how Beccy wasn't just strategizing her appetizer, but the whole course meal.",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        }
+    ]
+}

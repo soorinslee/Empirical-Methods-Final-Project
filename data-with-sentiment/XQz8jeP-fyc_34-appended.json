@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 14:15:01",
+    "url": "https://www.youtube.com/watch?v=XQz8jeP-fyc",
+    "time_now": "2021-11-05 12:47:23",
+    "ups": "110808",
+    "downs": "2390",
+    "views": "2856565",
+    "top_comments": [
+        {
+            "comment": "I wonder how many Will find this comment, in the vast and tretuous sea of comments. Be you.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.25,
+            "subjectivity": 0.75
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "ninevbgnj",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "where\u2019s Tug of war???",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm a huuuuuuug fan of presten 13 7 fghs",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 14:59:49",
+    "url": "https://www.youtube.com/watch?v=cRw3pAG39Pk",
+    "time_now": "2021-11-02 14:44:16",
+    "ups": "12406",
+    "downs": "84",
+    "views": "131892",
+    "top_comments": [
+        {
+            "comment": "LINK TO ALL MUSIC STREAMING SERVICES https://ffm.to/squidgames\nSHARE THIS EVERYWHERE YOU KNOW!!!!",
+            "likes": 337,
+            "number_of_replies": 15,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "My flesh meltin from dat heat but....\nA couple more replays couldn't hurt..\nRight...?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.39285714285714285,
+            "subjectivity": 0.5178571428571428
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Yo it's always heat \ud83e\udd18\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Holy shit this is fucking amazing, never thought there\u2019d be a fucking squid game rap this good",
+            "polarity": 0.020000000000000018,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "THis song is too lit brooo: FIREEEE",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

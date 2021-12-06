@@ -1,0 +1,137 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=ZBA8GnxtggU",
+    "time_now": "2021-10-30 16:46:11",
+    "ups": "507",
+    "downs": "49",
+    "views": "15932",
+    "top_comments": [
+        {
+            "comment": "Wow that's amazing!!\ud83c\udf83\ud83d\udc7b\ud83d\udc95",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "omg new video!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.33291903409090906,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "comment": "*Love you 123 GO\ud83d\ude19\u2764\ud83d\udc4d*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "26 comment",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Iove you",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The girls r twjn sisters",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Awwwe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "A New Video..",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "Wow that's amazing!!\ud83c\udf83\ud83d\udc7b\ud83d\udc95",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\ud83d\ude20\ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Yall are so CUTEEEEEEE \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Iove you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I\u2019m your 200!! like \ud83d\udc4d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "26 comment",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow!",
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "*Love you 123 GO\ud83d\ude19\u2764\ud83d\udc4d*",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Omg 3 minutes ago soo early yayy",
+            "polarity": 0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Hi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi like you very much \ud83d\ude0d",
+            "polarity": 0.26,
+            "subjectivity": 0.26
+        },
+        {
+            "body": "omg new video!!!!",
+            "polarity": 0.33291903409090906,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "i love this video",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Do zombies vs people",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

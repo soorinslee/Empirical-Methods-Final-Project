@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-03 19:36:18",
+    "ups": "3768",
+    "downs": "503",
+    "views": "206558",
+    "top_comments": [
+        {
+            "comment": "We cannot say koweit, emiratis and saoudis people are not responsible of the heat : they are rich from oil and produce more carbon than anyone in the world",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25833333333333336,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Imagine just eating a whole ghost pepper chillie in the middle of the humid 50\u00b0C scorching sun. Just imagine how that would feel.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "become vegan to reduce global heating",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Umm, that's how deserts work i guess",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "start constructing sustainable arachitecture...only solution",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Imagine just eating a whole ghost pepper chillie in the middle of the humid 50\u00b0C scorching sun. Just imagine how that would feel.",
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "This is terrifying. I'm so sorry for Kuwaitis having to go through this. It must be torture. And I love intense heat (38 - 44 degrees). I lived in Oman for 3 years, and it felt like heaven for me most of the time. But, I do remember three days in summer 2014 that were so hot that even I could not bear to be outside. It wasn't 50, but it was close. Everyone said it was very abnormal. Luckily, it only lasted for those three days. I never thought I would complain about heat. I hate the cold. But I would have treasured the cold during those three days of hellish heat in 2014:(",
+            "polarity": -0.2,
+            "subjectivity": 0.7846153846153846
+        },
+        {
+            "body": "How evil is it to have a fury dog in such a hot country. Pure stupidity.",
+            "polarity": -0.22714285714285715,
+            "subjectivity": 0.77
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-01 14:01:19",
+    "ups": "4370",
+    "downs": "47",
+    "views": "52912",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Can you do a fishing trip with the Gameboy pocket sonar?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Theres a good reason to town two GB camera,  you can now save a total of 60 low res 4 color pics!",
+            "polarity": 0.2333333333333333,
+            "subjectivity": 0.55
+        },
+        {
+            "body": "Thank god \"producer\" Grace keeps her mouth shut most of the time now days. It was seriously cringe trying to give her one liners all the time.",
+            "polarity": 0.08333333333333334,
+            "subjectivity": 0.5833333333333333
+        },
+        {
+            "body": "I feel like this might have just been a thing for devs they just didn\u2019t remove",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "By (6:35) of the video i began to think this was an overdue April fools joke but it kept going. lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "Ever since the NES Miyamoto's dream was to let the players put themselves into the games. The very first time he was able to hit the mainstream with it was the Miis. His journey to get that feature from the NES to the Wii was a wild odyssey.",
+            "polarity": 0.3083333333333333,
+            "subjectivity": 0.48611111111111116
+        }
+    ]
+}

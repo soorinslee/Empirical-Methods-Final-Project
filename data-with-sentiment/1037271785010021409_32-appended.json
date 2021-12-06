@@ -1,0 +1,110 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj3bp7/i_want_to_work_in_the_gaming_in_industry_should_i/",
+    "time_posted": "2021-10-30 11:05:09",
+    "time_now": "2021-11-05 04:35:04",
+    "ups": 2,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinhgl2",
+            "body": "Your posts makes it seem like you enjoy programming more. In my case I picked programming but I ended up in web development because I got a job offer and then all subsequent offers were based on my experience (I get at least one email per day). Some of my coworkers where in the game industry but switched because of things like crunching. The nice thing about programming is that there are many areas, flexible hours and the option of working for someone or as a freelancer.\n\nI don't know people in concept art, so I can't tell you how hard it is to get a job (what I thing is that it is hard, not only there is a lot of competiton but improving your art skills takes more time than studying programming). I do paint though, as a hobby. Half of my library is art books. I think that if I wanted (and had patience to actually practice) I could switch to art, if I don't get enough jobs I can just take some freelance programming projects.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.07666666666666665,
+            "subjectivity": 0.44666666666666666
+        },
+        {
+            "comment_id": "hinolka",
+            "body": "Definitely recommend going toward programming. You say you already are okay with C++, so that's a big thing. If you manage to get really good at it, and learn some other language, like Python, you will never run out of job offers, even outside of game programming.\nIf you want a programming job, you'll need experience and good understanding of the language involved in the job. In art jobs, you need talent on top of that. You really have to prove you are a cut above the rest and have a \"vision\". I have a few friends that did art related degrees, now struggling to find jobs, or are working in something completely different.\nI started studying programming around 10 years ago and I still don't get it. I did a sound and music related degree and tried to get a job in game audio. All jobs I found required 2 years+ experience at entry level, be great at coding in C++ and other languages and have experience with other software, and have a banger portfolio. I haven't studied any of these, except some C++, and don't have the patience to build a portfolio that won't help me pay the bills in the immediate future.\nSorry if this turned into a rant, but hope it gives you an idea of why doing coding is better if you're good at it",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.12900000000000003,
+            "subjectivity": 0.398
+        },
+        {
+            "comment_id": "hinhki8",
+            "body": "Coding video games is not \"really not that hard\", it is incredibly difficult. That being said, programmers are always needed and you can use those skills to get other jobs in programming too should you not find a job that relates to video games straight away. You probably get paid better too. \n\nAt the end of the day, do something that you actually like since you might end up working in that field for the rest of your life.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.04523809523809524,
+            "subjectivity": 0.44523809523809527
+        },
+        {
+            "comment_id": "hioma5r",
+            "body": "You should explore tech artist. Instead of building gameplay or systems, you program tools that artists can use. They tell you what they\u2019re trying to do, typically something the engine they\u2019re working with doesn\u2019t natively support, you build that tool, and then fine tune it with them. There are also plenty of art tasks that are repetitive, and tedious - you look at how the artists handle those tasks and build tools to automate them. That way they can make stuff beautiful and spend less time fighting their workflow. \n\nNot to mention great tech artists are hard to come by so finding a job that pays a bajillion dollars is likely.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.07685185185185185,
+            "subjectivity": 0.6231481481481481
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinhgl2",
+            "body": "Your posts makes it seem like you enjoy programming more. In my case I picked programming but I ended up in web development because I got a job offer and then all subsequent offers were based on my experience (I get at least one email per day). Some of my coworkers where in the game industry but switched because of things like crunching. The nice thing about programming is that there are many areas, flexible hours and the option of working for someone or as a freelancer.\n\nI don't know people in concept art, so I can't tell you how hard it is to get a job (what I thing is that it is hard, not only there is a lot of competiton but improving your art skills takes more time than studying programming). I do paint though, as a hobby. Half of my library is art books. I think that if I wanted (and had patience to actually practice) I could switch to art, if I don't get enough jobs I can just take some freelance programming projects.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.07666666666666665,
+            "subjectivity": 0.44666666666666666
+        },
+        {
+            "comment_id": "hinolka",
+            "body": "Definitely recommend going toward programming. You say you already are okay with C++, so that's a big thing. If you manage to get really good at it, and learn some other language, like Python, you will never run out of job offers, even outside of game programming.\nIf you want a programming job, you'll need experience and good understanding of the language involved in the job. In art jobs, you need talent on top of that. You really have to prove you are a cut above the rest and have a \"vision\". I have a few friends that did art related degrees, now struggling to find jobs, or are working in something completely different.\nI started studying programming around 10 years ago and I still don't get it. I did a sound and music related degree and tried to get a job in game audio. All jobs I found required 2 years+ experience at entry level, be great at coding in C++ and other languages and have experience with other software, and have a banger portfolio. I haven't studied any of these, except some C++, and don't have the patience to build a portfolio that won't help me pay the bills in the immediate future.\nSorry if this turned into a rant, but hope it gives you an idea of why doing coding is better if you're good at it",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.12900000000000003,
+            "subjectivity": 0.398
+        },
+        {
+            "comment_id": "hinhki8",
+            "body": "Coding video games is not \"really not that hard\", it is incredibly difficult. That being said, programmers are always needed and you can use those skills to get other jobs in programming too should you not find a job that relates to video games straight away. You probably get paid better too. \n\nAt the end of the day, do something that you actually like since you might end up working in that field for the rest of your life.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.04523809523809524,
+            "subjectivity": 0.44523809523809527
+        },
+        {
+            "comment_id": "hioma5r",
+            "body": "You should explore tech artist. Instead of building gameplay or systems, you program tools that artists can use. They tell you what they\u2019re trying to do, typically something the engine they\u2019re working with doesn\u2019t natively support, you build that tool, and then fine tune it with them. There are also plenty of art tasks that are repetitive, and tedious - you look at how the artists handle those tasks and build tools to automate them. That way they can make stuff beautiful and spend less time fighting their workflow. \n\nNot to mention great tech artists are hard to come by so finding a job that pays a bajillion dollars is likely.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.07685185185185185,
+            "subjectivity": 0.6231481481481481
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinhgl2",
+            "body": "Your posts makes it seem like you enjoy programming more. In my case I picked programming but I ended up in web development because I got a job offer and then all subsequent offers were based on my experience (I get at least one email per day). Some of my coworkers where in the game industry but switched because of things like crunching. The nice thing about programming is that there are many areas, flexible hours and the option of working for someone or as a freelancer.\n\nI don't know people in concept art, so I can't tell you how hard it is to get a job (what I thing is that it is hard, not only there is a lot of competiton but improving your art skills takes more time than studying programming). I do paint though, as a hobby. Half of my library is art books. I think that if I wanted (and had patience to actually practice) I could switch to art, if I don't get enough jobs I can just take some freelance programming projects.",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.07666666666666665,
+            "subjectivity": 0.44666666666666666
+        },
+        {
+            "comment_id": "hinolka",
+            "body": "Definitely recommend going toward programming. You say you already are okay with C++, so that's a big thing. If you manage to get really good at it, and learn some other language, like Python, you will never run out of job offers, even outside of game programming.\nIf you want a programming job, you'll need experience and good understanding of the language involved in the job. In art jobs, you need talent on top of that. You really have to prove you are a cut above the rest and have a \"vision\". I have a few friends that did art related degrees, now struggling to find jobs, or are working in something completely different.\nI started studying programming around 10 years ago and I still don't get it. I did a sound and music related degree and tried to get a job in game audio. All jobs I found required 2 years+ experience at entry level, be great at coding in C++ and other languages and have experience with other software, and have a banger portfolio. I haven't studied any of these, except some C++, and don't have the patience to build a portfolio that won't help me pay the bills in the immediate future.\nSorry if this turned into a rant, but hope it gives you an idea of why doing coding is better if you're good at it",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.12900000000000003,
+            "subjectivity": 0.398
+        },
+        {
+            "comment_id": "hinhki8",
+            "body": "Coding video games is not \"really not that hard\", it is incredibly difficult. That being said, programmers are always needed and you can use those skills to get other jobs in programming too should you not find a job that relates to video games straight away. You probably get paid better too. \n\nAt the end of the day, do something that you actually like since you might end up working in that field for the rest of your life.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.04523809523809524,
+            "subjectivity": 0.44523809523809527
+        },
+        {
+            "comment_id": "hioma5r",
+            "body": "You should explore tech artist. Instead of building gameplay or systems, you program tools that artists can use. They tell you what they\u2019re trying to do, typically something the engine they\u2019re working with doesn\u2019t natively support, you build that tool, and then fine tune it with them. There are also plenty of art tasks that are repetitive, and tedious - you look at how the artists handle those tasks and build tools to automate them. That way they can make stuff beautiful and spend less time fighting their workflow. \n\nNot to mention great tech artists are hard to come by so finding a job that pays a bajillion dollars is likely.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.07685185185185185,
+            "subjectivity": 0.6231481481481481
+        }
+    ]
+}

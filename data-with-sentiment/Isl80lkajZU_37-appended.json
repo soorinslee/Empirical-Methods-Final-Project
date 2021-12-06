@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:00:11",
+    "url": "https://www.youtube.com/watch?v=Isl80lkajZU",
+    "time_now": "2021-11-06 01:09:37",
+    "ups": "14285",
+    "downs": "245",
+    "views": "194121",
+    "top_comments": [
+        {
+            "comment": "SIGN UP FOR MY FREE MASTERCLASS: How to Turn Video-Making Into $100k/yr Career\nhttps://bit.ly/3vK6tUe",
+            "likes": 189,
+            "number_of_replies": 41,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "The fact that he didn't notice that lisa was edited in some of the clips\ud83d\udc80 9:06",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The fact that he didn't notice that lisa was edited in some of the clips\ud83d\udc80 9:06",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Tbh the actual song was awful to be fair- it was like random songs with no theme or vibe that don\u2019t go together jsut being smashed in one with artists who\u2019s styles couldnt compliment eachother if they tried and they didn\u2019t even try",
+            "polarity": -0.2,
+            "subjectivity": 0.625
+        }
+    ]
+}

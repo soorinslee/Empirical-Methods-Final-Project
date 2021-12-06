@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 12:07:22",
+    "url": "https://www.youtube.com/watch?v=RcHvho0AymI",
+    "time_now": "2021-10-31 09:11:43",
+    "ups": "365",
+    "downs": "30",
+    "views": "25771",
+    "top_comments": [
+        {
+            "comment": "Wow!! Former Attorney General & Advocate of the Supreme Court, after seeing the facts stated - NCB stretched the case too far against Aryan ? Aryan should not have been arrested ? So, it is true that NCB made an illegal arrest and was trying to frame Aryan. Wankhede certainly should be held accountable for damage caused to Aryan. NCB should take note.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0300595238095238,
+            "subjectivity": 0.46904761904761905
+        },
+        {
+            "comment": "NCB agencies need to investigate. Because this agency doing nothing for big dealer",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "comment": "He is a legal legend. Thanks, Zain.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "rohatgi also knows that the chats reveal that he was consuming drugs ... \nelse just like that the bail order does not state that he should refrain from such activities .",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "NCB needs publicity only",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "He reminds of a great criminal lawyer in my country.. Malaysia..the late Mr Karpal Singh. These people have law running in their veins.",
+            "polarity": 0.03333333333333335,
+            "subjectivity": 0.6333333333333333
+        }
+    ]
+}

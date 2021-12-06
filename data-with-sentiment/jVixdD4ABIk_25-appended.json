@@ -1,0 +1,34 @@
+{
+    "time_posted": "2021-10-30 15:13:19",
+    "url": "https://www.youtube.com/watch?v=jVixdD4ABIk",
+    "time_now": "2021-11-03 23:42:54",
+    "ups": "15901",
+    "downs": "51",
+    "views": "192480",
+    "top_comments": [
+        {
+            "comment": "Hey guys,  Last Night of the Proms \u201cJerusalem\u201d. Words William Blake/Milton n music Hubert Parry.  Check out the composition it\u2019s beautiful. Back in the 80\u2019s on the river in Cambridge, as the punt in front of us stopped under a bridge, a girl got up from the stern and sang Jerusalem. Phenomenal acoustics. It was a golden moment that still transports me to another world.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.33,
+            "subjectivity": 0.4133333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Love this video!!\nMy top favorite underrated pieces are\n1. Introduction and Allegro- Ravel\n2.Symphonic Dances -Rachmaninoff (I played the piccolo part)\n3. Poulenc Piano Sextet (Piano and Woodwind Quintet)\n4. Reinecke Flute Concerto\n5. The Engulfed Cathedral- Debussy\n6. Piano Concerto- Samuel Barber (this concerto does not get enough love)\n7. Symphony in C- Bizet (I\u2019ve also played this one and I played first flute)\n8. Gordeli Flute Concerto ( It\u2019s basically the flutist\u2019s Shostakovich concerto/Rhapsody in Blue)\n9. Romanesque for Flute, Viola and Piano - Reynaldo Hahn\n10. Sonata for Flute, Violin and Piano - Bohuslav Martinu (His Flute Sonata is gorgeous)\nHonorable mentions\n1. Rapsodia Negra for Piano and Orchestra -Ernesto Lecuona\n2. El Amor Brujo-Manuel De Falla\n3. Serenade Aux Etoiles -  Cecile Chaminade",
+            "polarity": 0.40390625,
+            "subjectivity": 0.5666666666666668
+        },
+        {
+            "body": "3:44 this will give me nightmares",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "You should hear: Evening in the mountain, 2 lyric pieces op.68 by Grieg",
+            "polarity": 0.25,
+            "subjectivity": 0.65
+        }
+    ]
+}

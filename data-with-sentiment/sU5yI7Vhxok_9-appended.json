@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 15:00:27",
+    "url": "https://www.youtube.com/watch?v=sU5yI7Vhxok",
+    "time_now": "2021-11-01 05:46:41",
+    "ups": "6179",
+    "downs": "53",
+    "views": "48030",
+    "top_comments": [
+        {
+            "comment": "It's always a pleasure dying in your videos",
+            "likes": 826,
+            "number_of_replies": 24,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Wow!!  I'm the generation who grew up with Saturday Night Fever and the BeeGees.  That was pure genius!!  I want to see more.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.33035714285714285,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "comment": "Damn, you look ghoul'd!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm going to date myself. I remember when this was released aby the Bee Gees. And it was good. I must say, I enjoyed your version much better \ud83d\ude0a and thank you for the warning at the beginning of your video. I'm sure the video is amazing, since you all sang so wonderfully!! However, blinking lights can bring on a vertigo attack (lol I don't even get those right. Instead of the room \"constantly spinning\" mine rocks. Like I'm on a rocking horse and I can't get off. And it can last anywhere from a few minutes to a month.) Anyways, can't wait to hear more of your music! So glad I'm a subscriber \ud83e\udd70",
+            "polarity": 0.446978021978022,
+            "subjectivity": 0.6018925518925518
+        },
+        {
+            "body": "Violet's makeup at the end was superb! And the whole cover was just amazing.",
+            "polarity": 0.6,
+            "subjectivity": 0.7666666666666666
+        },
+        {
+            "body": "Adulterated lyrics.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Do we really have to have a cheesy video when we remake a song? NO!  Just stick to your talents, music, not videography because you are going to suck at one of them and chances are it will be the one you aren't good at.",
+            "polarity": 0.09166666666666666,
+            "subjectivity": 0.6
+        }
+    ]
+}

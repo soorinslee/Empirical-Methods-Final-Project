@@ -1,0 +1,79 @@
+{
+    "time_posted": "2021-10-30 15:05:00",
+    "url": "https://www.youtube.com/watch?v=9AdbCyRD7U0",
+    "time_now": "2021-11-01 05:47:08",
+    "ups": "6202",
+    "downs": "107",
+    "views": "248954",
+    "top_comments": [
+        {
+            "comment": "So called bruh seriously",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.3333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Video is cool and all but is no one going to comment on how she was able to nail the pronunciation of the volcano\u2019s name?",
+            "polarity": 0.425,
+            "subjectivity": 0.6375
+        },
+        {
+            "body": "It didn't explode, what a misnomer!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "and yet americans thought that spain is located down south america",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        },
+        {
+            "body": "It that three head dragon from Godzilla",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hearing about th is volcano erupting for a couple months kinda concerns me I hope it\nStops soon",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Start selling ash as volcanic fertilizer",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Quick get the marshmallows;\u2019",
+            "polarity": 0.3333333333333333,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Did they ever rescue those dogs? I still think about them.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This happens in the sims sometimes.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What If It Is Igniting Or Able To Explodes\u2026 \ud83d\ude2c",
+            "polarity": 0.5,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I only saw these in cartoons",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

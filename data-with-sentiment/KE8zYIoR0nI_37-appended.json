@@ -1,0 +1,112 @@
+{
+    "time_posted": "2021-10-30 14:20:29",
+    "url": "https://www.youtube.com/watch?v=KE8zYIoR0nI",
+    "time_now": "2021-11-06 01:09:51",
+    "ups": "231929",
+    "downs": "2565",
+    "views": "4561969",
+    "top_comments": [
+        {
+            "comment": "Subscribe for 136,500,000 skittles :)",
+            "likes": 14716,
+            "number_of_replies": 490,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "In fact I saw someone wearing squid game",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "My name is Ralph lol",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "The only way to proof you are a female: \" UWU \"",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "comment": "I hate when ralph did the emegency\ud83d\ude3e\ud83d\ude3e\ud83d\ude3e\ud83d\ude3e",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Can you send a link to the among us remix please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Aoooo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "My name is Ralph lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "amogsus",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I heard the Slime God theme from Terraria mod Calamity.",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Are you in the Discord group Hemkodat?!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lol booluga",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I hate when ralph did the emegency\ud83d\ude3e\ud83d\ude3e\ud83d\ude3e\ud83d\ude3e",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "WTF RALPH SAY AMONGUS INPOSTER GUEST:WHAT THE FUCK GUsEt666:HOOOW GUEST?!?*?*?*? GUEST:IM THE LAST GUEST :D NOOBODY KILL ME =]",
+            "polarity": 0.1,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "2:25 - 2:49 hecker is my new favourite character",
+            "polarity": 0.13636363636363635,
+            "subjectivity": 0.45454545454545453
+        },
+        {
+            "body": "The only way to proof you are a female: \" UWU \"",
+            "polarity": 0.0,
+            "subjectivity": 0.5833333333333334
+        },
+        {
+            "body": "you are my biggest idol",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "In fact I saw someone wearing squid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        }
+    ]
+}

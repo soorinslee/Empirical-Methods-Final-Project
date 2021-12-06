@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 13:34:18",
+    "url": "https://www.youtube.com/watch?v=tpUH-cJpiNc",
+    "time_now": "2021-11-01 05:47:28",
+    "ups": "6895",
+    "downs": "71",
+    "views": "81211",
+    "top_comments": [
+        {
+            "comment": "There is something magical about the way you say \u201c Hey guys and welcome back to my YouTube channel\u201d. It sets a mood for me \u2764\ufe0f\u2728",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.43333333333333335,
+            "subjectivity": 0.6333333333333333
+        },
+        {
+            "comment": "So just out of curiosity who is playing for the food and plush hotel rooms ...plane tickets ...Clearly you have anxiety to even finish your school and Shane doesn't look like he works and your tube earnings won't be able to pay off all the bills \ud83d\ude44",
+            "likes": 1,
+            "number_of_replies": 4,
+            "polarity": 0.5,
+            "subjectivity": 0.625
+        },
+        {
+            "comment": "The outfit was literally the prettiest",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Aaliyah - get involved in some work that will bring meaning to your life. Shopping, partying, makeup are short-lived pleasures that do not add to a human being's purpose on this planet. You come across as a sensible kid, as does Shane - but you are lost in this make-believe world of pleasure. Do find your way back and work for a meaningful cause. Sending good vibes your way.\n\nAlso, all the commenters who are celebrating your lifestyle are doing you a disservice. This is not a life worth emulating. Work for a noble cause, it will help others and it will help you. Plus you can do it!",
+            "polarity": 0.375,
+            "subjectivity": 0.3666666666666667
+        }
+    ]
+}

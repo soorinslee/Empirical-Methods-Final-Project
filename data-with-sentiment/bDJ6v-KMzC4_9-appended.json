@@ -1,0 +1,59 @@
+{
+    "time_posted": "2021-10-30 15:46:40",
+    "url": "https://www.youtube.com/watch?v=bDJ6v-KMzC4",
+    "time_now": "2021-11-01 05:46:53",
+    "ups": "1941",
+    "downs": "32",
+    "views": "41195",
+    "top_comments": [
+        {
+            "comment": "I love it when horizon revives ash she says get up you unhearted toaster",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I love it when horizon revives ash she says get up you unhearted toaster",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Ash is so hyped for this season lmaooo",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I want to see either\n-LTM with abilityless legends\nOr\n-Battle Royale but you can be the same legend as your teammate, and everyone can be the same if they wanted",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "HEYYYY",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Remember the s8 wargames fiasco with all the LTMs",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i main valk the giblitar buff looks good",
+            "polarity": 0.4333333333333333,
+            "subjectivity": 0.4666666666666667
+        },
+        {
+            "body": "Who wouldn't be hyped for new LTMs!! The new season is looking quite promising, hope they can deliver",
+            "polarity": 0.18314393939393936,
+            "subjectivity": 0.4696969696969697
+        },
+        {
+            "body": "Please solos",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

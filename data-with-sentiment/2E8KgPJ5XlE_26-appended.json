@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 15:30:10",
+    "url": "https://www.youtube.com/watch?v=2E8KgPJ5XlE",
+    "time_now": "2021-11-04 03:50:20",
+    "ups": "1968",
+    "downs": "53",
+    "views": "64796",
+    "top_comments": [
+        {
+            "comment": "32:48\n\nListening to this with no headphones lol...people would definitely wonder what you're watching.\ud83d\ude05",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Tomb Raider (2013) & Rise of the Tomb Raider were both amazing games.",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Did any one else notice how Lara's face expressions and body animation reminds of old prince of Persia games, literary dejavu moment.",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "comment": "Dude is missing a few shots. Kinda refreshing to see, given how long the game is, it'd be impossible to perfect every section of it, especially with somewhat volatile enemy Ai to contend with.",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.002083333333333326,
+            "subjectivity": 0.6187499999999999
+        },
+        {
+            "comment": "Sleeper hit of a hidden gem.",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": -0.16666666666666666,
+            "subjectivity": 0.3333333333333333
+        }
+    ],
+    "comments_since_last_sample": []
+}

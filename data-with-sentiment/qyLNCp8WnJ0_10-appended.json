@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-01 09:54:22",
+    "ups": "4669",
+    "downs": "127",
+    "views": "105152",
+    "top_comments": [
+        {
+            "comment": "Did Bobby move to Florida? I\u2019ve been away from this channel for a while.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Stop promoting your sponsored crud From other companies when your in Costco\u2026.that is so ghetto! Your are notorious for doing this.",
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        }
+    ]
+}

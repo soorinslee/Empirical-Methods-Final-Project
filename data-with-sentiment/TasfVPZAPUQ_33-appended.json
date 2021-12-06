@@ -1,0 +1,77 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-05 08:39:58",
+    "ups": "45059",
+    "downs": "81",
+    "views": "247716",
+    "top_comments": [
+        {
+            "comment": "I loved everything about this performance! Purple Kiss always iconic",
+            "likes": 6,
+            "number_of_replies": 0,
+            "polarity": 0.6875,
+            "subjectivity": 0.65
+        },
+        {
+            "comment": "back to this of course, not stopping until it reaches 1m \ud83d\ude05",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "we got 2k subscribers recently!!! i'm thinking it's because of this performance video. proud of you girls, slowly preparing for world domination!",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.14166666666666666,
+            "subjectivity": 0.5499999999999999
+        },
+        {
+            "comment": "THIS IS SO COOL. I love the original, but got *really* excited once the music started playing!",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.4234375,
+            "subjectivity": 0.6875
+        },
+        {
+            "comment": "Am I the only one who watches this at least once a day. It's just that good",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.6666666666666666
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "to for sev, to sev sev",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Love it",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Very awesome",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Rbw really is trash but this is such a good production \ud83d\ude29",
+            "polarity": 0.3,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "the replay value of this performance video \ud83d\ude0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "road to 300k, let's not stop now",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

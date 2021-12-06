@@ -1,0 +1,45 @@
+{
+    "time_posted": "2021-10-30 19:54:21",
+    "url": "https://www.youtube.com/watch?v=wyuzWVBaP0U",
+    "time_now": "2021-11-01 01:40:01",
+    "ups": "149251",
+    "downs": "2126",
+    "views": "1154281",
+    "top_comments": [
+        {
+            "comment": "Gyan bhai request le lo",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Gyan bhai request le lo",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "2428954516 gyan bhai request huta lo",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Gyan bhai tum bhanban ho",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hello my bro\nGood morning \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 12:04:22",
+    "url": "https://www.youtube.com/watch?v=RqnFN8W8Ygs",
+    "time_now": "2021-10-31 00:58:03",
+    "ups": "281",
+    "downs": "54",
+    "views": "29554",
+    "top_comments": [
+        {
+            "comment": "tama c atty lacson hind nila puwede\nbaguhin ang history people power \nrevolution,,nakaw,,dictator,,human\nabuse,,,mauunawaan yan ng taongbayan,,tama c pari socrates",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "ANG KAWATAN AT MANDARAMBONG ,,MAG SAMA HUHUHUHU,,KALOLOOY GD ANG ATON BANSA,,,,,WAKE UP MAHAL KONG KABAYAN,,,,BE WISE,,,GOD BLESS US ALL,,,,",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "MGA HISTORY BOOKS NIYONG ALTERED...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kalat mo, Pulutin mo. Kalat mo, Damputin mo. Kalat mo, Ibasura mo. PICK UP AFTER YOURSELF. Huwag Kang Magkalat. Keep Your Environment Clean.",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.7000000000000001
+        },
+        {
+            "body": "HOW ABOUT OUR PROBLEM AT THE Philippines WEST SEA",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "tama c acedillo at ping lacson tama ang batas palitan gobyerno palitan  presidente kapag may mali,,panhon \npa yan marcos martial law  20yrs \npagupo president, sabi ninoy aquino\npalitan yan para wala abuso,,pumssok edsa revolution nag alsa mga sundalo pulis madre pari taonbayan para ilagay ilagay bago \npresidente tino,wala nakaw ,human\nright abuse, 6 anim nataon  lang ,wala korakot,",
+            "polarity": 0.09523809523809523,
+            "subjectivity": 0.2119047619047619
+        },
+        {
+            "body": "tama c atty lacson hind nila puwede\nbaguhin ang history people power \nrevolution,,nakaw,,dictator,,human\nabuse,,,mauunawaan yan ng taongbayan,,tama c pari socrates",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

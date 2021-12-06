@@ -1,0 +1,68 @@
+{
+    "time_posted": "2021-10-30 14:55:44",
+    "url": "https://www.youtube.com/watch?v=_NX_RAC6sLE",
+    "time_now": "2021-11-02 10:37:20",
+    "ups": "16257",
+    "downs": "55",
+    "views": "165660",
+    "top_comments": [
+        {
+            "comment": "ur kitten is army now",
+            "likes": 2233,
+            "number_of_replies": 13,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Goosebumps every time he sings The word Falling.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\uc790\uafb8  \ub4e3\uac8c\ub418\ub294 \ub9c8\ub825\uc774  \uc788\ub294  \ubaa9\uc18c\ub9ac. .\uc0ac\ub791 \uc785\ub2c8\ub2e4.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Your kitten is so cute",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Golden Voice Jungkook\u2764\u2764\u2764",
+            "polarity": 0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Jungkook is so unique person in the world .His voice is so peaceful and lovely and magical and incredible. \ud83d\udc9c\ud83d\udc9c\ud83d\udc9c",
+            "polarity": 0.505,
+            "subjectivity": 0.8300000000000001
+        },
+        {
+            "body": "\uc790\uafb8  \ub4e3\uac8c\ub418\ub294 \ub9c8\ub825\uc774  \uc788\ub294  \ubaa9\uc18c\ub9ac. .\uc0ac\ub791 \uc785\ub2c8\ub2e4.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "this song suits jungkook so well. he did really well.",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "you need to react to more covers done by BTS fr\n- 10000 hours cover by jungkook\n- paper hearts by jungkook\n- someone like you by v\n- 2u cover by jungkook\nALSO CHECK OUT THEIR SOUNDCLOUD IF POSSIBLE \n- promise by jimin\n- abyss by jin\n- blue side by jhope\n- scenery by v\n- bicycle by rm\n- still with you by jungkook",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "you should react to his cover of lost stars! incredible",
+            "polarity": 0.9,
+            "subjectivity": 0.9
+        }
+    ]
+}

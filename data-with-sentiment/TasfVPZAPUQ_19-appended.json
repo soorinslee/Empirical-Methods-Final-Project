@@ -1,0 +1,107 @@
+{
+    "time_posted": "2021-10-30 15:00:12",
+    "url": "https://www.youtube.com/watch?v=TasfVPZAPUQ",
+    "time_now": "2021-11-02 22:59:01",
+    "ups": "41393",
+    "downs": "71",
+    "views": "211645",
+    "top_comments": [
+        {
+            "comment": "This is SO GOOD OMG",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "comment": "I was waiting for purple kiss halloween",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love how in Kpop dubstep has yet to die",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "they're so pretty",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Yuki\ud83d\udc9c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "W O W",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The whole production",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "This version is sooooo lit \ud83d\udd25 \ud83d\udd25\ud83d\udd25",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ma girlssss, iconic ladies",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Oh waw \ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This was truly amazing. I had to rewatch it multiple times!",
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.45
+        },
+        {
+            "body": "I need to know if 1 million also choreographed this",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Everything in this video is so good~!",
+            "polarity": 0.875,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "This is\u2026 WOW \ud83d\ude2f",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "MULTITALENTED GROUP",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This video just put Purple Kiss up there with Dreamcatcher & LOONA as my fav groups",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        }
+    ]
+}

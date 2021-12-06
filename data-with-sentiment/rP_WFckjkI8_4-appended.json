@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:16:22",
+    "url": "https://www.youtube.com/watch?v=rP_WFckjkI8",
+    "time_now": "2021-10-31 09:11:26",
+    "ups": "2285",
+    "downs": "36",
+    "views": "47093",
+    "top_comments": [
+        {
+            "comment": "God I love your videos ETA. Emulation is just the best and so fun.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 0.36666666666666664
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Could you Review the Poco x3 pro Smartphone it is the best Price to Performance Smartphone you can get For 200 Dollars IT has 8gb of RAM 256 Gigs of storage a Snapdragon 860 Processor and a 120hz fullhd+ Gorilla Glass 6 Screen",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Do you get extra performance for using hdmi like how laptops work?",
+            "polarity": 0.0,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "You think you could benchmark mario 64 or ocarina of time i find some handhelds to be inconsistant at holding up to the game in alot of demanding scenes",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Good product, but pricy at $170. Be interested to see how this compares to the Retroid Pocket 2+ because that might be a better alternative.",
+            "polarity": 0.48333333333333334,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "Looks okay, but why did they design it to look like the GPD XD?",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

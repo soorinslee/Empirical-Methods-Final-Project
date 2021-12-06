@@ -1,0 +1,44 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-04 16:11:37",
+    "ups": "17615",
+    "downs": "181",
+    "views": "392011",
+    "top_comments": [
+        {
+            "comment": "Maybe John could do a review of the classic Xbox game BLACK. i think it has one of the most realistic firearms",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.05333333333333332,
+            "subjectivity": 0.36666666666666664
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I hope the next episode is COD Vanguard with the disgusting weapon customization so we can see Johnathan get truly upset.",
+            "polarity": -0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I want to see jonathan do a weapon from zombie army 4 dead war.",
+            "polarity": -0.2,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "If you haven't checked out Medal of honor, Doorfi.. ehm i mean. Warfighter then i would like to see you check out the weapons in that game and how the animations are! If you have already checked it out then please tell me! xD",
+            "polarity": -0.46875,
+            "subjectivity": 0.54375
+        },
+        {
+            "body": "Order 1886 please",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I would like to see his reaction to the Army of 2 guns.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 12:27:15",
+    "url": "https://www.youtube.com/watch?v=rG5bTCPozVA",
+    "time_now": "2021-11-05 16:55:36",
+    "ups": "554",
+    "downs": "5",
+    "views": "12080",
+    "top_comments": [
+        {
+            "comment": "Powerful job. Your attention to detail means the end result is top class.",
+            "likes": 5,
+            "number_of_replies": 1,
+            "polarity": 0.4,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "OMG! you must be psychic! I need to do this and other roof jobs before winter THANK YOU!",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": -0.15625,
+            "subjectivity": 0.375
+        },
+        {
+            "comment": "Another excellent video Charlie. A real masterclass. Anyone with cast iron rainwater good should watch this video. Btw, loving the Discord chatter!",
+            "likes": 2,
+            "number_of_replies": 1,
+            "polarity": 0.6625,
+            "subjectivity": 0.7125
+        },
+        {
+            "comment": "Simply listing the products required already convinced me ripping off and replacing with PVC is better.",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": 0.25,
+            "subjectivity": 0.4285714285714286
+        },
+        {
+            "comment": "Awesome video Charlie. This will be me next year on our gutters. What are your thoughts on linseed paint? Would that not work really well too",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.39999999999999997
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Hi Charlie - very off topic but some advice needed please, I'm fitting some new architrave to a door frame that isn't straight across the top, it drops down from left to right. (it's a 200 year old cottage so nothing is straight) I'm fitting a tall piece to the left hand side and and piece across the top (none to the right). \nTo the left of the architrave I'm fitting some wooden panelling to the wall. with a decorative piece of wood across the top running from the top of the architrave to the returning wall on the left hand side. \nAm I better to have the architrave above the door fitting level and just bodging the underneath, so that the decorative piece of wood above the panelling doesn't look odd? First time doing architrave so just wanted some advice before I commit to it!",
+            "polarity": 0.22684884559884558,
+            "subjectivity": 0.323007548007548
+        }
+    ]
+}

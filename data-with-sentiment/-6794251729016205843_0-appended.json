@@ -1,0 +1,183 @@
+{
+    "post_url": "https://www.reddit.com/r/Music/comments/qj2sqq/what_songs_should_only_be_played_sequentially_as/",
+    "time_posted": "2021-10-30 10:38:52",
+    "time_now": "2021-10-30 16:46:33",
+    "ups": 3,
+    "downs": 0,
+    "comments_since_last_sample": [
+        {
+            "comment_id": "hinoem2",
+            "body": "Slayer - Postmortem/Raining Blood",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hino54m",
+            "body": "The Hellion followed by Electric Eye. It\u2019s just no fun if they\u2019re not played together.",
+            "polarity": -0.15,
+            "subjectivity": 0.2
+        },
+        {
+            "comment_id": "hinn8o7",
+            "body": "We Are the Champions and We Will Rock You",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinieap",
+            "body": "Gorillaz - Intro/Last Living Souls, Don't Get Lost in Heaven/Demon Days\n\nKing Crimson - 21st Century Schizoid Man/I Talk to the Wind\n\nA Tribe Called Quest - What?/Scenario\n\nRJD2 - The Horror/Smoke and Mirrors\n\nI could go absolutely all day with this question. This is probably the biggest loss of people's disinterest with whole albums, the sequencing of album tracks is what makes these things classics.",
+            "polarity": 0.13333333333333333,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "comment_id": "hinfd9g",
+            "body": "Basically any Tool album.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinejiy",
+            "body": "The Abbey Road medley\n\nTool intermission and Jimmy also Parabol and Parabola",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hincicu",
+            "body": "The Pros and Cons of Hitchhiking by Rogers Waters. It's a story and it's awesome.",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment_id": "hinbjsm",
+            "body": "Everything on The Streets - A Grand Don\u2019t Come For Free. The full album is a story",
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.7833333333333333
+        }
+    ],
+    "top_comments_top": [
+        {
+            "comment_id": "hinbjsm",
+            "body": "Everything on The Streets - A Grand Don\u2019t Come For Free. The full album is a story",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "comment_id": "hincicu",
+            "body": "The Pros and Cons of Hitchhiking by Rogers Waters. It's a story and it's awesome.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment_id": "hinejiy",
+            "body": "The Abbey Road medley\n\nTool intermission and Jimmy also Parabol and Parabola",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinfd9g",
+            "body": "Basically any Tool album.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hino54m",
+            "body": "The Hellion followed by Electric Eye. It\u2019s just no fun if they\u2019re not played together.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.15,
+            "subjectivity": 0.2
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinbjsm",
+            "body": "Everything on The Streets - A Grand Don\u2019t Come For Free. The full album is a story",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "comment_id": "hincicu",
+            "body": "The Pros and Cons of Hitchhiking by Rogers Waters. It's a story and it's awesome.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment_id": "hinejiy",
+            "body": "The Abbey Road medley\n\nTool intermission and Jimmy also Parabol and Parabola",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinfd9g",
+            "body": "Basically any Tool album.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hino54m",
+            "body": "The Hellion followed by Electric Eye. It\u2019s just no fun if they\u2019re not played together.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.15,
+            "subjectivity": 0.2
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinbjsm",
+            "body": "Everything on The Streets - A Grand Don\u2019t Come For Free. The full album is a story",
+            "ups": 3,
+            "downs": 0,
+            "polarity": 0.4166666666666667,
+            "subjectivity": 0.7833333333333333
+        },
+        {
+            "comment_id": "hincicu",
+            "body": "The Pros and Cons of Hitchhiking by Rogers Waters. It's a story and it's awesome.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment_id": "hinejiy",
+            "body": "The Abbey Road medley\n\nTool intermission and Jimmy also Parabol and Parabola",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hinfd9g",
+            "body": "Basically any Tool album.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hino54m",
+            "body": "The Hellion followed by Electric Eye. It\u2019s just no fun if they\u2019re not played together.",
+            "ups": 1,
+            "downs": 0,
+            "polarity": -0.15,
+            "subjectivity": 0.2
+        }
+    ]
+}

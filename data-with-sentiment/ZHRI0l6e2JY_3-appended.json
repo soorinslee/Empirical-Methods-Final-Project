@@ -1,0 +1,67 @@
+{
+    "time_posted": "2021-10-30 15:00:15",
+    "url": "https://www.youtube.com/watch?v=ZHRI0l6e2JY",
+    "time_now": "2021-10-31 05:05:00",
+    "ups": "209",
+    "downs": "3",
+    "views": "5864",
+    "top_comments": [
+        {
+            "comment": "By far, the best painting of he day was the young lady who won the wolf card. Eager to see how she does next time",
+            "likes": 11,
+            "number_of_replies": 1,
+            "polarity": 0.30000000000000004,
+            "subjectivity": 0.42500000000000004
+        },
+        {
+            "comment": "\"Titivating\" is the word of the day.  To make small, enhancing alterations.  Well done, everyone.",
+            "likes": 7,
+            "number_of_replies": 0,
+            "polarity": -0.25,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Sorry, but Emily's painting looked like something a preschooler produced and she moved at a snails pace. I did like the other two shortlisted pieces and how both focused on completely different aspects of the landscape. Made it hard to choose between them but I liked that Tom won. I felt his piece represented the overall landscape better.",
+            "likes": 6,
+            "number_of_replies": 1,
+            "polarity": 0.026190476190476177,
+            "subjectivity": 0.5452380952380952
+        },
+        {
+            "comment": "i love that diptych",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "I think the wild card was really the winner \ud83e\udd2d",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000002,
+            "subjectivity": 0.30000000000000004
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "The wildcard winner created by far my favourite painting\u2014brilliant!",
+            "polarity": 0.125,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Thank you, thank you, thank you\u2026a thousand times thank you. \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Define \u201cProfessional artist\u201d \u2026 I would imagine someone who derives an income from their art? Or do they define differently?",
+            "polarity": 0.05,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "Emily\u2019s hair and glasses \ud83e\udd13 I found to be so distracting, what an interesting lady who looks like a 4 year old girl! \ud83d\ude02",
+            "polarity": 0.3125,
+            "subjectivity": 0.35
+        }
+    ]
+}

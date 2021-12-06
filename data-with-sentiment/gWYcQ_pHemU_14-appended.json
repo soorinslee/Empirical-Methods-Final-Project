@@ -1,0 +1,38 @@
+{
+    "time_posted": "2021-10-30 11:30:06",
+    "url": "https://www.youtube.com/watch?v=gWYcQ_pHemU",
+    "time_now": "2021-11-02 02:23:51",
+    "ups": "4799",
+    "downs": "72",
+    "views": "118867",
+    "top_comments": [
+        {
+            "comment": "If Younkin wins I will move to VA instead of MD.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Prayers for the people of Virginia   and victory for Youngkin",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "McAuliffe is a Communist!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I bet Trump was really ahead in the polls. It would have made it harder to steal the election if the polls were honest",
+            "polarity": 0.2333333333333333,
+            "subjectivity": 0.3666666666666667
+        }
+    ]
+}

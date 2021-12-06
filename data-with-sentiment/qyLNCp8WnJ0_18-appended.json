@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 13:28:25",
+    "url": "https://www.youtube.com/watch?v=qyLNCp8WnJ0",
+    "time_now": "2021-11-02 18:52:38",
+    "ups": "5584",
+    "downs": "143",
+    "views": "132644",
+    "top_comments": [
+        {
+            "comment": "My wife and I are going to the new Costco tomorrow that they just built a week ago. So excited. We have never been to 1 before!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3025568181818182,
+            "subjectivity": 0.6022727272727273
+        },
+        {
+            "comment": "Truvani protein mix? Has Prop 65 warning. Other protein mixes don't. What think of prop 65 warning? Why on truvani and not on others w same ingrdnts?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.0625,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "Thanks!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.25,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Agreed. Frozen is better than canned or in a glass jar correct? I hate plastic to. And lord let me see somebody warm up something in plastic. Omg. Omg!!!",
+            "polarity": 0.2333333333333333,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "Where's Rosie? she's the best shopper",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        }
+    ]
+}

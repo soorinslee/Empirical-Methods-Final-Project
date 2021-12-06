@@ -1,0 +1,39 @@
+{
+    "time_posted": "2021-10-30 12:00:23",
+    "url": "https://www.youtube.com/watch?v=mwnMJkIfEQ4",
+    "time_now": "2021-11-05 00:26:25",
+    "ups": "5900",
+    "downs": "364",
+    "views": "338498",
+    "top_comments": [
+        {
+            "comment": "Biden's job rating sinks to 42 percent in NBC News poll a year from midterms",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "If any of the Intel agencies can solve and charge with transparency. We the people would be well on way to trusting them again",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This is kind a big    it explains much and I'll pray even harder. I know who has me in the spirit. Helping behind the scenes",
+            "polarity": 0.06000000000000001,
+            "subjectivity": 0.38
+        },
+        {
+            "body": "Spectrum health that's interesting  personally I don t enjoy spectrum as service",
+            "polarity": 0.3,
+            "subjectivity": 0.43333333333333335
+        },
+        {
+            "body": "Ya I'll be shocked if real truth ever sees the light.  And harassment ever stops",
+            "polarity": -0.033333333333333305,
+            "subjectivity": 0.6
+        }
+    ]
+}

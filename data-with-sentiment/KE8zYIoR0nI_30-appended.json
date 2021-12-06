@@ -1,0 +1,113 @@
+{
+    "time_posted": "2021-10-30 14:20:29",
+    "url": "https://www.youtube.com/watch?v=KE8zYIoR0nI",
+    "time_now": "2021-11-04 20:18:50",
+    "ups": "224876",
+    "downs": "2464",
+    "views": "4300993",
+    "top_comments": [
+        {
+            "comment": "Subscribe for 136,500,000 skittles :)",
+            "likes": 14359,
+            "number_of_replies": 490,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "I like how every character haves an inventory that suits him",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "No one: \nNot a single soul:\nRalph: *violently builds entire skittle factory in less than a second*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.18619047619047618,
+            "subjectivity": 0.3811904761904762
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I met Skittle once she was weird",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I like how every character haves an inventory that suits him",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I came for the sauce",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "WE just gonna gloss over the fact that Skittle was never saved and was in the explosion?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "well someone finally said it",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "1980:let\u2019s we\u2019re Super man!\n\n2021:I\u2019m player 456 from Netflix\nI\u2019m Jonsey\nI\u2019m beluga the cat\nLitterly every related to a screen!",
+            "polarity": 0.20833333333333331,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "the fact i was among us this halloween and this is so accurate XD",
+            "polarity": 0.4000000000000001,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "body": "ok\nI\u2019m going back to the house to go to the beach and get some rest of my food for dinner and I\u2019ll be back home in the next few minutes if you\u2019re still there I\u2019ll let you know what I can do to help you",
+            "polarity": 0.06,
+            "subjectivity": 0.12
+        },
+        {
+            "body": "No one: \nNot a single soul:\nRalph: *violently builds entire skittle factory in less than a second*",
+            "polarity": -0.18619047619047618,
+            "subjectivity": 0.3811904761904762
+        },
+        {
+            "body": "Oooooooooooooh ralph is a sussy baka",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I want theodore back",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "EPIK",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "The thumbnail is...........the code itself, a very wise decision my fellow cultured beluga....a wise..decision",
+            "polarity": 0.9099999999999999,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Fr lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "i forgot its fucking very funny beluga",
+            "polarity": 0.325,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "So no one\u2019s gonna talk about where skittle chan went..*police sirens*",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

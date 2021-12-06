@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 13:30:27",
+    "url": "https://www.youtube.com/watch?v=GG-_iR6AW-w",
+    "time_now": "2021-10-31 09:11:40",
+    "ups": "2182",
+    "downs": "47",
+    "views": "56529",
+    "top_comments": [
+        {
+            "comment": "*INDIAN MAKHI MAR ARMY \ud83e\udd9fIndia's mosquito killer army\ud83e\udd9f poonch Kashmir zindabad*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Roman's are for soldiers & Catholics are for peace & love\ud83c\udf39",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Modi ji , your dressing signify a lot information , excellent. May the real freedom fighters soul experience peace. India has three unconditional friends : Russia , Isreal and France.",
+            "polarity": 0.6,
+            "subjectivity": 0.65
+        },
+        {
+            "body": "In India no french flags are burnt or calls for the ambassador to be kicked out [ Unlike our Neighbor ] However what I am wary off wrt France - They have sold defense systems & weapons along with Mirage fighters to Pakistan - I feel that India needs to ensure this stops if they want to trade & deal with us ie trade is to cease with Pakistan for India. Choice is theirs.",
+            "polarity": -0.25,
+            "subjectivity": 0.35
+        },
+        {
+            "body": "PM Modi energy for whole world",
+            "polarity": 0.2,
+            "subjectivity": 0.4
+        }
+    ]
+}

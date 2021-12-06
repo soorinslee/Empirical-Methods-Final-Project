@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 11:00:00",
+    "url": "https://www.youtube.com/watch?v=-BB6q34RQIQ",
+    "time_now": "2021-11-05 21:02:44",
+    "ups": "667",
+    "downs": "181",
+    "views": "64846",
+    "top_comments": [
+        {
+            "comment": "Covid is a plandemic. Plain and simple. Only idiots believe covid is real now. If asked 2 years ago, 100% of people would've not agreed to take part in medical experiments with a \"vaccine\" that was developed in a couple months. But the vaccine advertising is really strong. If you tell a lie enough times, it will be believed.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.031216931216931223,
+            "subjectivity": 0.48306878306878304
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Not dropping in my area and going up in other states once again they can\u2019t get information right.",
+            "polarity": 0.08035714285714285,
+            "subjectivity": 0.45535714285714285
+        },
+        {
+            "body": "If you want the covid shot get it. if want to wear a mask do it but I don't want neither and I have that right. A mandate isn't a law and therefore no one should have to do or go against our rights as Americans. If the vaccine worked you still wouldn't catch it or need up to 4 boosters and if a mask worked you wouldn't of needed the Vaccines and boosters!!! We need to let our bodies catch it and do it naturally but making our own antibodies. If the ones who have underline problems give it them but other people with healthy immune systems stop forcing it on us!!!!",
+            "polarity": 0.42660714285714285,
+            "subjectivity": 0.5621428571428572
+        }
+    ]
+}

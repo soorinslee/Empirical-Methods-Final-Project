@@ -1,0 +1,97 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-10-31 09:11:47",
+    "ups": "2680",
+    "downs": "107",
+    "views": "86498",
+    "top_comments": [
+        {
+            "comment": "\u0916\u0942\u092c\u0938\u0942\u0930\u0924  \u0906\u0902\u0916\u0947 \u2764\ufe0f \u091c\u094b \u0907\u0938 \u0935\u0915\u094d\u0924 \u092f\u0947 \"POST\" \ud83e\udd29 \u092a\u0922\u093c \u0930\u0939\u0947 \u0939\u0948\u0902 \ud83d\ude4f \u092d\u0917\u0935\u093e\u0928 \u0915\u0930\u0947 \u0909\u0928 \u0906\u0902\u0916\u094b \u0915\u0947 \u0939\u0930 \u0938\u092a\u0928\u0947 \u092a\u0942\u0930\u0947 \u0939\u094b, \ud83c\uddee\ud83c\uddf3...\ud83d\udc4d",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "The scientist look like *ALBERT EINSTEIN* (lol) and I can't live without internet internet is my live",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3575757575757576,
+            "subjectivity": 0.5666666666666667
+        },
+        {
+            "comment": "Just do what they did in South Park. Unplug the giant modem/router.\n\nWait for the green lights to be solid.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.46666666666666673
+        },
+        {
+            "comment": "The bright side makes me want to be a scientist",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "comment": "Me having a whole lot of downloads of YouTube videos \n*i am inevitable*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I don't like it it's sad hructch (Crying)",
+            "polarity": -0.35,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "\ud83d\udc9f\ud83d\ude0c\u2b50",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I'm ok I'm o k",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Attention everyone we are currently trying to bring back roblox. Please be patient.",
+            "polarity": 0.0,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Just do what they did in South Park. Unplug the giant modem/router.\n\nWait for the green lights to be solid.",
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.46666666666666673
+        },
+        {
+            "body": "I would dye",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "How to print INTERNET:\nStep 1: Type Internet\nStep 2: Print out",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I didn't have internet for 18 hours",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Me having a whole lot of downloads of YouTube videos \n*i am inevitable*",
+            "polarity": 0.1,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "But I wanna know WHY the internet shut down???",
+            "polarity": -0.15555555555555559,
+            "subjectivity": 0.2888888888888889
+        }
+    ]
+}

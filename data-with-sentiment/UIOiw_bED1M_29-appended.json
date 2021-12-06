@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-11-04 16:11:36",
+    "ups": "8085",
+    "downs": "230",
+    "views": "216240",
+    "top_comments": [
+        {
+            "comment": "Please do a Tech Analysis on PC",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It's unacceptable. Console games should not be unoptomized!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

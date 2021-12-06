@@ -1,0 +1,53 @@
+{
+    "time_posted": "2021-10-30 14:00:11",
+    "url": "https://www.youtube.com/watch?v=X1ISQ_LyoAE",
+    "time_now": "2021-11-04 03:50:58",
+    "ups": "1797",
+    "downs": "36",
+    "views": "22581",
+    "top_comments": [
+        {
+            "comment": "FRAGRANCES FEATURED IN TODAYS VIDEO\r\nhttps://go.magik.ly/ml/1bhfz/\r\nhttps://go.magik.ly/ml/1bhgn/\r\nhttps://go.magik.ly/ml/1bhge/\r\nhttps://go.magik.ly/ml/1bhgl/\r\nhttps://go.magik.ly/ml/1bhgs/",
+            "likes": 10,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Acqua Di Gio was my very first cologne I\u2019ve ever owned in high school and was my signature scent for quite a while until I got a couple more  fragrances to add to my collection and would alternate between them. I\u2019ve only ever bought that one bottle of Acqua but to me it\u2019s still a nostalgic scent.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08083333333333333,
+            "subjectivity": 0.5788888888888889
+        },
+        {
+            "comment": "I'd love to join the giveaway. I've never tried the original Acqua Di Gio. I do have Profumo and Profondo, and tried Profondo Lights",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4375,
+            "subjectivity": 0.675
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Have around 37 colognes since I started in February and have never tried ADG despite hearing only praise",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "The Original ADG was my first ever fragrance, also my most complimented ever. Year round frag and you just can't over spray it.",
+            "polarity": 0.23125,
+            "subjectivity": 0.49583333333333335
+        },
+        {
+            "body": "I used to wear ADG in middle school! Probably the first fragrance I ever purchased!",
+            "polarity": 0.15625,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "body": "I remember smelling ADG in a macys when I was 14 with all my friends in a mall. Brings back those memories whenever I smell it. Would live to get a bottle of it with this giveaway",
+            "polarity": 0.06818181818181818,
+            "subjectivity": 0.25
+        }
+    ]
+}

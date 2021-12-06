@@ -1,0 +1,55 @@
+{
+    "time_posted": "2021-10-30 10:50:50",
+    "url": "https://www.youtube.com/watch?v=AI53pmNyhbE",
+    "time_now": "2021-11-03 03:06:28",
+    "ups": "30123",
+    "downs": "4931",
+    "views": "6646083",
+    "top_comments": [
+        {
+            "comment": "This song will be heard for 1000 years to come",
+            "likes": 5,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Bhai ye gana kabhi purana nahi hota, jab suno tab lagta hai kal hi release hua hai.",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Nice song",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Sad To Know This Beautiful Girl Died At The Age Of 19 \ud83d\ude25",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.175,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nice song",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Rahulprjapati",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Most fav song ever \ud83e\udd29",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        }
+    ]
+}

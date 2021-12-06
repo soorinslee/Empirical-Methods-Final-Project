@@ -1,0 +1,78 @@
+{
+    "time_posted": "2021-10-30 14:00:25",
+    "url": "https://www.youtube.com/watch?v=NZ8YKpyTGaY",
+    "time_now": "2021-11-01 05:47:27",
+    "ups": "8631",
+    "downs": "695",
+    "views": "457486",
+    "top_comments": [
+        {
+            "comment": "This video is like the actual squid game it\u2019s self",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "5 cookies \ud83c\udf6a\ud83c\udf6a\ud83c\udf6a\ud83c\udf6a",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "2 cookies.",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "great",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "I saw 4",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "14",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "5 cookies \ud83c\udf6a\ud83c\udf6a\ud83c\udf6a\ud83c\udf6a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "nice",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Aaaaaaaaaaa",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "2 cookies.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u0663",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Cookie......................................5",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

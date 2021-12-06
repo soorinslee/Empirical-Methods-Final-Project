@@ -1,0 +1,71 @@
+{
+    "time_posted": "2021-10-30 13:15:40",
+    "url": "https://www.youtube.com/watch?v=oAQR790myWY",
+    "time_now": "2021-10-31 21:32:34",
+    "ups": "12117",
+    "downs": "208",
+    "views": "156529",
+    "top_comments": [
+        {
+            "comment": "B\u00f6yle pro luk g\u00f6rmedim Eray (HYRA) abi doj HYRA n\u0131n i\u015fi",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "0:25 RESPECT",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wow Une musique fran\u00e7aise",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Today is my birthday",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "hyra b\u00f6yle bir adam ikinci olsabile atar hep birinci oldugunu degil",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "B\u00f6yle pro luk g\u00f6rmedim Eray (HYRA) abi doj HYRA n\u0131n i\u015fi",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "0:25 \u044d\u0442\u043e \u043c\u043e\u0439 \u0434\u0440\u0443\u0433\u2665\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "hura when you return 62,500",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "5. 03 dakikadaki herkez    tutmay\u0131n lan beni",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What song is hyra  using please tell me",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hala kral",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

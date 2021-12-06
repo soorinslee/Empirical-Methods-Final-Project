@@ -1,0 +1,82 @@
+{
+    "time_posted": "2021-10-30 13:00:08",
+    "url": "https://www.youtube.com/watch?v=Jan2QRtEtkk",
+    "time_now": "2021-11-05 04:33:31",
+    "ups": "46046",
+    "downs": "1173",
+    "views": "1212484",
+    "top_comments": [
+        {
+            "comment": "Where have the men gone? Girl, have you listened to yourself lately?",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": -0.3,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Be careful!  The bible says, \"Fathers..... DO NOT exasperate, abuse your children .....because they will become downhearted (depressed!)\"!!   The worst kind of men are the caveman (uggh!) types,, and even football is  in many ways, a very false notion,,   that knocking another boy, or man down actually means something in real-life!?!?!  That's fugged up!!!   I was always a very strong young man, and was on the wrestling team, gymnastics team, and track & field team!  But, I NEVER abused anyone of my classmates in the SLIGHTEST WAY!!!   I was fortunate to have had 10 years of bible study that made me sensitive to the feelings of others, and Christs teachings firmly affected my view(s) on life!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.012458043981481473,
+            "subjectivity": 0.6601851851851852
+        },
+        {
+            "comment": "They turned gender and now they watch cnn",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Bunch of bloody crybabies.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Whats in it for men to risk themselves for random women. Seriously why?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.41666666666666663,
+            "subjectivity": 0.5833333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "We are here. \nWe are not allowed to speak. \nBest we can do is through action.",
+            "polarity": 0.55,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "Be careful!  The bible says, \"Fathers..... DO NOT exasperate, abuse your children .....because they will become downhearted (depressed!)\"!!   The worst kind of men are the caveman (uggh!) types,, and even football is  in many ways, a very false notion,,   that knocking another boy, or man down actually means something in real-life!?!?!  That's fugged up!!!   I was always a very strong young man, and was on the wrestling team, gymnastics team, and track & field team!  But, I NEVER abused anyone of my classmates in the SLIGHTEST WAY!!!   I was fortunate to have had 10 years of bible study that made me sensitive to the feelings of others, and Christs teachings firmly affected my view(s) on life!!!!",
+            "polarity": 0.012458043981481473,
+            "subjectivity": 0.6601851851851852
+        },
+        {
+            "body": "We\u2019re here, but we don\u2019t watch Fox News \ud83d\ude02",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "well you asked for it - now the chivalry, sorry I mean toxic masculinity is gone. have a fun.",
+            "polarity": -0.1708333333333333,
+            "subjectivity": 0.6291666666666667
+        },
+        {
+            "body": "we are now in the single generation of males being raised by single mothers so take a guess where they went FOX SMH",
+            "polarity": -0.07142857142857142,
+            "subjectivity": 0.21428571428571427
+        },
+        {
+            "body": "Whats in it for men to risk themselves for random women. Seriously why?",
+            "polarity": -0.41666666666666663,
+            "subjectivity": 0.5833333333333333
+        },
+        {
+            "body": "All the good men have thrown their arms up in discussed at what society has become and walked away.  If this is really what you want, you can have it, but I want no part of it.",
+            "polarity": 0.44999999999999996,
+            "subjectivity": 0.4
+        }
+    ]
+}

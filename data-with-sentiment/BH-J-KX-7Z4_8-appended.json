@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 12:45:00",
+    "url": "https://www.youtube.com/watch?v=BH-J-KX-7Z4",
+    "time_now": "2021-11-01 01:40:29",
+    "ups": "1533",
+    "downs": "25",
+    "views": "18341",
+    "top_comments": [
+        {
+            "comment": "So many good DIY projects \ud83d\udc4f\u2665 I really liked the mason jars and napkins holder!",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": 0.65,
+            "subjectivity": 0.6333333333333334
+        },
+        {
+            "comment": "\u2764\u2764\u2764\ud83d\ude0d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Such cute projects!! My favorites are definitely the french horn swag and the book stack. Absolutely beautiful!!\nTFS!!! \ud83c\udf85\ud83c\udf32\u26c4\ud83d\udc95",
+            "polarity": 0.35625,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Just what I needed for my tiered tray\ud83d\udc97. I hope one of my Dollar Trees will get the wood trucks and ice skates I have seen.  \nI am obsessed with the trees!!!! Cute snow globe\ud83d\udc97",
+            "polarity": -0.25,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\u2764\u2764\u2764\ud83d\ude0d",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Good projects. Will try the sweater jars. Thanks for sharing.",
+            "polarity": 0.44999999999999996,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "i adore your videos, especially christmas videos as christmas is my favourite time of year (also because my birthday is 5 days after christmas day)",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

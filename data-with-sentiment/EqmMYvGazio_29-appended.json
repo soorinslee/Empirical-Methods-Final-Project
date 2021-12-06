@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 15:30:34",
+    "url": "https://www.youtube.com/watch?v=EqmMYvGazio",
+    "time_now": "2021-11-04 16:11:58",
+    "ups": "11765",
+    "downs": "87",
+    "views": "232647",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Yes Alisha living her best college life! I hope you talk about your night out on the podcast",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Your telling me they all came to Indy and I didn\u2019t see them",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

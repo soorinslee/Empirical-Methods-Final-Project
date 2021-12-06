@@ -1,0 +1,56 @@
+{
+    "time_posted": "2021-10-30 15:13:19",
+    "url": "https://www.youtube.com/watch?v=jVixdD4ABIk",
+    "time_now": "2021-11-02 02:23:09",
+    "ups": "14365",
+    "downs": "48",
+    "views": "168356",
+    "top_comments": [
+        {
+            "comment": "I feel proud whenever I recognize a piece",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Everything by George Onslow",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "This video was an unexpected pleasure. It was simple, effective and\nHad me guessing although I couldn't guess the next piece. It also has me wondering because Parry, I have been led to believe,  was a second rate composer but I'm not so sure now. I'm going to check it out. Thanks!",
+            "polarity": 0.20714285714285713,
+            "subjectivity": 0.4637188208616781
+        },
+        {
+            "body": "Keep up this kind of format. Great stuff. :)",
+            "polarity": 0.6333333333333333,
+            "subjectivity": 0.8833333333333333
+        },
+        {
+            "body": "Kapustin making an appearance on the list was a good call. He has a lot of good piano music. As a pianist, a piano piece I would put on a list like this is \"Piano Folio... to a disappeared Pleiad\" by Japanese composer Takashi Yoshimatsu. There's also a bunch of choral music by Baltic composers like Korvits, Dubra, Kreek, Vast, Pelecis, Plakidis, and many others that should be more popular.",
+            "polarity": 0.42857142857142855,
+            "subjectivity": 0.5857142857142857
+        },
+        {
+            "body": "Since you liked Parry, here's another English compser to look into - Ivor Gurney.",
+            "polarity": 0.3,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "The Schumann is one of my favorites.  Recommend people also check out his better known Piano Quintet, Op. 44",
+            "polarity": 0.5,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Really liked this presentation - some new music to go study... Thank you so much.",
+            "polarity": 0.3121212121212121,
+            "subjectivity": 0.48484848484848486
+        }
+    ]
+}

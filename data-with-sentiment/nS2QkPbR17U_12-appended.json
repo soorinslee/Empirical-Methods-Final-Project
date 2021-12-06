@@ -1,0 +1,24 @@
+{
+    "time_posted": "2021-10-30 13:17:59",
+    "url": "https://www.youtube.com/watch?v=nS2QkPbR17U",
+    "time_now": "2021-11-01 18:09:16",
+    "ups": "3949",
+    "downs": "68",
+    "views": "55129",
+    "top_comments": [
+        {
+            "comment": "Public Rec Limited Time Discount Code 'ALPHAFALL' use special links:\nWeekend Jogger: https://bit.ly/3uYeDYH Weekend Crew: https://bit.ly/3AoS7tc \nWeekend Half Zip: https://bit.ly/3BoIWdG Weekend Full Zip: https://bit.ly/2WUQHZP",
+            "likes": 20,
+            "number_of_replies": 5,
+            "polarity": 0.09380952380952381,
+            "subjectivity": 0.2995238095238095
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Alpha love your videos, but I would rather wear fitted jeans than my girlfriends leggings. Some people wear slim fit or jeans so tight they can't walk, It looks more like they woke up and wore their wife's clothes.",
+            "polarity": 0.3053571428571429,
+            "subjectivity": 0.4464285714285714
+        }
+    ]
+}

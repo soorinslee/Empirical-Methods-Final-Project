@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:00:18",
+    "url": "https://www.youtube.com/watch?v=bm10lJQFxMs",
+    "time_now": "2021-11-03 19:36:08",
+    "ups": "9166",
+    "downs": "112",
+    "views": "237860",
+    "top_comments": [
+        {
+            "comment": "Let's go Brandon! FJB \ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I'm from the south and I know not to get between a mamma bear and her cubs! Evidently some city democrats have never been taught this! Mamma bear 101 is in session America! Let's go Brandon!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.762939453125,
+            "subjectivity": 0.25
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Look at the diversity these mom represent. RESPECT MOMS!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Don\u2019t mess with mom",
+            "polarity": -0.175,
+            "subjectivity": 0.175
+        },
+        {
+            "body": "It's  VVD . Victory in Virginia Day!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

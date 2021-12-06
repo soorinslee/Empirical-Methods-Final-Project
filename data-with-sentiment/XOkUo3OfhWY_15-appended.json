@@ -1,0 +1,21 @@
+{
+    "time_posted": "2021-10-30 14:08:00",
+    "url": "https://www.youtube.com/watch?v=XOkUo3OfhWY",
+    "time_now": "2021-11-02 06:30:33",
+    "ups": "2151",
+    "downs": "46",
+    "views": "49231",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "[Generic comment to increase reccomends]",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "What happened if it fails and explode it might be I don't know",
+            "polarity": -0.5,
+            "subjectivity": 0.3
+        }
+    ]
+}

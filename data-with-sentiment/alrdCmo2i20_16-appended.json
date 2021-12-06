@@ -1,0 +1,29 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-02 10:37:34",
+    "ups": "4829",
+    "downs": "50",
+    "views": "61158",
+    "top_comments": [
+        {
+            "comment": "@7:09 I was on the testing team for the North American release of Kirby Tilt 'n' Tumble.\nWe had a WideBoy for capturing bug footage on the N64, and we all had a great time tilting the console to play it. It did take some getting used to, mostly because the vertical cartridge orientation of the N64 caused us to hold the console with the rear side up.\nGood times.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.4625
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm convinced even some Nintendo execs weren't sure of this extra crap required for Nintendo 64DD. Although the official reason for cancelling the expansion device was due to N64 sales (now confirmed factual reason), I reckon even then, the extra crap to do the trivial animation convinces me this still would have failed to catch on.",
+            "polarity": -0.16562500000000002,
+            "subjectivity": 0.5454861111111111
+        },
+        {
+            "body": "well I'm pretty sure the point was drawing your own characters, that fact that Mario paint can actually also import GB camera photos is probably unrelated...",
+            "polarity": 0.3375,
+            "subjectivity": 0.7472222222222222
+        }
+    ]
+}

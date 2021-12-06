@@ -1,0 +1,61 @@
+{
+    "time_posted": "2021-10-30 14:30:18",
+    "url": "https://www.youtube.com/watch?v=n_5fGBzSrLo",
+    "time_now": "2021-11-01 14:01:21",
+    "ups": "26871",
+    "downs": "389",
+    "views": "486021",
+    "top_comments": [
+        {
+            "comment": "I like how they freaking out when they can't score =))",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Congrats on 2 mil bro \ud83d\udc4d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "2 mil",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "If ads are coll why are none in the vid",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "omg lol",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I guess I have been living under a rock",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Reactions where priceless lol",
+            "polarity": 0.9,
+            "subjectivity": 0.85
+        },
+        {
+            "body": "First thing thano says is \u201cidk if i can curse on this channel\u201d \ud83d\ude02\ud83d\ude02",
+            "polarity": 0.25,
+            "subjectivity": 0.3333333333333333
+        },
+        {
+            "body": "Sunless is so creative",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

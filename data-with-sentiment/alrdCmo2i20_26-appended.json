@@ -1,0 +1,41 @@
+{
+    "time_posted": "2021-10-30 15:00:00",
+    "url": "https://www.youtube.com/watch?v=alrdCmo2i20",
+    "time_now": "2021-11-04 03:50:22",
+    "ups": "5331",
+    "downs": "60",
+    "views": "69345",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "I'm amazed this channel only has 300,000 subscribers. The quality is way too good keep it up Uncle Derek",
+            "polarity": 0.35,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "7:22 seong gi-hung moment",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I believe the GameBoy Camera connectivity in Perfect Dark wasn\u2019t dropped due to technical limitations, but because of Columbine.",
+            "polarity": 0.18125,
+            "subjectivity": 0.46875
+        },
+        {
+            "body": "Was this an intended feature, or just the combination of two slightly less dumb features?  With Sim City letting you load a 2-frame animation drawn in Paint Studio as a citizen in your city, while Paint Studio just happened to also include support for the Gameboy camera as an image source.  (After all, if Sim City ever intended for anyone to use photos as citizens, then surely they'd stick a head shot onto a stock body?)",
+            "polarity": -0.013888888888888876,
+            "subjectivity": 0.48518518518518516
+        },
+        {
+            "body": "I did this back in 2016 when I got an everdrive. It\u2019s not that complicated..",
+            "polarity": -0.25,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "So you don\u2019t need 90% of that crap, just the transfer pack the camera and the 64DD.  Fairly simple.",
+            "polarity": -0.4,
+            "subjectivity": 0.5785714285714286
+        }
+    ]
+}

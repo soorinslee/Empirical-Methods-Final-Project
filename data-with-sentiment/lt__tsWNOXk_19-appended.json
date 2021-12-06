@@ -1,0 +1,46 @@
+{
+    "time_posted": "2021-10-30 14:06:44",
+    "url": "https://www.youtube.com/watch?v=lt__tsWNOXk",
+    "time_now": "2021-11-02 22:59:50",
+    "ups": "6702",
+    "downs": "342",
+    "views": "99064",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Hey man cool vid but if you spend more than 20 seconds on a busy street you will notice that these items are in fact not out of fashion",
+            "polarity": 0.31666666666666665,
+            "subjectivity": 0.48333333333333334
+        },
+        {
+            "body": "feel seasick after watching this",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wouldn't surprise if this will be considered peak nonsense of fashion tips over the year so far.",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Like if you\u2019re still a fan of flannels",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Really hoodies are played out and EVERYONE STILL wears them",
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        },
+        {
+            "body": "You're so full of crap",
+            "polarity": -0.22500000000000003,
+            "subjectivity": 0.675
+        },
+        {
+            "body": "Don't be a sheep. Don't follow trends. H&M be damned. Stay stylish. Being stylish is timeless.",
+            "polarity": 0.5,
+            "subjectivity": 1.0
+        }
+    ]
+}

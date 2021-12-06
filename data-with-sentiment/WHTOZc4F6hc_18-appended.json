@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:20:41",
+    "url": "https://www.youtube.com/watch?v=WHTOZc4F6hc",
+    "time_now": "2021-11-02 18:52:22",
+    "ups": "554",
+    "downs": "31",
+    "views": "52540",
+    "top_comments": [
+        {
+            "comment": "CAUGH LACKING FUCKING SHIT BRO\ud83d\udd25\ud83d\udca5\ud83d\udca5\ud83d\udca5\ud83d\ude08",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "comment": "These boys can not shoot, they almost took each other\u2019s heads off. Spent about 8 rounds and hit him in the knee once. Take these guns off these streets \ud83e\udd26\u200d\u2642\ufe0f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.1125,
+            "subjectivity": 0.2375
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\"JUSTICE\"!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Looks like dude in the red started talking crazy and got drawn on while he was pulling his gun out",
+            "polarity": -0.3,
+            "subjectivity": 0.45
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj3f1u/when_you_and_the_boys_decide_to_play_on_a_new/",
+    "time_posted": "2021-10-30 11:09:36",
+    "time_now": "2021-11-01 14:03:19",
+    "ups": 35,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hinhmhe",
+            "body": "Is the first guy even shooting his head? It looks more hat than head",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.41666666666666663
+        },
+        {
+            "comment_id": "hino8e2",
+            "body": "Film?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hinhmhe",
+            "body": "Is the first guy even shooting his head? It looks more hat than head",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.41666666666666663
+        },
+        {
+            "comment_id": "hino8e2",
+            "body": "Film?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hinhmhe",
+            "body": "Is the first guy even shooting his head? It looks more hat than head",
+            "ups": 4,
+            "downs": 0,
+            "polarity": 0.375,
+            "subjectivity": 0.41666666666666663
+        },
+        {
+            "comment_id": "hino8e2",
+            "body": "Film?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

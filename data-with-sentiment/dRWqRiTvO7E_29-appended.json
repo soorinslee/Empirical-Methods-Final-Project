@@ -1,0 +1,31 @@
+{
+    "time_posted": "2021-10-30 16:00:34",
+    "url": "https://www.youtube.com/watch?v=dRWqRiTvO7E",
+    "time_now": "2021-11-04 16:11:41",
+    "ups": "8234",
+    "downs": "50",
+    "views": "97344",
+    "top_comments": [
+        {
+            "comment": "How did it go in Virginia with all this living in the past and waiting for a stale, pale, male to do the right thing in the DOJ? \n\nAmerica - you have the representation you deserve. I'm enjoying watching the sun set on the arrogance and ignorance of the US.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.029047619047619044,
+            "subjectivity": 0.36095238095238097
+        },
+        {
+            "comment": "It\u2019s just beyond frustrating,aren\u2019t they really interested in holding anyone accountable for these heinous crimes against the American people??!! My God, if it was me I\u2019d have been thrown in jail and threw away the keys!! It\u2019s like this AG doesn\u2019t want to do anything like he\u2019s scared or something, well if that\u2019s the case, then just quit and give YOU the job, I\u2019m sure you\u2019ll do what\u2019s needed!! Jesus Christ man, these people are killing me with this procrastination shit!!!!!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0529296875,
+            "subjectivity": 0.4377777777777778
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Nov. 4 & still no arrest! It's just another file pushed under the desk? There's no fast & speedy law anymore. At least for the rich!",
+            "polarity": 0.024999999999999994,
+            "subjectivity": 0.4375
+        }
+    ]
+}

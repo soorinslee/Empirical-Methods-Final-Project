@@ -1,0 +1,43 @@
+{
+    "time_posted": "2021-10-30 14:00:02",
+    "url": "https://www.youtube.com/watch?v=6C2NSRtvkm8",
+    "time_now": "2021-11-05 12:47:26",
+    "ups": "18090",
+    "downs": "184",
+    "views": "406598",
+    "top_comments": [
+        {
+            "comment": "he should try look at guns from Enlisted i think that would be fun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.3,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "On the M1A\u2019s Rail system, that\u2019s the standard setup. The hand guard has been trimmed away to allow the rail to be welded to the barrel or sometimes you\u2019ll find they\u2019ve got a Clamp Mount that wraps the barrel.  although the one in B4B appears to be welded. My M1A had this type of rail when I bought it. You can buy  them now from Springfield  with the rail screwed to the barrel via hex screws",
+            "likes": 1,
+            "number_of_replies": 2,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "9:50 I think that they wanted the stream of casings coming up from the gun",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "show him cod vanguard, they have M1 garands with red dot sights and drum magazines \ud83d\udc80",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "9:50 I think that they wanted the stream of casings coming up from the gun",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

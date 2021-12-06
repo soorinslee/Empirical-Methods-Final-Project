@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 12:30:09",
+    "url": "https://www.youtube.com/watch?v=IkgahqXvk5I",
+    "time_now": "2021-10-31 00:58:32",
+    "ups": "257",
+    "downs": "23",
+    "views": "35947",
+    "top_comments": [
+        {
+            "comment": "1",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "\ud83c\uddf5\ud83c\uddf0 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0632\u0646\u062f\u06c1 \u0628\u0627\u062f \ud83c\uddf5\ud83c\uddf0,,",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "You are legend we noobs \ud83e\udd7a\ud83d\ude4f",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Amazing \ud83e\udd70\ud83e\udd29\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "What an idea \ud83d\udca1 OMG fabulous \ud83d\ude18\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4,
+            "subjectivity": 1.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "So amazing fantastic",
+            "polarity": 0.5,
+            "subjectivity": 0.9
+        }
+    ]
+}

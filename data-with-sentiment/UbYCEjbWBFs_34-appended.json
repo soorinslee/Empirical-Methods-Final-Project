@@ -1,0 +1,66 @@
+{
+    "time_posted": "2021-10-30 11:36:41",
+    "url": "https://www.youtube.com/watch?v=UbYCEjbWBFs",
+    "time_now": "2021-11-05 12:47:41",
+    "ups": "4143",
+    "downs": "533",
+    "views": "223979",
+    "top_comments": [
+        {
+            "comment": "Why don\u2019t you get the perspective of the labourers who have to face the heat head on rather than a snobby influencer who\u2019s always in AC buildings. Plus Kuwait weather isn\u2019t like this all the time,winter has the best weather and night time isn\u2019t that bad.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.15000000000000008,
+            "subjectivity": 0.4833333333333333
+        },
+        {
+            "comment": "Mashallah, i want to come back to Kuwait and make the whole place green, god bless you khalty",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.2333333333333333
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Permaculture. Reforestation. It can be done. Look at what China is doing to reclaim desert and other places.",
+            "polarity": -0.125,
+            "subjectivity": 0.375
+        },
+        {
+            "body": "I was in Dubai few years back in the height of summer .. I can honestly say as someone from Europe Iv never experienced heat like that .. It felt like being in an oven, even breathing in that heat was a struggle .. I feel sorry for anyone who has to live in that .. As its only going to get worse",
+            "polarity": -0.09545454545454546,
+            "subjectivity": 0.625
+        },
+        {
+            "body": "Difficult life of a rich lady dog walking in Sun for one hour a day and BBC is blind about the migrant workers working in Sun whole day like slaves without any protection, is it due to their skin is black ? You only report the hard life of a white woman and her rich children ?",
+            "polarity": -0.06333333333333332,
+            "subjectivity": 0.5916666666666667
+        },
+        {
+            "body": "Save mother nature",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why don\u2019t you get the perspective of the labourers who have to face the heat head on rather than a snobby influencer who\u2019s always in AC buildings. Plus Kuwait weather isn\u2019t like this all the time,winter has the best weather and night time isn\u2019t that bad.",
+            "polarity": 0.15000000000000008,
+            "subjectivity": 0.4833333333333333
+        },
+        {
+            "body": "I hope, this year will be massive winter in Kuwait",
+            "polarity": 0.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Ghana to the world forever",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So what? Kuwait's weather has always been like that and we are living happily .\nStop pushing your climate bullshit agenda on everything",
+            "polarity": 0.8,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "time_posted": "2021-10-30 15:02:59",
+    "url": "https://www.youtube.com/watch?v=Ku8L9no2xSk",
+    "time_now": "2021-11-04 20:18:45",
+    "ups": "9810",
+    "downs": "41",
+    "views": "119787",
+    "top_comments": [
+        {
+            "comment": "Looks like some kind of crazy chalk cliffs. Love it",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "comment": "Thanks you enyertain me",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.2,
+            "subjectivity": 0.2
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Looks like some kind of crazy chalk cliffs. Love it",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "body": "i agree that it is very simple to understand, but for the super distracted hermits like scar, that barrel is super hidden, it should be in front of the shulker",
+            "polarity": 0.125,
+            "subjectivity": 0.5327380952380952
+        },
+        {
+            "body": "What if you filtered the diamonds/derpcoins out of the shulker box automatically so it doesn't clog the system? Just send the offending currency to a different chest to pick up later and call it a day",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "As to the terraforming, I think the white concrete powder looks good, but if you want to allude to it being \"white sand\", add items that cue the brain into thinking white sand, like some custom palm trees, or anything that would appear out of place in a snowy tundra, but in place for a white sandy beach.",
+            "polarity": 0.14166666666666666,
+            "subjectivity": 0.15000000000000002
+        },
+        {
+            "body": "@rendog\nI found a neat way to get hermits to pay in the barrel.\nThis is based on a trick I learned from Pixlriffs.\n\nSince light gray stained glass looks like empty inventory slots, you rename a bunch of them as \"please pay in the barrel\"\nAbove your stock chest, you have a hopper that drops these in the moment an inventory slot becomes available.\nWhen a hermit takes items out of the chest, a new light gray glass pane pops in, with the name \"please pay in the barrel\", so when they try to put something in that slot, they see that the slot is occupied by something called \"please pay in the barrel\" \nHaven't tested it yet, but it should work.\n#PayInTheBarrel",
+            "polarity": 0.20606060606060606,
+            "subjectivity": 0.47575757575757577
+        }
+    ]
+}

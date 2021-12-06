@@ -1,0 +1,32 @@
+{
+    "time_posted": "2021-10-30 15:26:03",
+    "url": "https://www.youtube.com/watch?v=LfoHTnfnNNE",
+    "time_now": "2021-11-04 20:19:01",
+    "ups": "596",
+    "downs": "17",
+    "views": "8456",
+    "top_comments": [
+        {
+            "comment": "but it was going to great for Britain after brexit so you types kept saying so i don't get what your'e on about..",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "comment": "The problem between France and UK concerns mainly fishing around Jersey and Guernesey. Just look at the size of territorial area of the Channel Islands, and everyone will have understand the problem between brexit for french fishers.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.08333333333333333,
+            "subjectivity": 0.16666666666666666
+        },
+        {
+            "comment": "Punishing? How can we be punished? we hold all the cards and they need us more than we need them. It does not add up, were these two statements false then?",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.04999999999999996,
+            "subjectivity": 0.55
+        }
+    ],
+    "comments_since_last_sample": []
+}

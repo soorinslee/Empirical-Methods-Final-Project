@@ -1,0 +1,57 @@
+{
+    "time_posted": "2021-10-30 15:00:11",
+    "url": "https://www.youtube.com/watch?v=-KEp_Zjc6O8",
+    "time_now": "2021-11-01 01:39:39",
+    "ups": "1417",
+    "downs": "16",
+    "views": "21171",
+    "top_comments": [
+        {
+            "comment": "Este programa de radio est\u00e1 que \ud83d\udd25\ud83d\udd25\ud83d\udd25 enserio es incre\u00edble",
+            "likes": 3,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "This is Amazing Video. I wish all your viewers beautiful and Happy weekend. \ud83d\udc9f\r\nEmma from London",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.9666666666666667
+        },
+        {
+            "comment": "\ud83c\udfa4\ud83c\udf39\u2728",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love I love you Mart\u00edn garrix \ud83d\ude0d\ud83d\uded0",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "God garrix i love you",
+            "likes": 2,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "\ud83d\udc4cNice",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Excellent Radio Show my friend!",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 15:30:12",
+    "url": "https://www.youtube.com/watch?v=L1i-_4oyxDQ",
+    "time_now": "2021-11-01 18:09:08",
+    "ups": "1627",
+    "downs": "24",
+    "views": "13523",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Very nice!",
+            "polarity": 0.9750000000000001,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Yeah, looks good.  And so much work stripping that thing.  It never occurred to me to just get out the jigsaw and cut the base to a modern look.  Duh!  Right in front of me, but it took you to show me.",
+            "polarity": 0.0351190476190476,
+            "subjectivity": 0.5392857142857143
+        },
+        {
+            "body": "I wasn't sure I would personally like this but....WOW, it looks really good!  Thanks for sharing this technique!",
+            "polarity": 0.40625,
+            "subjectivity": 0.49722222222222223
+        }
+    ]
+}

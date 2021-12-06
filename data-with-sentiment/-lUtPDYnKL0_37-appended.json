@@ -1,0 +1,36 @@
+{
+    "time_posted": "2021-10-30 13:09:39",
+    "url": "https://www.youtube.com/watch?v=-lUtPDYnKL0",
+    "time_now": "2021-11-06 01:09:59",
+    "ups": "13610",
+    "downs": "196",
+    "views": "344323",
+    "top_comments": [
+        {
+            "comment": "HEY OJ | NEW CLASH QUEST TROOPS \ud83c\udf4a \u2764\ufe0f NICE",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.36818181818181817,
+            "subjectivity": 0.7272727272727273
+        },
+        {
+            "comment": "CREATOR BOOST \nCODE : OJ",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Wait what is this game and y didn't I know it existed",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Takes way to long before global release\u2026..",
+            "polarity": -0.025,
+            "subjectivity": 0.2
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "time_posted": "2021-10-30 15:07:55",
+    "url": "https://www.youtube.com/watch?v=St9Xip1_9Us",
+    "time_now": "2021-11-02 02:23:55",
+    "ups": "2902",
+    "downs": "74",
+    "views": "61678",
+    "top_comments": [],
+    "comments_since_last_sample": [
+        {
+            "body": "Aren't those propane tanks in a dangerous spot, even retracted? 6:35 A hard scape or dump and Explosions and fire. Well she's still around, maybe its safe enough.",
+            "polarity": -0.09791666666666665,
+            "subjectivity": 0.6104166666666666
+        },
+        {
+            "body": "AT LAST! A van that isn\u2019t 70% kitchen. But I hate cooking and love showering so just my opinion. Also that\u2019s the first folding bed I\u2019ve seen that looks really easy to use. Fab!",
+            "polarity": 0.09833333333333334,
+            "subjectivity": 0.5466666666666666
+        },
+        {
+            "body": "What is a digital nomad...how can I get that job?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

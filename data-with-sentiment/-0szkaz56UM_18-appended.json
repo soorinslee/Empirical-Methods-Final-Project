@@ -1,0 +1,106 @@
+{
+    "time_posted": "2021-10-30 12:03:03",
+    "url": "https://www.youtube.com/watch?v=-0szkaz56UM",
+    "time_now": "2021-11-02 18:52:24",
+    "ups": "12558",
+    "downs": "185",
+    "views": "560156",
+    "top_comments": [
+        {
+            "comment": "JESSE! WE NEED TO COOK!",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Frank Dee Mac... We kno who stole those tickets...or did the they get this from always sunny in philly...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "It\u2019s sad that people will literally do anything for money",
+            "polarity": -0.5,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "It's the people that left all their valuables inside their house",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why would you broadcast this inside edition you're now contributing to the problem.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Just me but I wouldn\u2019t have even trusted the exterminators around my 77000$ worth of jewelry\u2026 kinda non sense on everyone\u2019s end",
+            "polarity": 0.3,
+            "subjectivity": 0.1
+        },
+        {
+            "body": "JESSE! WE NEED TO COOK!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Isn't that common sense though? Securing your valuables?",
+            "polarity": -0.3,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "Frank Dee Mac... We kno who stole those tickets...or did the they get this from always sunny in philly...",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "She\u2019s not very smart\u2026\u2026.. must be one of those people \u2026.",
+            "polarity": -0.1,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "Next will be car rental companies being held responsible because your valuables were stolen while you were parked ( anywhere) in San Francisco.  \"But they should have TOLD me\".",
+            "polarity": 0.1,
+            "subjectivity": 0.275
+        },
+        {
+            "body": "Wtf...This is free advertising for any thieves out there that didn't know about it.",
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "They also stole my sense of wonder.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "\"Evacuating\" \ud83d\ude02\ud83d\ude02\ud83d\ude02 lmao get outta here",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Hollywood has been showing this exact senerieo in films for years. Its nothing new.",
+            "polarity": 0.19318181818181818,
+            "subjectivity": 0.3522727272727273
+        },
+        {
+            "body": "They in my closet\ud83d\udcaf",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Deadass I got my own suit to like a real alien suit they fell off a trick years ago on the freeway we stopped and got them . No really like hazmat suits for space or something.",
+            "polarity": 0.04166666666666666,
+            "subjectivity": 0.7333333333333334
+        },
+        {
+            "body": "I'ma donate there's this giant building in the rich area tented yall",
+            "polarity": 0.1875,
+            "subjectivity": 0.875
+        }
+    ]
+}

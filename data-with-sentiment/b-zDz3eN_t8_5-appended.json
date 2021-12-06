@@ -1,0 +1,85 @@
+{
+    "time_posted": "2021-10-30 15:07:05",
+    "url": "https://www.youtube.com/watch?v=b-zDz3eN_t8",
+    "time_now": "2021-10-31 13:18:04",
+    "ups": "1858",
+    "downs": "84",
+    "views": "169780",
+    "top_comments": [
+        {
+            "comment": "loll old man scared in honey comb",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "mr beast is in da game \ud83d\ude33",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "comment": "Sheesh amazing",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "comment": "Lol people still use bandicam",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "if Mr beast is here I will say him hi and run to my house for watching me beast squid game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "I like how the guards have red outlines",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Omg really great work op",
+            "polarity": 0.8,
+            "subjectivity": 0.75
+        },
+        {
+            "body": "Sheesh amazing",
+            "polarity": 0.6000000000000001,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude18\ud83d\ude18\ud83d\ude18\ud83d\ude18",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Lol people still use bandicam",
+            "polarity": 0.8,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "I hate mrrbest",
+            "polarity": -0.8,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "Triangle guard: Did we let Mr. beast in our Game",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "This is amazing ! \ud83d\udc40\ud83d\udc40",
+            "polarity": 0.7500000000000001,
+            "subjectivity": 0.9
+        }
+    ]
+}

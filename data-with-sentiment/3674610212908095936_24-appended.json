@@ -1,0 +1,86 @@
+{
+    "post_url": "https://www.reddit.com/r/gaming/comments/qj2tp9/any_good_game_makers_that_are_free/",
+    "time_posted": "2021-10-30 10:40:10",
+    "time_now": "2021-11-03 19:37:58",
+    "ups": 0,
+    "downs": 0,
+    "comments_since_last_sample": [],
+    "top_comments_top": [
+        {
+            "comment_id": "hio4in7",
+            "body": "as in like scratch?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiobd91",
+            "body": "Unreal Engine is free and you can make games on that.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hintl1x",
+            "body": "Steam is your friend",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_best": [
+        {
+            "comment_id": "hio4in7",
+            "body": "as in like scratch?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiobd91",
+            "body": "Unreal Engine is free and you can make games on that.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hintl1x",
+            "body": "Steam is your friend",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "top_comments_hot": [
+        {
+            "comment_id": "hio4in7",
+            "body": "as in like scratch?",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment_id": "hiobd91",
+            "body": "Unreal Engine is free and you can make games on that.",
+            "ups": 2,
+            "downs": 0,
+            "polarity": 0.4,
+            "subjectivity": 0.8
+        },
+        {
+            "comment_id": "hintl1x",
+            "body": "Steam is your friend",
+            "ups": 1,
+            "downs": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

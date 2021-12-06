@@ -1,0 +1,85 @@
+{
+    "time_posted": "2021-10-30 10:00:13",
+    "url": "https://www.youtube.com/watch?v=5DGBVPkdZ-o",
+    "time_now": "2021-11-06 01:09:41",
+    "ups": "24463",
+    "downs": "195",
+    "views": "254089",
+    "top_comments": [
+        {
+            "comment": "My JaDine heart \ud83d\udc9c\ud83d\udc94\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "I love music \u2764",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "subscribed. because of this song! im really impressed",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Hope soon collab again with james\u2665\u2665\u2665",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "You nailed it my queen!\ud83e\udd7a\ud83d\ude0d Such a talented one. Keep on slaying with your songs, Nadiiieee. We love hearing your voice.",
+            "polarity": 0.39999999999999997,
+            "subjectivity": 0.6666666666666666
+        },
+        {
+            "body": "\ud83d\udc97\ud83d\udc97\ud83d\udc97\ud83d\udc97",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "I love you",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Go nadz. We love you, succes carelessph james",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "Autotone is....\ud83d\ude0a\ud83d\ude01 congrats nads",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Keep on streaming",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "i dont get ppl who always talksht nadine. I mean look at her! She\u2019s so talented!!!",
+            "polarity": 0.3046875,
+            "subjectivity": 0.79375
+        },
+        {
+            "body": "Nice catchy song",
+            "polarity": 0.6,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "bam!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

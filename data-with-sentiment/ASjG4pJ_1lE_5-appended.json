@@ -1,0 +1,87 @@
+{
+    "time_posted": "2021-10-30 16:00:04",
+    "url": "https://www.youtube.com/watch?v=ASjG4pJ_1lE",
+    "time_now": "2021-10-31 13:18:32",
+    "ups": "2957",
+    "downs": "120",
+    "views": "103325",
+    "top_comments": [
+        {
+            "comment": "The bright side makes me want to be a scientist",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.7000000000000001,
+            "subjectivity": 0.7999999999999999
+        },
+        {
+            "comment": "Me having a whole lot of downloads of YouTube videos \n*i am inevitable*",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.7
+        },
+        {
+            "comment": "Just do what they did in South Park. Unplug the giant modem/router.\n\nWait for the green lights to be solid.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.06666666666666667,
+            "subjectivity": 0.46666666666666673
+        },
+        {
+            "comment": "bruh add a auto clicker",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "comment": "Why dont they just use wires and power lines",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "i have a question this this mean youtube to",
+            "polarity": -0.3125,
+            "subjectivity": 0.6875
+        },
+        {
+            "body": "Imagine the narrator just says:\njust kidding!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is this real?",
+            "polarity": 0.2,
+            "subjectivity": 0.30000000000000004
+        },
+        {
+            "body": "then download the internet",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "imagine all those innocent trees be like",
+            "polarity": 0.5,
+            "subjectivity": 0.7
+        },
+        {
+            "body": "bruh add a auto clicker",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why dont they just use wires and power lines",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Ahh Michael from the office would be dancing. All those paper orders!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

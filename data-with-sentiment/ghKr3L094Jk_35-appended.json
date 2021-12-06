@@ -1,0 +1,96 @@
+{
+    "time_posted": "2021-10-30 14:00:16",
+    "url": "https://www.youtube.com/watch?v=ghKr3L094Jk",
+    "time_now": "2021-11-05 16:54:40",
+    "ups": "23337",
+    "downs": "691",
+    "views": "961605",
+    "top_comments": [
+        {
+            "comment": "Be you we love everybody go brianna",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "be you",
+            "likes": 1,
+            "number_of_replies": 1,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Be you! Bri",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you hehe",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "b you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you! You should never let someone take over you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you we love everybody go brianna",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "be you",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "BE YOU",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you! Dont be a bad person just be you <3",
+            "polarity": 0.15000000000000008,
+            "subjectivity": 0.8333333333333333
+        },
+        {
+            "body": "This is my fav movie love you",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "BE you!!!!!!!!",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi bri I'm a biggest fan I'm a Filipino girl and god bless",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Be you bri",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

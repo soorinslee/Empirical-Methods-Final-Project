@@ -1,0 +1,133 @@
+{
+    "time_posted": "2021-10-30 14:00:24",
+    "url": "https://www.youtube.com/watch?v=UIOiw_bED1M",
+    "time_now": "2021-10-31 09:11:29",
+    "ups": "5933",
+    "downs": "180",
+    "views": "134300",
+    "top_comments": [
+        {
+            "comment": "So, we get PS4 Pro's typical visual & performance settings, but for PS5 & Xbox S X. These settings are not acceptable for the current-gen consoles which have now been around for a year.",
+            "likes": 4,
+            "number_of_replies": 0,
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.25
+        },
+        {
+            "comment": "I knew ps5 & nex gen wasn't really when Dark Souls couldn't do 4k 60hz \nDefinitely been selling us pipe dreams...I have ps5 & usually buy 3rd party on pc...heck even Nocturnal was below average on resolution \ud83d\udc80",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": -0.05833333333333333,
+            "subjectivity": 0.2916666666666667
+        },
+        {
+            "comment": "denuvo...skip",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Any word on when they'll add Raytracing to consoles? Maybe they might patch in a performance RT mode in future as well, like Insomniac's Spider-Man games. Otherwise i might just end up playing on PC.",
+            "polarity": 0.0,
+            "subjectivity": 0.125
+        },
+        {
+            "body": "I wish games would give an option got game play to be performance mode and cutscenes to be in quality mode",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "Wow. 1080p only ? I die Not notice ...",
+            "polarity": 0.05,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "30Hz is simply unacceptable in 2021, shouldn't even be a thought. should be 60Hz quality or 120Hz performance. Doesn't matter if you have to have details on low with no shadowing or RT to hit 120hz. Who cares about the density of the grass blades when you are a gamer that just likes to play games and not watch them",
+            "polarity": 0.0,
+            "subjectivity": 0.32857142857142857
+        },
+        {
+            "body": "I started in Performance mode but switched half-way into the game, not using 4k in this game feels like a crime.",
+            "polarity": -0.4,
+            "subjectivity": 0.4
+        },
+        {
+            "body": "So Xbox series x>ps5>>>Xbox s\u00e9ries s",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Why didn\u2019t you guys show the XSX 60 fps drops? You just mentioned them but had no problems showing the PS5\u2019s. You and Alex aren\u2019t objective when it comes to playstation consoles. Just start an xbox only channel, it suits you two more",
+            "polarity": 0.16666666666666666,
+            "subjectivity": 0.5333333333333333
+        },
+        {
+            "body": "I bet to you, no one with a clear mind uses the Quality Modes, if they dont Hit 60fps.",
+            "polarity": 0.10000000000000002,
+            "subjectivity": 0.3833333333333333
+        },
+        {
+            "body": "Probably they made the Xbox version first, that's why it has a low res at performance mode.",
+            "polarity": 0.125,
+            "subjectivity": 0.31666666666666665
+        },
+        {
+            "body": "ps4 pro best edition",
+            "polarity": 1.0,
+            "subjectivity": 0.3
+        },
+        {
+            "body": "denuvo...skip",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "So, we get PS4 Pro's typical visual & performance settings, but for PS5 & Xbox S X. These settings are not acceptable for the current-gen consoles which have now been around for a year.",
+            "polarity": -0.08333333333333333,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "I knew ps5 & nex gen wasn't really when Dark Souls couldn't do 4k 60hz \nDefinitely been selling us pipe dreams...I have ps5 & usually buy 3rd party on pc...heck even Nocturnal was below average on resolution \ud83d\udc80",
+            "polarity": -0.05833333333333333,
+            "subjectivity": 0.2916666666666667
+        },
+        {
+            "body": "I honestly couldn't tell it was 1080p. Probably because how much fun and invested i was with the game. Regardless 1080 it still looks sharp",
+            "polarity": 0.09374999999999997,
+            "subjectivity": 0.5625
+        },
+        {
+            "body": "Having a AAA game have it's only way for getting a smooth 60fps experience being on PC is very disappointing.",
+            "polarity": -0.195,
+            "subjectivity": 0.7024999999999999
+        },
+        {
+            "body": "2021 and we're still playing 1080p games...pathetic.",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "GoG PC check when?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "This reminds me so much of Fallen Order graphically, do they use the same engine?",
+            "polarity": 0.1,
+            "subjectivity": 0.1625
+        },
+        {
+            "body": "Well, guess I'm playing this in quality mode",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "1080p in order to enjoy this game at a playable frame rate.. that\u2019s a gut punch on next gen.",
+            "polarity": 0.0,
+            "subjectivity": 0.3
+        }
+    ]
+}

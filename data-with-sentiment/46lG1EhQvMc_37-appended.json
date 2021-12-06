@@ -1,0 +1,93 @@
+{
+    "time_posted": "2021-10-30 13:44:15",
+    "url": "https://www.youtube.com/watch?v=46lG1EhQvMc",
+    "time_now": "2021-11-06 01:09:58",
+    "ups": "73099",
+    "downs": "2593",
+    "views": "3665132",
+    "top_comments": [
+        {
+            "comment": "WOW",
+            "likes": 695,
+            "number_of_replies": 182,
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Me love this mod him and his sister",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.35,
+            "subjectivity": 0.5
+        },
+        {
+            "comment": "Huggy have a GF XD",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Look how they go up",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Can\u2019t we all agree with huggy wuggy\nAnd kissy missy stuff",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is a shit fnf",
+            "polarity": -0.2,
+            "subjectivity": 0.8
+        },
+        {
+            "body": "Zzzzz",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "N\u00e3o sei ainda se",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Me love this mod him and his sister",
+            "polarity": 0.35,
+            "subjectivity": 0.5
+        },
+        {
+            "body": "I like how the ad before the video started was huggy- whatever the fuck it\u2019s name is but only 1 lmao",
+            "polarity": 0.06666666666666665,
+            "subjectivity": 0.8666666666666667
+        },
+        {
+            "body": "Gh",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Huggy have a GF XD",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Kissy huggy? I dont know how its called",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Wow",
+            "polarity": 0.1,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "Me pasa el Link porfabor",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "time_posted": "2021-10-30 09:30:12",
+    "url": "https://www.youtube.com/watch?v=j7B5Fo4T6kk",
+    "time_now": "2021-11-01 22:15:50",
+    "ups": "10307",
+    "downs": "324",
+    "views": "312231",
+    "top_comments": [
+        {
+            "comment": "Odisha's No.1 Music Platform \ud83c\udfb6\"Taranga Music\"\ud83c\udfb6 Love You Tarang Music\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+            "likes": 38,
+            "number_of_replies": 3,
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "comment": "Superb video...",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "comment": "Use helmet when riding \ud83d\ude05 ....bdw seems like Bobby mishra's old song\" sae barsha sae rati mane pade\".",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.1,
+            "subjectivity": 0.2
+        },
+        {
+            "comment": "Love you Risi bro and best hero \ud83e\udd70",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.75,
+            "subjectivity": 0.44999999999999996
+        },
+        {
+            "comment": "Asima mam to pura   sabse  achhi singer hen  haman sagar  sar",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "1:10 expression wow,\n 1:52 , 3:15 & 3:52 \nJasmin is a talented  actress \u2665 .\nRishi & Jasmin chemistry wonderful \u2763",
+            "polarity": 0.7,
+            "subjectivity": 0.975
+        }
+    ]
+}

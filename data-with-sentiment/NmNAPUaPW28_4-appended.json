@@ -1,0 +1,84 @@
+{
+    "time_posted": "2021-10-30 13:00:20",
+    "url": "https://www.youtube.com/watch?v=NmNAPUaPW28",
+    "time_now": "2021-10-31 09:11:58",
+    "ups": "2383",
+    "downs": "17",
+    "views": "26828",
+    "top_comments": [
+        {
+            "comment": "I'm so proud to say I'm a new subscriber, I'm a grandma raising my grandchild, I loved to bake. But you make it fun to relearn, your family is lucky to have you.",
+            "likes": 1,
+            "number_of_replies": 0,
+            "polarity": 0.4539393939393939,
+            "subjectivity": 0.6575757575757577
+        }
+    ],
+    "comments_since_last_sample": [
+        {
+            "body": "Because I don't have easy access to pecans, I substituted them for walnuts (you've got to rub them with a paper towel after toasting) and then tried four different versions: 'pure walnut'; walnut with a maple syrup glaze; walnut with a fresh and candied grated orange peel; and coffee and walnut. \n\nIt's an incredibly simple and adaptable basic recipe, It's a 'strong' recipe that really lets you play around with it. All the cookies/biscuits I made came out beautifully. However, the one that needed something extra was the maple glaze- the principle of a good bake were there, but they needed something to give them an oomph.",
+            "polarity": 0.28463203463203457,
+            "subjectivity": 0.5044372294372295
+        },
+        {
+            "body": "Would it be wrong to add orange zest?",
+            "polarity": -0.5,
+            "subjectivity": 0.9
+        },
+        {
+            "body": "I am the cookie monster \ud83d\udc7b  I've tried all your recipes. Thank you  \ud83c\udf83",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Is there any way to successfully make these without a hand/stand mixer?",
+            "polarity": 0.75,
+            "subjectivity": 0.95
+        },
+        {
+            "body": "He really gives the best neighbor vibe",
+            "polarity": 0.6,
+            "subjectivity": 0.25
+        },
+        {
+            "body": "Not fond of pecans, I do make your butter icing , lemon soft cookies and absolutely love your cream cheese cookies which I make all the time.. Love your channel\ud83d\ude01",
+            "polarity": 0.3666666666666667,
+            "subjectivity": 0.5166666666666666
+        },
+        {
+            "body": "Can you make a video on how to make the perfect ravioli",
+            "polarity": 1.0,
+            "subjectivity": 1.0
+        },
+        {
+            "body": "I use lots of cardamom \ud83d\ude0a",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "Hi, lovely cookies, I usually do this recipe witch al almonds but I shall do pecans as well now. Watching and listening to you gave me more ideas. Do you think crystallised ginger and pecans or chocolate chips and pecans or dried apricots and walnuts will work? Am I ahead of myself and my combinations run away with me? What do you  think? \ud83c\uddec\ud83c\udde7\ud83c\uddec\ud83c\udde7\u2615\ufe0f Maria",
+            "polarity": 0.1375,
+            "subjectivity": 0.525
+        },
+        {
+            "body": "Yummy that looks so good",
+            "polarity": 0.7,
+            "subjectivity": 0.6000000000000001
+        },
+        {
+            "body": "Love your recipes",
+            "polarity": 0.5,
+            "subjectivity": 0.6
+        },
+        {
+            "body": "I would add a bit of nutmeg",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        },
+        {
+            "body": "can i just roll them into balls and bake them?",
+            "polarity": 0.0,
+            "subjectivity": 0.0
+        }
+    ]
+}
